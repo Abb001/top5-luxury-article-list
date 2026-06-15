@@ -1,9 +1,17 @@
 {
   "date": "2026-06-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-15T17:16:13.416Z",
-  "status": "empty",
-  "message": "No articles published on 2026-06-12 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-06-16T01:30:00+08:00",
+  "status": "ok",
+  "message": "Found 1 article(s) for 2026-06-12.",
+  "articles": [
+    {
+      "title": "Formula 1’s Drive: A Must-Grasp Opportunity for Luxury in a Divided Audience Era",
+      "url": "https://www.modaes.com/global/topics/lvmh",
+      "source": "Modaes Global",
+      "publishedAt": "2026-06-12",
+      "description": "Modaes reported on luxury brands using Formula 1 and motorsport sponsorships, including LVMH and Gucci Racing."
+    }
+  ],
   "fetchWarnings": []
 }
