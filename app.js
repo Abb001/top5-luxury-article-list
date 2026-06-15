@@ -1,107 +1,102 @@
-const TAIWAN_TIME_ZONE = "Asia/Taipei";
+const TZ = "Asia/Taipei";
 
-const articleList = document.querySelector("#articleList");
-const emptyState = document.querySelector("#emptyState");
-const historyList = document.querySelector("#historyList");
-const dateTitle = document.querySelector("#dateTitle");
-const pageLabel = document.querySelector("#pageLabel");
-const backTodayBtn = document.querySelector("#backTodayBtn");
+const list = document.querySelector("#list");
+const empty = document.querySelector("#empty");
+const history = document.querySelector("#history");
+const title = document.querySelector("#title");
+const backBtn = document.querySelector("#backBtn");
+const todayLabel = document.querySelector("#todayLabel");
 
 function todayInTaiwan() {
   const parts = new Intl.DateTimeFormat("en-CA", {
-    timeZone: TAIWAN_TIME_ZONE,
+    timeZone: TZ,
     year: "numeric",
     month: "2-digit",
     day: "2-digit"
   }).formatToParts(new Date());
-  const obj = Object.fromEntries(parts.map((p) => [p.type, p.value]));
+
+  const obj = Object.fromEntries(parts.map(p => [p.type, p.value]));
   return `${obj.year}-${obj.month}-${obj.day}`;
 }
 
-function selectedDate() {
-  const params = new URLSearchParams(window.location.search);
-  return params.get("date") || todayInTaiwan();
+function getDate() {
+  return new URLSearchParams(location.search).get("date") || todayInTaiwan();
 }
 
-function formatDate(date) {
-  return date.replaceAll("-", "/");
-}
-
-async function getJson(url) {
-  const res = await fetch(`${url}?v=${Date.now()}`);
-  if (!res.ok) throw new Error(`Unable to load ${url}`);
+async function loadJson(path) {
+  const res = await fetch(`${path}?v=${Date.now()}`);
+  if (!res.ok) throw new Error(path);
   return res.json();
 }
 
 function renderArticles(data) {
-  articleList.innerHTML = "";
+  list.innerHTML = "";
   const articles = data.articles || [];
 
   if (!articles.length) {
-    emptyState.classList.remove("hidden");
-    emptyState.innerHTML = `
-      <strong>${formatDate(data.date)} 目前沒有符合條件的新聞。</strong><br />
-      ${data.message || "系統會在今天稍晚自動更新；不會用其他日期的新聞補上。"}
-    `;
+    empty.classList.remove("hidden");
+    empty.textContent = data.message || "No articles were found for this date yet.";
     return;
   }
 
-  emptyState.classList.add("hidden");
+  empty.classList.add("hidden");
+
   for (const article of articles) {
     const li = document.createElement("li");
-    li.className = "article-item";
     li.innerHTML = `
-      <div>
-        <h3><a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a></h3>
-        <p>${article.description || "No summary available."}</p>
-        <div class="meta">${article.source || "Unknown source"} · ${article.publishedAt || ""}</div>
-      </div>
+      <a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a>
+      <p>${article.description || ""}</p>
+      <div class="meta">${article.source || ""} · ${article.publishedAt || ""}</div>
     `;
-    articleList.appendChild(li);
+    list.appendChild(li);
   }
 }
 
 function renderHistory(manifest, currentDate) {
-  historyList.innerHTML = "";
+  history.innerHTML = "";
   const today = todayInTaiwan();
-  const dates = [...new Set([today, "2026-06-13", "2026-06-12", ...(manifest.dates || [])])]
-    .sort()
-    .reverse();
+
+  const dates = [...new Set([
+    today,
+    "2026-06-15",
+    "2026-06-14",
+    "2026-06-13",
+    "2026-06-12",
+    ...(manifest.dates || [])
+  ])].sort().reverse();
 
   for (const date of dates) {
-    const link = document.createElement("a");
-    link.className = `history-link ${date === currentDate ? "active" : ""}`;
-    link.href = date === today ? "index.html" : `index.html?date=${date}`;
-    link.innerHTML = `<span>${formatDate(date)}</span><small>${date === today ? "今日" : "歷史"}</small>`;
-    historyList.appendChild(link);
+    const a = document.createElement("a");
+    a.href = date === today ? "index.html" : `index.html?date=${date}`;
+    a.textContent = date === today ? `${date} Today` : date;
+    history.appendChild(a);
   }
 }
 
 async function main() {
-  const date = selectedDate();
+  const date = getDate();
   const today = todayInTaiwan();
   const isToday = date === today;
 
-  pageLabel.textContent = isToday ? "今日新聞" : "歷史搜尋";
-  dateTitle.textContent = `${formatDate(date)} 新聞`;
-  backTodayBtn.classList.toggle("hidden", isToday);
-  backTodayBtn.addEventListener("click", () => {
-    window.location.href = "index.html";
-  });
+  todayLabel.textContent = `Today in Taiwan: ${today}`;
+  title.textContent = isToday ? "Today's Luxury News" : `Luxury News for ${date}`;
 
-  try {
-    const [manifest, data] = await Promise.all([
-      getJson("data/manifest.json").catch(() => ({ dates: [today, "2026-06-13", "2026-06-12"] })),
-      getJson(`data/${date}.json`)
-    ]);
-    renderHistory(manifest, date);
-    renderArticles(data);
-  } catch (error) {
-    renderHistory({ dates: [today, "2026-06-13", "2026-06-12"] }, date);
-    articleList.innerHTML = "";
-    emptyState.classList.remove("hidden");
-    emptyState.textContent = `找不到 ${formatDate(date)} 的資料檔。下一次自動更新後會重新產生。`;
-  }
+  backBtn.classList.toggle("hidden", isToday);
+  backBtn.onclick = () => location.href = "index.html";
+
+  const manifest = await loadJson("data/manifest.json").catch(() => ({
+    dates: [today, "2026-06-15", "2026-06-14", "2026-06-13", "2026-06-12"]
+  }));
+
+  renderHistory(manifest, date);
+
+  const data = await loadJson(`data/${date}.json`).catch(() => ({
+    date,
+    articles: [],
+    message: `No data file was found for ${date}. The next scheduled update may generate it.`
+  }));
+
+  renderArticles(data);
 }
 
 main();
