@@ -1,11 +1,11 @@
 const TZ = "Asia/Taipei";
 
-const list = document.querySelector("#list");
-const empty = document.querySelector("#empty");
-const history = document.querySelector("#history");
-const title = document.querySelector("#title");
-const backBtn = document.querySelector("#backBtn");
-const todayLabel = document.querySelector("#todayLabel");
+const list = document.getElementById("list");
+const empty = document.getElementById("empty");
+const history = document.getElementById("history");
+const title = document.getElementById("title");
+const backBtn = document.getElementById("backBtn");
+const todayLabel = document.getElementById("todayLabel");
 
 function todayInTaiwan() {
   const parts = new Intl.DateTimeFormat("en-CA", {
@@ -15,11 +15,11 @@ function todayInTaiwan() {
     day: "2-digit"
   }).formatToParts(new Date());
 
-  const obj = Object.fromEntries(parts.map((p) => [p.type, p.value]));
+  const obj = Object.fromEntries(parts.map((part) => [part.type, part.value]));
   return `${obj.year}-${obj.month}-${obj.day}`;
 }
 
-function selectedDate() {
+function getSelectedDate() {
   const params = new URLSearchParams(window.location.search);
   return params.get("date") || todayInTaiwan();
 }
@@ -50,18 +50,22 @@ function renderArticles(data) {
   for (const article of articles) {
     const li = document.createElement("li");
 
-    const url = article.url || "#";
-    const articleTitle = article.title || "Untitled article";
-    const description = article.description || "";
-    const source = article.source || "Unknown source";
-    const publishedAt = article.publishedAt || "";
+    const a = document.createElement("a");
+    a.href = article.url || "#";
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = article.title || "Untitled article";
 
-    li.innerHTML = `
-      ${url}${articleTitle}</a>
-      <p>${description}</p>
-      <div class="meta">${source} · ${publishedAt}</div>
-    `;
+    const p = document.createElement("p");
+    p.textContent = article.description || "";
 
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    meta.textContent = `${article.source || "Unknown source"} · ${article.publishedAt || ""}`;
+
+    li.appendChild(a);
+    li.appendChild(p);
+    li.appendChild(meta);
     list.appendChild(li);
   }
 }
@@ -96,7 +100,7 @@ function renderHistory(manifest, currentDate) {
 }
 
 async function main() {
-  const date = selectedDate();
+  const date = getSelectedDate();
   const today = todayInTaiwan();
   const isToday = date === today;
 
@@ -104,9 +108,9 @@ async function main() {
   title.textContent = isToday ? "Today's Luxury News" : `Luxury News for ${date}`;
 
   backBtn.classList.toggle("hidden", isToday);
-  backBtn.onclick = () => {
+  backBtn.addEventListener("click", () => {
     window.location.href = "index.html";
-  };
+  });
 
   const manifest = await loadJson("data/manifest.json").catch(() => ({
     dates: [today, "2026-06-15", "2026-06-14", "2026-06-13", "2026-06-12"]
