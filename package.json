@@ -1,0 +1,18 @@
+{
+  "name": "top5-luxury-article-list",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs",
+    "fetch:today": "node scripts/fetch-news.mjs --dates today",
+    "fetch:backfill": "node scripts/fetch-news.mjs --dates 2026-06-12,2026-06-13,today",
+    "build": "node scripts/build-site.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

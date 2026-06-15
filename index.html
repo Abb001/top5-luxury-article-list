@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Top 5 Luxury News</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Daily Luxury Article List</p>
+        <h1>Top 5 Luxury News</h1>
+        <p class="subtitle">每天自動抓取精品、時尚、奢侈品產業新聞；首頁只顯示台灣時間當天發布的文章。</p>
+      </div>
+      <div class="status-card">
+        <span>自動更新</span>
+        <strong>08:00 / 11:00 / 14:00 / 17:00 / 20:00 / 23:00</strong>
+        <small>Asia/Taipei</small>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="content-card">
+        <div class="toolbar">
+          <div>
+            <p id="pageLabel" class="eyebrow">今日新聞</p>
+            <h2 id="dateTitle">Loading...</h2>
+          </div>
+          <button id="backTodayBtn" class="ghost-button hidden" type="button">← 返回今日新聞</button>
+        </div>
+
+        <div id="emptyState" class="empty hidden"></div>
+        <ol id="articleList" class="article-list"></ol>
+      </section>
+
+      <aside class="history-card">
+        <h2>歷史搜尋</h2>
+        <p>點選日期查看該日新聞。歷史頁面可返回今日新聞。</p>
+        <div id="historyList" class="history-list"></div>
+      </aside>
+    </main>
+
+    <footer>
+      <p>資料來源：公開 RSS 搜尋結果。發布日期以 Asia/Taipei 轉換後判斷。</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
