@@ -27,6 +27,22 @@ jobs:
             exit 1
           fi
           echo "Archive links OK"
+      - name: Check report date filter
+        run: |
+          TODAY=$(TZ=Asia/Taipei date +%F)
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          today=os.popen('TZ=Asia/Taipei date +%F').read().strip()
+          p=Path('latest_top5_luxury_articles.json')
+          if p.exists():
+              data=json.loads(p.read_text(encoding='utf-8'))
+              bad=[x for x in data if x.get('published_local_date') != today]
+              if bad:
+                  print('Found articles outside report date:', bad[:3])
+                  raise SystemExit(1)
+          print('Report date filter OK')
+          PY
       - name: Commit generated website
         run: |
           git config user.name "top5-luxury-plain-agent"

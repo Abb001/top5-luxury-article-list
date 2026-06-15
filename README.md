@@ -1,32 +1,13 @@
-# 前五大精品品牌純文章列表 Agent — Archive 修正版
+# 前五大精品品牌純文章列表 Agent — 嚴格當日版
 
-搜尋 Louis Vuitton、Chanel、Hermès、Gucci、Dior 相關網路文章與新聞。
+本版已縮短搜尋時間，並採用「嚴格當日模式」。
 
-本版修正：
-- Archive 連結統一使用 `/top5-luxury-article-list/archive/YYYY-MM-DD.html`。
-- 避免從歷史頁再次點擊時變成 `/archive/archive/` 而 404。
-- Workflow 增加 `Check archive links`，未來如果產生 `archive/archive` 會直接失敗，不會把壞連結推上 GitHub Pages。
+## 日期規則
 
-本版移除：
-- 照片
-- placeholder
-- 卡片版面
-- 監測品牌
-- 最高聲量
-- 主要議題
-- 品牌聲量
-- 議題分布
-- 重點文章標題區
-- 本期總覽
-- 品牌聲量與重點文章
-- 議題分布與趨勢觀察
-- 本期商業洞察
-- 文章數
-
-本版只保留：
-- 日期 + 前五大精品品牌文章列表 section
-- 純文字文章列表
-- 歷史搜尋 section
+- `2026-06-16` 產生的頁面只會顯示發布日期換算成台灣時間後為 `2026-06-16` 的文章。
+- `2026-06-15` 發布的新聞不會出現在 `2026-06-16` 頁面。
+- 沒有 RSS 發布時間的文章會被排除，避免混入舊資料。
+- `lookback_days` 已縮短為 `1`。
 
 ## 執行
 
@@ -36,20 +17,9 @@ python3 top5_luxury_plain_list_agent.py --json
 open docs/index.html
 ```
 
-## 輸出
+## GitHub Pages base path
 
-```text
-docs/index.html
-docs/archive/YYYY-MM-DD.html
-docs/reports.json
-reports/top5_luxury_articles_YYYY-MM-DD.md
-data/top5_luxury_articles_YYYY-MM-DD.json
-latest_top5_luxury_articles.json
-```
-
-## 如果 repo 改名
-
-請修改 `top5_luxury_plain_list_agent.py` 裡的：
+如果 repo 名稱不是 `top5-luxury-article-list`，請修改：
 
 ```python
 'base_path': '/top5-luxury-article-list'
