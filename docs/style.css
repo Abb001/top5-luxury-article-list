@@ -1,0 +1,150 @@
+:root {
+  --bg: #f8f1e9;
+  --card: #fffaf4;
+  --text: #27211d;
+  --muted: #76695f;
+  --line: #ead8c5;
+  --accent: #9b6236;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.hero {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 56px 20px 36px;
+  text-align: center;
+}
+
+.eyebrow {
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(44px, 7vw, 76px);
+  margin: 14px 0;
+  line-height: 1;
+}
+
+.subtitle,
+.date,
+.muted {
+  color: var(--muted);
+  font-size: 18px;
+}
+
+main {
+  max-width: 1080px;
+  margin: 0 auto 60px;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 24px;
+}
+
+.card {
+  background: rgba(255, 250, 244, 0.9);
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  padding: 30px;
+  box-shadow: 0 20px 60px rgba(70, 45, 20, 0.08);
+}
+
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 18px;
+  margin-bottom: 20px;
+}
+
+.back,
+.history a {
+  border: 0;
+  background: #eadccb;
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 11px 16px;
+  font-size: 15px;
+  font-weight: 800;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.history {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.history a.active {
+  background: var(--text);
+  color: white;
+}
+
+.article-list {
+  padding-left: 24px;
+}
+
+.article-list li {
+  margin: 20px 0;
+  line-height: 1.7;
+}
+
+.article-list a {
+  color: var(--text);
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.article-list p {
+  color: var(--muted);
+  margin: 8px 0;
+}
+
+.meta {
+  color: var(--accent);
+  font-weight: 800;
+  margin-top: 8px;
+}
+
+.empty {
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.8;
+  padding: 20px;
+  border: 1px dashed var(--line);
+  border-radius: 18px;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 850px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+
+  .section-head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
