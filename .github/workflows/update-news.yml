@@ -3,7 +3,7 @@ name: Update luxury news
 on:
   # GitHub Actions cron uses UTC. These times equal 08:00, 11:00, 14:00, 17:00, 20:00, 23:00 in Taiwan time (UTC+8).
   schedule:
-    - cron: "0 0,3,6,9,12,15 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
