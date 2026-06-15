@@ -15,27 +15,33 @@ function todayInTaiwan() {
     day: "2-digit"
   }).formatToParts(new Date());
 
-  const obj = Object.fromEntries(parts.map(p => [p.type, p.value]));
+  const obj = Object.fromEntries(parts.map((p) => [p.type, p.value]));
   return `${obj.year}-${obj.month}-${obj.day}`;
 }
 
-function getDate() {
-  return new URLSearchParams(location.search).get("date") || todayInTaiwan();
+function selectedDate() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get("date") || todayInTaiwan();
 }
 
 async function loadJson(path) {
-  const res = await fetch(`${path}?v=${Date.now()}`);
-  if (!res.ok) throw new Error(path);
-  return res.json();
+  const response = await fetch(`${path}?v=${Date.now()}`);
+  if (!response.ok) {
+    throw new Error(`Cannot load ${path}`);
+  }
+  return response.json();
 }
 
 function renderArticles(data) {
   list.innerHTML = "";
-  const articles = data.articles || [];
 
-  if (!articles.length) {
+  const articles = Array.isArray(data.articles) ? data.articles : [];
+
+  if (articles.length === 0) {
     empty.classList.remove("hidden");
-    empty.textContent = data.message || "No articles were found for this date yet.";
+    empty.textContent =
+      data.message ||
+      "No articles were found for this date yet. The system will keep checking during the next scheduled updates.";
     return;
   }
 
@@ -43,38 +49,54 @@ function renderArticles(data) {
 
   for (const article of articles) {
     const li = document.createElement("li");
+
+    const url = article.url || "#";
+    const articleTitle = article.title || "Untitled article";
+    const description = article.description || "";
+    const source = article.source || "Unknown source";
+    const publishedAt = article.publishedAt || "";
+
     li.innerHTML = `
-      <a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a>
-      <p>${article.description || ""}</p>
-      <div class="meta">${article.source || ""} · ${article.publishedAt || ""}</div>
+      ${url}${articleTitle}</a>
+      <p>${description}</p>
+      <div class="meta">${source} · ${publishedAt}</div>
     `;
+
     list.appendChild(li);
   }
 }
 
 function renderHistory(manifest, currentDate) {
   history.innerHTML = "";
+
   const today = todayInTaiwan();
 
-  const dates = [...new Set([
+  const dates = [
     today,
     "2026-06-15",
     "2026-06-14",
     "2026-06-13",
     "2026-06-12",
-    ...(manifest.dates || [])
-  ])].sort().reverse();
+    ...(Array.isArray(manifest.dates) ? manifest.dates : [])
+  ];
 
-  for (const date of dates) {
-    const a = document.createElement("a");
-    a.href = date === today ? "index.html" : `index.html?date=${date}`;
-    a.textContent = date === today ? `${date} Today` : date;
-    history.appendChild(a);
+  const uniqueDates = [...new Set(dates)].sort().reverse();
+
+  for (const date of uniqueDates) {
+    const link = document.createElement("a");
+    link.href = date === today ? "index.html" : `index.html?date=${date}`;
+    link.textContent = date === today ? `${date} Today` : date;
+
+    if (date === currentDate) {
+      link.classList.add("active");
+    }
+
+    history.appendChild(link);
   }
 }
 
 async function main() {
-  const date = getDate();
+  const date = selectedDate();
   const today = todayInTaiwan();
   const isToday = date === today;
 
@@ -82,7 +104,9 @@ async function main() {
   title.textContent = isToday ? "Today's Luxury News" : `Luxury News for ${date}`;
 
   backBtn.classList.toggle("hidden", isToday);
-  backBtn.onclick = () => location.href = "index.html";
+  backBtn.onclick = () => {
+    window.location.href = "index.html";
+  };
 
   const manifest = await loadJson("data/manifest.json").catch(() => ({
     dates: [today, "2026-06-15", "2026-06-14", "2026-06-13", "2026-06-12"]
@@ -99,4 +123,9 @@ async function main() {
   renderArticles(data);
 }
 
-main();
+main().catch((error) => {
+  console.error(error);
+  title.textContent = "Unable to load luxury news";
+  empty.classList.remove("hidden");
+  empty.textContent = "Something went wrong while loading the news data. Please try again later.";
+});
