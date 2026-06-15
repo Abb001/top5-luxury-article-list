@@ -1,0 +1,29 @@
+name: Top 5 Luxury Plain Article List Monitor
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor-top5-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Top 5 luxury plain article list monitor
+        run: python top5_luxury_plain_list_agent.py --json
+      - name: Commit generated website
+        run: |
+          git config user.name "top5-luxury-plain-agent"
+          git config user.email "top5-luxury-plain-agent@example.com"
+          git add data reports docs latest_top5_luxury_articles.json || true
+          git commit -m "Update top 5 luxury plain article list monitor" || echo "No changes to commit"
+          git push
