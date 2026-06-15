@@ -58,7 +58,7 @@ function stripHtml(text = "") {
 }
 
 function articleDateInTaiwan(article) {
-  const rawDate = article.pubDate || article.isoDate || article.updated || "";
+  const rawDate = article.publishedAt || article.pubDate || article.isoDate || article.updated || "";
   const date = new Date(rawDate);
   if (Number.isNaN(date.getTime())) return null;
   return formatTaiwanDate(date);
@@ -71,7 +71,7 @@ function scoreArticle(article) {
   for (const term of highSignalTerms) {
     if (text.includes(term)) score += 2;
   }
-  const timestamp = new Date(article.pubDate || 0).getTime();
+  const timestamp = new Date(article.publishedAt || article.pubDate || 0).getTime();
   score += Math.max(0, timestamp / 1e13);
   return score;
 }
