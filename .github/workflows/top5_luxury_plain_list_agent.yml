@@ -20,6 +20,13 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run Top 5 luxury plain article list monitor
         run: python top5_luxury_plain_list_agent.py --json
+      - name: Check archive links
+        run: |
+          if grep -R "archive/archive" docs; then
+            echo "Found broken archive/archive links"
+            exit 1
+          fi
+          echo "Archive links OK"
       - name: Commit generated website
         run: |
           git config user.name "top5-luxury-plain-agent"
