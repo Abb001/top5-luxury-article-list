@@ -1,9 +1,9 @@
 {
   "date": "2026-06-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-16T00:00:00.000Z",
+  "generatedAt": "2026-06-15T17:16:13.416Z",
   "status": "empty",
-  "message": "No articles published on 2026-06-12 have been fetched yet. The GitHub Actions workflow will update this file automatically.",
+  "message": "No articles published on 2026-06-12 were found yet. The scheduled workflow will check again later.",
   "articles": [],
   "fetchWarnings": []
 }
