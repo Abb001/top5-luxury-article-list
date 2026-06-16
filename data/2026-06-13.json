@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-16T08:43:18.533Z",
+  "generatedAt": "2026-06-16T13:24:53.966Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-13.",
   "articles": [
@@ -14,11 +14,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Can Italian luxury fashion win over Malibu’s board-shorts-and-flip-flops crowd? - thestar.com.my",
+      "title": "Can Italian luxury fashion win over Malibu’s board-shorts-and-flip-flops crowd? - The Star",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1kxVzZMWWNSVlhkSVZuSUI0UnV2bERxYkxKYXFURURvR0twSnB2QW9kZ2VpajdiY0hzQVRacWpnel9hUWlLNmZOOEpueDV6Zm45ZnRrQVZiNTNSbUh2ckV2NURWWE42YUk0NEdFVThoLXBUWm5tNXFZaWJoUWVyUDdyMDFRUXB4azRIeHpXdmltbXo5eUVwR1JzRU03eTlRTDZOajJ1cVI4VzBuNTVWQzhVWTRvTnk2U2hjS3RfQ1ZOTWExeG12dUktcw?oc=5",
-      "source": "thestar.com.my",
+      "source": "The Star",
       "publishedAt": "Sat, 13 Jun 2026 11:00:00 GMT",
-      "description": "Can Italian luxury fashion win over Malibu’s board-shorts-and-flip-flops crowd? thestar.com.my",
+      "description": "Can Italian luxury fashion win over Malibu’s board-shorts-and-flip-flops crowd? The Star",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -30,20 +30,20 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Gold rush melts luxury watches - Minute Mirror",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ncDhMbjFBX2dTY1FYOHQtTTVTNEpKRkNSeW0wcjBRZDlwMWJkV0pWZ2p1U1l6bE95cUIyTnJzSHlFNGdLdHhZR1JhUUlybDNyQjlTWGFjeUhWeEpvdm1UNW1hMUpkZWFLVEYzcTh1VjVPSHpk?oc=5",
-      "source": "Minute Mirror",
-      "publishedAt": "Sat, 13 Jun 2026 09:08:29 GMT",
-      "description": "Gold rush melts luxury watches Minute Mirror",
-      "feed": "Google News - luxury business"
-    },
-    {
       "title": "Luxury Larceny & Capitalism Critiques: 'The Black Watch' Breaks Down Boots Riley's Deliciously Disruptive 'I Love Boosters' - 97.9 The Beat",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WG54OHJCbC1yMy1XZEpsM1lmR3hWakdQS19QTDR5TGV1TUsxWkdkOVpaN21nRG9nZlAtdmd2dlZ6T1BXdUg4YUlaRWZVNmhGWEhMYzdJZlRCY0R5d0xwUzdlZ0VqZW11cGE0T1Btalc?oc=5",
       "source": "97.9 The Beat",
       "publishedAt": "Sat, 13 Jun 2026 01:03:15 GMT",
       "description": "Luxury Larceny & Capitalism Critiques: 'The Black Watch' Breaks Down Boots Riley's Deliciously Disruptive 'I Love Boosters' 97.9 The Beat",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Ankara Strengthens Türkiye’s Luxury Travel Market as InterContinental Debuts Landmark Hospitality Destination for Business, Diplomatic and Leisure Visitors - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhblRWY2R6VkRxYUZZV0RaS1k4VTFwZ3hRazRtb3ZTVGVfTnFDRDZvcGU1SHV2VVprbjVHbTk0N3VSTE1oV2FUN1BSQkEtNXlHYXBpaS1NZ1ozTzVMMFdyQlFMckhFRE1WYXpXTVZn?oc=5",
+      "source": "Travel And Tour World",
+      "publishedAt": "Sat, 13 Jun 2026 10:32:12 GMT",
+      "description": "Ankara Strengthens Türkiye’s Luxury Travel Market as InterContinental Debuts Landmark Hospitality Destination for Business, Diplomatic and Leisure Visitors Travel And Tour World",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
