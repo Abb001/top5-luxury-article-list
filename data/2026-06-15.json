@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-15T17:47:06.564Z",
+  "generatedAt": "2026-06-16T02:56:26.997Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjVQRXc5NkFhY25Dc3pJUGktMmthd2Jyb1dwcFFxdkJPblg2UUMwTjBpNTJEbjFtako1Ul9jUEptOWI2WnZJUjdwYmxjQkdrU3ExNVRmMDZoal90aWpjYUdzRTRGSmpzLXdWQjFpT3pVRzdOR29EQnBLRFBnS2JkREhzbzhoM2kyM1JsMmEtZVVNYjBzcHY1Sg?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "Mon, 15 Jun 2026 14:07:52 GMT",
-      "description": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends openPR.com",
-      "feed": "Google News - luxury business"
-    },
-    {
       "title": "Inside LVMH’s beauty shakeup amid luxury slowdown - Personal Care Insights",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamFMM185SnpPVzJGcy1LczRXbl9PN3hrMk9FRlFzRU1GR21aemcxVTlIMnF3Sm53eU8xMEVFQ1NxRHVYd1pwOFBSZzYtOWdvS1B3Q3EzcE8xdE5DNGZUYi0yVEwtSkp6UEFKa3ZMdmNTUVNhN2J2U3h0aS1xZ0x0S2s5bnBaUFhhZnc?oc=5",
       "source": "Personal Care Insights",
@@ -44,6 +36,14 @@
       "publishedAt": "Mon, 15 Jun 2026 10:58:33 GMT",
       "description": "Dolce & Gabbana Menswear Spring/Summer 2026: How the Luxury Brand Turned Pyjamas Into High Fashion Bombay Times",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hermès Stock Jumps Nearly 3%, Boosted by Luxury Sector's Surge - Idéal Investisseur",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGliZ1l1RFF5b1dEZzNNNWVzb0JyNkEwbGZNVHlwSWo1UmNmb0UxR05GaWpNMmRMdFVCSGdQWndxV2FSRE9GelJkUjhDbnpLRTJNX3dpNXZFZWpxaTlHV21pQVB3SXFMeDFibEJRbllEQ0psSjI2bWJabmVGMl95T3pmelI1bE45bW1kYjRXZlYzMllfQWJMU0haY3I1Yno5NjlScEJILUtVSHc3MDdGWmNOSnI2eGN0NVRj?oc=5",
+      "source": "Idéal Investisseur",
+      "publishedAt": "Mon, 15 Jun 2026 09:34:00 GMT",
+      "description": "Hermès Stock Jumps Nearly 3%, Boosted by Luxury Sector's Surge Idéal Investisseur",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
