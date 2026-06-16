@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-16T13:24:53.966Z",
+  "generatedAt": "2026-06-16T18:53:08.659Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-13.",
   "articles": [
@@ -30,20 +30,20 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury Larceny & Capitalism Critiques: 'The Black Watch' Breaks Down Boots Riley's Deliciously Disruptive 'I Love Boosters' - 97.9 The Beat",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WG54OHJCbC1yMy1XZEpsM1lmR3hWakdQS19QTDR5TGV1TUsxWkdkOVpaN21nRG9nZlAtdmd2dlZ6T1BXdUg4YUlaRWZVNmhGWEhMYzdJZlRCY0R5d0xwUzdlZ0VqZW11cGE0T1Btalc?oc=5",
-      "source": "97.9 The Beat",
-      "publishedAt": "Sat, 13 Jun 2026 01:03:15 GMT",
-      "description": "Luxury Larceny & Capitalism Critiques: 'The Black Watch' Breaks Down Boots Riley's Deliciously Disruptive 'I Love Boosters' 97.9 The Beat",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Ankara Strengthens Türkiye’s Luxury Travel Market as InterContinental Debuts Landmark Hospitality Destination for Business, Diplomatic and Leisure Visitors - Travel And Tour World",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhblRWY2R6VkRxYUZZV0RaS1k4VTFwZ3hRazRtb3ZTVGVfTnFDRDZvcGU1SHV2VVprbjVHbTk0N3VSTE1oV2FUN1BSQkEtNXlHYXBpaS1NZ1ozTzVMMFdyQlFMckhFRE1WYXpXTVZn?oc=5",
       "source": "Travel And Tour World",
       "publishedAt": "Sat, 13 Jun 2026 10:32:12 GMT",
       "description": "Ankara Strengthens Türkiye’s Luxury Travel Market as InterContinental Debuts Landmark Hospitality Destination for Business, Diplomatic and Leisure Visitors Travel And Tour World",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "More Than Fine Jewelry, Simon G. Makes Memories You Can Hold In Your Hand - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMnVyUU04dTVUNVpSMXZaZ1hIamI1RDdiWXB6bFRDTWM1NkFiTG9LQzB4bi1HZG1sejJrTE1NODdDVlJ3UnpkYllCSGZ5ZnlSb05SNkpPeHZKY0dEcG51dnlrLU9sZjY3b0RTanNEX0RMWWIxX19DYkgzUUNBLTJmZktnd0QzYjh0RHZ6U085NzIxeGpmM3F0Q2hlUlpDNDZpa3ZwUHFhQ3hRenI4b1FOT082amIxOFB4c1czRTBKekJER1l1SHBLb0k4Yw?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 13 Jun 2026 09:30:53 GMT",
+      "description": "More Than Fine Jewelry, Simon G. Makes Memories You Can Hold In Your Hand Forbes",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
