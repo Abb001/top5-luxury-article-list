@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-16T02:56:26.954Z",
+  "generatedAt": "2026-06-16T08:43:18.533Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-13.",
   "articles": [
@@ -30,20 +30,20 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "Gold rush melts luxury watches - Minute Mirror",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ncDhMbjFBX2dTY1FYOHQtTTVTNEpKRkNSeW0wcjBRZDlwMWJkV0pWZ2p1U1l6bE95cUIyTnJzSHlFNGdLdHhZR1JhUUlybDNyQjlTWGFjeUhWeEpvdm1UNW1hMUpkZWFLVEYzcTh1VjVPSHpk?oc=5",
+      "source": "Minute Mirror",
+      "publishedAt": "Sat, 13 Jun 2026 09:08:29 GMT",
+      "description": "Gold rush melts luxury watches Minute Mirror",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Luxury Larceny & Capitalism Critiques: 'The Black Watch' Breaks Down Boots Riley's Deliciously Disruptive 'I Love Boosters' - 97.9 The Beat",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WG54OHJCbC1yMy1XZEpsM1lmR3hWakdQS19QTDR5TGV1TUsxWkdkOVpaN21nRG9nZlAtdmd2dlZ6T1BXdUg4YUlaRWZVNmhGWEhMYzdJZlRCY0R5d0xwUzdlZ0VqZW11cGE0T1Btalc?oc=5",
       "source": "97.9 The Beat",
       "publishedAt": "Sat, 13 Jun 2026 01:03:15 GMT",
       "description": "Luxury Larceny & Capitalism Critiques: 'The Black Watch' Breaks Down Boots Riley's Deliciously Disruptive 'I Love Boosters' 97.9 The Beat",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "South Korea Silk Market Trends: Luxury Fabrics, Sustainable Fashion & Forecast to 2034 - vocal.media",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXk1VzVKTGtVVDJseHA0UkRnQzlwWnhQeUN3Njh6aEtIOUNOR2p6Wl8zNTluODdGQ1gyQ0NBYUstdG1FTVpVN0lTVXhKa2ZNQ29YQnlHbG5WcURKVUgxTm9odi1MQVEzQUFkZkQtVjNyQUZMeUtEcWtiOG42VXpxTHJDdDV5NDlLclp3eVNHY0Z2UENHVU5OUEVRc3lnYTRRLU1MVTJQYTZYV3RQcVo3QXZMMFNkUQ?oc=5",
-      "source": "vocal.media",
-      "publishedAt": "Fri, 12 Jun 2026 22:59:57 GMT",
-      "description": "South Korea Silk Market Trends: Luxury Fabrics, Sustainable Fashion & Forecast to 2034 vocal.media",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []

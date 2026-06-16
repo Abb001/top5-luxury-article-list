@@ -1,7 +1,7 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-16T02:56:26.971Z",
+  "generatedAt": "2026-06-16T08:43:18.555Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-14.",
   "articles": [
@@ -14,6 +14,14 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "Chrome Hearts Faces Japan Supply Squeeze as Luxury Demand Surges - Guidance Revision Trend - newsline.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1NrRUgzRXR0aGpNTU5XcVFDdHBUS3drTTdNMzVOZkFldll0OExHelZpM0xUdGF1ZVBVcFB4c0pTN0xxN18zUkNUZk8yUElIUXRfS0pCZlROUlRVbWpvYlZTMzdaOHM2cmVZMzU2NXY4TWR4ajl5U3F5SDEyeC1tZkFHRFlNYWk2ejdQaWh5T0ZidFlOeEoxTTVhV1ZFd015bk9VTEx3?oc=5",
+      "source": "newsline.com",
+      "publishedAt": "Sun, 14 Jun 2026 15:29:51 GMT",
+      "description": "Chrome Hearts Faces Japan Supply Squeeze as Luxury Demand Surges - Guidance Revision Trend newsline.com",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Retail giant with Oxfordshire stores to take over luxury company - Herald Series",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0VIUkEza01EeTdPbTFkMC1wdW90TE9wMG90Q1VxZzk2Zy1kXzhMQldCcDFxQ0lVY0RaN3ZfRGY4d2RoZ1E4WUJiSk5Na2pkSW5IdVZCenRlOTVVcDl1Zk83cUJnV0NQRW5RQnRCRzNYOTBLcTBUcDlLbXczamRqZ2hIbmM5LUk0eFdaaHBzdFhxNnVzY1I5NHR0RXJRSVcyeml2Uw?oc=5",
       "source": "Herald Series",
@@ -22,27 +30,19 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "Retail giant with Oxfordshire stores to take over luxury company - Oxford Mail",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXV4YURkMnU0RmhDY3FQajVlOF84d3dEZUxDazVSWWxmNlhpb2FsQUVEZzNCX2JWMGZGVFlHN1FoLWp6WXh1SElmdVo3LVl5ZTI1NU9hTVpvenFYVkM0cTZnY0VDVmJDNFFSYTJaaE16RlQzd2lkTW5WUmIzWXFLVEZNendpOTMwUV90T1BqUFo3MWRVOFVr?oc=5",
+      "source": "Oxford Mail",
+      "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
+      "description": "Retail giant with Oxfordshire stores to take over luxury company Oxford Mail",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "Retail giant with Oxfordshire stores to take over luxury company - Witney Gazette",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1LcER3TnZSbGY3czV4TlEtTXFIcG9FMUgwOFdGb3FHTEE4aXkwaVhIRlJkU2IwbEZ2R2U1MWhFOWRXQXdGZUpZVkw5QS1HYXRQOVRpV3gzTmdSWWltdEFtdGZfclVwN3VLaERqZFVySVhxaDB6dG1mU2hVVXdYb3JrdHVRdUtCTnJuemRzbHRKQ2toUks1dHhlQQ?oc=5",
       "source": "Witney Gazette",
       "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
       "description": "Retail giant with Oxfordshire stores to take over luxury company Witney Gazette",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Family Owned Fashion Brands: 10 to Shop Now - ldnfashion",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYlVvTWRsRW5MUWxIeVJVLXQ3Q1dfNmhOSXJtcFVCR2ExTkRLMWNZTy1BWWEzVFNVX283RV9YbWZCc3RsQ1lWY0VLZEdSaFU2dDdEWlktMWI2RG02b1ZULUxHTHlzWGNTVzdXakZ6NEtvZXdkdk9LMU1kWTVfZmlTMzFvZVVra2c?oc=5",
-      "source": "ldnfashion",
-      "publishedAt": "Sun, 14 Jun 2026 07:00:00 GMT",
-      "description": "Family Owned Fashion Brands: 10 to Shop Now ldnfashion",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Fashion's brand management evolution: Cavalli deal and Authentic IPO buzz - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUg3NW9ZSGxDT3NnYkRwRU5jQTk4SjVQUWJiWFVGQ2hfeGhpcVRCcko5NU5vcFk1RklUT1ozZ1NrV1pLYjdoUzZQN3V2cTVSazB0Q0hLcGY1b0VlM0JyOGhMWm9vb3Y4REJwVjd3cTEydFRIUXB4WW5GbmlhRmdxZU02T3I5UWs2S3hkV3Y3c3ctSElLMjlwVG9pejB2LW9ERkNwd3YxTWVCSlhFdG85QnhfMnB4X3BBbUdwc2F4MDZIbU04WExlMm5kMWYzR2RkRWwtSw?oc=5",
-      "source": "MSN",
-      "publishedAt": "Sun, 14 Jun 2026 06:50:01 GMT",
-      "description": "Fashion's brand management evolution: Cavalli deal and Authentic IPO buzz MSN",
       "feed": "Google News - luxury fashion"
     }
   ],
