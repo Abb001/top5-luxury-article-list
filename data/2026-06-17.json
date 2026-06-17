@@ -1,50 +1,13 @@
 {
   "date": "2026-06-17",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-17T08:24:11.525Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-06-17.",
-  "articles": [
-    {
-      "title": "As premium watch demand rises 30%, Titan eyes a bigger slice of the luxury market - afaqs!",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeklocm9HU3FRV2w1UUFzYkpmb29KeUhWcHZLSmkyb1dYMEVIdTlJbW1kNkpLbG1mRDZnM0h2aTdlOFY4d21ZTmZ5a2hpUG9malQwR2tXYzcwazN6MHZJeGVEbXdZTmJYdEJUblRyVFVsVEFZc0VMZXV6Wlc3LWxiV0VPcjNZNDYxMUxSRlBPemQ2Q2ZwT1I5Q2o0c2dqdk1zWGR1MUhqMGRmcXZuUXdSWEQzbno0ZnJlbnZtRg?oc=5",
-      "source": "afaqs!",
-      "publishedAt": "Wed, 17 Jun 2026 00:00:37 GMT",
-      "description": "As premium watch demand rises 30%, Titan eyes a bigger slice of the luxury market afaqs!",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Youth-Focused Luxury Fashion Platforms - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83SGRVX0kwZDZEeVhBUnNTblBqU2JMTFZ1a09zb0c5NTdHNUdhanJRUmNCUTNPeGRTX2ZvOWljd3piSDdBY0pXZFVKak5SUkpXb2J1NVlfTG7SAVhBVV95cUxPN0hkVV9JMGQ2RHlYQVJzU25QalNiTExWdWtPc29HOTU3RzVHYWpyUVJjQlEzT3hkU19mbzlpY3d6Ykg3QWNKV2RVSmpOUlJKV29idTVZX0xu?oc=5",
-      "source": "Trend Hunter",
-      "publishedAt": "Tue, 16 Jun 2026 21:11:01 GMT",
-      "description": "Youth-Focused Luxury Fashion Platforms Trend Hunter",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury market bolsters Scottish hotel sector amid uncertain economic backdrop - Insider Media Ltd",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjAtbHdCdGVTUWZydFNPbUJhNGhvcXBZaDROSngybkZDcEl5SUpKYUJoNjlzb0pGbWozdnNZbC1VVGtvZ1NhQ1JLRmxNdXZoaTlscXFfaTFkQVI1eFVwN3B0T1U4ZGlPdFlUTkFreDR6a0ZTVy1YZnBUVElWLThQWmV3NHV1aF9wcUZNc2hkS2RvLVpPVURkaU5FclZvbzQ3bGE1WWZKUl9BLUdrR05QTUU1VC1JSVowWTRicg?oc=5",
-      "source": "Insider Media Ltd",
-      "publishedAt": "Wed, 17 Jun 2026 06:41:00 GMT",
-      "description": "Luxury market bolsters Scottish hotel sector amid uncertain economic backdrop Insider Media Ltd",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury Furniture Market to Reach USD 49.6 Billion by 2036 Amid Rising Demand for Premium Interior Solutions - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUZMLTQ3QUI0SDZSY28yMXVXZEMxSUg0RkNxS2JRTFhjeEFjTUJlb3QtTkgtVWpFQ096UExURTZubEtjYUFFNlJYWlFpWG85Y0w4SUVXaDh4TzdiVklNZTJONWpUeEJmWUhFTjlvMWJXbVpReHNvQ054cjFiNHhDYUVqMGVpSU1RclhQZDRaa2Nqak44aWM4Q29rSk9JZWs?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "Wed, 17 Jun 2026 06:10:16 GMT",
-      "description": "Luxury Furniture Market to Reach USD 49.6 Billion by 2036 Amid Rising Demand for Premium Interior Solutions openPR.com",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Inside Kenya's Growing Counterfeit Luxury Market on Instagram - streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFdrUXljXzVkcmdRWVB3dDhrRFAwUWpKcl9QbU82cF9RMDlPMDN5dFIyUlFqT0xmbkhsSlBVZ1FGaU5zclVoVkhIN2x5N003Y1VQcFMxV2kzSFJfRXhkRk8zNy1SMFRKUGxGcnhwTGhzRDJhUmFQM3k5OG5BQ2RrYVlQbExWbThSQzM0?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "publishedAt": "Wed, 17 Jun 2026 04:50:31 GMT",
-      "description": "Inside Kenya's Growing Counterfeit Luxury Market on Instagram streamlinefeed.co.ke",
-      "feed": "Google News - luxury business"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-06-17T12:47:03.514Z",
+  "status": "empty",
+  "message": "No articles published on 2026-06-17 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
