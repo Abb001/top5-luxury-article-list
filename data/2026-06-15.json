@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-17T12:47:03.513Z",
+  "generatedAt": "2026-06-17T17:46:54.181Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -14,20 +14,20 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjVQRXc5NkFhY25Dc3pJUGktMmthd2Jyb1dwcFFxdkJPblg2UUMwTjBpNTJEbjFtako1Ul9jUEptOWI2WnZJUjdwYmxjQkdrU3ExNVRmMDZoal90aWpjYUdzRTRGSmpzLXdWQjFpT3pVRzdOR29EQnBLRFBnS2JkREhzbzhoM2kyM1JsMmEtZVVNYjBzcHY1Sg?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "Mon, 15 Jun 2026 14:07:52 GMT",
-      "description": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends openPR.com",
-      "feed": "Google News - luxury business"
-    },
-    {
       "title": "Inside LVMH’s beauty shakeup amid luxury slowdown - Personal Care Insights",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamFMM185SnpPVzJGcy1LczRXbl9PN3hrMk9FRlFzRU1GR21aemcxVTlIMnF3Sm53eU8xMEVFQ1NxRHVYd1pwOFBSZzYtOWdvS1B3Q3EzcE8xdE5DNGZUYi0yVEwtSkp6UEFKa3ZMdmNTUVNhN2J2U3h0aS1xZ0x0S2s5bnBaUFhhZnc?oc=5",
       "source": "Personal Care Insights",
       "publishedAt": "Mon, 15 Jun 2026 13:20:29 GMT",
       "description": "Inside LVMH’s beauty shakeup amid luxury slowdown Personal Care Insights",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Dolce & Gabbana Menswear Spring/Summer 2026: How the Luxury Brand Turned Pyjamas Into High Fashion - Bombay Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSmtJbzBHQlZ6QVpYLXFnNjlSQXNzNzROSjhXS2l4WE1yZ0ZQTnprUXFUVVctS3JjbnhHaExQQnFkZXdQYVVhN242MndsYThQSlg5XzBtWi0zUkFqV1NlQ3BncWx3ckMyWGY4eU9wM2Z1TUUtZF9XOF9OQ2N5cFozSUZDajZBc3hJNkM4c3B3cGIyZ3c3bEdDRURkYlBLcTU4LV9VQ2R0RnBjYzBDa1J1dFhpLUFYb0FDNFpFU3QwTkNXXzdJRmNYYmpUMWktMlczWE1mRVprclBOX19Ob1FRWktJVktuQmNnZ210clNYb3LSAfABQVVfeXFMTUprSW8wR0JWekFaWC1xZzY5UkFzczc0Tko4V0tpeFhNcmdGUE56a1FxVFVXLUtyY254R2hMUEJxZGV3UGFVYTduNjJ3bGE4UEpYOV8wbVotM1JBaldTZUNwZ3Fsd3JDMlhmOHlPcDNmdU1FLWRfVzhfTkNjeXBaM0lGQ2o2QXN4STZDOHNwd3BiMmd3N2xHQ0VEZGJQS3E1OC1fVUNkdEZwY2MwQ2tSdXRYaS1BWG9BQzRaRVN0ME5DV183SUZjWGJqVDFpLTJXM1hNZkVaa3JQTl9fTm9RUVpLSVZLbkJjZ2dtdHJTWG9y?oc=5",
+      "source": "Bombay Times",
+      "publishedAt": "Mon, 15 Jun 2026 10:58:33 GMT",
+      "description": "Dolce & Gabbana Menswear Spring/Summer 2026: How the Luxury Brand Turned Pyjamas Into High Fashion Bombay Times",
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "Hermès Stock Jumps Nearly 3%, Boosted by Luxury Sector's Surge - Idéal Investisseur",
@@ -46,9 +46,5 @@
       "feed": "Google News - luxury business"
     }
   ],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "fetchWarnings": []
 }

@@ -1,18 +1,10 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-17T12:47:03.513Z",
+  "generatedAt": "2026-06-17T17:46:54.151Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-14.",
   "articles": [
-    {
-      "title": "Kevin “Spanky” Long Reveals Chanel Watch Partnership Through Luxury Timepiece Feature - Shredder News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55WkZjSGFVMVF4S08zZ09zbXYwMWNQbG40QVFnTzh0aDE0dDNNbzZGMVVrWGZlSXpWSlF1MXBiS3V0U1J0d3lCR1NTakRfVHBUNGduTVRyc1hOVzJFNHlkbjd5ek1wRkp3WUE?oc=5",
-      "source": "Shredder News",
-      "publishedAt": "Sun, 14 Jun 2026 07:00:00 GMT",
-      "description": "Kevin “Spanky” Long Reveals Chanel Watch Partnership Through Luxury Timepiece Feature Shredder News",
-      "feed": "Google News - luxury business"
-    },
     {
       "title": "Rolex lifts gold watch prices despite luxury market slowdown - irishsun.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTmhLZkhGY3Nja2pZTXQ4U2p3ZzB3Um1LTnlENFd5Mi1DbHpZLS1jWVFadzd0Z3ZheFN0eVp4ZE5HQmRvcHFDc3g1OHNLTkgwb3IyUlRDMXZ5RnY2eFFTUm1XUjM3YTJ2NlIwTlJNUmQycnFIR3AyQ210UEZROHpIWmVXWTBFd0FPZ2ZISlNSeWQtTy1Ca1I4bjNidElNbkw2?oc=5",
@@ -30,25 +22,29 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Chrome Hearts Faces Japan Supply Squeeze as Luxury Demand Surges - Peak Earnings Alert - newsline.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVhzWmNkVUNEWk1lQ2E1cVpoVmgwMnhtb3gxYi1IM05OczctZmhTNGp5OGlPSmFaY2UxZ2RPWVJQTDZ4RVIwOTQxVU5RQm42c1N2bG1nVVZIOFJkYS1JQ2RLSEdZa18xdTJvUFFTa0ZoVkl6Ql9zek4yZXBseFVISnpLdXBucVhJcWdQOFhLeXVXeS1uVEtuZjRkY2xvdUVjUVBObVVJanE?oc=5",
-      "source": "newsline.com",
-      "publishedAt": "Sun, 14 Jun 2026 15:29:51 GMT",
-      "description": "Chrome Hearts Faces Japan Supply Squeeze as Luxury Demand Surges - Peak Earnings Alert newsline.com",
-      "feed": "Google News - luxury business"
+      "title": "Hi-Life Exhibition Opens at HICC, Showcasing Fashion, Luxury & Lifestyle Trends - Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONlRiMGNEOWtwZ1NwVExKTXVQdm15YVdhNFptbFlscVZCMEE1NlFhQ3lLR0RxeUpzWnlMU2ZnaThsMDUtbTJlN180S0JyWXg4MlIwUkllZE9HQ0JpOFFwdkpyelNjbkNVbjA4WWlLV2Ytam9DTmZTZlNISGdyeEx0QjE4RUhFaXBpQTk1LTg2SmRteGxqQzZ1Ml9fZzM4MXBtTDVsTF9IUFdXdW5uUmlZOFVzSEdLTkRieU96eW9yT0ZxUUp0TkR1anFvTHNDS0ZsNDI1bjhCYzduZkhRS3BtWHJZZmRWX1I2SlItSHcxaVNzY3VXQ2JzX1Nxdw?oc=5",
+      "source": "Dailyhunt",
+      "publishedAt": "Sat, 13 Jun 2026 18:27:55 GMT",
+      "description": "Hi-Life Exhibition Opens at HICC, Showcasing Fashion, Luxury & Lifestyle Trends Dailyhunt",
+      "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Retail giant with Oxfordshire stores to take over luxury company - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXV4YURkMnU0RmhDY3FQajVlOF84d3dEZUxDazVSWWxmNlhpb2FsQUVEZzNCX2JWMGZGVFlHN1FoLWp6WXh1SElmdVo3LVl5ZTI1NU9hTVpvenFYVkM0cTZnY0VDVmJDNFFSYTJaaE16RlQzd2lkTW5WUmIzWXFLVEZNendpOTMwUV90T1BqUFo3MWRVOFVr?oc=5",
-      "source": "Oxford Mail",
+      "title": "When haute couture becomes memory, community and creation with Mossi Traoré - bonart.cat",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDhvM0M4eExjakpPZU40ckdJbHUxdERvUzVhWVlDY3AyLS1ING1ZLXk3YXZ6Q2poMm1MNDlrdlQ2ai1YdDVpUzY3Y3duWXJ4UV8ydzFWZU5tbWRIdEZ3bWtwTkx5cjJEYWNPSGJFbm9KcGhqN2EzU1BwNnVXeW1yck0xLUpxM2U1djN2S0djZ3lIWXl5ZjZwcE5jZldNR3J2RGpLTDRjc1ZPNjBmX1d4aVZxMlpNWDJBWkEtdlBqVQ?oc=5",
+      "source": "bonart.cat",
+      "publishedAt": "Sun, 14 Jun 2026 15:41:26 GMT",
+      "description": "When haute couture becomes memory, community and creation with Mossi Traoré bonart.cat",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Retail giant with Oxfordshire stores to take over luxury company - Witney Gazette",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1LcER3TnZSbGY3czV4TlEtTXFIcG9FMUgwOFdGb3FHTEE4aXkwaVhIRlJkU2IwbEZ2R2U1MWhFOWRXQXdGZUpZVkw5QS1HYXRQOVRpV3gzTmdSWWltdEFtdGZfclVwN3VLaERqZFVySVhxaDB6dG1mU2hVVXdYb3JrdHVRdUtCTnJuemRzbHRKQ2toUks1dHhlQQ?oc=5",
+      "source": "Witney Gazette",
       "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
-      "description": "Retail giant with Oxfordshire stores to take over luxury company Oxford Mail",
+      "description": "Retail giant with Oxfordshire stores to take over luxury company Witney Gazette",
       "feed": "Google News - luxury fashion"
     }
   ],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "fetchWarnings": []
 }
