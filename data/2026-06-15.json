@@ -1,18 +1,10 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T07:29:36.009Z",
+  "generatedAt": "2026-06-18T12:18:36.560Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
-    {
-      "title": "Rolex Gold Watch Price Hike Shows The Luxury Slowdown Does Not Apply To Everyone - DMARGE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzdCYkNteF9TelJOVHNOTjRyMUVuZUFhMF9ENzJ4eW03aTN4N0NmLVNnUFhocWp4YVc5d2diV1AzLVFMcndkYUZmV0V2LXp6ZldNMzhjZXl0RWZrS0dYOUJPbEplSDBKV2tPRWVkRjM3NU5xSGRHdWhHNGJsZEtPQW5lZ21zTkstUmtWZWwzWVpaRnc2LUgyejlreS1xb1RLeTBNenRLZG51RG8?oc=5",
-      "source": "DMARGE",
-      "publishedAt": "Sun, 14 Jun 2026 23:57:03 GMT",
-      "description": "Rolex Gold Watch Price Hike Shows The Luxury Slowdown Does Not Apply To Everyone DMARGE",
-      "feed": "Google News - luxury business"
-    },
     {
       "title": "Montreal Jewelry Brand Bets on Lab-Grown Luxury - retail-insider.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTlB1R3p0VGR1anEzYzJIN0x0NnkweGdDLWNWTk9qZ3ZlaWF6NC1ENWk0dWlUOVJkcjYwaFZfMDdtTTRQQ3NMSS1TdHdBbWpJYUt2ZlE3alFrUzJSOVNob0JVbTBwLXJNREIxUFJ1NG1WMHZFbDhmX196SnlEa0xXV2NZNF9mbk5GUjhoWEg5ZHpoS3dPUFM0UVJUV0ZHMVk?oc=5",
@@ -44,6 +36,14 @@
       "publishedAt": "Mon, 15 Jun 2026 09:34:00 GMT",
       "description": "Hermès Stock Jumps Nearly 3%, Boosted by Luxury Sector's Surge Idéal Investisseur",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Jinkee Pacquiao's Fashion Moments During Her Son's Wedding Weekend - Metro.Style",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUJ2TTFnampLQWdZbWVoYmZXYU9qdUI5SVFjTDV3a1hqNy1wclNEaGZaaWNhN1Y1N3VpckVoVVZ2WGFjQlZqUmJtWU5SNFoyaVJybDlKZ0x4MjJ3eXNJNGVQQTRzdkFZS19tY1d4aUdqcDZOX1lodzN4Y1RUaTNSR1BSRk9OVEtzWnhPSkZlMDhFVVh4MjluS0NOM1Z5dVFsaFNsMA?oc=5",
+      "source": "Metro.Style",
+      "publishedAt": "Mon, 15 Jun 2026 15:21:55 GMT",
+      "description": "Jinkee Pacquiao's Fashion Moments During Her Son's Wedding Weekend Metro.Style",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
