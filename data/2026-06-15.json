@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T02:48:51.295Z",
+  "generatedAt": "2026-06-18T07:29:36.009Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -14,6 +14,22 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "Montreal Jewelry Brand Bets on Lab-Grown Luxury - retail-insider.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTlB1R3p0VGR1anEzYzJIN0x0NnkweGdDLWNWTk9qZ3ZlaWF6NC1ENWk0dWlUOVJkcjYwaFZfMDdtTTRQQ3NMSS1TdHdBbWpJYUt2ZlE3alFrUzJSOVNob0JVbTBwLXJNREIxUFJ1NG1WMHZFbDhmX196SnlEa0xXV2NZNF9mbk5GUjhoWEg5ZHpoS3dPUFM0UVJUV0ZHMVk?oc=5",
+      "source": "retail-insider.com",
+      "publishedAt": "Mon, 15 Jun 2026 15:13:04 GMT",
+      "description": "Montreal Jewelry Brand Bets on Lab-Grown Luxury retail-insider.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjVQRXc5NkFhY25Dc3pJUGktMmthd2Jyb1dwcFFxdkJPblg2UUMwTjBpNTJEbjFtako1Ul9jUEptOWI2WnZJUjdwYmxjQkdrU3ExNVRmMDZoal90aWpjYUdzRTRGSmpzLXdWQjFpT3pVRzdOR29EQnBLRFBnS2JkREhzbzhoM2kyM1JsMmEtZVVNYjBzcHY1Sg?oc=5",
+      "source": "openPR.com",
+      "publishedAt": "Mon, 15 Jun 2026 14:07:52 GMT",
+      "description": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends openPR.com",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Inside LVMH’s beauty shakeup amid luxury slowdown - Personal Care Insights",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamFMM185SnpPVzJGcy1LczRXbl9PN3hrMk9FRlFzRU1GR21aemcxVTlIMnF3Sm53eU8xMEVFQ1NxRHVYd1pwOFBSZzYtOWdvS1B3Q3EzcE8xdE5DNGZUYi0yVEwtSkp6UEFKa3ZMdmNTUVNhN2J2U3h0aS1xZ0x0S2s5bnBaUFhhZnc?oc=5",
       "source": "Personal Care Insights",
@@ -22,33 +38,13 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Dolce & Gabbana Menswear Spring/Summer 2026: How the Luxury Brand Turned Pyjamas Into High Fashion - Bombay Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSmtJbzBHQlZ6QVpYLXFnNjlSQXNzNzROSjhXS2l4WE1yZ0ZQTnprUXFUVVctS3JjbnhHaExQQnFkZXdQYVVhN242MndsYThQSlg5XzBtWi0zUkFqV1NlQ3BncWx3ckMyWGY4eU9wM2Z1TUUtZF9XOF9OQ2N5cFozSUZDajZBc3hJNkM4c3B3cGIyZ3c3bEdDRURkYlBLcTU4LV9VQ2R0RnBjYzBDa1J1dFhpLUFYb0FDNFpFU3QwTkNXXzdJRmNYYmpUMWktMlczWE1mRVprclBOX19Ob1FRWktJVktuQmNnZ210clNYb3LSAfABQVVfeXFMTUprSW8wR0JWekFaWC1xZzY5UkFzczc0Tko4V0tpeFhNcmdGUE56a1FxVFVXLUtyY254R2hMUEJxZGV3UGFVYTduNjJ3bGE4UEpYOV8wbVotM1JBaldTZUNwZ3Fsd3JDMlhmOHlPcDNmdU1FLWRfVzhfTkNjeXBaM0lGQ2o2QXN4STZDOHNwd3BiMmd3N2xHQ0VEZGJQS3E1OC1fVUNkdEZwY2MwQ2tSdXRYaS1BWG9BQzRaRVN0ME5DV183SUZjWGJqVDFpLTJXM1hNZkVaa3JQTl9fTm9RUVpLSVZLbkJjZ2dtdHJTWG9y?oc=5",
-      "source": "Bombay Times",
-      "publishedAt": "Mon, 15 Jun 2026 10:58:33 GMT",
-      "description": "Dolce & Gabbana Menswear Spring/Summer 2026: How the Luxury Brand Turned Pyjamas Into High Fashion Bombay Times",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Hermès Stock Jumps Nearly 3%, Boosted by Luxury Sector's Surge - Idéal Investisseur",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGliZ1l1RFF5b1dEZzNNNWVzb0JyNkEwbGZNVHlwSWo1UmNmb0UxR05GaWpNMmRMdFVCSGdQWndxV2FSRE9GelJkUjhDbnpLRTJNX3dpNXZFZWpxaTlHV21pQVB3SXFMeDFibEJRbllEQ0psSjI2bWJabmVGMl95T3pmelI1bE45bW1kYjRXZlYzMllfQWJMU0haY3I1Yno5NjlScEJILUtVSHc3MDdGWmNOSnI2eGN0NVRj?oc=5",
       "source": "Idéal Investisseur",
       "publishedAt": "Mon, 15 Jun 2026 09:34:00 GMT",
       "description": "Hermès Stock Jumps Nearly 3%, Boosted by Luxury Sector's Surge Idéal Investisseur",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury watch market to shift from great premiumization to recalibration - Consultancy-me.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUlSVjZ3OE1MOHo0d2lJZ2JRLUl6YUlseUpBQXh3ZGh4czRGZDdqZmJLdzk5dHR3MWVzcVk5V1Z5Q05OaFpqbW8zSk5XZEZYYmMyY3Z6QXA3UzROYTAxWjBJVV9uanVab2xBNVlvSFV5ZXc3STBHMnZuRzBjSUlBbVRsTVJDS0FMeEVOX0NXMklTVzljbl8xdi1TRWV6TUVOZkc4azZWWnExRkliV2lxUkl5Y9IBuAFBVV95cUxOSGlSS2NvWW9oTnVvSVc3d29XdUJNZklPWWlpbk9sSUZ3VU9IeFExV01MSmFINjJvX0s1Z2dDalZCZHpEeVQwdGgxTlZ4QnJ4UHF3UDZrR0psT2MzcC16UGNOZjBrWnZlNXBxMTNXb0M2S0g3Mm5rbkxLYjNMT291U2ZYbUxhTEc1YU1mRUFpVWp1YV9RNHBsMlRjR09lQXNRRDhid0lYQUllN2lWMUpjQ0V1TC1hU3Yy?oc=5",
-      "source": "Consultancy-me.com",
-      "publishedAt": "Sun, 14 Jun 2026 17:20:16 GMT",
-      "description": "Luxury watch market to shift from great premiumization to recalibration Consultancy-me.com",
-      "feed": "Google News - luxury business"
     }
   ],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "fetchWarnings": []
 }
