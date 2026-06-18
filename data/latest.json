@@ -1,50 +1,13 @@
 {
   "date": "2026-06-18",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-17T17:46:54.200Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-06-18.",
-  "articles": [
-    {
-      "title": "Sustainable Luxury Fashion: Can Exclusivity and Ethics Coexist in Modern Collections? - Outlook Luxe",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFTdV9KMkp5NTBndGVQai1kQXRWdW8zTEU2b2p3d0czd1JISUZaSEhpRjJrY3hKZG81UkRYc0ZUc09hWi1pMUpFSzF6bjlPMnJReC0xUHIzanVJUEwyQk1RZVN6TFlvLUJHZmMtVzVnNUlCUjJDZ25Cd2hBbzEtYnFhRVExdDRfcDBBVmxmWDVwUWs3Vk5fTXREZDVPRVU2Y0MyMzRyRGNlazVtSHpxNUtnQ1NIbFRuS3paMDRPRlJhVjkzdFRNb29UTS0wY0RyZGhKRi1aZ29GWjJ0Q21n0gHfAUFVX3lxTFBEcVN1X0oySnk1MGd0ZVBqLWRBdFZ1bzNMRTZvand3RzN3UkhJRlpISGlGMmtjeEpkbzVSRFhzRlRzT2FaLWkxSkVLMXpuOU8yclF4LTFQcjNqdUlQTDJCTVFlU3pMWW8tQkdmYy1XNWc1SUJSMkNnbkJ3aEFvMS1icWFFUTF0NF9wMEFWbGZYNXBRazdWTl9NdERkNU9FVTZjQzIzNHJEY2VrNW1IenE1S2dDU0hsVG5LelowNE9GUmFWOTN0VE1vb1RNLTBjRHJkaEpGLVpnb0ZaMnRDbWc?oc=5",
-      "source": "Outlook Luxe",
-      "publishedAt": "Wed, 17 Jun 2026 16:26:00 GMT",
-      "description": "Sustainable Luxury Fashion: Can Exclusivity and Ethics Coexist in Modern Collections? Outlook Luxe",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Loewe Lands at Vancouver’s New Luxury Epicentre - FASHION Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFdLNkdTMTJOOUVBQjRwa1QzdDE0d1YzUUk4eDA5LXQtdTJqMmFDTXB4T1dZRm55dTdGZzRZNUpTNUdfMjZwUFFvOVdpOG44Zi1MdXBXTFlnZjgxSkJDV2lKbE5KMllFNEhhSHZZa25HLWwwaF9oV1Q2NjRScDl6S1k3X25Lency?oc=5",
-      "source": "FASHION Magazine",
-      "publishedAt": "Wed, 17 Jun 2026 16:08:19 GMT",
-      "description": "Loewe Lands at Vancouver’s New Luxury Epicentre FASHION Magazine",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Why luxury buyers are leaving Toronto for this mid-sized Canadian city - mpamag.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZm1vbkl6ekdLcGVRQW1LQnBnaFc1RUhvSlAxdk1jQkItd3ItSm9pblZMUzUxeFcxZVlBT19QTnlCQUhVcExaRm4yNlRDeVdjMmZObGxOMmZDaGJXM2hqQl9tWTl3M2RMM1FvdjNJamJjZzVIaDBwdEswM19QYmM3Yml5Y0FHTGpCNWtKQmVVVDJSa0VKUnIwdlJZeXFxazRJVFVVVGdFRklnQUlXMDJxOGFIbjI5cFN5STZpU29JUHRwdkxLQmVkR0Y2UjZLeHA1cmc?oc=5",
-      "source": "mpamag.com",
-      "publishedAt": "Wed, 17 Jun 2026 16:32:41 GMT",
-      "description": "Why luxury buyers are leaving Toronto for this mid-sized Canadian city mpamag.com",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "What defines a luxury handbag today and how to choose one that stands the test of time - HELLO! Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GVVNHV2ZWQjRxNzlQckZwLTRRZEMzQ2lmd3I1VWFLMzNOTHd4eHR5LWxPa285MHQ0dFk1NTVCWUVPelhjbEdBdWI4SVZfQXVvVlNfWVZudzRLWHJjLW1Dc3JuaThJenlGMXhWRmZtTmduaHlTM1ZOY2cwenc?oc=5",
-      "source": "HELLO! Magazine",
-      "publishedAt": "Wed, 17 Jun 2026 16:06:00 GMT",
-      "description": "What defines a luxury handbag today and how to choose one that stands the test of time HELLO! Magazine",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Meet the Yorkshire designer who says: ‘All women should have bespoke experience’ - Telegraph and Argus",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1Z1V0Q1MW11WXhtR19fVXo3bUhEY3ZvejVOWngxOEFIQTltU2ZqVFdWUV9uc240OEUwYXZjWEk1S1poNUNjLTdSMXQzWFZyTk16S2p2bDNDMWJoY2hjaW8yWHZpZGtmazBnU2RWamI3NGpSZ2NHR3RtZmEtdWV5X19iZWJnbjNPY0M5R2tYVGtoYkJrR09vUGRsUVViV19BQnVMMzlocWpiVldKQkZpU1ZpZ2g1RXpNa0FWVA?oc=5",
-      "source": "Telegraph and Argus",
-      "publishedAt": "Wed, 17 Jun 2026 17:00:00 GMT",
-      "description": "Meet the Yorkshire designer who says: ‘All women should have bespoke experience’ Telegraph and Argus",
-      "feed": "Google News - luxury lifestyle"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-06-18T02:48:51.296Z",
+  "status": "empty",
+  "message": "No articles published on 2026-06-18 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
