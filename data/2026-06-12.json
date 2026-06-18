@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T12:18:36.503Z",
+  "generatedAt": "2026-06-18T17:56:35.806Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-12.",
   "articles": [
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Clothing brand Gucci makes history: First fashion brand to secure F1 title sponsorship - MSN",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQMjM3MTJROEZVSVVsMnNjdnhiOEpxbVJ5WjhwRFRDYWo5RjZKREY2NGFnZlZxZ0Rnd3ZselJSSnF6R2JySndFRkdUUTc4YmRqTndZSWpsZ1pJMmlwdXN4NHRCemZXVTNXUmtLYjM3WHFrWXRCZFBsNVN0TXM4dUxPcDJ3UUNKZHBKbFRmWmZuZ3Zvak1DUjRMLXlrNm5USU5yME05NUMtWTM5am05Zk5iZHl4clVnemR1MHJ3YkxLbkJ1UzZaWEZPUHdIT2FYQ1EyOFRPelZkdWkyLTNXdnUzOVZCVW1nQ1I0QVV1emVtM2pMTlIzQzNLd25WY3lIVVIyM0tLQlYyeEZTSFNVanNOZjF0WDdSTWd4SV9WVEZ2QURUR3Izc0E?oc=5",
-      "source": "MSN",
-      "publishedAt": "Thu, 11 Jun 2026 22:10:26 GMT",
-      "description": "Clothing brand Gucci makes history: First fashion brand to secure F1 title sponsorship MSN",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "CBP officers in Cincinnati intercepted $19 million MSRP in designer watches and high-end fashion accessories - U.S. Customs and Border Protection (.gov)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFB3S0tPa3lmMnVNUDk2LTNwTE4weGdhSFExOUczSEpzVDByZ21nLXdmTXloQnJlWWVuSE1NZ040NVNNX19NV1Z1dllySXNpcFh1cHdKWG1hLVBWd0xhbkRYN1NyTW5PTmpkZmU1MjBabXA5YlF6MVhEOE4xOE9WTHk1bUxDSmw5b21qRlA5RFlsRzd2S3BHcWRDakFnU3hkRXBxNUthQWtmTHFPU3Y4U0dR?oc=5",
       "source": "U.S. Customs and Border Protection (.gov)",
@@ -43,6 +35,14 @@
       "source": "Oui Speak Fashion (OSF)",
       "publishedAt": "Fri, 12 Jun 2026 15:59:25 GMT",
       "description": "Assouline Opens New Lifestyle Destination in Saint-Tropez Oui Speak Fashion (OSF)",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Colombian Brand Monastery Launches a Limited-Edition Fashion Collection With James Rodriguez - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXFDa3dlUElFaVo1SGltNWZZb0E2bkgwRXhGcGhsNER5WlBaWkZHN3lUNEtrdDluZDdfUHNTNjRwVW9HRUhBQm44RlRtU2VwOFhzSkVIdG9NRnFUY2lYTHVCTlhoY2UwOG51Wm5jMUZkcjdPUThqRi0zdEpOVldCMjA4VDNqVHh6MFduYVExNFZhTFdsMi15Rm1xeGtGUQ?oc=5",
+      "source": "ColombiaOne.com",
+      "publishedAt": "Fri, 12 Jun 2026 15:01:00 GMT",
+      "description": "Colombian Brand Monastery Launches a Limited-Edition Fashion Collection With James Rodriguez ColombiaOne.com",
       "feed": "Google News - luxury fashion"
     }
   ],

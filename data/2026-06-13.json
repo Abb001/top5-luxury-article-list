@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T12:18:36.521Z",
+  "generatedAt": "2026-06-18T17:56:35.828Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-13.",
   "articles": [
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "UAE Watch Market Report 2026–2034 | Luxury Accessories Market Expansion - vocal.media",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0l2MEJGSE9qcVpOTV9FMkN5SDhGRHJBSnBwUXo4WGc0djU1VFBSVWdLemZtdVV0UV8wV0VRRko5VUFQZmpYRWFmWjN3WW13ZW5nRW9GU29NWWgzaE5oZzgwOFE4MUN0UkU4WmdaWm5VaHF5eGZSVWp0dFJXMGNmWUx4aTJFZjE1NjdjY05NY0lOd2duQnBEdWhhbVJvQXM?oc=5",
-      "source": "vocal.media",
-      "publishedAt": "Sat, 13 Jun 2026 05:57:34 GMT",
-      "description": "UAE Watch Market Report 2026–2034 | Luxury Accessories Market Expansion vocal.media",
-      "feed": "Google News - luxury business"
-    },
-    {
       "title": "High-Profile Luxury Brand Collaborations - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55N1BXeU9CbnFjR1dFYmVLOUhCWDRIU0ttbjNCQS1KYUZuakFOcHVFT1NOQWtqdGZ6Rl8yalZHS2tuSjNUNzJDTE5PVGdza1lLOXJEbHJ0aHZhS3FJRG5rbzRXVU96Mi05anJUaHRZa9IBdEFVX3lxTE9raVc3RDhDRF80QUVXRlN4dllEZ1A2ZjBSUEtrUlVjS0VndEEzeHVBR0ZyOTQ3M3VndzZQVjMzSDM4VU1Qdk1OUl9iNlZrRktEenhMZDBDTUttRlIyc2dCZl9CR3hZY2l6bTN5ejVmdXFfVkl4?oc=5",
       "source": "Trend Hunter",
@@ -43,6 +35,14 @@
       "source": "Forbes",
       "publishedAt": "Sat, 13 Jun 2026 09:30:53 GMT",
       "description": "More Than Fine Jewelry, Simon G. Makes Memories You Can Hold In Your Hand Forbes",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Heritage Meets Glamour: Inside Isha Ambani's Most Unforgettable Fashion Moments - Elle India",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Bc1czZ3NWc3BpQTZkQ0dMWExxQTNpb0kwVUNvQ3hpbWh6SWJZMkJ2OG5NbHlQRkg1aFVaMHVIRElDaTdRRE9VX3VoQm5JZ2xiVW0xX3ZpdGZiMUtZWkNqTlV0Q19wVkUzYng1bktMcms1WkR2?oc=5",
+      "source": "Elle India",
+      "publishedAt": "Sat, 13 Jun 2026 04:54:37 GMT",
+      "description": "Heritage Meets Glamour: Inside Isha Ambani's Most Unforgettable Fashion Moments Elle India",
       "feed": "Google News - luxury lifestyle"
     }
   ],
