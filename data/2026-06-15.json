@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T17:56:35.875Z",
+  "generatedAt": "2026-06-19T03:34:04.569Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -12,14 +12,6 @@
       "publishedAt": "Mon, 15 Jun 2026 15:13:04 GMT",
       "description": "Montreal Jewelry Brand Bets on Lab-Grown Luxury retail-insider.com",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjVQRXc5NkFhY25Dc3pJUGktMmthd2Jyb1dwcFFxdkJPblg2UUMwTjBpNTJEbjFtako1Ul9jUEptOWI2WnZJUjdwYmxjQkdrU3ExNVRmMDZoal90aWpjYUdzRTRGSmpzLXdWQjFpT3pVRzdOR29EQnBLRFBnS2JkREhzbzhoM2kyM1JsMmEtZVVNYjBzcHY1Sg?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "Mon, 15 Jun 2026 14:07:52 GMT",
-      "description": "Luxury Jewelry Market Fueled by Sustainable Luxury Trends openPR.com",
-      "feed": "Google News - luxury business"
     },
     {
       "title": "Inside LVMH’s beauty shakeup amid luxury slowdown - Personal Care Insights",
@@ -44,6 +36,14 @@
       "publishedAt": "Mon, 15 Jun 2026 15:21:55 GMT",
       "description": "Jinkee Pacquiao's Fashion Moments During Her Son's Wedding Weekend Metro.Style",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Moncler S.p.A. Stock (IT0005252207): Analyst Ratings Highlight Luxury Growth Story - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHpxNnJQOG5NeWk2a1ZYd1BHTFktQWljX3JaMzduVVlXdmZDVU5acjQ5ZUtGZlpxREk3NnhFSF9LVWV6cW5YcmU4cEFjaGtBdDBzWTgyTFVfYWNYU2lWTzhsWWNSMnZyOURSRVlIWU9CUjNpOWk1amU0OFBpd004ZjYxR3BYUTJjQlhMMWpVWS1nQmppd2xsRzlDTGhSZ0xIYVRiTTNyWEowaktXSk1xbnU1V2F1dUxXazl0clpCYXpIQQ?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Mon, 15 Jun 2026 14:31:39 GMT",
+      "description": "Moncler S.p.A. Stock (IT0005252207): Analyst Ratings Highlight Luxury Growth Story AD HOC NEWS",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []

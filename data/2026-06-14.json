@@ -1,7 +1,7 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T17:56:35.851Z",
+  "generatedAt": "2026-06-19T03:34:04.548Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-14.",
   "articles": [
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Melania Trump goes couture in strapless Dior gown for state dinner - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZjZ0OEtHd0FBLW5aM1U2c3pMaXBUNU5KV3Z5ajlvY3l5SWNmckM0a3NfRFZGdjhCMXZqdUJJSjFORm90TkJoZnFlMnpTQTdoUTRLRGcwVlVKWkpMRlhMY2pjTnRjaUlNTlBjSFNYOWt6bEMxVmZreG10dlhTSHFjTWMwSTl4dDlUc3JxbnNlT2RnejV4WEQzOVFNTTRlVXZZdE5FbGNRb3BhX2tjeEJrOTYxX3VXTkZGU3YtRFl0dlNzTU5HVWdhVk5HSUxybEJ5T2UzbVJuYWRkbHdYQkNTdi1BS0cxZkhhdGRiZWRQLV8?oc=5",
-      "source": "MSN",
-      "publishedAt": "Sat, 13 Jun 2026 18:56:04 GMT",
-      "description": "Melania Trump goes couture in strapless Dior gown for state dinner MSN",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
       "title": "Retail giant with Oxfordshire stores to take over luxury company - Witney Gazette",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1LcER3TnZSbGY3czV4TlEtTXFIcG9FMUgwOFdGb3FHTEE4aXkwaVhIRlJkU2IwbEZ2R2U1MWhFOWRXQXdGZUpZVkw5QS1HYXRQOVRpV3gzTmdSWWltdEFtdGZfclVwN3VLaERqZFVySVhxaDB6dG1mU2hVVXdYb3JrdHVRdUtCTnJuemRzbHRKQ2toUks1dHhlQQ?oc=5",
       "source": "Witney Gazette",
@@ -43,6 +35,14 @@
       "source": "Oxford Mail",
       "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
       "description": "Retail giant with Oxfordshire stores to take over luxury company Oxford Mail",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "At Dior, Jonathan Anderson is thinking long-term, not 'trendy' - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRk10ZTR6aktDMFppUFVfcW02ZUpJZy1ZcVdrN19qSzdhYkZkWUVIR2tYQ2JLUGdma3JSV1NHSlB6UURYMmhXbl9sdjNuY01ReDBoZ0RWQlVyck1XQ2lpVThQQW03Nzhtdk8yV2RVZzdVWHUtTHMzMXNkRk5GLWdCUjcwZ1FTYWpFb25XTDYwaU5aekRUTjlSYm1TS0pFNUlZR2hkNXFGbm5wZ2puNDAzalVIMUlUbk4tRGYwWG5aZEZuN3lIa3hBdQ?oc=5",
+      "source": "Le Monde.fr",
+      "publishedAt": "Sun, 14 Jun 2026 02:00:02 GMT",
+      "description": "At Dior, Jonathan Anderson is thinking long-term, not 'trendy' Le Monde.fr",
       "feed": "Google News - luxury fashion"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-18T17:56:35.806Z",
+  "generatedAt": "2026-06-19T03:34:04.515Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-12.",
   "articles": [
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "CBP officers in Cincinnati intercepted $19 million MSRP in designer watches and high-end fashion accessories - U.S. Customs and Border Protection (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFB3S0tPa3lmMnVNUDk2LTNwTE4weGdhSFExOUczSEpzVDByZ21nLXdmTXloQnJlWWVuSE1NZ040NVNNX19NV1Z1dllySXNpcFh1cHdKWG1hLVBWd0xhbkRYN1NyTW5PTmpkZmU1MjBabXA5YlF6MVhEOE4xOE9WTHk1bUxDSmw5b21qRlA5RFlsRzd2S3BHcWRDakFnU3hkRXBxNUthQWtmTHFPU3Y4U0dR?oc=5",
-      "source": "U.S. Customs and Border Protection (.gov)",
-      "publishedAt": "Thu, 11 Jun 2026 18:28:39 GMT",
-      "description": "CBP officers in Cincinnati intercepted $19 million MSRP in designer watches and high-end fashion accessories U.S. Customs and Border Protection (.gov)",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Assouline Opens New Lifestyle Destination in Saint-Tropez - Oui Speak Fashion (OSF)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa3kzU25ZSklqR0VoSHQxYnhVc29MbmNibXk1ZGVwYU5KblFONzVOSmYwcnhXWThIcUdLZEd6SEFhbS10ck02eDRwT3k3OVF6aE8zZTAxcmNxVG1KMWV4VDBzOThDb0FrMzVzSGJQSDFBeUEwRVVjbTVrck9ySEZDNUJqNTZJRDVpbHFfQm1kQQ?oc=5",
       "source": "Oui Speak Fashion (OSF)",
@@ -43,6 +35,14 @@
       "source": "ColombiaOne.com",
       "publishedAt": "Fri, 12 Jun 2026 15:01:00 GMT",
       "description": "Colombian Brand Monastery Launches a Limited-Edition Fashion Collection With James Rodriguez ColombiaOne.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "16 Best Denim Brands To Know In 2026: From Affordable To Luxury - ELLE",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sdGVCVkwySV9ac0xyNW9tWkxLbTZabVNmRjM1ejdPeUloV2Z6VjJRUGFKaXN6dl93VjRrZy03Rm5yUExSbUhrVHRrS3B5QzgwYjZLLXVNUTVGT2dXb2hlek1LenJRdlBJU1EwSHdyWEpfRUExZFhz?oc=5",
+      "source": "ELLE",
+      "publishedAt": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "description": "16 Best Denim Brands To Know In 2026: From Affordable To Luxury ELLE",
       "feed": "Google News - luxury fashion"
     }
   ],
