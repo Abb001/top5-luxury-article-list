@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-19T10:15:41.591Z",
+  "generatedAt": "2026-06-19T14:46:42.663Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -43,7 +43,7 @@
       "source": "AD HOC NEWS",
       "publishedAt": "Mon, 15 Jun 2026 14:31:39 GMT",
       "description": "Moncler S.p.A. Stock (IT0005252207): Analyst Ratings Highlight Luxury Growth Story AD HOC NEWS",
-      "feed": "Google News - luxury business"
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []

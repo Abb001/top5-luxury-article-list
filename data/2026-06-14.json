@@ -1,9 +1,9 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-19T10:15:41.569Z",
+  "generatedAt": "2026-06-19T14:46:42.640Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-06-14.",
+  "message": "Found 4 article(s) published on 2026-06-14.",
   "articles": [
     {
       "title": "Saudi Arabia: Luxury fashion's next global powerhouse - MSN",
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Retail giant with Oxfordshire stores to take over luxury company - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXV4YURkMnU0RmhDY3FQajVlOF84d3dEZUxDazVSWWxmNlhpb2FsQUVEZzNCX2JWMGZGVFlHN1FoLWp6WXh1SElmdVo3LVl5ZTI1NU9hTVpvenFYVkM0cTZnY0VDVmJDNFFSYTJaaE16RlQzd2lkTW5WUmIzWXFLVEZNendpOTMwUV90T1BqUFo3MWRVOFVr?oc=5",
-      "source": "Oxford Mail",
-      "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
-      "description": "Retail giant with Oxfordshire stores to take over luxury company Oxford Mail",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "At Dior, Jonathan Anderson is thinking long-term, not 'trendy' - Le Monde.fr",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRk10ZTR6aktDMFppUFVfcW02ZUpJZy1ZcVdrN19qSzdhYkZkWUVIR2tYQ2JLUGdma3JSV1NHSlB6UURYMmhXbl9sdjNuY01ReDBoZ0RWQlVyck1XQ2lpVThQQW03Nzhtdk8yV2RVZzdVWHUtTHMzMXNkRk5GLWdCUjcwZ1FTYWpFb25XTDYwaU5aekRUTjlSYm1TS0pFNUlZR2hkNXFGbm5wZ2puNDAzalVIMUlUbk4tRGYwWG5aZEZuN3lIa3hBdQ?oc=5",
       "source": "Le Monde.fr",
@@ -38,12 +30,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Moncler S.p.A. Stock (IT0004965148): Luxury outerwear name in focus after recent price pullback - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONk56NmJ5YzBPN1h5dGF4TDE0d0l3T0pZZHFFLW1Wa1hYMW5Db1VRRmtqdUg5bUdWV3A4bm5GQXpKbkkxQU1ENEZWNHo3NGd2SEdPczF4LU81YUF3NjhFTW5sM2Zpc3d2RmR6ckxqb2wzT2NsbkNTN1JhVVJJZnkyNzViNU9kSTNBNnA5ejZPdDNmNjNFQ29mazNMa1E2dEwzaUEzajdNTk1RUnpRRGQ1MnJhZVJxazlwWXV4SUJ2cG5YODVqVE1V?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Sat, 13 Jun 2026 17:27:59 GMT",
-      "description": "Moncler S.p.A. Stock (IT0004965148): Luxury outerwear name in focus after recent price pullback AD HOC NEWS",
-      "feed": "Google News - luxury fashion"
+      "title": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft - Travel and Leisure Asia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONW5aTXNrc3FpNDdmcGZORlBGODRaYXRIdTVaVm4zZDJzTUdlSlVUazdnM0h2ZWFaWWF5REJMS3dnVUNVZzlMRWUxWl85eGtxVDF2WTVBUHBsdEFrYjM4X0xsaTlxT0JweWNTeTF2eGRobmc0TnViLUw5WHlia21HOF94VF9OVF9yQzVHV1lCMkswcjJxdVhNMUdrLWFxVlhRaHVidUlzV09aUGJxcDlHa3FKVEJhM2wtTWNj0gHAAUFVX3lxTE1EYkNMZHJ6MGZGaEVPN2M0N1RVOEhUSFhmdnA5TEJTVzdaMnpmYVZvOHJuTWktOEpUU25uQTJIdWU4cks4NUtHVG5UVkxSN3BuMy1vc2dlRnVFdEh4UDRFbWpheGVvekFkdzdncGNZYWdrRzBOVzI4S1pMLWx2Nkg3eTRNT1BTblZITXl6LVU1anhYcGhBM3gyVFllenJ1MEVKbDVWakdWeWhKdTU5R2xxeGFfOHBtQUZSLXFyeEREaw?oc=5",
+      "source": "Travel and Leisure Asia",
+      "publishedAt": "Sun, 14 Jun 2026 06:52:33 GMT",
+      "description": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft Travel and Leisure Asia",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
