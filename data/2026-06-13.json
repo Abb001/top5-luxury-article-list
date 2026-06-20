@@ -1,10 +1,26 @@
 {
   "date": "2026-06-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-19T17:12:31.191Z",
+  "generatedAt": "2026-06-20T02:38:05.683Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-06-13.",
+  "message": "Found 4 article(s) published on 2026-06-13.",
   "articles": [
+    {
+      "title": "Can Italian luxury fashion win over Malibu’s board-shorts-and-flip-flops crowd? - The Star",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1kxVzZMWWNSVlhkSVZuSUI0UnV2bERxYkxKYXFURURvR0twSnB2QW9kZ2VpajdiY0hzQVRacWpnel9hUWlLNmZOOEpueDV6Zm45ZnRrQVZiNTNSbUh2ckV2NURWWE42YUk0NEdFVThoLXBUWm5tNXFZaWJoUWVyUDdyMDFRUXB4azRIeHpXdmltbXo5eUVwR1JzRU03eTlRTDZOajJ1cVI4VzBuNTVWQzhVWTRvTnk2U2hjS3RfQ1ZOTWExeG12dUktcw?oc=5",
+      "source": "The Star",
+      "publishedAt": "Sat, 13 Jun 2026 11:00:00 GMT",
+      "description": "Can Italian luxury fashion win over Malibu’s board-shorts-and-flip-flops crowd? The Star",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "High-Profile Luxury Brand Collaborations - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55N1BXeU9CbnFjR1dFYmVLOUhCWDRIU0ttbjNCQS1KYUZuakFOcHVFT1NOQWtqdGZ6Rl8yalZHS2tuSjNUNzJDTE5PVGdza1lLOXJEbHJ0aHZhS3FJRG5rbzRXVU96Mi05anJUaHRZa9IBdEFVX3lxTE9raVc3RDhDRF80QUVXRlN4dllEZ1A2ZjBSUEtrUlVjS0VndEEzeHVBR0ZyOTQ3M3VndzZQVjMzSDM4VU1Qdk1OUl9iNlZrRktEenhMZDBDTUttRlIyc2dCZl9CR3hZY2l6bTN5ejVmdXFfVkl4?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "Sat, 13 Jun 2026 15:16:28 GMT",
+      "description": "High-Profile Luxury Brand Collaborations Trend Hunter",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "More Than Fine Jewelry, Simon G. Makes Memories You Can Hold In Your Hand - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMnVyUU04dTVUNVpSMXZaZ1hIamI1RDdiWXB6bFRDTWM1NkFiTG9LQzB4bi1HZG1sejJrTE1NODdDVlJ3UnpkYllCSGZ5ZnlSb05SNkpPeHZKY0dEcG51dnlrLU9sZjY3b0RTanNEX0RMWWIxX19DYkgzUUNBLTJmZktnd0QzYjh0RHZ6U085NzIxeGpmM3F0Q2hlUlpDNDZpa3ZwUHFhQ3hRenI4b1FOT082amIxOFB4c1czRTBKekJER1l1SHBLb0k4Yw?oc=5",
@@ -22,9 +38,5 @@
       "feed": "Google News - luxury lifestyle"
     }
   ],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "fetchWarnings": []
 }

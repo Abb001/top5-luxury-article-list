@@ -1,24 +1,24 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-19T17:12:31.191Z",
+  "generatedAt": "2026-06-20T02:38:05.702Z",
   "status": "ok",
-  "message": "Found 4 article(s) published on 2026-06-14.",
+  "message": "Found 5 article(s) published on 2026-06-14.",
   "articles": [
     {
-      "title": "Saudi Arabia: Luxury fashion's next global powerhouse - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakxTVVhxTHJVa2pPdW0zVUJ2bzNFMU5WVjlSM00tbmZBOUFtMjRPZ3gwVDQwV1ZTWnFLdnZBZnlBS092eW1mRGlCOUVrUDl1Z0FnYl9MV2VaOG9OT2laS0ZUVFc5anZ3VFpZWkhfU3pnaGVPNVREZXVVd3J6bXlHaXRpcFFxTzFlbXdqSWwweGZsM3d2M0x6X3VYYzZaS2RpV3pQN29YUlZvT29jYkJKQ3ZTOA?oc=5",
-      "source": "MSN",
-      "publishedAt": "Sun, 14 Jun 2026 06:44:04 GMT",
-      "description": "Saudi Arabia: Luxury fashion's next global powerhouse MSN",
+      "title": "Haute Couture 2015 Atelier Versace Patent Leather Boots Atelier Versace Spring 2015 Couture FASHION SIZZLE - consumerthai",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2X3RiMEpubHRDel9hR3dPN29kal8yaWpnTWw2RVoxc0ctdUhhNVo1RmFTYjZSS0lUdHRYckt4TzE5V1MtdVJMSTcxXzF5b0NLWnZQdQ?oc=5",
+      "source": "consumerthai",
+      "publishedAt": "Sat, 13 Jun 2026 22:07:59 GMT",
+      "description": "Haute Couture 2015 Atelier Versace Patent Leather Boots Atelier Versace Spring 2015 Couture FASHION SIZZLE consumerthai",
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Retail giant with Oxfordshire stores to take over luxury company - Witney Gazette",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQy1LcER3TnZSbGY3czV4TlEtTXFIcG9FMUgwOFdGb3FHTEE4aXkwaVhIRlJkU2IwbEZ2R2U1MWhFOWRXQXdGZUpZVkw5QS1HYXRQOVRpV3gzTmdSWWltdEFtdGZfclVwN3VLaERqZFVySVhxaDB6dG1mU2hVVXdYb3JrdHVRdUtCTnJuemRzbHRKQ2toUks1dHhlQQ?oc=5",
-      "source": "Witney Gazette",
-      "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
-      "description": "Retail giant with Oxfordshire stores to take over luxury company Witney Gazette",
+      "title": "Family Owned Fashion Brands: 10 to Shop Now - ldnfashion",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYlVvTWRsRW5MUWxIeVJVLXQ3Q1dfNmhOSXJtcFVCR2ExTkRLMWNZTy1BWWEzVFNVX283RV9YbWZCc3RsQ1lWY0VLZEdSaFU2dDdEWlktMWI2RG02b1ZULUxHTHlzWGNTVzdXakZ6NEtvZXdkdk9LMU1kWTVfZmlTMzFvZVVra2c?oc=5",
+      "source": "ldnfashion",
+      "publishedAt": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "description": "Family Owned Fashion Brands: 10 to Shop Now ldnfashion",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -36,11 +36,15 @@
       "publishedAt": "Sun, 14 Jun 2026 06:52:33 GMT",
       "description": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft Travel and Leisure Asia",
       "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "These Are The Brands Editors Lean On For Stylish, Modern Workwear - British Vogue",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4bmxDRTZPcXpfM3dHbFJtRllJV2JHdTdpUE1GbUV1Ny00TFA0SHd1LVlUMm95MEVndnh4ZGwyQUlIV1RHbXZDUFJBVjBmNjhKY2c2Z1c5RmJxclJvMjAyVjRObkhrRHJpZGdEMA?oc=5",
+      "source": "British Vogue",
+      "publishedAt": "Sun, 14 Jun 2026 06:00:00 GMT",
+      "description": "These Are The Brands Editors Lean On For Stylish, Modern Workwear British Vogue",
+      "feed": "Google News - luxury fashion"
     }
   ],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "fetchWarnings": []
 }
