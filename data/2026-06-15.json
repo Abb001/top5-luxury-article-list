@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-20T11:10:09.516Z",
+  "generatedAt": "2026-06-20T13:43:49.626Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -14,14 +14,6 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Jinkee Pacquiao's Fashion Moments During Her Son's Wedding Weekend - Metro.Style",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUJ2TTFnampLQWdZbWVoYmZXYU9qdUI5SVFjTDV3a1hqNy1wclNEaGZaaWNhN1Y1N3VpckVoVVZ2WGFjQlZqUmJtWU5SNFoyaVJybDlKZ0x4MjJ3eXNJNGVQQTRzdkFZS19tY1d4aUdqcDZOX1lodzN4Y1RUaTNSR1BSRk9OVEtzWnhPSkZlMDhFVVh4MjluS0NOM1Z5dVFsaFNsMA?oc=5",
-      "source": "Metro.Style",
-      "publishedAt": "Mon, 15 Jun 2026 15:21:55 GMT",
-      "description": "Jinkee Pacquiao's Fashion Moments During Her Son's Wedding Weekend Metro.Style",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Kylie Jenner’s Khy Appoints Laura du Rusquec as CEO - Oui Speak Fashion (OSF)",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQalN6QU1ILUFueE9uTXM2LTk3ZXVrT0pXOXp2dFd4b1FwM0wzQmZNNWNqbi0yd21QeHd2UWJlUVhUNWhBTU1Qd2czT0U5OE1wOWVIdkpJdUM2alFWblljT3pscFQ0d0RzTVFubFBRRHZ0UTNqZlJnakFIX1V4d0plWjFsWU05UQ?oc=5",
       "source": "Oui Speak Fashion (OSF)",
@@ -30,19 +22,27 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Kylie Jenner’s Khy appoints new CEO - fashionunited.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYm9uMGFkRml5aWU4TnE4VThkUzd1dG5IcGRiTjdydEwzcVB6d0VpLUhqNmNmM1hubXJyOURoU3BoQzdMMjJrYlNjbG1zczlxTGowU2hJZmswX21RQnM1dXZFa1VrRU1Nb2luaVA2N2ZwM2lMLWIzYkFuRVoxdmNpX2FqWkYyU1ZsNkhkZG1R?oc=5",
-      "source": "fashionunited.uk",
-      "publishedAt": "Mon, 15 Jun 2026 13:58:31 GMT",
-      "description": "Kylie Jenner’s Khy appoints new CEO fashionunited.uk",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Fashion Plays Centre Forward at FIFA - The Voice of Fashion",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTctRFg0d25MT2pqSDJNb2pjREJLT1dwWWZXblk5aWc4TUh6cU43LUl5TFFteUM4YUJFNXRFN3Q0NHlKcXhwSmNmUmR4bGY2aFd0NFR1RkVaV182UFRBZTJfMFpfZmFycVMtRFZMQ3IybU12YTNfc0tpdnAxUHR5aWlyZ0tTSFB6b0V6Z1ZNbUNRM2ZHS2dERy1aamI?oc=5",
       "source": "The Voice of Fashion",
       "publishedAt": "Mon, 15 Jun 2026 13:48:19 GMT",
       "description": "Fashion Plays Centre Forward at FIFA The Voice of Fashion",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Quiet luxury on the fairway: F&F’s WAAC golf apparel pushes Korean style global - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXM5dk05Qy1VaTlIM1lueVdudHBWMWZIeE5UQ2RJaXByZ3ZvcUhaeWk0aDVGcnJZNGJ0SjdCeld2NGdiemppZXhMck11Nkhxdm53eElfTGxYZzJsUXpJeFdPcDJqSnBfVE84Ui1JQTFNa1VERFNjX0NkWE41bmxFaFFOb3pMdUdqRXE0OE53QTdFZEd4WVc5YWVnM3I5YjM5MWE1N3ZuaUxaR09qalNpSTI1WXZRbUNEaGJkc0RqTWtjVjVRTHBr?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Mon, 15 Jun 2026 13:35:52 GMT",
+      "description": "Quiet luxury on the fairway: F&F’s WAAC golf apparel pushes Korean style global AD HOC NEWS",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Indian items sold as global luxury: Who really owns the cool? - Lifestyle Asia Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE5vUXM4TnA0Z09nbFhXeldwTFZBeXJyNUpzWGJGaWZ1UkdxU01MemJfZFFrRFYyeWJ5aDJaeUE1SHB3QzA1dk1iUUdnaHh4TWQtdzh6eDcxTFNwcmdBMnI2WmpNR2phdkliZzlrVG1handPLTZvS2psQzBTLTUtY3R6bkd0UENTendrSHEtZFVNV0hYNjEtSTJJSE02ZGUxT3Z1V0tzT21lVnl6dnhYQkh0c1BCLTJUdVplQXZYdXV1UdIBxwFBVV95cUxObkNnQ1QyenlaUWV3Y1RBZFVKbl8xQVBtYTNaMjRqcGVoQVZkTUFDVDE1YjJWZzRsT3JFS05ZQ3k0cmZWMkh1WnVCczJUdFhrQ0hNNWJzTVI2N3FabkVoZHBwdEIzR3NSMHo1ZjBpZENzTHMxcnBjdkpvTDNGVC1GeVVDZTB6SVBKRXdMamZfSklSYU1ITl9SRU1jbVVDc3hsMHhpWUpPVndTWTMxTndEYnRONXRWSGNheTY3N2x0cjhQRXdiQkow?oc=5",
+      "source": "Lifestyle Asia Hong Kong",
+      "publishedAt": "Mon, 15 Jun 2026 11:54:07 GMT",
+      "description": "Indian items sold as global luxury: Who really owns the cool? Lifestyle Asia Hong Kong",
       "feed": "Google News - luxury fashion"
     }
   ],
