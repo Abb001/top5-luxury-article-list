@@ -1,9 +1,9 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-20T13:43:49.604Z",
+  "generatedAt": "2026-06-20T16:13:08.600Z",
   "status": "ok",
-  "message": "Found 4 article(s) published on 2026-06-14.",
+  "message": "Found 3 article(s) published on 2026-06-14.",
   "articles": [
     {
       "title": "Haute Couture 2015 Atelier Versace Patent Leather Boots Atelier Versace Spring 2015 Couture FASHION SIZZLE - consumerthai",
@@ -28,14 +28,6 @@
       "publishedAt": "Sun, 14 Jun 2026 02:00:02 GMT",
       "description": "At Dior, Jonathan Anderson is thinking long-term, not 'trendy' Le Monde.fr",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft - Travel and Leisure Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONW5aTXNrc3FpNDdmcGZORlBGODRaYXRIdTVaVm4zZDJzTUdlSlVUazdnM0h2ZWFaWWF5REJMS3dnVUNVZzlMRWUxWl85eGtxVDF2WTVBUHBsdEFrYjM4X0xsaTlxT0JweWNTeTF2eGRobmc0TnViLUw5WHlia21HOF94VF9OVF9yQzVHV1lCMkswcjJxdVhNMUdrLWFxVlhRaHVidUlzV09aUGJxcDlHa3FKVEJhM2wtTWNj0gHAAUFVX3lxTE1EYkNMZHJ6MGZGaEVPN2M0N1RVOEhUSFhmdnA5TEJTVzdaMnpmYVZvOHJuTWktOEpUU25uQTJIdWU4cks4NUtHVG5UVkxSN3BuMy1vc2dlRnVFdEh4UDRFbWpheGVvekFkdzdncGNZYWdrRzBOVzI4S1pMLWx2Nkg3eTRNT1BTblZITXl6LVU1anhYcGhBM3gyVFllenJ1MEVKbDVWakdWeWhKdTU5R2xxeGFfOHBtQUZSLXFyeEREaw?oc=5",
-      "source": "Travel and Leisure Asia",
-      "publishedAt": "Sun, 14 Jun 2026 06:52:33 GMT",
-      "description": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft Travel and Leisure Asia",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
