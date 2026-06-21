@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-21T07:28:07.805Z",
+  "generatedAt": "2026-06-21T11:39:54.943Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -14,27 +14,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Kylie Jenner’s Khy Appoints Laura du Rusquec as CEO - Oui Speak Fashion (OSF)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQalN6QU1ILUFueE9uTXM2LTk3ZXVrT0pXOXp2dFd4b1FwM0wzQmZNNWNqbi0yd21QeHd2UWJlUVhUNWhBTU1Qd2czT0U5OE1wOWVIdkpJdUM2alFWblljT3pscFQ0d0RzTVFubFBRRHZ0UTNqZlJnakFIX1V4d0plWjFsWU05UQ?oc=5",
-      "source": "Oui Speak Fashion (OSF)",
-      "publishedAt": "Mon, 15 Jun 2026 14:18:52 GMT",
-      "description": "Kylie Jenner’s Khy Appoints Laura du Rusquec as CEO Oui Speak Fashion (OSF)",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Fashion Plays Centre Forward at FIFA - The Voice of Fashion",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTctRFg0d25MT2pqSDJNb2pjREJLT1dwWWZXblk5aWc4TUh6cU43LUl5TFFteUM4YUJFNXRFN3Q0NHlKcXhwSmNmUmR4bGY2aFd0NFR1RkVaV182UFRBZTJfMFpfZmFycVMtRFZMQ3IybU12YTNfc0tpdnAxUHR5aWlyZ0tTSFB6b0V6Z1ZNbUNRM2ZHS2dERy1aamI?oc=5",
       "source": "The Voice of Fashion",
       "publishedAt": "Mon, 15 Jun 2026 13:48:19 GMT",
       "description": "Fashion Plays Centre Forward at FIFA The Voice of Fashion",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Quiet luxury on the fairway: F&F’s WAAC golf apparel pushes Korean style global - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXM5dk05Qy1VaTlIM1lueVdudHBWMWZIeE5UQ2RJaXByZ3ZvcUhaeWk0aDVGcnJZNGJ0SjdCeld2NGdiemppZXhMck11Nkhxdm53eElfTGxYZzJsUXpJeFdPcDJqSnBfVE84Ui1JQTFNa1VERFNjX0NkWE41bmxFaFFOb3pMdUdqRXE0OE53QTdFZEd4WVc5YWVnM3I5YjM5MWE1N3ZuaUxaR09qalNpSTI1WXZRbUNEaGJkc0RqTWtjVjVRTHBr?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Mon, 15 Jun 2026 13:35:52 GMT",
-      "description": "Quiet luxury on the fairway: F&F’s WAAC golf apparel pushes Korean style global AD HOC NEWS",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -44,6 +28,22 @@
       "publishedAt": "Mon, 15 Jun 2026 09:30:00 GMT",
       "description": "Is the Luxury Handbag’s Heyday Ending? WSJ",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "10 of our favourite Quiet Luxury brands to have on your radar - Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkFxX2VRMU5zZ3U1TW56ZHNlYlVUUUFmVTBOOE8yYmxYX0J6ZFZBZEJqcC05b0JhQ3lFb1BTNDMxbThxMnQ2SlZtOHZaWmpSNFNwOUZQbi1ZektDUkRMLTJtRXdZUk41aEZVaFV5bnBJVFhXTHhNWUhiRE9mVXFLZDloTENUSGs?oc=5",
+      "source": "Harper's BAZAAR",
+      "publishedAt": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "description": "10 of our favourite Quiet Luxury brands to have on your radar Harper's BAZAAR",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Owambe Lace Owambe Styles For Ladies In 2018 Latest And Elegant Owambe Styles For See Post >>> Https - consumerthai",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vU3p0SFV0R1ZieFVReEpVanlkeVd6WjZ4NlpnRHQtWXY0SjNMM0ZyZ3FyV3lNXzl5VFpCM2RPUUktQm1GenBxY3ZXWUt0X0xxQVBj?oc=5",
+      "source": "consumerthai",
+      "publishedAt": "Mon, 15 Jun 2026 12:42:58 GMT",
+      "description": "Owambe Lace Owambe Styles For Ladies In 2018 Latest And Elegant Owambe Styles For See Post >>> Https consumerthai",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
