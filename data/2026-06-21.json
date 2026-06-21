@@ -1,9 +1,50 @@
 {
   "date": "2026-06-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-20T16:13:08.642Z",
-  "status": "empty",
-  "message": "No articles published on 2026-06-21 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-06-21T02:54:16.426Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-06-21.",
+  "articles": [
+    {
+      "title": "Dua Lipa Goes From a Schiaparelli Bridal Suit to Custom Chanel Couture for Her Second Wedding Ceremony - WWD",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTE1mUnRsRE5ITmljcGl1YTZxTV94N1Y1bG5ZUFl2bHNNaG9Ob25lOVBMWmdYbXgwNHJWX05Yc2VZOWVJdTlqZ3JCUVhzVFhtTTQtTVdEZ2dMNFk5OW53bm90dnRtLTNpaXQ3LVFnTWE4aGVHMzU3Sk5SYVpzd0F0bFMzaVBRaFMxZUNtbXBvVFZMN3cydmR2d1VXaVVIdTZob05TeFdWZThERHN1X1h3cU53?oc=5",
+      "source": "WWD",
+      "publishedAt": "Sat, 20 Jun 2026 19:32:59 GMT",
+      "description": "Dua Lipa Goes From a Schiaparelli Bridal Suit to Custom Chanel Couture for Her Second Wedding Ceremony WWD",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Dua Lipa's Feathered Chanel Couture Wedding Dress Featured A 2-Metre Train: All The Details - ELLE",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUN3h3YWIxUkhzT1diOV9MSlMwWUJ0T3dNN29xRFd2NnVDb3Bjc2JIQ3UtZUtweVMyMzlrMkVQOFJBSFdhbWlvUXJzbGxodHBSYXdyOGdZS0RIS0RYLUlQN19rcWhVVDdPU3Eya3J3b1VscWJmV0NkOXdNSnc?oc=5",
+      "source": "ELLE",
+      "publishedAt": "Sat, 20 Jun 2026 18:33:27 GMT",
+      "description": "Dua Lipa's Feathered Chanel Couture Wedding Dress Featured A 2-Metre Train: All The Details ELLE",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "LVMH Stock - Long-term luxury strategy under the spotlight - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUFFeDJwemJKR1BES3ktRHlQS1o0eUN3M3dsLWUwU2RzNkxnTkNtTHRIRG54Z2c0ZFp2VjhQMEYzUVZiTWpSeVFXTEduYmJsRGl2aWVOM3A0Vk53NmY5d1AtNERhYXRBanY3TFZuTThWYXNybjRRWEZfZklnM0hnakYyNlhKVTlKSVZmX1A5Z3Z2N3ZGNi1YNnlwYkM5MzQtRUJXYmhSNk1kNnEtMGxmanZxMWc2UQ?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Sat, 20 Jun 2026 16:31:56 GMT",
+      "description": "LVMH Stock - Long-term luxury strategy under the spotlight AD HOC NEWS",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "How many hours did it take to create Dua Lipa’s wedding veil? Details explored as Chanel shares making of singer’s bridal look - soapcentral.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX1RPUmxlbHpyTmJGNXlDSkxEQnJGTG1qWTNXN2ZxeUxMaGpWZFhqQkxONVZCTlZ2MG5KTVotS0JxRXpsNzdmeUFmZTFOdXJEZk1IVUFLVUgtM24wdkhHUDFuLS1MSzItT1ZDZ2o2eEtaYmVPbmVtLW1SMm9UaEYwMG1oY0x6cFRtWkN3NjlMMVpvTzJycnNGbElNaFdDU0k4Y1RqbFFWS1BIenU1QU45b2dGSWdtTUFZMmNleHllU2pVYXZQcnJQM2RsV2ZKalRYaF8wdUdtMlNDcFM1OXV4UnNTMUo0cUtxdjFtag?oc=5",
+      "source": "soapcentral.com",
+      "publishedAt": "Sat, 20 Jun 2026 22:33:49 GMT",
+      "description": "How many hours did it take to create Dua Lipa’s wedding veil? Details explored as Chanel shares making of singer’s bridal look soapcentral.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Late billionaire’s luxury Sydney apartment hits the market after 33 years - Domain",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1hrSXcxRFV2dzlTcGpYU3VfZl9OdDVya01OREhzcW5CRlVlek9RVWk1TGxnNHllRFV3ZF9YNnBSYzZScW8wa1lwOVRIVUVpbXFKS0NiZE9iWWg2TjQxYlpxcGJSRzBGdWZJSHJmOHVWcWtKY01oWWl5dEllYnJTN25CV3M1Qk9YVEZLNjZacUdwTXp2d1hIWmYweFphVkg3WWZNV0NLX0s?oc=5",
+      "source": "Domain",
+      "publishedAt": "Sat, 20 Jun 2026 22:16:11 GMT",
+      "description": "Late billionaire’s luxury Sydney apartment hits the market after 33 years Domain",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
