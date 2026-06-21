@@ -1,9 +1,9 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-21T02:54:16.390Z",
+  "generatedAt": "2026-06-21T07:28:07.787Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-06-14.",
+  "message": "Found 1 article(s) published on 2026-06-14.",
   "articles": [
     {
       "title": "Retail giant with Oxfordshire stores to take over luxury company - Witney Gazette",
@@ -12,14 +12,6 @@
       "publishedAt": "Sun, 14 Jun 2026 12:00:00 GMT",
       "description": "Retail giant with Oxfordshire stores to take over luxury company Witney Gazette",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft - Travel and Leisure Asia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONW5aTXNrc3FpNDdmcGZORlBGODRaYXRIdTVaVm4zZDJzTUdlSlVUazdnM0h2ZWFaWWF5REJMS3dnVUNVZzlMRWUxWl85eGtxVDF2WTVBUHBsdEFrYjM4X0xsaTlxT0JweWNTeTF2eGRobmc0TnViLUw5WHlia21HOF94VF9OVF9yQzVHV1lCMkswcjJxdVhNMUdrLWFxVlhRaHVidUlzV09aUGJxcDlHa3FKVEJhM2wtTWNj0gHAAUFVX3lxTE1EYkNMZHJ6MGZGaEVPN2M0N1RVOEhUSFhmdnA5TEJTVzdaMnpmYVZvOHJuTWktOEpUU25uQTJIdWU4cks4NUtHVG5UVkxSN3BuMy1vc2dlRnVFdEh4UDRFbWpheGVvekFkdzdncGNZYWdrRzBOVzI4S1pMLWx2Nkg3eTRNT1BTblZITXl6LVU1anhYcGhBM3gyVFllenJ1MEVKbDVWakdWeWhKdTU5R2xxeGFfOHBtQUZSLXFyeEREaw?oc=5",
-      "source": "Travel and Leisure Asia",
-      "publishedAt": "Sun, 14 Jun 2026 06:52:33 GMT",
-      "description": "Bombardier And Elie Saab Unveil New Cabin Design For Global 8000 Aircraft Travel and Leisure Asia",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []

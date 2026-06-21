@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-21T02:54:16.408Z",
+  "generatedAt": "2026-06-21T07:28:07.805Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -38,12 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Indian items sold as global luxury: Who really owns the cool? - Lifestyle Asia Hong Kong",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE5vUXM4TnA0Z09nbFhXeldwTFZBeXJyNUpzWGJGaWZ1UkdxU01MemJfZFFrRFYyeWJ5aDJaeUE1SHB3QzA1dk1iUUdnaHh4TWQtdzh6eDcxTFNwcmdBMnI2WmpNR2phdkliZzlrVG1handPLTZvS2psQzBTLTUtY3R6bkd0UENTendrSHEtZFVNV0hYNjEtSTJJSE02ZGUxT3Z1V0tzT21lVnl6dnhYQkh0c1BCLTJUdVplQXZYdXV1UdIBxwFBVV95cUxObkNnQ1QyenlaUWV3Y1RBZFVKbl8xQVBtYTNaMjRqcGVoQVZkTUFDVDE1YjJWZzRsT3JFS05ZQ3k0cmZWMkh1WnVCczJUdFhrQ0hNNWJzTVI2N3FabkVoZHBwdEIzR3NSMHo1ZjBpZENzTHMxcnBjdkpvTDNGVC1GeVVDZTB6SVBKRXdMamZfSklSYU1ITl9SRU1jbVVDc3hsMHhpWUpPVndTWTMxTndEYnRONXRWSGNheTY3N2x0cjhQRXdiQkow?oc=5",
-      "source": "Lifestyle Asia Hong Kong",
-      "publishedAt": "Mon, 15 Jun 2026 11:54:07 GMT",
-      "description": "Indian items sold as global luxury: Who really owns the cool? Lifestyle Asia Hong Kong",
-      "feed": "Google News - luxury fashion"
+      "title": "Is the Luxury Handbag’s Heyday Ending? - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemxrUUs1eEtjdER2aFdYNS1oRF9nVVZza01yME5Qem5tek5tNjdqTmhUdXJTRmd5OVZnNVNtNlVRWG9ySUpISEdUNmxWVVFoMlZhN25aaW5DS2M5WGdBcU1NUzUwYVJpbnlCYkNDeDdtRS00VU5lVVd6c0pnM0NEMlR1RmJEMmxV?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Mon, 15 Jun 2026 09:30:00 GMT",
+      "description": "Is the Luxury Handbag’s Heyday Ending? WSJ",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
