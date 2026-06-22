@@ -1,9 +1,50 @@
 {
   "date": "2026-06-22",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-21T16:26:14.359Z",
-  "status": "empty",
-  "message": "No articles published on 2026-06-22 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-06-22T02:57:14.075Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-06-22.",
+  "articles": [
+    {
+      "title": "Closer Look at Matthieu Blazy's First Custom Chanel Haute Couture Wedding Dress Made for Dua Lipa - Hypebeast",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWZnWUJBWFd2MHBNTEE5eE5Td1FlWlktTUlwSTl1VXZvMTJVcWNYaGV5UlNjeTZaOUV5RkRkTzlub1ZUcjhIenJEUE55bkpkbUk2dWZJZmV6a1V0Y3E0bmtHMjZzQ2hGRDdfaURmUUU3UnBvZ2dISnJOZ1Y5ZnlFU3d3YVpLYVZoVlhJV0J1aWwyZnpYZFlteW4yZUMxVjlJcnhDeGl2RXVvQ2RDa0p0aVZn?oc=5",
+      "source": "Hypebeast",
+      "publishedAt": "Mon, 22 Jun 2026 01:23:32 GMT",
+      "description": "Closer Look at Matthieu Blazy's First Custom Chanel Haute Couture Wedding Dress Made for Dua Lipa Hypebeast",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Fashion Branding Lessons From Top Luxury Houses The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, Gaming, Movies, MMA, - The Hype Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0ZpZ2FxVVFXZTBQMGJnTVFQX2dSRDZVeGdxdm42WFZwdi1Nc2o2cnpfOE1hSnY0eWRCTU96NDFmbEp2eUFiVndsdXp1QS1Cai1YdWsxY05nZ3puWXZjVUR3Q1RZcndwdGFneXZSYmExamNnRDVRMlhoWmtMem1CcV84LUtZQVBhTk40YmM1VjlZOUN4UGc?oc=5",
+      "source": "The Hype Magazine",
+      "publishedAt": "Sun, 21 Jun 2026 19:07:13 GMT",
+      "description": "Fashion Branding Lessons From Top Luxury Houses The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, Gaming, Movies, MMA, The Hype Magazine",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Accor and FHCM Launch New Crafts Awards: Swissôtel Bridges Haute Couture, Design and Luxury Hospitality in 2026 - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdklZWm9ueGdENDJIVjR0QU5kVmJuSjBlaTE3RnBVTUVyd3RSNXgzQlBPak1rbVRRdldPeVlKVDdDM1lDcW1YY212MWNkQTB2LTlkVXRibFVwdEhHUEdOR3lubXRqSWp0Tl91Yjh5YVkya2VMa3ZPZXZueTlTSExnSDdSdGdlZDFUeFg2QzlQZW91V3c0X3lpUjloaFpsZHgt?oc=5",
+      "source": "Nomad Lawyer",
+      "publishedAt": "Sun, 21 Jun 2026 17:59:41 GMT",
+      "description": "Accor and FHCM Launch New Crafts Awards: Swissôtel Bridges Haute Couture, Design and Luxury Hospitality in 2026 Nomad Lawyer",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "The Chanel Gown Dua Lipa Wore in Sicily Is Everything Luxury Weddings Are Made Of - inkl",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1Vqb01PVkRTc0pnVzd3cW5ic3cyR0ZPVGViWUg0a0tuajFYWHhrNmVYNERmbG9NRm1IZ3pkdUFSTDNJZkdQVzJyT0pOMDBPSklZWkN2R3ZhT1Y2bzF0VTN6bGQ0czFVd1BZV04xVVQ1NnNZZFY3VGNFNGZZa3pFaDRPN0hCV2JDN2J2UjRvY0ltTjVyX19zLV9FYUY2UlJ1MEticlJPWExOTE0?oc=5",
+      "source": "inkl",
+      "publishedAt": "Sun, 21 Jun 2026 17:19:29 GMT",
+      "description": "The Chanel Gown Dua Lipa Wore in Sicily Is Everything Luxury Weddings Are Made Of inkl",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "BLACKPINK's Lisa’s style evolution: From K-pop neon queen to quiet luxury icon - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSUltT1N5cmZ4Zno4czl2VExXemtaRnBuZHpsSXdQbEhZT1h0dW03cWZVakNMb0tPMWhDbDNYYkd5dWZoZ0tsZ1dzT0lfanlkTE03NXJZdFMtaXVUc2ppT1pyNDNxTG0yamJySVlZUXVXWmJzeG9kMmJ2T2xqOElwVWtTT2s5WVh1Sk1MbXRpSnVjTHh3MzAyWFlTWkZOdXQyYW9DbGF1UE52V0RzYXQ0Vy1faUtpcjA0SDBIalEweXJ3QU9NUmpZVUE5dkNsQXNSc09kVkZYa0RUNFhqNDB1THZVVDVqMWlDNGVCRGlwWHpEaGtzZk5uanZPNNIBgwJBVV95cUxPLThSWU5EeFNIazRCVkxLSGJVeDlIUm1pZlJvR2FyRHltajF3elBvOFNkeU5QTXNmMUljQldHamUybFhVcXRlT1J3WDBCQVRDWmJxNmxIS1RLTEgwVk45MVRiZ1V2cEFQLXVoU0VBMjRYaTVOTWR4OVlFT2tMemtSUUd3dGRta1ZLN29SYmNGUE1lc203LVNDY0VHWk12T3pNZ0dEQjl0RkY4NExXMXBRbFNoa3M0Qmd0bzNNOXJSaDZYSUZnRGFhZldUdVExbGxHTFdnY3VGbTRYQXBUWFJybDJDTHA5emx5OWlKU3BsT0JaNjVGZ3lsWVhqbWN4c21ubUpn?oc=5",
+      "source": "The Times of India",
+      "publishedAt": "Mon, 22 Jun 2026 00:30:00 GMT",
+      "description": "BLACKPINK's Lisa’s style evolution: From K-pop neon queen to quiet luxury icon The Times of India",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
   "fetchWarnings": []
 }
