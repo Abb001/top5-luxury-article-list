@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-22T02:57:14.053Z",
+  "generatedAt": "2026-06-22T08:56:47.394Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-15.",
   "articles": [
@@ -22,14 +22,6 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Kylie Jenner’s Khy appoints new CEO - fashionunited.uk",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYm9uMGFkRml5aWU4TnE4VThkUzd1dG5IcGRiTjdydEwzcVB6d0VpLUhqNmNmM1hubXJyOURoU3BoQzdMMjJrYlNjbG1zczlxTGowU2hJZmswX21RQnM1dXZFa1VrRU1Nb2luaVA2N2ZwM2lMLWIzYkFuRVoxdmNpX2FqWkYyU1ZsNkhkZG1R?oc=5",
-      "source": "fashionunited.uk",
-      "publishedAt": "Mon, 15 Jun 2026 13:58:31 GMT",
-      "description": "Kylie Jenner’s Khy appoints new CEO fashionunited.uk",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "Fashion Plays Centre Forward at FIFA - The Voice of Fashion",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTctRFg0d25MT2pqSDJNb2pjREJLT1dwWWZXblk5aWc4TUh6cU43LUl5TFFteUM4YUJFNXRFN3Q0NHlKcXhwSmNmUmR4bGY2aFd0NFR1RkVaV182UFRBZTJfMFpfZmFycVMtRFZMQ3IybU12YTNfc0tpdnAxUHR5aWlyZ0tTSFB6b0V6Z1ZNbUNRM2ZHS2dERy1aamI?oc=5",
       "source": "The Voice of Fashion",
@@ -38,11 +30,19 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Indian items sold as global luxury: Who really owns the cool? - Lifestyle Asia Hong Kong",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE5vUXM4TnA0Z09nbFhXeldwTFZBeXJyNUpzWGJGaWZ1UkdxU01MemJfZFFrRFYyeWJ5aDJaeUE1SHB3QzA1dk1iUUdnaHh4TWQtdzh6eDcxTFNwcmdBMnI2WmpNR2phdkliZzlrVG1handPLTZvS2psQzBTLTUtY3R6bkd0UENTendrSHEtZFVNV0hYNjEtSTJJSE02ZGUxT3Z1V0tzT21lVnl6dnhYQkh0c1BCLTJUdVplQXZYdXV1UdIBxwFBVV95cUxObkNnQ1QyenlaUWV3Y1RBZFVKbl8xQVBtYTNaMjRqcGVoQVZkTUFDVDE1YjJWZzRsT3JFS05ZQ3k0cmZWMkh1WnVCczJUdFhrQ0hNNWJzTVI2N3FabkVoZHBwdEIzR3NSMHo1ZjBpZENzTHMxcnBjdkpvTDNGVC1GeVVDZTB6SVBKRXdMamZfSklSYU1ITl9SRU1jbVVDc3hsMHhpWUpPVndTWTMxTndEYnRONXRWSGNheTY3N2x0cjhQRXdiQkow?oc=5",
-      "source": "Lifestyle Asia Hong Kong",
-      "publishedAt": "Mon, 15 Jun 2026 11:54:07 GMT",
-      "description": "Indian items sold as global luxury: Who really owns the cool? Lifestyle Asia Hong Kong",
+      "title": "Is the Luxury Handbag’s Heyday Ending? - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemxrUUs1eEtjdER2aFdYNS1oRF9nVVZza01yME5Qem5tek5tNjdqTmhUdXJTRmd5OVZnNVNtNlVRWG9ySUpISEdUNmxWVVFoMlZhN25aaW5DS2M5WGdBcU1NUzUwYVJpbnlCYkNDeDdtRS00VU5lVVd6c0pnM0NEMlR1RmJEMmxV?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Mon, 15 Jun 2026 09:30:00 GMT",
+      "description": "Is the Luxury Handbag’s Heyday Ending? WSJ",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "The A-Z Of Korean Brand Ambassadors - Harper's Bazaar Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0M1aE5adEYxQThhYU10MGdtZDRyVFdNR2o0UXEzU09iQUhWWUN0MXNaM3NxZGdZTFk1VVY1Uy12aFJLMVdncjZrcjFxbFlicHllX2VfOGtxQkxLbnlVbWhyZURaUlJvMkVvQy1UNDhkNExUUE1kRnNpY3BMemRkaVd0OHlnalNTUWtzY3A2bmpwcXJlc0xBN3NqQm96MXFBOVNZRTRpdlpLdmo4ckRpbVg0VlFnN29mblpzTTgxbmdxQQ?oc=5",
+      "source": "Harper's Bazaar Singapore",
+      "publishedAt": "Mon, 15 Jun 2026 09:15:00 GMT",
+      "description": "The A-Z Of Korean Brand Ambassadors Harper's Bazaar Singapore",
       "feed": "Google News - luxury fashion"
     }
   ],
