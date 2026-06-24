@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-24T11:40:14.091Z",
+  "generatedAt": "2026-06-24T14:11:07.558Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-24.",
   "articles": [
@@ -12,14 +12,6 @@
       "publishedAt": "Wed, 24 Jun 2026 11:14:11 GMT",
       "description": "A century after Chanel’s little black dress changed fashion forever, Dua Lipa’s white wedding gown has become the House’s latest couture legend, shimmering with 480,000 beads, 25,000 feathers, and over 3,000 hours of handwork. Luxurylaunches",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "A fashion editor's guide to the best luxury sportswear brands - Harper's BAZAAR",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1FNNkdGeW1UUjdQbjNKQ2g0NkljenNwMzNubVA2UjRWR2haNmhNSmRfM0txQXBTTERIN2FUMkdaNWlxYVpidTh5dUswVVdoc1k1Nnh3QUlmUlZVZVR2N0tvbnNYSzh1SkFPSmZrVmtNQkZnZjViLW9qeExlbjJDV0xleUtfN1V4ekZV?oc=5",
-      "source": "Harper's BAZAAR",
-      "publishedAt": "Wed, 24 Jun 2026 09:30:15 GMT",
-      "description": "A fashion editor's guide to the best luxury sportswear brands Harper's BAZAAR",
-      "feed": "Google News - luxury fashion"
     },
     {
       "title": "Announcing Nahmias and Polo Luxury on BoF Careers - The Business of Fashion",
@@ -44,6 +36,14 @@
       "publishedAt": "Wed, 24 Jun 2026 04:00:00 GMT",
       "description": "How Edition Hotels Is Winning Over the Next Generation of Luxury Travellers The Business of Fashion",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Armani vs Equinox Residences in Manhattan: Luxury Fashion vs Wellness Living - Castle Avenue Team",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2liODRBdEdhSFBpeGhnbEdkbjQzVUNLSzdZUFpXM1FydGdqTWpqM2pxUlNiamRVemt1ZU1oaDJISEd1VmY0aHpWazhBN2ZJMVR4U1pZX3FyUjQ0bDhBeHN6ZDlvZXZHS0NVTVNFRHhudnFROXFEa3Vyb1Rqa2MxYXBR?oc=5",
+      "source": "Castle Avenue Team",
+      "publishedAt": "Tue, 23 Jun 2026 22:43:16 GMT",
+      "description": "Armani vs Equinox Residences in Manhattan: Luxury Fashion vs Wellness Living Castle Avenue Team",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
