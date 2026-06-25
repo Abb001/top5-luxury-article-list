@@ -1,17 +1,49 @@
 {
   "date": "2026-06-25",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-24T17:01:19.131Z",
+  "generatedAt": "2026-06-25T02:34:54.268Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-06-25.",
+  "message": "Found 5 article(s) published on 2026-06-25.",
   "articles": [
     {
-      "title": "Rental Escapes expands into London and Mallorca, provides advice on selling villas - Travel Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFVoOUdUbnpCNUg5aEowQlBIVTZrOHpkZV9iSk1iWDltN0plbmozcVo0WEhvSXB6dWQzNWtJTkhKZEZCTXpXUlc4dzBfN3pVbHBJa0ZSWGc0dkZXcERjZ25iX1FjR2ZybmlldGhQZEJlRmY3Rkc2ay1lbUhxQUFTNkJHOXVNWVhz?oc=5",
-      "source": "Travel Weekly",
-      "publishedAt": "Wed, 24 Jun 2026 16:50:40 GMT",
-      "description": "Rental Escapes expands into London and Mallorca, provides advice on selling villas Travel Weekly",
-      "feed": "Google News - luxury business"
+      "title": "This Week in Retail: Ralph Lauren Hits Milan, L'Oréal Groupe Signs OpenAI Pact, Cartier Opens NGV Blockbuster, CHANEL Dresses Dua Lipa in Couture, BVLGARI Transforms Rome Windows - RETAILBOSS | Substack",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4el92Q2dhc3pYajVJNEtDemFTQmZkVnZFSkd4Z0hzTVBDbzhtVGxLUkF1cERrc1ltcWRSdlU1QXNiNU4wdVAyMzhTN0QzeHVLMlBLcmp3bXRsSF9WWHZFT2I4SDIwdzZ5YnV4TS1Lc09OaVlVZnc?oc=5",
+      "source": "RETAILBOSS | Substack",
+      "publishedAt": "Wed, 24 Jun 2026 19:19:28 GMT",
+      "description": "This Week in Retail: Ralph Lauren Hits Milan, L'Oréal Groupe Signs OpenAI Pact, Cartier Opens NGV Blockbuster, CHANEL Dresses Dua Lipa in Couture, BVLGARI Transforms Rome Windows RETAILBOSS | Substack",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Kim Yujin Dazzles in Luxury Fashion at Lotte Concert Hall - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEU3dlpMZHY1TjI4bHpnQm9tNDlmdXZEOFVsX3JSMWN2RUFOUWNCaHJVQnlFTVB2Tk9leUk5bTlXWnZ3VndsQmN6QU5hbVdfbXNlQ3NfNWVDMFdaaXFseG1uaWEtb0pjZmFxdW91VWhOR2RmVWNrV25UMzNib0Zib20ydG1UQ25XRFNqUEJR?oc=5",
+      "source": "조선일보",
+      "publishedAt": "Thu, 25 Jun 2026 01:30:00 GMT",
+      "description": "Kim Yujin Dazzles in Luxury Fashion at Lotte Concert Hall 조선일보",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Paris Men’s Fashion Week SS27 Opens with a New Vision of Luxury - Outlook Luxe",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzhack1FVTBkcUdZZ0hPcDlfUjhEeVU3N28xRU1Qd21pZFc3SHFta0swSjBIMmJtc3JIdm9zQ0ZaVjZZTXVWQjA0VFF0VGh2Wlh1NW5lUndaTmNDa2NrcjdUeW5OZ1luZ2hDd3BvZEE1YWxNUjdpeHBDaTNBdXNMRWFzNHJKbDVtUVc3Sm0zanR0VXpwbHVLMEZHVnJSaHZsRTktNzFPSnhUa25IdmhqRW50NS1DWl9TZVMxQWN2V0FxUGfSAcMBQVVfeXFMTkc4WnJNRVUwZHFHWWdIT3A5X1I4RHlVNzdvMUVNUHdtaWRXN0hxbWtLMEowSDJibXNySHZvc0NGWlY2WU11VkIwNFRRdFRodlpYdTVuZVJ3Wk5jQ2tja3I3VHluTmdZbmdoQ3dwb2RBNWFsTVI3aXhwQ2kzQXVzTEVhczRySmw1bVFXN0ptM2p0dFV6cGx1SzBGR1ZyUmh2bEU5LTcxT0p4VGtuSHZoakVudDUtQ1pfU2VTMUFjdldBcVBn?oc=5",
+      "source": "Outlook Luxe",
+      "publishedAt": "Wed, 24 Jun 2026 16:36:00 GMT",
+      "description": "Paris Men’s Fashion Week SS27 Opens with a New Vision of Luxury Outlook Luxe",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "BTS’ J-Hope looked expensive as he suited up for a luxury brand with South Korean actor Gong Yoo and American singer Pharell Williams. (📸: uarmyhope/Instagram) - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRmJBaElTc1VMM3ROUGoyQ2tjYm9ZeDMyaUFwakg5VURKSTU3RXktV2pWY3lIWE1vQWsyWnZ1Wmp2X242c0lJVzVvYURodDNuOVQtQjZBZmtSRlBKUVZXLXd6UDE2U3RQenRLYTNJRTQ2d01mUlJ6S2J0dWppbndNVktIeExSeHlhWG85N2FSVFQta3lUTUtCeFJXT2JaNUZVX2dMRnhuVmlQakljc0cxRDFNM1gxZ0RpaV9QdXZzX1lGVWRXZ2FOODQ0VFB2M0V1LWtpVm10Yw?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "Thu, 25 Jun 2026 00:50:03 GMT",
+      "description": "BTS’ J-Hope looked expensive as he suited up for a luxury brand with South Korean actor Gong Yoo and American singer Pharell Williams. (📸: uarmyhope/Instagram) facebook.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "NYFW Resort 2027 Luxury Brand Collections: Heirlome, R13 and More - WWD",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjJmQ1k1WXlKWll6bUFfQTVwT1g1VEVLRE83UzMxR0NhR1JfTEJGa0ZrVTdsbkFiNGFrN0pBX28taEFyQWNQTmVscVRtcHYyYU1Gb3FUbUNidkk3cFVlMmI1ZkFTYU03RE1QODdtRmlQeV94RVZYMUZXSHJqbUdjeGRGUV9kUDZwUjdXTTdnNUNveE52Mlh6MzNDeHpseDgxV0U1eDFpN3M1X3lxNktr?oc=5",
+      "source": "WWD",
+      "publishedAt": "Wed, 24 Jun 2026 22:28:07 GMT",
+      "description": "NYFW Resort 2027 Luxury Brand Collections: Heirlome, R13 and More WWD",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
