@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-25T06:41:52.900Z",
+  "generatedAt": "2026-06-25T11:33:40.065Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-25.",
   "articles": [
@@ -14,6 +14,22 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "Bain Forecasts Luxury Growth But Trims Outlook - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDhNRUp6MHZIN1RoWUlza2VydW1tZE1jVDlVUVo3NjViWXNETVplWTNoNHg1aGIyN2ozNDV3Y0FBWDlQOVN2eVdWRnNnaWFuM0ZqYUFaM05wZzNxVGhGQWpWanhGb3ctWWpkaF92eWFBQUI1LWV3aEd1VlNYLW5EN0FteXpfZXB1VURxeEdTZDhKdVRCeVZvVXhSY2JoUQ?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Thu, 25 Jun 2026 10:00:00 GMT",
+      "description": "Bain Forecasts Luxury Growth But Trims Outlook The Business of Fashion",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "How Zendaya’s USD 35 Thrifted Dress Disrupted the Global Luxury Fashion Ecosystem - streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnZBV19PX3Y4bGY1RFRxWVdfVmFJOG8xR0wzZEs0d0t2TWx4XzBKMEx1VmFpSHlKYTE3VmpqVUctd3o1TFNZVkRZQjZtSDFEbDYxNVFyZmhkSHdjT3hDdlNLMlo0TTlycXIwYkJDeHJfVmNlU3lUZFJLcFpNYlhMWjUtVm5XWlhuVzRyejdOU0hBZG1TUG54aWt5THczN2pTNHA0ZA?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "publishedAt": "Thu, 25 Jun 2026 09:31:15 GMT",
+      "description": "How Zendaya’s USD 35 Thrifted Dress Disrupted the Global Luxury Fashion Ecosystem streamlinefeed.co.ke",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "Rubies and Rolex: Priyanka Chopra Jonas oozes quiet luxury at Cannes Lions - Mathrubhumi English",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHZkdlpNVlFKa2Rsb3FwdWtaRGIxZmxNcWF5cS1kcEJJSG40UDhZczBHNjVzWHdhaU9HWUtFLWYySGd5cWgzbzdHU0xJVEktRDFDR2dWTWktZHUxdTZOV2d4Z1RPN1Y1QXNySzJidmc1WWlFbnViTjBjeFdsVG43dVN0bzcwSHRPSXVvQkg3NG1YVlRVTGpqQ1ZPY1Z5SVU0dmEtbzhhdWVUak9FeGdidnB1dFExX0RZeVBqTmpMUmJlUTlKdUhmdjRNNGkyS1dG0gHQAUFVX3lxTFBEdmR2Wk1WUUprZGxvcXB1a1pEYjFmbE1xYXlxLWRwQklIbjRQOFlzMEc2NXNYd2FpT0dZS0UtZjJIZ3lxaDNvN0dTTElUSS1EMUNHZ1ZNaS1kdTF1Nk5XZ3hnVE83VjVBc3JLMmJ2ZzVZaUVudWJOMGN4V2xUbjd1U3RvNzBIdE9JdW9CSDc0bVhWVFVMampDVk9jVnlJVTR2YS1vOGF1ZVRqT0V4Z2J2cHV0UTFfRFl5UGpOakxSYmVROUp1SGZ2NE00aTJLV0Y?oc=5",
       "source": "Mathrubhumi English",
@@ -22,28 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Designer Fashion Deals Dominate Prime Day Thanks to Amazon’s Shopbop Storefront and Luxury Resale Partners - The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYlpWT042ZzhWMUJ1dm92LWZ0YjJ4SVZvVERvc3FiS05TSVRRNU0yRmxXajdIeTR5Tkd3aW1BSlQ1b3Zad2tTVW9vWFoyUm9scW9lMFJLU0VyMDN0X0tjZlgwMm1VT01UUDZBRTlRWktfY3pBYjM5clhCX1V4R2FJZ1RZNzFLV1ZNdDVSOVhyVlBzdEM3dlk4NElLQUNtTHg3cXc?oc=5",
-      "source": "The Hollywood Reporter",
-      "publishedAt": "Thu, 25 Jun 2026 03:30:11 GMT",
-      "description": "Designer Fashion Deals Dominate Prime Day Thanks to Amazon’s Shopbop Storefront and Luxury Resale Partners The Hollywood Reporter",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Designer Fashion Deals Dominate Prime Day Thanks to Amazon’s Shopbop Storefront and Luxury Resale Partners - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORU5iYzJ2Z3E1a2ZaUkpJRHZ4SHB1aGU5NHgtLXhOYTU2SFRST1M3VGRLX3pNTTJBblhTS21fcjJPOGdkNnhnVWZHWnBCVDVLSkVxWEl0aWNWTlV1aURjLTBoOVowdzQxN2c2TlVzY0V0Z2w2WndDWTdndld2N21WdEstS09GS0d2cXgyYUZsY0dNem85VVJ4VGpB?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "Thu, 25 Jun 2026 03:30:00 GMT",
-      "description": "Designer Fashion Deals Dominate Prime Day Thanks to Amazon’s Shopbop Storefront and Luxury Resale Partners Yahoo",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Celebratory Luxury Fashion Shoots - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VYi1sZFJ1YzY3TmFTcUF0TThZa0h0b3ZnWl9HSWNxVjMtRXNVV1M3SG1UWS11Rk10dHFPd2RwQTJKYncxb1ZtMnpBdFZ1VDFoaWNQcERYM05xcnNKN2w4VUxCOURKUEnSAWdBVV95cUxPVWItbGRSdWM2N05hU3FBdE04WWtIdG92Z1pfR0ljcVYzLUVzVVdTN0htVFktdUZNdHRxT3dkcEEySmJ3MW9WbTJ6QXRWdVQxaGljUHBEWDNOcXJzSjdsOFVMQjlESlBJ?oc=5",
-      "source": "Trend Hunter",
-      "publishedAt": "Thu, 25 Jun 2026 01:53:56 GMT",
-      "description": "Celebratory Luxury Fashion Shoots Trend Hunter",
-      "feed": "Google News - luxury fashion"
+      "title": "Lee Soo-kyung Reveals a Closet Packed with Chanel... Announces Luxury Giveaway Ahead of Her Move: \"I'm Too Old to Wear It\" - sportschosun.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelhmNFJNWjFRWTZ1YTV6c1RvMURMVGw5MUcyQWFzTWJGVVYyYm50TTZfTkZpMzZ2QzhybVgzWm1GT0FiLW5UcldXRGlVYWYyNEJTNXd0NnlGWUFaX0U1QW9Vc0YwSlFnYmlhZS1EVU96aTlhdlB6Vl9fLXVjdkZJZDN4UQ?oc=5",
+      "source": "sportschosun.com",
+      "publishedAt": "Thu, 25 Jun 2026 03:47:23 GMT",
+      "description": "Lee Soo-kyung Reveals a Closet Packed with Chanel... Announces Luxury Giveaway Ahead of Her Move: \"I'm Too Old to Wear It\" sportschosun.com",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
