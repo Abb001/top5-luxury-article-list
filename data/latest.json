@@ -1,25 +1,49 @@
 {
   "date": "2026-06-27",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-26T16:56:09.965Z",
+  "generatedAt": "2026-06-27T02:30:00.090Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-06-27.",
+  "message": "Found 5 article(s) published on 2026-06-27.",
   "articles": [
     {
-      "title": "Dua Lipa's Italy honeymoon Album With Husband Callum Turner Is All Things Love, Luxury And Sunshine; See Photos - The Daily Jagran",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd0ZVSk1Obl81QTk0a2JQb0JXc1U3THlUSzI4ZjF4bjdMVjRKcW0zOHhRR2hQSWx6alRSRWxnMk16eEI2dnkwYV9EbXlscURpQldLdTdVeFE4Q2c0YW9ldTN6ZGxMMXpxZjd1c01EQ1hVZnI3Z1k3ekxtQy1IWE5Zc3N5SkVaWFlhVWFvb0tlSkJmS3lEbUM2WVNJbS01eGhwZUdyalZCQzJuTmRWa2lGSzJoc3U0amxHVklzYnV4VXVtemJiMU5YakpDTHlxREEzb1VqbUpMRXF3bVBBd0VQZC05dkRLT3k2eHQ3eFhDX096YlBzSC11c1NB?oc=5",
-      "source": "The Daily Jagran",
-      "publishedAt": "Fri, 26 Jun 2026 16:03:00 GMT",
-      "description": "Dua Lipa's Italy honeymoon Album With Husband Callum Turner Is All Things Love, Luxury And Sunshine; See Photos The Daily Jagran",
-      "feed": "Google News - luxury lifestyle"
+      "title": "\"Luxury mania\". \"Fashion icon\". A reversal occurred in Seo In-young's colorful image, which always f.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zVHFTTVVRaDZUcnNMdVBVTHZPYmNReXVIQ1lPbUVfN1Z1Y1lnVTZKaHFUUzh6djh3M0x3R2Z2R2l0LXM2Wm9ndWp2bWlIeE4tYVd6ZA?oc=5",
+      "source": "매일경제",
+      "publishedAt": "Sat, 27 Jun 2026 00:47:55 GMT",
+      "description": "\"Luxury mania\". \"Fashion icon\". A reversal occurred in Seo In-young's colorful image, which always f.. 매일경제",
+      "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Marina Summers headlines Chynna Mamawal’s ‘Pride in Bloom’ - Malaya Business Insight",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGwwc0l5SGt6Z1owdFlkc2dZQWZlNVZLbV9ZZDR3MHRZZlB3Mkg5Qzk4cC1zRE5oM3otcHpoR2RvN2Y5V3hfQ3hmNXFkTDllQXR3eWt0NFhEb2NYYWNHaEpud1hRM1ZUbURTMkZPOFVwRlAyd1Zzb1dvQzJ6bDRNS3lwV2Y4UHRZNV9jOUpDV0g5Zw?oc=5",
-      "source": "Malaya Business Insight",
-      "publishedAt": "Fri, 26 Jun 2026 16:41:00 GMT",
-      "description": "Marina Summers headlines Chynna Mamawal’s ‘Pride in Bloom’ Malaya Business Insight",
-      "feed": "Google News - luxury lifestyle"
+      "title": "Hermes International consensus picture, shares supported by luxury demand - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeERjOFl4MEFvU0pUMG11b1hLVC0zTW5tSGNRa0FfSEQxREU1QnBqY0owQ3FCOHRmM0tDUDRMR2s1MWpKdXQ5dm4xcVozam9kWUJlUmhmS3VvMzRvQU90bm0yQUY2dmtwaXZGUmVJam84VzB5SmtpYzByWG4wTklpWk9falJodjFYLVh0TEFJemF5MG5Td0xvdDlIanRFWUlFZThnVEVYN2VrcENlQkZDZnFZWE5Qb0xYVm5sdWlYdjFQeEJFaVBjQjQ0RQ?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Fri, 26 Jun 2026 18:55:31 GMT",
+      "description": "Hermes International consensus picture, shares supported by luxury demand Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Why Emotional Fashion Is Replacing Fast Luxury - Style Rave",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbFEzSWVsZ2lqcW5PVGgtNl9ZdjFvZl9hMlpCZW1KS1ZMRlBSa2hpWDdTOFBZVDJHMFU2US1mY3g3WWx1RkhuZC1rOEx2d2V0djluOUlFUmhOMExLWWNIaVJPdGkzRUtwVWp3NVBPdU9Qdw?oc=5",
+      "source": "Style Rave",
+      "publishedAt": "Fri, 26 Jun 2026 18:29:19 GMT",
+      "description": "Why Emotional Fashion Is Replacing Fast Luxury Style Rave",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Fashion-Inspired Food Marketing - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92ejNUNk5vbVItYnF4VklXemxZWG1jSFc0c1djT1g3aU9lMjdUNk41YnZ3bjFTTDR3NjFMU1FLUUFwSkdTaTlKclpodHlXTFdtOUNqV1ZrcEdSN2ZmSmVjelE0aVRCVUJJWUNma2dQRW5Xa3fSAXhBVV95cUxPdEZCVUVWTGVQbzFnV2xpanozb01ZUVNoYnZWSjdhNEJhcGE5X250WnM0bzhPTy1RRzR1ai1HTHZwYmp3TWFpWUZob0xYOElTM1FJR01JNnNhX2pUbVc5T0VPWHQyeGFrU0oyMHVVdWdpdVhSYjJ0cXE?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "Fri, 26 Jun 2026 22:19:06 GMT",
+      "description": "Fashion-Inspired Food Marketing Trend Hunter",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Top Hotel Merch Collaborations & Fashion Collections to Shop This Year - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpWb0tlWnR0M0R6MmlCc0s3bWJwdTAtREI3V0k3S1ZEUXl3YmdiVHNFSnlBbFlRVUlCYzFEXzZiN3pFdjdHU01Yb3VBcWgzMGVYS1lpR1lseWFqUXNDcVNnWTd3b3BQNzN3WDRhVGQ5YXpuOURIS0hUaXV0dWZ3LWlhYUZUMkp4YWljajY1S09NY0hpcXVTUGpHSTF2SExmQ3Y4ampLWmE?oc=5",
+      "source": "WWD",
+      "publishedAt": "Fri, 26 Jun 2026 21:06:58 GMT",
+      "description": "Top Hotel Merch Collaborations & Fashion Collections to Shop This Year WWD",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
