@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-27T13:15:48.291Z",
+  "generatedAt": "2026-06-27T15:59:54.997Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-27.",
   "articles": [
@@ -11,6 +11,14 @@
       "source": "Ad-hoc-news.de",
       "publishedAt": "Sat, 27 Jun 2026 12:17:23 GMT",
       "description": "Hermes International strategy and brand, long-term stock story for luxury investors Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Swatch Group strategy in luxury watches, shares anchored in the Swiss market - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR0RLX2hYRUQ1c25CYnZNN2JrUms2ZFdMbHFCa2szd2pDbGJMaGs2eHI3aEZ6ZlpreTdmaV9ZWmpZMUc2bUtURWVZX29FcThEYXRLZHQxckZHX2NkRndMREU1NE9LUkowY2VsTnFtQ3hXOEZfeEZjcjE0eHBONDMwME83TWFvZWd0cEJFNVl3N1hfUlNPb3pVVEZHMXNXYmtPdGR3WEs1QVBFQ29SendweEQ4OWp6dFFqN3hYQm42T2d0SUV5MGc?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Sat, 27 Jun 2026 07:55:36 GMT",
+      "description": "Swatch Group strategy in luxury watches, shares anchored in the Swiss market Ad-hoc-news.de",
       "feed": "Google News - luxury business"
     },
     {
@@ -36,14 +44,6 @@
       "publishedAt": "Fri, 26 Jun 2026 18:55:31 GMT",
       "description": "Hermes International consensus picture, shares supported by luxury demand Ad-hoc-news.de",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Why Emotional Fashion Is Replacing Fast Luxury - Style Rave",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRbFEzSWVsZ2lqcW5PVGgtNl9ZdjFvZl9hMlpCZW1KS1ZMRlBSa2hpWDdTOFBZVDJHMFU2US1mY3g3WWx1RkhuZC1rOEx2d2V0djluOUlFUmhOMExLWWNIaVJPdGkzRUtwVWp3NVBPdU9Qdw?oc=5",
-      "source": "Style Rave",
-      "publishedAt": "Fri, 26 Jun 2026 18:29:19 GMT",
-      "description": "Why Emotional Fashion Is Replacing Fast Luxury Style Rave",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
