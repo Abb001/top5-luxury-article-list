@@ -1,13 +1,50 @@
 {
   "date": "2026-06-28",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-28T06:57:15.507Z",
-  "status": "empty",
-  "message": "No articles published on 2026-06-28 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "generatedAt": "2026-06-28T11:01:41.865Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-06-28.",
+  "articles": [
+    {
+      "title": "Who owns Louis Vuitton, Gucci, Chanel and Rolex? Top 10 luxury brands and their parent companies - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT3M1ZmR3bHlMWVpkZ2QyZ0syYllSOTBHdnR0TXJDckZsNFpmWU9TSnp4ZDQ2S3d3Rnh3ZlhteDczNl8xU3AyTUxralNPcTVqWjRscjNDUmx2eVJodEdfRHlkRVMwWi1QZ2N6Y0dXQnJ1VHpWczVQQ25sQ29Bdld2V3FKMmpiVXBmRTJ4VjRueUVFRWJUcXlORFBMZTkweE5MNG9tZUhoUjRncWFUWnZqWmFkSjE1SGk4dUlvOVVtSHpVcGVwRUJ5Zk1qQXo4cE0xYmZ2bnkxdmgwUdIB3wFBVV95cUxPT1R0ajYtaVV6ZGxDcVlwOGVsVmRyQXo5WXpRbFEwVU94TTEyLTl4ZndFVEFQZWdubkI3TUZGOGhuX3ViQ2JmUnpveWJDOGxpT2JNRzFWWWs4OGVsY014cGRaWDRCY2JYaFlTamc1V0JUZE1Na05Ka1pCS3NxY2x3Yk9EcG1VOHFfUlhDR2NnaE5EV1pMbnF5OG9GTFRobGNnOExYWEs1NGJZWnZSeEU2aFJlU2NaaFViRExIQThBbU1WaDZOcExjaHVzZlZGV3lGWGk5NlhhVVpNVldxOXFn?oc=5",
+      "source": "Storyboard18",
+      "publishedAt": "Sun, 28 Jun 2026 09:14:02 GMT",
+      "description": "Who owns Louis Vuitton, Gucci, Chanel and Rolex? Top 10 luxury brands and their parent companies Storyboard18",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hermès Spring/Summer 2027 embraces quiet luxury with featherweight tailoring at Paris Fashion Week - t2ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTkktSDhfRnFmMmNtcjVWc3ljQnpycTUybm1UbDVYcjJ0ekFLWVRuVDdEalFYMUpNeURNQ0E1YjZKLTUzOWs5S2t2SmtpM1RqSU5TTVozVEZlNk9aOFBoTjhnT0hmdzl0TEpCU3NWZUFrSVZnak9DVWhfUFVFUWZBcDhoRzI5QzZUazJ1V0s3aENxYWZ1aENHOVc4MURlRThEWlpTTjBlYW9HaHVwV294MjMtLXh5U3oyQndmTDhONmt5Zkk5R19hbW1uWFNnbEZEbERkRWw1VEFkbUJqeU5CdDZPMVU?oc=5",
+      "source": "t2ONLINE",
+      "publishedAt": "Sun, 28 Jun 2026 07:20:00 GMT",
+      "description": "Hermès Spring/Summer 2027 embraces quiet luxury with featherweight tailoring at Paris Fashion Week t2ONLINE",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Meet the Emiratis building their own brand: From coffee startups to luxury watch businesses in the UAE - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzNxRHZqZkh3NDE5WXZxdUw0OU4wS2Z1SGd1MXFIMTFTYkJraWFvdVJHRUNGUVdKZmFYWHNCcVdnSnJndlN3VFVtaVZFaVFKVm02NHpnaXowU1pYMVkzQllkU3pkbTN3Sm5qaldqVlJHRFZFX25FaEI1bWRwSVgtSHdUUlNXbm12Y2hXUFk0NkRvajhKRDZv0gGnAUFVX3lxTE5tSkFFN1NaMnZvTUdZbGNCeWJDcnZ4QlY5WXRHbFZJTW1vdWMtRmFscHI5QXFsaXFMdnA2azBYalAxSHUteFBLUXJHaDNzekZERnZMY2EyNlNuTVFSVEQtMUNzVkVQSmxva2lCQ3Q3TGlCeGlQVXUwLW41Q2YwRGFBemZtZzItTElmLVRZdzhnQV9oaTR6MHdtRU54OHU3OTI3NkhaeExz?oc=5",
+      "source": "Gulf News",
+      "publishedAt": "Sun, 28 Jun 2026 09:10:36 GMT",
+      "description": "Meet the Emiratis building their own brand: From coffee startups to luxury watch businesses in the UAE Gulf News",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "\"Dior Nature\", Pop and Contemporary Pop, Luxury (2024) by Auctionata Art - For Sale - Artsy",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEpkQ2pTeEdxNXRJeTFEc01JZHdzdmtrQVNhODg5amx6NGV2bmlrZEg5WFVwNXFfRXZnUm1ualFjWlFNMmRjV1FnZTFpamhxeV9oUWdfN2Q5a1NkUEN5My1RclhPLXhzekZQSUsxeHdldlNHcXJTX054MjlQR09fTTdQTEZxTzBjOXJOdXZmeE41QQ?oc=5",
+      "source": "Artsy",
+      "publishedAt": "Sun, 28 Jun 2026 00:16:16 GMT",
+      "description": "\"Dior Nature\", Pop and Contemporary Pop, Luxury (2024) by Auctionata Art - For Sale Artsy",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Pharrell Williams Turns Louis Vuitton Into a Luxury Surf Paradise at Paris Fashion Week - TTYBrand Africa",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFNYT3JVZ2MxWlYwaEJfNFl0TWxteGVpYjBjWEVHV3ZNS0JqeUd6bk9GSF90bS1GZU05SXVjOXNhNkNyQklqbW56RXJ3dHNpaE9fbUxWemVrbngtUGVVVHVrZ2thQWNWUGpOS08yYnBoXzBDVjhaakw4X2FEelk5RDBsOVhJZVBOVGZrVGk1ZFYta1lkNzVQb19IOVVlWk1jamdua2JMdDZCSGIzQVpPNWNycjEtZw?oc=5",
+      "source": "TTYBrand Africa",
+      "publishedAt": "Sat, 27 Jun 2026 20:39:19 GMT",
+      "description": "Pharrell Williams Turns Louis Vuitton Into a Luxury Surf Paradise at Paris Fashion Week TTYBrand Africa",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
+  "fetchWarnings": []
 }

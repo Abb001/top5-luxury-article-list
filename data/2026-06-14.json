@@ -1,7 +1,7 @@
 {
   "date": "2026-06-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-28T06:57:15.506Z",
+  "generatedAt": "2026-06-28T11:01:41.823Z",
   "status": "ok",
   "message": "Found 1 article(s) published on 2026-06-14.",
   "articles": [
@@ -14,9 +14,5 @@
       "feed": "Google News - luxury fashion"
     }
   ],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "fetchWarnings": []
 }
