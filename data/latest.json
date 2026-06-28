@@ -1,50 +1,13 @@
 {
   "date": "2026-06-28",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-28T02:42:40.827Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-06-28.",
-  "articles": [
-    {
-      "title": "\"Dior Nature\", Pop and Contemporary Pop, Luxury (2024) by Auctionata Art - For Sale - Artsy",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEpkQ2pTeEdxNXRJeTFEc01JZHdzdmtrQVNhODg5amx6NGV2bmlrZEg5WFVwNXFfRXZnUm1ualFjWlFNMmRjV1FnZTFpamhxeV9oUWdfN2Q5a1NkUEN5My1RclhPLXhzekZQSUsxeHdldlNHcXJTX054MjlQR09fTTdQTEZxTzBjOXJOdXZmeE41QQ?oc=5",
-      "source": "Artsy",
-      "publishedAt": "Sun, 28 Jun 2026 00:16:16 GMT",
-      "description": "\"Dior Nature\", Pop and Contemporary Pop, Luxury (2024) by Auctionata Art - For Sale Artsy",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Pharrell Williams Turns Louis Vuitton Into a Luxury Surf Paradise at Paris Fashion Week - TTYBrand Africa",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFNYT3JVZ2MxWlYwaEJfNFl0TWxteGVpYjBjWEVHV3ZNS0JqeUd6bk9GSF90bS1GZU05SXVjOXNhNkNyQklqbW56RXJ3dHNpaE9fbUxWemVrbngtUGVVVHVrZ2thQWNWUGpOS08yYnBoXzBDVjhaakw4X2FEelk5RDBsOVhJZVBOVGZrVGk1ZFYta1lkNzVQb19IOVVlWk1jamdua2JMdDZCSGIzQVpPNWNycjEtZw?oc=5",
-      "source": "TTYBrand Africa",
-      "publishedAt": "Sat, 27 Jun 2026 20:39:19 GMT",
-      "description": "Pharrell Williams Turns Louis Vuitton Into a Luxury Surf Paradise at Paris Fashion Week TTYBrand Africa",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Celebrity Owned Beauty Brands That Are Reshaping Luxury Beauty - Outlook Luxe",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmFscEZ1T2ZMVHRSSVltV0lGQWhZNzNCZXBseldyXzZJQTdJN1R4OGNYOFZpalBDY0NNMGhtNGVabUxTQlhTTWgxNVF3dk5sSHoyYmVDM21kOHY0cWtxLWxnV3dXRGZKOGlraFg4MmZEZWZibkNFWTJ6THVETlQ4bTJvNWFzbEczM2otLVhVdnVOUlRvakVTRVU5X0docnpJRER2d3FNanhRZTJlT0oyZzN3OGdPN3c5VW5zS19sT3hvd9IBwgFBVV95cUxNMmFscEZ1T2ZMVHRSSVltV0lGQWhZNzNCZXBseldyXzZJQTdJN1R4OGNYOFZpalBDY0NNMGhtNGVabUxTQlhTTWgxNVF3dk5sSHoyYmVDM21kOHY0cWtxLWxnV3dXRGZKOGlraFg4MmZEZWZibkNFWTJ6THVETlQ4bTJvNWFzbEczM2otLVhVdnVOUlRvakVTRVU5X0docnpJRER2d3FNanhRZTJlT0oyZzN3OGdPN3c5VW5zS19sT3hvdw?oc=5",
-      "source": "Outlook Luxe",
-      "publishedAt": "Sat, 27 Jun 2026 18:16:00 GMT",
-      "description": "Celebrity Owned Beauty Brands That Are Reshaping Luxury Beauty Outlook Luxe",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Signs of a recovery in the luxury sector: the super-brands remain in pole position - Il Sole 24 ORE",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUVSUXNRM1JDOVNaYnlnYVo4dmJ2eVNqQXY5MXUya3Azc0x4MjA2N1p1WXkxZHgtMjIyd1FPcjVJMWtoTWNlbzg3WHNXVlVBZkNTQnlPMWNTb1dGWVNLcGRCU040YWZyekFLOWQ3MFJabXV2d2FLdmtQZjFOQXR6SVItTjVDem1Xb1lKNlFuLVdMX1U?oc=5",
-      "source": "Il Sole 24 ORE",
-      "publishedAt": "Sat, 27 Jun 2026 16:17:42 GMT",
-      "description": "Signs of a recovery in the luxury sector: the super-brands remain in pole position Il Sole 24 ORE",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "The Fabric of Collaboration - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUg1UnBhODF5bnZ6WlFnR18wajNzdVZ5S1FmUzhLMlo4RVVoZGRRU2lRaHVlWjZ0YUJKNXVONEVHb3gzS0szQUtsQmE1bUcwWTY1Z2pxcW05U0hZRHJJRFpDSk5rWERrR253bUhlVFVYbTFLXzl1ZnBFOHNrRUNCcV9BclZRVkhy0gGWAUFVX3lxTFBmekxqaGVRQWw4ZjhmYUpmMFNVdTVvcGc5ZGhFR1YtWER5Y1MzdHlsOWNFUmpQUW13S21PX1hWb0Y0RVpFOXh1eWJkR0J2MEhyU21Ib0lUUU9VNmhBU25aaEhrWGlxdW9UTEpCUXh6WFNyU0NmRG0zT2FvczVYcFVSTkVSRW0yZkx5cW9McVh2WUNHdzZEUQ?oc=5",
-      "source": "The New Indian Express",
-      "publishedAt": "Sun, 28 Jun 2026 00:30:00 GMT",
-      "description": "The Fabric of Collaboration The New Indian Express",
-      "feed": "Google News - luxury lifestyle"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-06-28T06:57:15.507Z",
+  "status": "empty",
+  "message": "No articles published on 2026-06-28 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
