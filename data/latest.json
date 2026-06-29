@@ -1,9 +1,50 @@
 {
   "date": "2026-06-29",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-28T16:04:04.314Z",
-  "status": "empty",
-  "message": "No articles published on 2026-06-29 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-06-29T02:43:12.111Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-06-29.",
+  "articles": [
+    {
+      "title": "\"Some places just make you want to stay a little longer.\" That's precisely how K-pop star Joshua Hong feels while in France for an event hosted by a luxury fashion brand. (📸: Joshua/ Instagram) - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWdHSF9YbXRxUTV3QjJLd2IzU2ZEazF1aGx5OTBicnhkNGpZanl2VmdJVjQ0X1dvSmtTLWxlbjZneVpULWhhaW54S21ZU0hOeldwUWhEeUpyVTZCSktiNG44NWVQdm9ibDVPU0s3SmQ2TEJHYkNXRm5ob0xnU2szTW1fcWxLanVpWC1qVU94eklHY2xtRHdBRDdyc1FZaVlFR3o2UElXR3pMWTM5R0YtckIzcnZsbVdrR1F5LTI0a3ZieF85SUUyZGNWX1JpSHVSUjdYRlo1UQ?oc=5",
+      "source": "facebook.com",
+      "publishedAt": "Sun, 28 Jun 2026 23:55:43 GMT",
+      "description": "\"Some places just make you want to stay a little longer.\" That's precisely how K-pop star Joshua Hong feels while in France for an event hosted by a luxury fashion brand. (📸: Joshua/ Instagram) facebook.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Louis Vuitton Lvmh Kering Luxury Powerhouses: Kering Buys 30 Percent Of Valentino, LVMH Pays - consumerthai",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmT0p3YkJ3STBuM2pyOS1LdHNOb2ZOc3BRQmN1c0F0TURSTGNCUDl3TWVVWjdBUWpLS2ttSVRQLW51bE9zc2VfX0gtX2o3ekxFTWRyak9Udw?oc=5",
+      "source": "consumerthai",
+      "publishedAt": "Sun, 28 Jun 2026 18:24:24 GMT",
+      "description": "Louis Vuitton Lvmh Kering Luxury Powerhouses: Kering Buys 30 Percent Of Valentino, LVMH Pays consumerthai",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Chinese luxury brands target Australian retail expansion - CommercialRealEstate.com.au",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnlYSjZFU2ZyX3g3cFhGY3BHb214QTNyd09Lc2tHWXpES1k2ZzdNdTlSZ2hxNWpRVHUxMEpvUmxVQWt5VVlMMXZiU3FDaFhyd25wTVZPNzZlb2VjTGM1OExEa0dzVUU4SHI1ZEF1a2c1aDU4RTV5QkFYaVJ2VkQ4d3NmQTRPVE5RLWI2Q2NZcnZTUGQ2bWQ0cUhFbUdrdGpEa1VXT01n?oc=5",
+      "source": "CommercialRealEstate.com.au",
+      "publishedAt": "Mon, 29 Jun 2026 00:18:48 GMT",
+      "description": "Chinese luxury brands target Australian retail expansion CommercialRealEstate.com.au",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Prime Day enters final hours with major fashion and tech discounts - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXBIS1ZGLW14SFBfcDlrYXpCTmtVZk50MlhfQjREbXNlb3dHYkZQSHBXYVFQWGd0cGpxRnNoeG9hWnFTMEJhQlF1Wi1STHhyT1lXNUJVQzFGTDhJbXJTSk54SjVuN0xIUHZ1X0pjdWk4clA3Y3VBWHJCS09janktVTJuMjhOUG9Ccmh0ZG1XbGhRX3l5VFc4UDVNdkxPbU12alRBR1VORF9XMFUxcnllNkg0NzA2bGR3Vzhz?oc=5",
+      "source": "MSN",
+      "publishedAt": "Sun, 28 Jun 2026 22:17:25 GMT",
+      "description": "Prime Day enters final hours with major fashion and tech discounts MSN",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Mother-Daughter Co-Founders Release Slow-Luxury Apparel Line - Carroll County Mirror-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOE81OGFWNHFvNDQ3M2hVdjd1NTR1VDNWRlR4S1kwUDE0dUZVb2xLUTFyME12MFJvMlBNTDI5Z19QaXowa2RuZkthQVFKMEw3bjdleXQ4SkhvdjQ2SjM1R0FZZlJUS295djhBR2owTUZnd3MyOTVrM1NDanpmZVRXR3kxemUxb3k3MzhCY09JanF3aUU1aWZyYlpWaE11cnppNnFyeHEtUzd6cUg4eGVHQnpiZ2pVclk?oc=5",
+      "source": "Carroll County Mirror-Democrat",
+      "publishedAt": "Sun, 28 Jun 2026 21:00:00 GMT",
+      "description": "Mother-Daughter Co-Founders Release Slow-Luxury Apparel Line Carroll County Mirror-Democrat",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
