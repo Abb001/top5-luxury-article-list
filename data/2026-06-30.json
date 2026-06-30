@@ -1,16 +1,48 @@
 {
   "date": "2026-06-30",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-29T17:29:51.888Z",
+  "generatedAt": "2026-06-30T02:37:42.619Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-06-30.",
+  "message": "Found 5 article(s) published on 2026-06-30.",
   "articles": [
     {
-      "title": "Million-dollar frenzy: Luxury home sales are breaking records in Western Pa. - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3dYQ2xVMjlkYWZGWlcxNFhRRlliZFhVR1Q1Mk9BSzB4UXQxdEo3em1WeDNtdVp0UVFNTHg4LUJBY21IRzFkb2F0cWtJVDA2UnN4US1VeUVhNklTUDJnR3F1TWdpNU92eUNNMU56eDBVdVRGQmp5b0Q4cjhIQ3U2bFNNd0xKR1gxdEIwOTJLdk5rTTlDLXFlcEJvMGItQTJTSnkwMVRFODk5OXkxN0ExeUJZdThIWGM?oc=5",
-      "source": "Pittsburgh Post-Gazette",
-      "publishedAt": "Mon, 29 Jun 2026 17:01:40 GMT",
-      "description": "Million-dollar frenzy: Luxury home sales are breaking records in Western Pa. Pittsburgh Post-Gazette",
+      "title": "Next-Level Luxury: How a Dubai Jewelry Brand Found a Way to Make the Hermès Birkin Even More Expensive - NEWS.am STYLE",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fZF8td2tVUlppUzRXaHNSSjEyOFYyZDNnampSUnBKcGtoTXpoZE5lVWJ0SW9kZUZOZDhaTGpaTlctNE9ObldVTHhjWG9pUQ?oc=5",
+      "source": "NEWS.am STYLE",
+      "publishedAt": "Mon, 29 Jun 2026 17:18:00 GMT",
+      "description": "Next-Level Luxury: How a Dubai Jewelry Brand Found a Way to Make the Hermès Birkin Even More Expensive NEWS.am STYLE",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "SoCal luxury housing market suddenly booms as thousands of millionaires are crowned overnight - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTDZlRW1yaHdYRV9kWlBtY3dEblljWU1RV0JDUHV2ck9HWldWQ09tdnhoNkpQcWtHMWlDa3hYRk1sVGpZemlXTmNPRzN6VEhGal84RndJanNXRVlVSnNOU0hJWm03MFpLUDlTMHlRaTRDckc1NnJjSlFheS1teGZzS1dpTlZldFVudGlhNFhMNHJpam94N0FUSm4tdnhhazI3bENXd056NGFrcWREQ3RFcTYzWl9jbzdiUWVCM2NtQTBkRlFWa016NmZaTXo?oc=5",
+      "source": "New York Post",
+      "publishedAt": "Mon, 29 Jun 2026 23:08:00 GMT",
+      "description": "SoCal luxury housing market suddenly booms as thousands of millionaires are crowned overnight New York Post",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Dua Lipa's Sicily wedding wardrobe was pure fashion fantasy; here's what she wore - MSN",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORDk3Nl84bWJsRnVnWnhmMVZ4ZkxwRnJLQklROXBaa2F5b3RSMzhMNTZrekpJYzg2Q3hUS0pDWXJYZTVrNG1xa3hDSjcwc2Q1VFhkRkU5bnpIT29YX3BNbjdXaGM0U3F2cWpySHY1S1hHLUtTZlBwNWhVYTRLQ2oybEtqQ0ZHS1kzZ3ZpaTZFMmNBUlY3S1M2ZVh2alQ0emNQNE1UakljWWEwbm80YmZjbkpqZGtOMHVISGVYaERMQVc2bHdNMUpZbGpHTENadFU?oc=5",
+      "source": "MSN",
+      "publishedAt": "Mon, 29 Jun 2026 21:37:15 GMT",
+      "description": "Dua Lipa's Sicily wedding wardrobe was pure fashion fantasy; here's what she wore MSN",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Luxury Retail Ecosystems - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydHpRR1VzNllhLUFOamF1SUxZTFNMcWZlai1Dc0o2ZXROcUdhYlRyc25RdWhzSnNQdjZ5YVNjMGNjelU2VHhCOHVuOHA4OXNTbXg2ZmREcFJiYmtvNE5kU3RjbmZYSWE0WGJB0gFwQVVfeXFMTlVkZXd4c0pTdTBHR3RuejdGVTAzbzYyZHpoTHotczFRSW5DcVFuMDZxMzdpb3ZKSEh6Rnp3NTAxWFdobDVpWUUtcVZxbUc3VTBLVWdlZElkbEVaeG9Pb1dtd2tVQ1NDNVo3QW5Ianl2TA?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "Mon, 29 Jun 2026 20:34:11 GMT",
+      "description": "Luxury Retail Ecosystems Trend Hunter",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "BAIN REPORT FINDS THAT GLOBAL LUXURY GROWTH FUELED BY THE US, AI, AND SPORTS PARTNERSHIPS - MR Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWpnV00zOWhra1JwZEpnbjd1YlZxYkg2WlB4VlgycUcyMmE5X1hMSzlqXzFpS05wS3RLbnlDc2ZsRU4xTk1hZTVaUVg3MTBTZWY1YnZ4MUh3MjdYRHNOQ0dRNzY1T014akk5OElrMFc2RFhSeGZxb1BONTdVbzhkTkNhQmJtMmd5N1hBZW5zUzVDSXRmRDZuMThVUnR1MUM2T3hBd3JWc1lsaTQ?oc=5",
+      "source": "MR Magazine",
+      "publishedAt": "Mon, 29 Jun 2026 19:51:52 GMT",
+      "description": "BAIN REPORT FINDS THAT GLOBAL LUXURY GROWTH FUELED BY THE US, AI, AND SPORTS PARTNERSHIPS MR Magazine",
       "feed": "Google News - luxury business"
     }
   ],
