@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-30T11:40:17.531Z",
+  "generatedAt": "2026-06-30T14:01:15.534Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-06-30.",
   "articles": [
@@ -22,11 +22,19 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Breitling CEO Georges Kern Navigates China's Complicated Luxury Watch Market Amid Global Expansion - streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQam5fY1RXYXVwX3RwU25sNFVvRlhDeWJTcHhMUGE4MHljTUwxNC05NmhIZ1RvdWdNdlhCOVNMN1FrSzg2RWV1S0E1N1MtZHJaVVRsMFZYZ0xiN1RIYmlqQ1VPR0REbjdkbGItR01zcHhuNkhFOUs3NjVjMk1WZmdueWlBSTg1akpuRTN3LVhn?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "publishedAt": "Tue, 30 Jun 2026 08:17:16 GMT",
-      "description": "Breitling CEO Georges Kern Navigates China's Complicated Luxury Watch Market Amid Global Expansion streamlinefeed.co.ke",
+      "title": "Fashion Valley embraced luxury. Mission Valley went another direction. - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1gxWExKWDNFVDRkQWUwUlZDd2VuQ3JEenJWWkVSMjU1VmQzckljV2lfenBzVDNkd3N3ZmJnZ2xLM2FILWxlcDFURzdjeDBDWFBZVjBTb1FMODVrTWtTVVBqWFZEcklGck13am1hVmVzSlAwa2FfaWtUVFhvalJEdlYzc1hvdG1POWFLTEdKM29mT1dBQk5vMUR4ckxyS2xta2FQdGRoRGcyRHozaVlVejBwN3J1eXU1ZXc?oc=5",
+      "source": "Axios",
+      "publishedAt": "Tue, 30 Jun 2026 13:58:10 GMT",
+      "description": "Fashion Valley embraced luxury. Mission Valley went another direction. Axios",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Kering adjusts Gucci strategy as luxury demand shifts - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGR1OEdpWVpYMlJTM0pxOG1BYlJucU1Ta0ljZE1JbkNuVlNWR2tCMVJoWW9wLXhjQ2lMaTNKaWdwRElGQU5paVhUUC1vbkJyUVRiMFoyTHVjR0dBUEdrV01nZWFQQnJiaWZ5dW56dGJwNFF6U2JHdTVybTcyUUV4R0ZQazlwbW5TQnB1NnFJbENkbzk2clU2eWx0TVhnaFdPSUs5eTM5ZDdzeTRxbkdtUWNR?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Tue, 30 Jun 2026 12:58:07 GMT",
+      "description": "Kering adjusts Gucci strategy as luxury demand shifts AD HOC NEWS",
       "feed": "Google News - luxury business"
     },
     {
@@ -36,14 +44,6 @@
       "publishedAt": "Tue, 30 Jun 2026 07:13:41 GMT",
       "description": "Haute couture and a Dior spa: My most luxurious night in Paris NZ Herald",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Jewelry Leads Luxury Spending in 2025 – Bain - Rapaport",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZQWhRX0xfRHNSaWVZSmZQd3JRcjZHamp0UU42ZUN1VFNRZnU2dFJSOFdkY05qQXRSMzZ0dzQzVVpUbmw2NUJOb2hoSG1NR3p1U0pCbXh0N0NDR0tTVWVjbFF3OUNwS2lFa05rbm9rMDRfT3N6MTM4aQ?oc=5",
-      "source": "Rapaport",
-      "publishedAt": "Tue, 30 Jun 2026 06:49:21 GMT",
-      "description": "Jewelry Leads Luxury Spending in 2025 – Bain Rapaport",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
