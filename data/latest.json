@@ -1,9 +1,50 @@
 {
   "date": "2026-07-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-06-30T17:04:21.514Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-01 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-01T02:43:35.592Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-01.",
+  "articles": [
+    {
+      "title": "Fashion Valley embraced luxury. Mission Valley went another direction. - MSN",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPbkU2TU1qeHMxT2ZRb29kbEVzazk3TFM5OFV3WEVoTDBxQXp5ckliT205bEtIUkptU3cwNG5ZUmUxZUg4WVpUNTh0RmRKRHRSQ1NiOU9mT09EMFZTRUd0SVg0QTRNdnp0bk5sbEU5SHJZQUdnN0oyMEtadDhlSFBXaTV3WE4yLUVjb3BxWDNkdlcyTFVOdkVZRnJPbTh3aFlRRF9wY2htZVVUTUMzMkZ6NnMzTjExdWJNb2VDbXdLMlNqRk9EM3BkTnBrMTlqbzh5U09RUEkzNnhDeXJJYjVrWmtoYjdWM0FqWWx3SG85M2pjdkFHQUdUVVZqRHc1NjBXVm9pTmhPT2Q4a08yelVXSFZQVEJtTWZmUVdYV3V0aGxNSEpMN2loVVFiSXdrNnFsV3BXbnQ3N1prNFZrTi1XMVliU0hJeGN3eERMYjBYbw?oc=5",
+      "source": "MSN",
+      "publishedAt": "Tue, 30 Jun 2026 22:50:58 GMT",
+      "description": "Fashion Valley embraced luxury. Mission Valley went another direction. MSN",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Couture Coasts: The Designer Summer Takeovers Bringing High Style To The Shores - Grazia Singapore",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TTjlsNDlqdFpqY0hQZnNqQmVWVGQ5LVNuVmUzc09tS0ZIazZTOVpRNFMtbGpuSHc4eVJiNGlrV2NQS0ZjOEZRRDdZZ3RWcDNrblFXZlFZWjhqdnBiVlFxeVQ3TlR0R09wcFM0a0hmLWotMHdjN1Y3eGx3RG0?oc=5",
+      "source": "Grazia Singapore",
+      "publishedAt": "Wed, 01 Jul 2026 02:23:40 GMT",
+      "description": "Couture Coasts: The Designer Summer Takeovers Bringing High Style To The Shores Grazia Singapore",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Prime Day enters final hours with major fashion and tech discounts - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXBIS1ZGLW14SFBfcDlrYXpCTmtVZk50MlhfQjREbXNlb3dHYkZQSHBXYVFQWGd0cGpxRnNoeG9hWnFTMEJhQlF1Wi1STHhyT1lXNUJVQzFGTDhJbXJTSk54SjVuN0xIUHZ1X0pjdWk4clA3Y3VBWHJCS09janktVTJuMjhOUG9Ccmh0ZG1XbGhRX3l5VFc4UDVNdkxPbU12alRBR1VORF9XMFUxcnllNkg0NzA2bGR3Vzhz?oc=5",
+      "source": "MSN",
+      "publishedAt": "Tue, 30 Jun 2026 23:00:25 GMT",
+      "description": "Prime Day enters final hours with major fashion and tech discounts MSN",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "What Makes French Avenue Perfumes Different from Designer Fragrances? - Luxury Travel Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHRvZWp0SEhNcVRIandyLV9jN1VmbVhxWGRFNUhfVnhlcjE5WnFobHVwUW5EM2JvVnpzd2tsbTdEU1JBZmYyMFBVS2dEb3lQSkRtYVpFcG5BQ3d2ZTBJX2trSmpON3ItckZOQlJoZlpES29NMU5aLVJDQWRVdERiU2ZMYUVsRmZLWi1TbHRaRmVSTzNvY2VzY0llUkotVXYyR003QnptbTJsM0FvOVJubjVlWFZaTDVleGxZ?oc=5",
+      "source": "Luxury Travel Magazine",
+      "publishedAt": "Tue, 30 Jun 2026 21:38:39 GMT",
+      "description": "What Makes French Avenue Perfumes Different from Designer Fragrances? Luxury Travel Magazine",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Interest In South Bays Luxury Housing Market Soars After SpaceX IPO: Report - Patch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFhwU0NRaGMwa2ZXajB3SzFBalRUUGhXWUs4X0QxNmJpNFp2MGlWRXFUR2poX0t2c1pEME9ydGFLLU5XdFVZLTRVMm9OVzhrUDJKMmY0eGM3YjMtbzBqYThwTmdMYkJiYUJtNDdCeVA1OXRkN1dVc2xPRmxPcGZVWkxFNmdkNWgzckpZdlRQQVFaUmxwWlBZV09lRldDc3pSbzRuc3JhWmFURkVCcFRMTzRR0gHHAUFVX3lxTE5pbHA0dEQ3eWZHWmVUQ2wzRXNTTTdzR3kwaHdENy1zc3ltMElHU0ZtR015Ujh1SGRkcEpDNW15VWZqMW1QZmlzdnhJN09rRmJtdE1SRGNSbzVIdWcwMk9pU284Wm9qNVR1ZGlFYUpOUEItcVh3V0Y2eWJPYVRUUG5hWGM1dHFBWWF5dWNwZ0JLOFhaZ3NScEZDVUJ0eE1sQklaeWJyekdDeVZFb2lORzhueEhtdERfTzlzZ0p5aWJoR083R2NHN2c?oc=5",
+      "source": "Patch",
+      "publishedAt": "Tue, 30 Jun 2026 18:53:37 GMT",
+      "description": "Interest In South Bays Luxury Housing Market Soars After SpaceX IPO: Report Patch",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
