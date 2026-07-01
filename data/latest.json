@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-01T11:54:18.915Z",
+  "generatedAt": "2026-07-01T14:13:56.833Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-01.",
   "articles": [
@@ -30,20 +30,20 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "Introducing LIVE Golf: The Women-Owned Brand Combining Luxury Fashion, Activewear & Golf Culture - okmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnprWkp3V2xyVlIzbE50ME0xNzRWUGczZzNFdVY4YjkzcTVGaHFsbUU4QlBETm54MnJfQlhUR2tYZ1cwTnY3S0x3ODBCd1VHV2k2Q3RtOGtvQVdBUm5QYVM0eENGNlU4dVk1YnEtNzdFdW1oU01aWHg1TFdJQjVRTm5ZNllUQU9LQWJtMkxOczdjT3JYN1NKMlRNejdoQUFCMGJlQnRzZGNDd2lZa195bEdEMThJRG5IRVE?oc=5",
+      "source": "okmagazine.com",
+      "publishedAt": "Wed, 01 Jul 2026 13:36:55 GMT",
+      "description": "Introducing LIVE Golf: The Women-Owned Brand Combining Luxury Fashion, Activewear & Golf Culture okmagazine.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "“China is buying again; second quarter shows signs of recovery,” says analyst Luca Solca on luxury market - FashionNetwork France",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdW5JemFzamtWUTV0SGdrejV0bnAtRWpPdHlfUzY4bVpDTlE4bGZVUWZLNGVQanFHSjk0aVNGam9qWF9YRWlRemVfQ09oa3dtdVhURDNwYmZOcVp5V083TEoyN3JIN0lPaTVURjRUN2xtWmVxUWszSmJ2LTU4Q0o5azBORWs5Z0dUNEFQYnhxSE1Kc3dSM1hFR0hsOURCNWFpcXMxNWo2Z1V6UXYwYWlZWTQydUFsUE5obzJxZnQ0UDB1Y0RDcWJoWXkxdU1uelZoQ1JCc1YtRlJJdHNKRDhiSzlrRVk?oc=5",
       "source": "FashionNetwork France",
       "publishedAt": "Wed, 01 Jul 2026 10:36:26 GMT",
       "description": "“China is buying again; second quarter shows signs of recovery,” says analyst Luca Solca on luxury market FashionNetwork France",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Pandora unveils creative platform, Brit stylist first collaborator, Paris to get couture week pop-up - FashionNetwork USA",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY2tWRnZRR3NLeFFPOW9Bc3p2Y0JkQzhIenFHNDNJZVRvVTAwRVh1Zm1KTkpGbEdOWUNXWFp0XzNvc0RyY0hBVmxDNWtjclB5SnVKcXFvbDlhSUZpaWtESXpUTnp6cE55MWk3WHd0UmJiSm1RSXNWTUg1NnRiUUJxWDk4eExZalhWYlZnQTIxQlRmckdYb1RrQzRsUVpaUjI4bDNWYmM5NzhobEkySEVMaUJhSlc3ZHFJS2FVZDRSMVNndTNpdnFnMHdJZmRJLTNPSDdoVE83WUhJa3Z3M2tv?oc=5",
-      "source": "FashionNetwork USA",
-      "publishedAt": "Wed, 01 Jul 2026 07:11:41 GMT",
-      "description": "Pandora unveils creative platform, Brit stylist first collaborator, Paris to get couture week pop-up FashionNetwork USA",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
