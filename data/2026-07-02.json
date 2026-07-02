@@ -1,26 +1,13 @@
 {
   "date": "2026-07-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-01T17:08:27.304Z",
-  "status": "ok",
-  "message": "Found 2 article(s) published on 2026-07-02.",
-  "articles": [
-    {
-      "title": "Fashion influencer has ALL 150 of her designer bags stolen from her house while on luxury Maldives holiday - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakIxcU5CeUFHMVFSVWRoS3dpVkQ4WkVnZXJXcFVpMWtMNGlzQkJtcHAxWkU4b2lXZW1FYVFWVUZGMUtOaDNMYndLQVpnSFJDZGNhSHViLWhZbVgtdXJLcVk3aFJzMG1VaVFQSzJFR2UycFRaTG92RDl4LWUzdUhGT0VTVklsV1JmVnU4Y3ZNUWJudw?oc=5",
-      "source": "The Sun",
-      "publishedAt": "Wed, 01 Jul 2026 17:01:00 GMT",
-      "description": "Fashion influencer has ALL 150 of her designer bags stolen from her house while on luxury Maldives holiday The Sun",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Burberry balances heritage and growth as luxury demand shifts - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHYzRkR4MDg2cGFtSzg0Q2xWeUR6Vzc5WkdMMlVFQzdhSmpGWDNVdDRIOFVfVjFOUVEwbm4tamx2bHhRQ0FjWUc4MDhFRmpmX3U2Q2ppV3N6cm1aZVVaN2ZTVzhTM1J3Mm5NOTdQSkFOakdGR0lycVNjOTlTT3gwRFh3bzZxdGpiM0I1eklfNFBJZzVaUDNCNVAxc0c3SUswNEI4NVVEUE54T0RMbkFmYmZkYTN6Ynd2UkV4Zg?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Wed, 01 Jul 2026 16:39:23 GMT",
-      "description": "Burberry balances heritage and growth as luxury demand shifts AD HOC NEWS",
-      "feed": "Google News - luxury fashion"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-07-02T02:33:11.049Z",
+  "status": "empty",
+  "message": "No articles published on 2026-07-02 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
