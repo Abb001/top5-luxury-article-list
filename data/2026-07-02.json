@@ -1,13 +1,50 @@
 {
   "date": "2026-07-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-02T02:33:11.049Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-02 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "generatedAt": "2026-07-02T06:33:00.008Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-02.",
+  "articles": [
+    {
+      "title": "Chanel vs Dior: Why luxury’s two biggest reboots are under scrutiny - CNA",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeV9qR05sMGRIRUx3UlZnRkNMeU1QbV9iVEpoMnh3ZzE5ZW8zaTE2ZzJMN2syNVhRRVFOYVRrQ3pjNjk2SjlwS2VMeTFDMTQwZWNMcUZ5cGlfdEY3T0hDWTQ5anRDR3JEcURnblZmM1VUd1dxOTBFSWJXdTBVbXkzSk5KWQ?oc=5",
+      "source": "CNA",
+      "publishedAt": "Thu, 02 Jul 2026 03:38:42 GMT",
+      "description": "Chanel vs Dior: Why luxury’s two biggest reboots are under scrutiny CNA",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Chanel Acquires Historic Shirtmaker Charvet in Luxury Consolidation Move - streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcXcwT0kzY1Z0UXdNMnRnYVhMZllscURIb1U5SVBnLXpSeW9DcmxhVHV4cUdlaXdxVVJvU3FiSkIzZVc5SHQzN1ZYZklYeDg0TkpBMkxMRElxclhZSjZWcTdTWUQzalpVVk8zSVgtR1JLMW9zNEtBNXl6XzY4cTFVQlAxYjJMQ01vdG1ReWdDR1FlQkhxbjBZTGZRQnNTd3M?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "publishedAt": "Thu, 02 Jul 2026 06:18:11 GMT",
+      "description": "Chanel Acquires Historic Shirtmaker Charvet in Luxury Consolidation Move streamlinefeed.co.ke",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Chanel acquires luxury Parisian shirtmaker Charvet - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMW5mR3ZvUDE0a3JwS215ZlhxYlV4R3Y0eFJvclVOREJsUVctc2JkNWx3UkY4Qjh2WGtzdS1XWm1XeDNkVU5kNWViYjJhU1Z0OGJDZFBDZ2lWa3A4cFFnaWVOTmhUejBVQW5sa1RmQWg?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "Thu, 02 Jul 2026 05:00:02 GMT",
+      "description": "Chanel acquires luxury Parisian shirtmaker Charvet Financial Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Why Chanel Is Acquiring Charvet - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVi1mTFFHMVQ4UGdEZDNZbmluQ012a2JST04yNU1jQUIzeGRSWnFydWVFRXhUekFPUEVFZkRreW5tVGNScUR2Y3haajBmallELWdXaExYd2dBVmRvNUxfaFN5ZmtFZE5Na2JxZDlPZTZQVU5NbTNpYXlMYmRNZW1kMGVGelFyREp4T0E?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Thu, 02 Jul 2026 04:30:00 GMT",
+      "description": "Why Chanel Is Acquiring Charvet The Business of Fashion",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Shehnaaz Gill's Gold Haute Couture Look Is Her Boldest Fashion Statement Yet - News18",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHFoRUxmVGh3OGpKeHRXRGZOZms2cmZBQTlJY012TExSanhaUmxCZzEtTXdCOHhUYXA3cXU4cmpQRTZIUWtOSDZ6UGh1dE83Wm9KUmc4Vk5FRUY4TExWb3lPOUN5YUdmTTJWWkt3NVdtVjNhc2lMQ3JGLXJHd3lMU2FXS3FiRTgwWjA2REpOdkZGZVpicjlScnFCRWZrb0Y3cnhzNEhleVdfbkNDaTBDLWQ3ZXVyLUhzMWdiV00zUE5pWHdtS0dFdUlR0gHPAUFVX3lxTFBoM0NLYmJUVnc1SWFVSndWRmpRalFKYlh2ZU93ckRFci03ekFNbzRUUnVyTGhxY3hFRjk3dzJsQlNJNGFUal91YU50Nm05bFRTdjc0Rl9GdHlobHU0NnBENkJ4MU1uWW1ZTHRiSTJpd3NmOUtCRGJDU01SNk5ra212aTFnOUpIQTBmbkt0Q2lXdkZJa2xrU1VZVVhjcWdtZEZycl9veWptb1cyODcxLUlsR0tYZElBQXJJckNyT1hFZXJRcUdleGVSenNZeU5RWQ?oc=5",
+      "source": "News18",
+      "publishedAt": "Thu, 02 Jul 2026 02:11:46 GMT",
+      "description": "Shehnaaz Gill's Gold Haute Couture Look Is Her Boldest Fashion Statement Yet News18",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
+  "fetchWarnings": []
 }
