@@ -1,9 +1,50 @@
 {
   "date": "2026-07-03",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-02T16:45:25.527Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-03 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-03T02:08:35.329Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-03.",
+  "articles": [
+    {
+      "title": "David Tlale on luxury, local craft and the future of African fashion - Mail & Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDZLSUxSbGtJUVl4N3dpR1RLNm1Bc04zVEVfbks2Z0tUZkppN0VnTFpvWUFHWHBhWkhjd3YwR0p3WGdCLU1mdGRmanBLaEJVSFM2ZDNlczNseTFtSnZCMmZNV3dFelh2R2lWSGdMS0NqVG92aFRnOE9lSWVYN0NBZUczWEtHUS1NTkFHY2VzU0h3enBMN01BNWtoZ2lYdWdjR3JjU1ZR?oc=5",
+      "source": "Mail & Guardian",
+      "publishedAt": "Fri, 03 Jul 2026 00:26:42 GMT",
+      "description": "David Tlale on luxury, local craft and the future of African fashion Mail & Guardian",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Kering balances luxury heritage and shifting demand as global fashion spending evolves - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDdjS2ZsS2piZi1vbExjNGZ5N0FOOVl2RkZNMzJ1UlFzc21hYXhtQ3U4YjFQdS15SzNUSW1uMGd6YmhHbE9EZXMzX3FRNmREYm4wZHNxVWdZREpGOGlqOXRQS09WODh0bWhCTGZ5cXlEUWxNU0gyRVlJUTh6T1dub3VIYTB5TlY3cGpmOFZNNFJKemxKd0pGdjNGZDNuQ0NkOWZJVE10WGRuSnA2Q0NuWkQ4aWlRR19VeWtlYkpwQXMwUG53blFn?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Thu, 02 Jul 2026 20:49:42 GMT",
+      "description": "Kering balances luxury heritage and shifting demand as global fashion spending evolves Ad-hoc-news.de",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hermès International balances heritage and growth as luxury demand evolves - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQklPT0oyYk4yTllBVmhiZDV2dUlkUEYyOWgtc1pUT01EeFQ4bi1DOGM2VFVVSHNFUkllYWhVaVU0bGdBLVM0UlRHRE5aN0VHcE9zaXFGN3k0VldlUFQ5ODhUYnJJdmtya25fSk53U3JjdEJPR3dFUkFCOE9QTkt3MVp4SnJsUHYwWVdtRU12ZElHUVY2SEhEOUd1VTZxLXlPN19aTVJqZTNIekVjeGZFcTl0TlAxSlFNTWkxNExaWVJORTg?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Thu, 02 Jul 2026 18:24:42 GMT",
+      "description": "Hermès International balances heritage and growth as luxury demand evolves Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "France unveils six new ‘Palace’ hotels - Signature Luxury Travel & Style",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JSmROVDZ4ZnR6djhRSUY0WTJBT2ZrNHRaM2hROTdPeGdRUDNZMDFmb090N0ltbkY1SURKZGUzT25sc1NvNFdSY01JVlhOUHBPY09HTklTanBrS1h1Vm4xTW9jOWppdw?oc=5",
+      "source": "Signature Luxury Travel & Style",
+      "publishedAt": "Fri, 03 Jul 2026 01:40:35 GMT",
+      "description": "France unveils six new ‘Palace’ hotels Signature Luxury Travel & Style",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "What to Consider When Buying Luxury Bags: Nearly Half of Consumers Check Second-Hand Prices First - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VFJVY1k4OVRhZlFQbUN5UzN2STA1RzFyNkg1SWFaRTJldU9mZlpfcDBrMmFtYjQ4ZzNxaWE4anh5ZjBCTDNYUE9WOHFCRmtYMnk0?oc=5",
+      "source": "36 Kr",
+      "publishedAt": "Fri, 03 Jul 2026 01:03:29 GMT",
+      "description": "What to Consider When Buying Luxury Bags: Nearly Half of Consumers Check Second-Hand Prices First 36 Kr",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
