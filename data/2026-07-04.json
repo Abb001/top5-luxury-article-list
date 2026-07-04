@@ -1,9 +1,50 @@
 {
   "date": "2026-07-04",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-03T16:20:07.655Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-04 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-04T02:06:38.253Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-04.",
+  "articles": [
+    {
+      "title": "Taylor Swift and Travis Kelce Get Married: Wearing Custom Dior Haute Couture by Jonathan Anderson - Oui Speak Fashion (OSF)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tdUhua3htWmVpNW5TVEFJdDRmeUxiUzRkZ2drVFlZYUE4WUlVcUM5ZnRPSUFXT2tmS1Bmd25qdy14YnVITE1HOFYyUWhmdnFLeENVaHFZXzlvWUNMbldjWk41ekp0ZkVwdTRhYkJjWHdJNGEzcGxMLVVR?oc=5",
+      "source": "Oui Speak Fashion (OSF)",
+      "publishedAt": "Sat, 04 Jul 2026 01:00:22 GMT",
+      "description": "Taylor Swift and Travis Kelce Get Married: Wearing Custom Dior Haute Couture by Jonathan Anderson Oui Speak Fashion (OSF)",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Taylor Swift Weds in Dior Haute Couture by Jonathan Anderson - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEk5QjA1RFU3cXhleGlMeHdNNWpIcE9iX1V1RWx4a2Z0cERVS3lCQTVJUHp6QUw2QjNybmZjUTVEZU9wZW5CcVQ5NmxsYnpYNjlWa3Z0NG80Q2QyOUVieFIzdW1NY2lEWW82NHcyZ3ViVFAyWWhBVVN3ZHhaNHZyWG11d1FuZEZ6YkRaSXc4bUNJdHVBZ0lhYzVEalk0WU1qc09zN2dTYU8tODA1XzBqUkFFZw?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Sat, 04 Jul 2026 00:29:21 GMT",
+      "description": "Taylor Swift Weds in Dior Haute Couture by Jonathan Anderson The Business of Fashion",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Taylor Swift and Travis Kelce Make Unified Wedding Statement in Christian Dior Haute Couture - WWD",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXBHWC1RQ0RwZlVTNzFfQUE0ajBuYlQtR2hFWnlRSnZzUkpwM0VUVXBycDl5b05lOVdZZWowVWNnWUNaWWdWdml5WGpqYlBPM0FDNU9JbUxpOTJBSWF5Y3dXYy1jaExnX2doUklaTHp2S3FXOEdIZURMLVpMLTlsb1NEMkxCbkhKNTdFa21sdEdRM1pCek1VUDFOT3FPQzI5VjZPeXlYNHpQTW9l?oc=5",
+      "source": "WWD",
+      "publishedAt": "Sat, 04 Jul 2026 01:58:50 GMT",
+      "description": "Taylor Swift and Travis Kelce Make Unified Wedding Statement in Christian Dior Haute Couture WWD",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Taylor Swift Wears Dior Couture Wedding Dress to Marry Travis Kelce: Everything to Know - Us Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDBaN084bjFQVThjUFExaDRZbjJ0MHZqanN0ajlkV3doRzlGVE9kX0MxTGNMT1pCdmM0aHllNjlnejZsSFRkWm1TM3hDZFQ3V2VPUlY2NjFMalg3bjk0cjhmalFMVDJiZkNJU0xvZk80QzVhZTZBT3hkdDFUZzEyUzFHX284ZU9G?oc=5",
+      "source": "Us Weekly",
+      "publishedAt": "Fri, 03 Jul 2026 23:50:58 GMT",
+      "description": "Taylor Swift Wears Dior Couture Wedding Dress to Marry Travis Kelce: Everything to Know Us Weekly",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Taylor Swift Wears a Romantic Dior Haute Couture Wedding Dress to Marry Travis Kelce - instyle.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TcFltMkFURy1FRW01M2Fjb2JEcnJ0eGhsTllILXdVaEZubFlTSlAxeFFpVFF6b0swMDdqaWhoNGxmT3NjNmVGTDNZaGdaSkRubDM3YWJXaGxDZS15SEpvck1MRlhmblc4eTdLcXg0Z2J0MlY2YlY2XzE3WmU?oc=5",
+      "source": "instyle.com",
+      "publishedAt": "Fri, 03 Jul 2026 23:48:12 GMT",
+      "description": "Taylor Swift Wears a Romantic Dior Haute Couture Wedding Dress to Marry Travis Kelce instyle.com",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
   "fetchWarnings": []
 }
