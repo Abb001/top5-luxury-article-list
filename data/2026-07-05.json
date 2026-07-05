@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-05T10:59:42.301Z",
+  "generatedAt": "2026-07-05T13:13:48.295Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-05.",
   "articles": [
@@ -11,6 +11,14 @@
       "source": "ABP Live English",
       "publishedAt": "Sun, 05 Jul 2026 05:42:07 GMT",
       "description": "Taylor Swift’s Wedding Fashion Decoded: Dior, Louboutin And Cartier Define Her Bridal Look ABP Live English",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Haute Couture and High Jewellery Take the Paris Stage - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkhFSHBFVGFmLVlEclRlLUxtU0MyTTFqNXRvVG9DdEt1YjVXSHVNNHQtaWJaMmhJU29Gdm9JdWczU2haaXo5cTZZUG12cWxWandJSlV4SXVHT19oWWNqSURWN3ZTOElQYzNoMExqcFlMUHpMRmxZYWUwUkxQREk3NThfOEUxVkt1dVJzSml4NHNMYzVncGtCc2NQc2Z2QVNLbnEzaWdDck1yNEVfdGJmOWVB?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Sun, 05 Jul 2026 12:30:00 GMT",
+      "description": "Haute Couture and High Jewellery Take the Paris Stage The Business of Fashion",
       "feed": "Google News - luxury lifestyle"
     },
     {
@@ -35,14 +43,6 @@
       "source": "Seeking Alpha",
       "publishedAt": "Sun, 05 Jul 2026 07:06:58 GMT",
       "description": "Hermès: Geopolitics Impacts More Than Luxury Slowdown (OTCMKTS:HESAY) Seeking Alpha",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Hermes highlights its luxury positioning as investors track long-term demand - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQktHdVNMVFk1eVN3RGhYZUVnODdyN2V3cjgyRzVJQ25FcER3T3FoeTRLMGxtbzJUQmpDMm5FREg3LXZfWUxrLW5ieVE1MHhXb2NZaUdmNFpJRW11YnlLR2Z5UGNCOEpmU0QzVldGTnlfY1VlNmdOajZlR0V2ZW9RcDFsaUhQNG5rMWQ3VEY1NDJjN2R1aWhOMUhSX011N1JXR2Fycmh3RWJfcXpYeElHUVJkamd6LVQ5cnJycFdfSUtPTzJzb2RZ?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Sun, 05 Jul 2026 06:58:13 GMT",
-      "description": "Hermes highlights its luxury positioning as investors track long-term demand AD HOC NEWS",
       "feed": "Google News - luxury business"
     }
   ],
