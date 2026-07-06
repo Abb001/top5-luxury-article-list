@@ -1,9 +1,50 @@
 {
   "date": "2026-07-06",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-05T16:01:15.257Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-06 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-06T02:26:47.966Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-06.",
+  "articles": [
+    {
+      "title": "Paris Haute Couture Week marked by excitement surrounding Dior and Chanel - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVgtakk4cG81MlV3TkxUeFVoWkF1MjFybVNOcVBzUUJNdDM1NktFRDF4R3VoZG9rWEhQRU1EdmdlZXYzSS1sTG1WZEV4WmNrR1hTaGVGTTdNSHBaUV9WSjRCbFNkc3pOWTZEMjk3YkpRYkdyQktyOFFyWkZGRm1pYVBmanZVYmRiZHRhRWhBX01DczY4bzdQanlYdExrQkdTaGkxTndKeldMX1Rod1YxZDdiQUZMUzFjRjdWZ0Jn?oc=5",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "publishedAt": "Mon, 06 Jul 2026 00:32:53 GMT",
+      "description": "Paris Haute Couture Week marked by excitement surrounding Dior and Chanel FashionNetwork - The World's Fashion Business News",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Taylor Swift And Travis Kelce Had Luxury Raffle Prizes At Their Wedding, Gave Guests Cartier Watches - BollywoodShaadis",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkJTcEtmQXNJMlBycDdhdDJHeFRQdzZKbThvSW9FYXBRZTFBaGpfeURMLTJZUWJjUkZadzJWUUptYUg4cjlZdlNLdkNpRkI2MFJCTW5NU0xmbE50WmpWbmFadkNmdXZ5Y3hZbEVBNm9EWW1ncTBiRkJzbGk3eldSR0pIWTJmd0ppcEo3aF9uWm9OaXdPNERybzN0Wllha3RQQmNKVEdobUs3Q3h3by04NjJDWEJoRXVwTlZRQmw4ME0xMVRNU0U0eUcxeFFPbEY1MlZNOE1QbGk1Yl9ZNTFrYdIB5gFBVV95cUxPSGVzbXB5NE9tNlFXdXdyMFFRTlRjaWVBN0RWNU1yR3FYV1RmVTBXZk5tU0VsT3RWbDBfZnVlbmNpZG5xQ1Q1QklZYkt1X0hFQmFnRFJzX0hqcVJSS2k4WXFBNkc2SVNSeW9RREVaRGcwMmZJRC1SMk1tbmZmOGNmV2dtYUdfdWVPcDBfSDBSdWlDenZ4N2dmaWFXdnpPcXBLYVNEWnZDdUxSbTQ0NmkzR2VqTFpmQ1BZQWhEUENxYVhIT1VERHdwSTVxRHdnUlhVUTJ5T3U0SndBZkl0dlNMaFMxN0pNQQ?oc=5",
+      "source": "BollywoodShaadis",
+      "publishedAt": "Sun, 05 Jul 2026 21:08:29 GMT",
+      "description": "Taylor Swift And Travis Kelce Had Luxury Raffle Prizes At Their Wedding, Gave Guests Cartier Watches BollywoodShaadis",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Kering balances luxury transition as Gucci revamp continues - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMlNsbm14M0dfeTU0QTJYLVYyREIzenh5WTNSTFg1WVBfYnV0S1BQXzBwUkw5TlVSbm8tSmJ1Z01ncjlMR3RFMTI5N1JfZ1BPMnBsTE14X2hRWnlMbVNFZjFjQ3NEcEY0NkRCa3E1a2Y0OXhodkZfem1YLThyenAybXJhaFdxZjRpSndibVB0dnQyVTlvcTZBWlQ5UnBGWDQyU3lNa2xQMGpNUS1BdW54dHlCOS1PT2ZfOVE?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Sun, 05 Jul 2026 18:13:42 GMT",
+      "description": "Kering balances luxury transition as Gucci revamp continues AD HOC NEWS",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Nykaa expects nearly 30% net revenue growth in Q1 on strong fashion sales - India Retailing",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQby1EWlhKYkZldVgyMmwyZW9Gb2RXcWZicllwNmpXUlhWNFRqVnhFOHQtNF8tOExaNGdWN3QxdWRZN2J0REo4MldwbnNnN0x2T2E5bVRxUVhnbHNxel85Y0l2NEMySks0WW9TMGxMcVFmb181R21OYkxtbk1SdEFucjZndlRCRHRUNmM2b3lxbDdaTFJxcEVkQ0hnOGpJcWlXZWxicGJR?oc=5",
+      "source": "India Retailing",
+      "publishedAt": "Sun, 05 Jul 2026 23:40:57 GMT",
+      "description": "Nykaa expects nearly 30% net revenue growth in Q1 on strong fashion sales India Retailing",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BUG9aa1hwb21QTE1Mam5IdEV5YkxHNEZ6Y0ZvZTdLNTNDZUE0UUFoU2lYRjFHYW5qSlV6eGdQeDNVN0Q1QmRpYWxSTnEyV3VKc0xUQ3dweDVXZGRt?oc=5",
+      "source": "BBC",
+      "publishedAt": "Sun, 05 Jul 2026 22:01:43 GMT",
+      "description": "A global hub for fake luxury goods, Vietnam cracks down on its black market BBC",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
