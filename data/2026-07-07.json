@@ -1,50 +1,13 @@
 {
   "date": "2026-07-07",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-07T11:39:36.343Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-07-07.",
-  "articles": [
-    {
-      "title": "Ferragamo highlights its luxury positioning as investors watch the fashion sector - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzd4aHZ3dDM0ZEQ4c2hOa291eGZHaDQyWlRkb056YXozLUxES3hycGlEbXRrS3c3YWJUTWpHZjBUaksxM01QVVI4bFBxVDFSWDNaMDY4WDhRdk1BYlJKdjg5cWtqeEJoa1FaZk54SGNzNV9zQzNhWmxRRFRVQktPMktZbEs2WjZFZTZ1RVJrY1BXWVFrMFlPNFFma0pkeE5tY3pHRzhsekkwYWRqNFpqTXBkbFhDTExtQ0lPVTQ5OEN4dWZkeldwdW1WVkNYUQ?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Tue, 07 Jul 2026 09:56:16 GMT",
-      "description": "Ferragamo highlights its luxury positioning as investors watch the fashion sector AD HOC NEWS",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Hermès focuses on long-term brand strength as investors watch global luxury demand - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFphemUyZmkwaHVwaFJFNWttdHBnWnd0ajdxNzZFdHBSbUV0cEhzajIxMWdieG5JbFFHeUNaUURETjBaMGxSTmM4WXdObmctVEJNY1dtNGRTbzItaGY5TGs2YkhhY2FwbFd3S0RXNVJHUV9iMDUtaDFmOTE5R1NUS3NxNU5wS1luUllOV1VQRVM3TDBEZHNubnpqZDFUTzIxemZQb0dwTkpBODZJUUt6RlZlRUxzbGY2bDd2eGVBRktjVlNwM3c?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Tue, 07 Jul 2026 06:28:43 GMT",
-      "description": "Hermès focuses on long-term brand strength as investors watch global luxury demand AD HOC NEWS",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "How Paris Men’s SS27 Fashion Shows Redefined Luxury Brand Building - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYTM1UVY4Y3h5aFV0Skk5NHNoV3lGejRFV2treHNVZHc4SlhNQ0VlQ1Q5aXBMTzFMS0dyTWVUU19hRHNoM1MwT1hrbl9XeUEwOGFucGxIUFRnZG1JUl9BSXlCZ3IxTWNDdzdPMk5SQkMxTmJPbUppbXhySmFqeGJIQk9DRjZxZ0FENTFJYVQ5ZVZ5RnA5eFc1WkxndUZ0Q1dUTHZuMWxtMW1CNUNXVmJvcEhhVzBqNmk4b3FIa1h6NzhnZjF5cVZkbjhpbGc?oc=5",
-      "source": "Forbes",
-      "publishedAt": "Tue, 07 Jul 2026 11:00:00 GMT",
-      "description": "How Paris Men’s SS27 Fashion Shows Redefined Luxury Brand Building Forbes",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Hermès International highlights resilience in luxury demand - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMmZ5YkVUQU5ZVEZjaEJKS0szYVJYM0xjQlpTeF9CX3hmdXRZTVFmQ1hxVTNZYUpmak9CMlBYVE1abHc5Qm1rQy1tNkg5VXhDYWtiUG5QQUotUUw5VlU0YmRZSDlVMHNGbzBycDBQYXVWTHVsR2luTmRNMzNiNk9vTVpGVTdabUwyWkFsRDctZFI1NUQ3ZWdIMmJDQUFhRHh1X3dIam16bGNNcG0xTnhyVkFBbXJ0UDBfMWc?oc=5",
-      "source": "AD HOC NEWS",
-      "publishedAt": "Tue, 07 Jul 2026 05:53:24 GMT",
-      "description": "Hermès International highlights resilience in luxury demand AD HOC NEWS",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Lutz Huelle: ‘Fashion Is Not Just Luxury Products’ - The Business of Fashion",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVENReHNhUm9veFFodXpUbFlIdjhIbF9sVGZ3dXVtV0lDcUR3dDdSZk82LVBzLUY0WVNDT0wzUUNKdVNVbEg1T3VBVzA1Y2J5R0hkTk5xNWV6aFRkMkl3TG95NFdaSlotbVBXQzE2WEMtaFZQVUNqSHItS042QVZoWGRhSEtRdmhBTHBmdWNMeE5CMWx5eXllREFn?oc=5",
-      "source": "The Business of Fashion",
-      "publishedAt": "Tue, 07 Jul 2026 04:30:00 GMT",
-      "description": "Lutz Huelle: ‘Fashion Is Not Just Luxury Products’ The Business of Fashion",
-      "feed": "Google News - luxury fashion"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-07-07T14:11:06.536Z",
+  "status": "empty",
+  "message": "No articles published on 2026-07-07 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
