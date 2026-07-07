@@ -1,17 +1,49 @@
 {
   "date": "2026-07-07",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-06T17:36:18.418Z",
+  "generatedAt": "2026-07-07T02:14:58.718Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-07-07.",
+  "message": "Found 5 article(s) published on 2026-07-07.",
   "articles": [
     {
-      "title": "Dior beats Chanel to dress Taylor Swift for wedding of the decade - bdnews24.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OVTNVX2UwQlZhblI3bHdPNldiWm1fcndvcEFxWlBMd3g5bGNEampkaFoxS2RwdWRHaVFqUklEUklmdFhwZW1JMGRsQlBUY1NtNlFkN2RfRWxmNjA?oc=5",
-      "source": "bdnews24.com",
-      "publishedAt": "Mon, 06 Jul 2026 17:07:00 GMT",
-      "description": "Dior beats Chanel to dress Taylor Swift for wedding of the decade bdnews24.com",
-      "feed": "Google News - luxury business"
+      "title": "TikTok Has Changed the Way People Buy Luxury Fashion - Life & Style",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT3czWTY3UXVjeV9tYmNIVXVDbVZpNnJJSUdTTEQtVHpIM293NFVtSUFRSjNWVVNPTElxN2h2aHo0YWR6NmNFLW9wZzVINkd2bk1PVU82V2RUUkh0TmtiQUtfbnNGXzZQY2JtbV9qc1hDVDJWQzJ4bF96SG56clJnMzBB?oc=5",
+      "source": "Life & Style",
+      "publishedAt": "Tue, 07 Jul 2026 00:32:31 GMT",
+      "description": "TikTok Has Changed the Way People Buy Luxury Fashion Life & Style",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Jonathan Anderson shifts Dior buzz from Taylor Swift’s hidden wedding gown to sculptural couture - CNA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeE83Zjd3MmIzQ3JuT0xOMHV1d1dIazgzLWNPQ2tDa0pIN1ZZakZrMVlIRVR4dG53RHpTVkJ4QU14NWJ5UHVEMjRPbjBNMzU4SUJuY0RjU2JYNWhhaHdSNDBORDZkVWZmSXlNclh3RU9SZXhEMENzM29iTm9BNHlRem9vVlNyX0ItNFIxMkhpalJiME85eWVEUHdwcjRoMm0yNWxTbUo0d2F5ckJy?oc=5",
+      "source": "CNA",
+      "publishedAt": "Mon, 06 Jul 2026 22:30:14 GMT",
+      "description": "Jonathan Anderson shifts Dior buzz from Taylor Swift’s hidden wedding gown to sculptural couture CNA",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Another luxury fashion retailer closes 139 stores as merger fails - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHBZZTVRZGFVdWNacm5DY0FjUUhNZTJVTTlkZlJ4MEpCZzVoS1BVU3JCbndnbGtSUEg0ZlV3ZU1CM3U4Y0MxSlNOb3RpajJ1TFhZaEUzSmlvZlM0cVljYmlFVHRjQ2VOb216TC1SVXNIbmh2dlVaa3M0Mkd1WUNLNGJnRFkzejV6ejl6TDhmNVg4N1JveFVvLXpDVDRITDdlckM0QUt3?oc=5",
+      "source": "thestreet.com",
+      "publishedAt": "Mon, 06 Jul 2026 22:17:00 GMT",
+      "description": "Another luxury fashion retailer closes 139 stores as merger fails thestreet.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Dior lands Taylor Swift wedding dress in major win over Chanel - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVpreFFpbWJRNEZqcGlfVEsyM1laUHltNDg2WDRQb0VTSVg4WFk2OTFLMWZlQ1UyNFBHLXA1UXdJd0pQZmJmemc4TXJDWVEwWi1UVFhTa190VEhxeUR5bV92Ty1hcnZwQVB5TFUwS0VHUXRFSlc5TEhObFdXSzJqRmF0bDVvOTA0OThUbFhPUTB5eTlWX3gycXhma2prUG14bEJwZHVLdEpuQldURWNYT0ZQTndjQ2o5Rlg0?oc=5",
+      "source": "Honolulu Star-Advertiser",
+      "publishedAt": "Mon, 06 Jul 2026 20:25:26 GMT",
+      "description": "Dior lands Taylor Swift wedding dress in major win over Chanel Honolulu Star-Advertiser",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Taylor Swift and Travis Kelce's Dior Wedding: A Fashion Power Move - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNElCcTBkMmxwR3lBNm44ZFNmd3kwanZpLU5TX2lBYTdkRjJWOUpQRTQ0dGJ1VUJwaFlBODJEZm1BRDdncU5IQ0pwbzVLd2REejZ2UjZzVGU0bF82TkIzcUM3ZGlNTEVmWXhYSzNWX2FBeHVaUVBWUXJSZDAxMTE4dTRpVnM3SGQtQWc1ZkEzSHJqbzNtUU5ZX2UwekoySUFpNWVJWWw3MHY2NFVDOUV6VjNaa0VpamU3UEp6a3JsSl_SAcYBQVVfeXFMTWF4SWd0N0h1M0NoUzJnaW5uVDJXbURVcFdiM2dYUXc5X1diczd0MnNCR3lhX1hZZjZXcGZnMGVFTXdWazRBZlJOY1hiYWV1YmJtU1BISllyZjE1ZFJfcXdOTFFzZ3p6dFlMTG9RWmpRTDN1RW9jMWZUTmJJb2dNNHpsZHFzc1FCNHlpMTE5OHRhaTljVENwNVNxMUxHX0dvd1pIdUNMeFluWEliVXozTG5tekRpSlJzeDVLUXMtZVNXSWkzM0ZB?oc=5",
+      "source": "Devdiscourse",
+      "publishedAt": "Mon, 06 Jul 2026 17:57:56 GMT",
+      "description": "Taylor Swift and Travis Kelce's Dior Wedding: A Fashion Power Move Devdiscourse",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
