@@ -1,10 +1,18 @@
 {
   "date": "2026-07-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-08T05:43:03.519Z",
+  "generatedAt": "2026-07-08T08:11:54.431Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-08.",
   "articles": [
+    {
+      "title": "LVMH focuses on global luxury demand as investors watch long-term brand strength - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOekZaSFE3amFIVlYtcnl0Y1UtRDVOdlpRVHNqX0lES1BWYWh4N3NGaFZXalQ4Y205SzJsY3NPRXBlcFdackczNm1JLXFSOE5NNmVxczFWQ20tSm5idFpoTWxBWjhlWElvdkt4OHVONUVJN3NxLXRJTFN3c0g1aGtHcm94TDBEdjZsQmw3ajdxcUZYbm5ESlJOai1NZjFnaEpfS1FFYkt2aXdmZjdYTzJzZDAzRFI1bU5GV0ludEQyNUpFRzVxaEZVZlhR?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Wed, 08 Jul 2026 06:44:50 GMT",
+      "description": "LVMH focuses on global luxury demand as investors watch long-term brand strength AD HOC NEWS",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "CHANEL Autumn-Winter 2026/27 Haute Couture — A New Chapter of Storytelling by Matthieu Blazy - fashion headline",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13dnR6UFhpTmNlczdvWi13NkpxNFhkNUZYbVdjN2RieFlRdTQzWTFCRGxMRGtacVhtZEw2VWdVZzlOWUljbHluM2d1YzNiQVpPMHFnM21jWFZUR2p2VDZJ?oc=5",
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Disney and Luxury Fashion Brand Ganni Continue Partnership With Daisy Duck Collection (EXCLUSIVE) - Variety",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUpVY1MxX01RUVptNGNQMTFadlEzSVktX1hyRGFoNGdsMWxwR0xZQ0NNZ2hId0hsYjg4bEJKY0NYVXdfOXFWTTZGVFd0SDU0RDJXWVY4Sm10YzJJNDAzdWZDNWtaeU9LUlcwZTl5TEs2dWtZWUZuLXIybk9JemN0V1E0UVRnV1M1YVJrUjJFTE5TS2F5MF9IMkhyV2V3bGJl?oc=5",
-      "source": "Variety",
-      "publishedAt": "Wed, 08 Jul 2026 04:00:00 GMT",
-      "description": "Disney and Luxury Fashion Brand Ganni Continue Partnership With Daisy Duck Collection (EXCLUSIVE) Variety",
+      "title": "Hermès International balances heritage and growth as luxury demand evolves - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHFhX01OcXJ4ZDhmYjFSeUdVeXYteGwzZ0MxYXlDREtQX3daQmg1WTIyeVdxaWJBd2VHelJFOFg4YlB5SmFKZ2dyRmNSNlRVY1ZZUVU2SmZHVzQxX2JSVVd3UkE3Q0dnbzJ6SGhWeTlOc1RQSXZKdUlaM1NESTVtS3RDLTFZcUZEUTZIelRvYTMyRmtvUlJRS0tjc09NRXlfVGJ2UGxWT3dGR2ozWE5zWmN2djZoeG0xZTh2NUQ1Y2tOYnM?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Wed, 08 Jul 2026 08:04:13 GMT",
+      "description": "Hermès International balances heritage and growth as luxury demand evolves AD HOC NEWS",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "The Architecture of High Luxury Capital Allocation Analyzing the Grand Palais Couture Show - Lavender Hotel",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTNmcFV5S2VBbVRlc3J2ekktMG5rdXpUdG1NRXg0NlJLN3NNUERBOWZtWjBjRUZwYXJkazVXZW5mQWVER3diWkFGbEpCR2RucWlscElTWDhmWFBMNXJGMUthcVJxVDQyQTVSb3BYMVVYYXhldDFRWkpkb2xTYnRxdEdPOXA4NGJlWkR0WHhseWRDVFVMNFBHTF9aQ1dudlJfZzV4dWpFekNEamNKamR6TG13?oc=5",
-      "source": "Lavender Hotel",
-      "publishedAt": "Tue, 07 Jul 2026 23:29:55 GMT",
-      "description": "The Architecture of High Luxury Capital Allocation Analyzing the Grand Palais Couture Show Lavender Hotel",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
