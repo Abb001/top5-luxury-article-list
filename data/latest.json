@@ -1,9 +1,50 @@
 {
   "date": "2026-07-09",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-08T16:25:45.101Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-09 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-09T02:09:00.656Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-09.",
+  "articles": [
+    {
+      "title": "M&S to Make London Fashion Week Debut Alongside Luxury Designers - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFlmenJ4ZDRVNFlGNDZsOEpEay0zWmNDZTNzMDN1Ym9iTXRkaDlXdG9UalVabTBUaGwzQUpZS1dRV2RKRVlIX19WWnJ2d0ZNVFFyQ05FSnN5UEg5RGtSZmxDZFRmMUFTWXlJYWhxbm9McDBLa0lib2J6TjUwbEdwTXc0Q3pmMkJ2UlJRZkpBV3FtY1p4bTBScnliaE5GUkVoOFVnekZwWlFCNVFSc09JcUdsVE1OZzg?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Wed, 08 Jul 2026 21:15:24 GMT",
+      "description": "M&S to Make London Fashion Week Debut Alongside Luxury Designers The Business of Fashion",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "14 celebrities who shaped modern luxury fashion - MSN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlZkOFpFUXFBbF9uQ29TR0FkMWRDYUQtdEpCNGJIdjZ0aEF5bzc1dTc0WURHU2N2dUdFYnBaNnVzM0dCaEZMMjVPbi1pMkFlUHcxNDNzSDFCNmk0MEhGd3JTZjBlX3A2Y3RidU5wcVRDTklibzFVMk1FcVZROC1lMXlsTldrN0J2U2N3UWoxVy01Z0g0bVoxbktJOFZ3Sm9KcGFyZllSTXRZZUdCZG84?oc=5",
+      "source": "MSN",
+      "publishedAt": "Wed, 08 Jul 2026 20:37:31 GMT",
+      "description": "14 celebrities who shaped modern luxury fashion MSN",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "The Quiet Rise of ZETAYE: The Emerging Luxury Label Capturing Fashion’s Attention - Daily Front Row",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFNlRDVCaXhlRlpaT0E1N0RKQjhhSGxIcTNCTTcxeU5fdGwySWtiUy1qcVJZdkxQaGZzZFZXU2pzbFVJRG90WDdZMUs3ZFVHUzRDZkp0U0oxUFRPQURCb0RYa2hxeTdUbndJX0dvdTVrT2xMb2pYcG0zVmtyTG5HZTl2cFhxb1NjZWNfa3NJSUkycC10XzZnZFZKLVhWRkZQd1RrbkNQc1hkby1ocGc?oc=5",
+      "source": "Daily Front Row",
+      "publishedAt": "Wed, 08 Jul 2026 19:31:40 GMT",
+      "description": "The Quiet Rise of ZETAYE: The Emerging Luxury Label Capturing Fashion’s Attention Daily Front Row",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Off-White Launches First Luxury Watch Collection Titled \"TIME\": Shop Favorites - Style Rave",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRYjBiT3lPVjlNSUhsUi1KYVF0SEQ2anFBdEJ4VzJiMjdkUnZZZnRQT3JDakI5ZFZfZkZWZFpyMHQ2dTJ3M1ZJNkxDamp2VXAtelN2VV9nV3c0TFJkZmZyLTJySk9BR3c4NnBNWHhTTmdOUEhubU9iRQ?oc=5",
+      "source": "Style Rave",
+      "publishedAt": "Wed, 08 Jul 2026 17:45:31 GMT",
+      "description": "Off-White Launches First Luxury Watch Collection Titled \"TIME\": Shop Favorites Style Rave",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury Retail Gets Swept Up in Stock Market Uncertainty - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaVRTUm1YVnA4cXdYRlJDVWRqcVNMVXhseTc4Z2E2QmQ5bENDOVBzenFRb3hLV0ZONGRHLWt4QVQ2TmZZd0dsM3Y0b3VDemt4QmdvNi1feTVYNURJMTlOUGV5TjZYb3VLMEdxczJzRnNpWmIzcHJpVUU5UDFYNmdUcTJiUWhfZw?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "publishedAt": "Wed, 08 Jul 2026 21:19:41 GMT",
+      "description": "Luxury Retail Gets Swept Up in Stock Market Uncertainty Yahoo! Finance Canada",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
