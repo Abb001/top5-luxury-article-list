@@ -1,10 +1,18 @@
 {
   "date": "2026-07-10",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-10T11:44:04.010Z",
+  "generatedAt": "2026-07-10T14:03:42.528Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-10.",
   "articles": [
+    {
+      "title": "Hermes stock reflects the luxury group’s steady positioning in global high-end fashion - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE9kTURfVWQtbWMzZkpCTEhjcklfQmxELVNvTTBqOFlkNU5heXd4eDFrdW9WTlVBekx2MWVaWlJWQzNrOG1COEEyRm8yY3hMeEdPSWZRbmZLU2g2OXFSeDNMejI5VHRNQlVQMnktVkVSVkNjRFlUMWxCNTRnaGlRVzliVnZBU3VzLTZYd0hRRmVBZzJCNTdYOXlLRWU5T1BIN21ORFZNOVEwZjV6cFdDdE5ud0V1SWpSdUJteHVSR0xDcVBXUlRZ?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Fri, 10 Jul 2026 12:42:24 GMT",
+      "description": "Hermes stock reflects the luxury group’s steady positioning in global high-end fashion AD HOC NEWS",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Luxury Watch Market Set for Strong Growth Driven by Smart Luxury Innovations | Rolex SA, Patek Philippe SA - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONERpbXRpZkwtQXBpcjVfdzhfTlNkVUVsdnI4Q0JmX2pSeHhrOVJIY0Jsa2JaOXROdkR5empVMW5HSjFGVk5ELU9OblRGV1lvUW5fam1uNnNCQVd2NVIteF9JaGFfTmNfNlRHcUVtTUVTZXFscE1DcVpTU0t2bG15SXVya1lhQ3J3eVFCX2NzSlZYdDdabThYNEtWTTBpckYtQ3c?oc=5",
@@ -14,11 +22,11 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Best luxury vintage stores in Tokyo: Where to shop for Chanel, Hermes and rare designer finds - CNA Lifestyle",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmFNQW1qUDczLTJ2X19relhxQWVYSVZHbXZwWjNSZ2pMX0NyQWFrNHJUX0YxRVN1YWxQeEtteGJWOVNvbS1TRjBTdk44NDdocW12dWRKWDZobW5SNHd6eGlvc3l6LWptV21uRjB4RF9uZU9kcDk5cDVVY3JjME4zNFZUNHdsZ2xRNGowa1lzMktnSFBUUWhsQg?oc=5",
-      "source": "CNA Lifestyle",
+      "title": "Best luxury vintage stores in Tokyo: Where to shop for Chanel, Hermes and rare designer finds - CNA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREljbE5iN1lCcEdtdDRtVGU4ekNjRjB1Qm5MMFVVYV80TnlJLS1hVXlaVkFsdFJUMXZmMkpYVGN3UFdnZjBXaTlBSjMtS29JVXdfTDlySWoyS240c2g3NlVfNGNQTzVScDRtWUFfV1dkbktPVjFRblpPaDhrQVc1bUZxTnZkcmhud01TbWRB?oc=5",
+      "source": "CNA",
       "publishedAt": "Thu, 09 Jul 2026 23:26:59 GMT",
-      "description": "Best luxury vintage stores in Tokyo: Where to shop for Chanel, Hermes and rare designer finds CNA Lifestyle",
+      "description": "Best luxury vintage stores in Tokyo: Where to shop for Chanel, Hermes and rare designer finds CNA",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -36,14 +44,6 @@
       "publishedAt": "Thu, 09 Jul 2026 20:15:10 GMT",
       "description": "From Hermès to Chanel: The best luxury bags seen at the World Cup themercury.com",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "At new luxury Irish fashion brand Six Roads, everything starts with the fabric - EVOKE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VNlZCeGZkZ29xM0RuTUxlbjhtb3BXU2R0bnVmZU13Y0xfYkFIWWZWYjZldGxiVVY5cXZ3cVJYcHhnTG9ncUZNbzdDdVdrajJiNTdncnF0LXJ0bk84QlpBR1NsX05nOS0waFZsM1VsX0VvR0lNa1haUTdWWlZvd0E?oc=5",
-      "source": "EVOKE",
-      "publishedAt": "Fri, 10 Jul 2026 07:45:37 GMT",
-      "description": "At new luxury Irish fashion brand Six Roads, everything starts with the fabric EVOKE",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
