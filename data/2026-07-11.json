@@ -1,9 +1,50 @@
 {
   "date": "2026-07-11",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-10T16:50:50.686Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-11 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-11T01:54:23.952Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-11.",
+  "articles": [
+    {
+      "title": "Best Fashion Collaborations of 2026 Blending Luxury, Entertainment and Retail - Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWk5EeGlWTkVNYk1IbGU3OVZ1elY0Rk4wc0IwSjJUOU5ROE1VY0ltVUx2ckxaOTFsU0RyVFZkQTJST1FQVWM2S1lLd2dRWldQcGc3SXlXRmtBelBCNW05Q2kwRU41NzZxVVlfNlV1a1JGdUs4R3UwUnhBTEJBZlpSc1dJQ1VRNWVHMDcwWTUydHpCb01SaWwzbTdiSVdEOGZSNW5Cb3YyNG9TQUVnYU1zYndPUGJUWnhfbUFQTG1FaEFuNW4xV2N2WDJB?oc=5",
+      "source": "Indian Retailer",
+      "publishedAt": "Fri, 10 Jul 2026 19:16:46 GMT",
+      "description": "Best Fashion Collaborations of 2026 Blending Luxury, Entertainment and Retail Indian Retailer",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Zendaya Unveils The Odyssey in Haute Couture - FASHION Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFDWFFpdE1OcEw0OHBiTnhKcW9fNjZmQ1pLa0tSS25uNVYya1BZYk4tbm5QNU5qcDY3YTNXR3JuTjFvS2hYSzRTR201RkJFRWNKcWtoZXR1T1NCcFFDbEVxV25rcUNqdng4WDJBYjd1bkxybV9lMTM3NlBPajYyVXg3R2IwVWM1UnJqVm01UWhXSG5oYmRKNzE5TllDQQ?oc=5",
+      "source": "FASHION Magazine",
+      "publishedAt": "Fri, 10 Jul 2026 19:15:24 GMT",
+      "description": "Zendaya Unveils The Odyssey in Haute Couture FASHION Magazine",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Fendi Haute Couture Fall/Winter 2026–2027: Maria Grazia Chiuri’s First Couture, a Study in Desire - Oui Speak Fashion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNlZ1WnNhTzdRdlI5RGJQRTJReGdZZWFVZ1JzOWJFTmZOZTljSlBwbko0RHo3THNMTldjcWNpWm4taFUxTEx1dGFjaS0yNnR1cWtHSU04ZURSRjg4UHg1cXFOU2dsbkpfbTRXRmIzN0w?oc=5",
+      "source": "Oui Speak Fashion",
+      "publishedAt": "Fri, 10 Jul 2026 19:03:12 GMT",
+      "description": "Fendi Haute Couture Fall/Winter 2026–2027: Maria Grazia Chiuri’s First Couture, a Study in Desire Oui Speak Fashion",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Hermès International stock reflects resilient luxury demand - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDZJN3laUmQ4TGxnRkZRVnJDR0sxWDNBR3lSZzZ6b2dfYjFCZ2VQX3ZyT0FsbnNkcXpDVWdIaHFJU3lOQmZmR0VIWEFOdW9pTTFXX2paeE9FTmNMNDJqbC1vOWNvajZOTjVia0pCNGpRcnBMOFhzbHFHV01KOXdPOXV2a1hYYmk2T08zVWJaX1R3X3JXSUdlOWtnemFQQmk0bUxLM2NOQ0s0U3RGUTZxWVA4MEhTT1gzaHc?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "Fri, 10 Jul 2026 18:14:48 GMT",
+      "description": "Hermès International stock reflects resilient luxury demand ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH Moët Hennessy Louis Vuitton stock reflects the luxury giant’s global reach and diversified b - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEVzY2xOelhYTGowZm5XMjdDckFuU2VVcC1WdkxhLTRiNzcxSXNSRTU1VERnYjVibzZJd0hob2p0aW5rMUxocVhtTzJwMUItY0otRWpCTnhFVG1TQkJlclpiZERBZ3pXTk9iTTZhVENqWUtaMHZqcG5rcW90RC1XbDRHUnYtYWl3cjRQY2h6eFA0UEZqQUhjYk5RR2p2b3dQZVJ1V2dIbWRkMGNEY1VKVlhycUNuTFpDbC1zQWxHSmlPbWM?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "Fri, 10 Jul 2026 18:10:41 GMT",
+      "description": "LVMH Moët Hennessy Louis Vuitton stock reflects the luxury giant’s global reach and diversified b ad-hoc-news.de",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
