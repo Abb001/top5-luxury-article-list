@@ -1,18 +1,10 @@
 {
   "date": "2026-07-11",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-11T12:59:45.575Z",
+  "generatedAt": "2026-07-11T15:46:10.336Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-11.",
   "articles": [
-    {
-      "title": "Best Fashion Collaborations of 2026 Blending Luxury, Entertainment and Retail - Indian Retailer",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWk5EeGlWTkVNYk1IbGU3OVZ1elY0Rk4wc0IwSjJUOU5ROE1VY0ltVUx2ckxaOTFsU0RyVFZkQTJST1FQVWM2S1lLd2dRWldQcGc3SXlXRmtBelBCNW05Q2kwRU41NzZxVVlfNlV1a1JGdUs4R3UwUnhBTEJBZlpSc1dJQ1VRNWVHMDcwWTUydHpCb01SaWwzbTdiSVdEOGZSNW5Cb3YyNG9TQUVnYU1zYndPUGJUWnhfbUFQTG1FaEFuNW4xV2N2WDJB?oc=5",
-      "source": "Indian Retailer",
-      "publishedAt": "Fri, 10 Jul 2026 19:16:46 GMT",
-      "description": "Best Fashion Collaborations of 2026 Blending Luxury, Entertainment and Retail Indian Retailer",
-      "feed": "Google News - luxury fashion"
-    },
     {
       "title": "Zendaya Unveils The Odyssey in Haute Couture - FASHION Magazine",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFDWFFpdE1OcEw0OHBiTnhKcW9fNjZmQ1pLa0tSS25uNVYya1BZYk4tbm5QNU5qcDY3YTNXR3JuTjFvS2hYSzRTR201RkJFRWNKcWtoZXR1T1NCcFFDbEVxV25rcUNqdng4WDJBYjd1bkxybV9lMTM3NlBPajYyVXg3R2IwVWM1UnJqVm01UWhXSG5oYmRKNzE5TllDQQ?oc=5",
@@ -44,6 +36,14 @@
       "publishedAt": "Fri, 10 Jul 2026 18:10:41 GMT",
       "description": "LVMH Moët Hennessy Louis Vuitton stock reflects the luxury giant’s global reach and diversified b ad-hoc-news.de",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "BYD’s cheap cars are a hit. Now it wants to crack the luxury market - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkRYY3NnT01mYWZTNks3cldWWG1Nd192eXlEZnl5c2dXLU9lLVRLQlRNRUVYRUk3Yjcxa2pPNk9jc3pfRUhMTjh3ZEZYT1g3RTRNVlNBWUd5VVFUSGZVY3dHSzhydkFQMlFPYjY3TEZRdHNzMmxGXzdBdjFqVExJUHFVNG13YUhTVy1TZE42aTlhMW9ydzZZd1BpVkpKeHFQUndocEtDa201SVpqWmluUGcxWQ?oc=5",
+      "source": "The Times",
+      "publishedAt": "Sat, 11 Jul 2026 15:00:00 GMT",
+      "description": "BYD’s cheap cars are a hit. Now it wants to crack the luxury market The Times",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
