@@ -1,10 +1,18 @@
 {
   "date": "2026-07-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-14T10:38:40.347Z",
+  "generatedAt": "2026-07-14T13:14:08.490Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-14.",
   "articles": [
+    {
+      "title": "Luxury Jewelry Designer-Inspired Interiors - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qUFA1OVhWOHY2VkdNako3UGdUTEt3RVBVeVJSUlJ4LU5sT1ZTQU5pNFNCclZuZ3JSTWJGaHdKTmRlYWVjb21JN1VnOGZ1SzJ6eEF2U3Y3OG5Ed9IBX0FVX3lxTE1wd01WWjc2SXBQLU94MnJuMlVrOWFPR1Rtb3FhNDZfeThMalRMSXNnY1hVVzNmdVhUSVRYbnc1c19lanNGWGlidFcwb01Lc2M1MFcwYWVVMTctcER1cTQw?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "Tue, 14 Jul 2026 10:02:53 GMT",
+      "description": "Luxury Jewelry Designer-Inspired Interiors Trend Hunter",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Watches of Switzerland profit surges as shoppers fuel luxury boom - Retail Gazette",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUMxRzd6VHZpX0VGWVBKLUJYMnF4N1NwTUVkeDB4LXFCR0t3ckotcDd6Qk1DRXZlSm5LWHFQWWZ4SUVfSEVsNWIweE01WHhhUzhXcTNhc1lmeXJGb0c1YS01emw2eFpYNGhuelVDZjdFX2Fwc1VLNUg3ZEM4VEhsbERDZ05YNnRvQXdMQmJNLTNReUtVZGlnYnV1RDI5MmxoRU5UNjlubDVlUlBPRTU5Zg?oc=5",
@@ -36,14 +44,6 @@
       "publishedAt": "Tue, 14 Jul 2026 01:00:49 GMT",
       "description": "Angel Reese grabs attention in luxury Chanel look before Dream game sportingnews.com",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "GCDS Just Turned a High Fashion Campaign Into a Meme - Hypebae",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTlrUU9MVkJpWi1nSzhDQjlFblB0NS1aWUZ1WXZFdnUzbldvYUtBYkxSZUlRN3RUSk00cHRMMndvTmk3b2hSZkE2ZjhkbUpadGZiUGhKeGNaYWszYTBXeGNaSDZzVXBTWm01NXV0UVozbjBvSzkwM0Z6dklPWW9YdE1wQQ?oc=5",
-      "source": "Hypebae",
-      "publishedAt": "Tue, 14 Jul 2026 10:03:50 GMT",
-      "description": "GCDS Just Turned a High Fashion Campaign Into a Meme Hypebae",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
