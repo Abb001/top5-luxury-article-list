@@ -1,10 +1,18 @@
 {
   "date": "2026-07-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-14T07:49:40.659Z",
+  "generatedAt": "2026-07-14T10:38:40.347Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-14.",
   "articles": [
+    {
+      "title": "Watches of Switzerland profit surges as shoppers fuel luxury boom - Retail Gazette",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSUMxRzd6VHZpX0VGWVBKLUJYMnF4N1NwTUVkeDB4LXFCR0t3ckotcDd6Qk1DRXZlSm5LWHFQWWZ4SUVfSEVsNWIweE01WHhhUzhXcTNhc1lmeXJGb0c1YS01emw2eFpYNGhuelVDZjdFX2Fwc1VLNUg3ZEM4VEhsbERDZ05YNnRvQXdMQmJNLTNReUtVZGlnYnV1RDI5MmxoRU5UNjlubDVlUlBPRTU5Zg?oc=5",
+      "source": "Retail Gazette",
+      "publishedAt": "Tue, 14 Jul 2026 09:05:31 GMT",
+      "description": "Watches of Switzerland profit surges as shoppers fuel luxury boom Retail Gazette",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Erling Haaland’s luxury bag collection: Norwegian football star’s Hermès haul tops R1.1m - News24",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaGFnRGN4ZXVVY2tkbzhhRkEyN1Y1c19wbVE0THpCNlVFV0FRdnJtMzVmOENpMURfZ3pnYmVPaXdTVUdRTXV0dWpoZkx4elplVUNtQVZlS0VwN2IzbU04WVczN0NGTFNPRDhYQ2RJVEN4dDc1cTRzVzNaYVZxcUJrOGhQUEtPbkprSjlvRmdhOG1uODZwbTliWGdVeE1SQktJWlg2NjhyLXN4Mmd5bTRpR0hHRXM5WnltRFRQR1lOWENhdlNfcjFVTGhMbFdMeEl1Z1dhXzRtcW5PWEJfdEhxQ3IxaFlDZ3BaWFR2RnppNGExNHNS?oc=5",
@@ -30,19 +38,11 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury brands merge to offer refined afternoon tea - China Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14cjJ2aFZCVEhrZ0dqaG9jQk9CcndFVFNMT29sMVZ4cGVVMDRPSjJFS1NDdW9nX1JZaER3SER5N0hXV09ZdUE5TTh1QTZsS0loVjcyam5oZXozMHZRek1PbWljMHZ0Y2Eyd19vNlI1VHRKNUVrX3U1QkFYV0djQQ?oc=5",
-      "source": "China Daily",
-      "publishedAt": "Tue, 14 Jul 2026 03:03:10 GMT",
-      "description": "Luxury brands merge to offer refined afternoon tea China Daily",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "#FASHION: Rome steals fashion spotlight - NST Online",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm4yZHNxMThKbVJIQUFLMnU4NFZQVGRKWHVTYTRhWUFIcHlZRzFkSXhOSm5sQ1dwUUJJaEpKcTVCRFU3aldSUjdrb2NZbHJ5Q2x0TWVjQTR4amVMZXJQdEZySWpVcmRxUXlhR0MxVjN5bkZJWnMyeUVNMnAwSGU1blpXTW9TY0g2M2RJeE1wZHlRTlFhUWNfMW41U3DSAZwBQVVfeXFMUDZuMmRzcTE4Sm1SSEFBSzJ1ODRWUFRkSlh1U2E0YVlBSHB5WUcxZEl4TkpubENXcFFCSWhKSnE1QkRVN2pXUlI3a29jWWxyeUNsdE1lY0E0eGplTGVyUHRGcklqVXJkcVF5YUdDMVYzeW5GSVpzMnlFTTJwMEhlNW5aV01vU2NINjNkSXhNcGR5UU5RYVFjXzFuNVNw?oc=5",
-      "source": "NST Online",
-      "publishedAt": "Tue, 14 Jul 2026 01:46:28 GMT",
-      "description": "#FASHION: Rome steals fashion spotlight NST Online",
+      "title": "GCDS Just Turned a High Fashion Campaign Into a Meme - Hypebae",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTlrUU9MVkJpWi1nSzhDQjlFblB0NS1aWUZ1WXZFdnUzbldvYUtBYkxSZUlRN3RUSk00cHRMMndvTmk3b2hSZkE2ZjhkbUpadGZiUGhKeGNaYWszYTBXeGNaSDZzVXBTWm01NXV0UVozbjBvSzkwM0Z6dklPWW9YdE1wQQ?oc=5",
+      "source": "Hypebae",
+      "publishedAt": "Tue, 14 Jul 2026 10:03:50 GMT",
+      "description": "GCDS Just Turned a High Fashion Campaign Into a Meme Hypebae",
       "feed": "Google News - luxury fashion"
     }
   ],
