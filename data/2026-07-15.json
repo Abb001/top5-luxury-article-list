@@ -1,10 +1,34 @@
 {
   "date": "2026-07-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-14T16:08:56.723Z",
+  "generatedAt": "2026-07-15T01:42:41.413Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-07-15.",
+  "message": "Found 5 article(s) published on 2026-07-15.",
   "articles": [
+    {
+      "title": "Why Fashion's Most Celebrated Designers Are Trading Luxury for the High Street - L'OFFICIEL USA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOelZ2WmdnUHVNaE1XMGI3ZHB4NjdKeWFHbTRFTnk5dkplVGI5Z3U2UWVKWmxoUEs5NE9XSWVOXzRpV1h4UWw4UDJ6a2xEUmU0eWZiZjc1a2o5aHN4Y2J3SW1DbFZ0ZGJ5YzZtS2dNazg0VFhpVnpTcVIyUGFFUHItZkJVT2RfR3c3T3BIZnlhN0FSeUdhbEsyYXNpUF9fMmtDbW9nc1BCd01WYllwcmV1TElYVXZHXzRsR0NoMUVrQnRaalFGbm5kRm14SXQ4em5FdkE?oc=5",
+      "source": "L'OFFICIEL USA",
+      "publishedAt": "Tue, 14 Jul 2026 23:03:17 GMT",
+      "description": "Why Fashion's Most Celebrated Designers Are Trading Luxury for the High Street L'OFFICIEL USA",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "How Sustainable Crystal Jewelry Is Redefining Luxury - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yU0JMZ1JFalQ4UWlRWS1LMWJwS1dOZHZpWGJjb1dBTXE3YTlfbW8xemIyWGZvWTZxVTRaLUhta0ZSdEUtRnJKbUVLQy10MjQwX1BxbEZoOE9maVppS2c?oc=5",
+      "source": "Impakter",
+      "publishedAt": "Tue, 14 Jul 2026 18:12:16 GMT",
+      "description": "How Sustainable Crystal Jewelry Is Redefining Luxury Impakter",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "LVMH and IFM Launch the “Sciences & Creation” Chair to Study Creativity Through Science - Oui Speak Fashion (OSF)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBObHpwQnJYTTdwTTctWG9DSXFxdUo5RG9EdGVRekE0M0U4Z0RFWWs3TUs5RTFmMzRhVjJqVmtwalhpc090aTBtR1UwSnp5M1paVkRkM2x0OS1JdFpUUm5lZG9PY2pOeVFtX2JNSllB?oc=5",
+      "source": "Oui Speak Fashion (OSF)",
+      "publishedAt": "Tue, 14 Jul 2026 17:23:10 GMT",
+      "description": "LVMH and IFM Launch the “Sciences & Creation” Chair to Study Creativity Through Science Oui Speak Fashion (OSF)",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Miu Miu, Chanel: Fashion brand positioning according to netizens - Jing Daily",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMWV2REctTXFkdU5iSEFlVmg3ZUk1a0p3THRJS2RIeGE1bXlXR0pFREhqbjB3aDhjc1ZkLXZGRzFQS3dtSHdhQVdCQlFoODRpVUcwb1pTeUE5bjFuS09ENU81cm00RHgwVm9oTzVCbDMxSWZxR0pfNGk4dGhXQjhBcXFkWmhEY05aVWhMbnRzcjVfSXpv?oc=5",
@@ -12,6 +36,14 @@
       "publishedAt": "Tue, 14 Jul 2026 16:04:02 GMT",
       "description": "Miu Miu, Chanel: Fashion brand positioning according to netizens Jing Daily",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Kering stock reflects a luxury group in strategic transition - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakRxN1FkRnd5WWlIeUltQ2hISUcxZ0xlRW8zWm9TdGtZNXFtTExRd3E5ekhIQXl1RGVYbUh3NTlvSEpiaVp1Sk02Uk1SNE9jVWVUSEVienV3akxseDFuSUhxV20zRmk2TkpHWmtvVFhJUmJKV0xqdnRxM3I5ZWxuSU9Ha09Td0FYdHM1R2hFa2ZLOXplLUFEM1pZTkZ4RXRvVXpMNFJJRHd6VUlyNFlXOGRtUFNnVGROZGFn?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Wed, 15 Jul 2026 00:58:44 GMT",
+      "description": "Kering stock reflects a luxury group in strategic transition Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
