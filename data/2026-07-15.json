@@ -1,10 +1,18 @@
 {
   "date": "2026-07-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-15T07:53:03.875Z",
+  "generatedAt": "2026-07-15T10:43:08.278Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-15.",
   "articles": [
+    {
+      "title": "Vogue College's Amy Johns on leading luxury into its next chapter - fashionunited.uk",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGpPN1ZXalRwVDFJV0dYMGdlUDJEUXE4MlNsQWVibl9EVE5vdzhCWUozX0RFbmlfSjhfRDRjbnpvTmc3WWpCeUlPdno4M0RmcmJYa2lmbHVpWjg5STBuaUlMS2RSeXV4MWtZbVhEbVgzTUw4WTV2WktSTW9UdlljcHNrRDViYzlWdDJwQWlhblA5WXhDWXppOG0yLUZud08zZUxDZ181QmFJbFlVVUkzX3dSVERZQ3c?oc=5",
+      "source": "fashionunited.uk",
+      "publishedAt": "Wed, 15 Jul 2026 08:18:27 GMT",
+      "description": "Vogue College's Amy Johns on leading luxury into its next chapter fashionunited.uk",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "What's up, Kateyki?! 🇹🇭✨ Viral Thai luxury fashion influencer and entrepreneur Aon Somrutai graced \"It's Showtime\" on Wednesday, July 15. She even delighted fans by dancing to Baby Dolls' \"Oooh Lala Baby.\" (Screengrab from It's Showtime/ YouTube) - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORU1QVE96aWp0NzlzU1pwQUlHLXN4VElyTklUaUlKOUpJS3F6WkIwVFJlWEY3QkNoQ3U0cWU2cVNIOFJQdGlVOUFNSU5LRHMzXzJhcmJTVElDWEViQ2pBUUpndkNmbEhocFN0S3BmX2ZpUFBQZzRIa25JNGQxa3JiTXdJTHRZREdmeEE1Z2VOZ2xrOHlzRXZJYjNaWkc5WmZ2anpidmhwazIwWjgwbG5rSGdOMDNTY1VkRUJQbkN1SFdfRDhQSHFSZmpTMVROeUw0ZU03WHpsRQ?oc=5",
@@ -36,14 +44,6 @@
       "publishedAt": "Tue, 14 Jul 2026 18:49:25 GMT",
       "description": "LVMH and IFM Launch Luxury Innovation Research Chair The Impression",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "How Sustainable Crystal Jewelry Is Redefining Luxury - Impakter",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yU0JMZ1JFalQ4UWlRWS1LMWJwS1dOZHZpWGJjb1dBTXE3YTlfbW8xemIyWGZvWTZxVTRaLUhta0ZSdEUtRnJKbUVLQy10MjQwX1BxbEZoOE9maVppS2c?oc=5",
-      "source": "Impakter",
-      "publishedAt": "Tue, 14 Jul 2026 18:12:16 GMT",
-      "description": "How Sustainable Crystal Jewelry Is Redefining Luxury Impakter",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
