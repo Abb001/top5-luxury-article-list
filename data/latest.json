@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-16T01:52:14.371Z",
+  "generatedAt": "2026-07-16T05:32:28.285Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-16.",
   "articles": [
@@ -22,6 +22,14 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "Hermes stock steadies as the luxury brand keeps its premium edge - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXY4T3pGMktxVWd0bWVyN3c2dVlhRDFDMFBKMDREQ1dKcDBaUnljQzBTN3B2NnplZlNVME1ta0x2Y0NLZ0NiSldRUVgxa0Jhc0U3X25TTXlIOXo0OU1FQXF4ZkdEbnlrZWZyWWZNbzRwczZYNzNIOFBEbXAwVURBcWd5dXdyZzl4LV9CdVNjU2NKbXdXSTRNTWx1MmtXY3FQRk50OFVjYk1rT2hDQ01hV2RTZ3pCUnhGMlhrQTJXQjI?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Thu, 16 Jul 2026 03:38:37 GMT",
+      "description": "Hermes stock steadies as the luxury brand keeps its premium edge Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Chanel Hong Kong Theft Trial Opens Window Into Luxury’s Destruction Protocols - The Impression",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDlTUXJFSmtsLXJDbFNhYmhmdmRVemRVQWtGNXVRaG4zbTcybUlTUGZqczdDYURSZHNQU0JEcVM4UzBnTEczX3FNQjQ5OF9ral9rUDd0Tl90ZkxoRkJLWDlfenl3aWFTUXFJaFh2SmRwek50NHgtV1dBaXNPOHAwZG1pWDk1dk5GXzhUaWpHcGVHMGh4a1RkSFVyRkhZamE5bm1zRzVn?oc=5",
       "source": "The Impression",
@@ -36,14 +44,6 @@
       "publishedAt": "Wed, 15 Jul 2026 18:36:00 GMT",
       "description": "How Football Is Influencing Luxury Fashion Trends Outlook Luxe",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Bottega Veneta Taps LVMH Fragrance Chief Romain Spitzer As CEO - The Business of Fashion",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWVMNlVyeGVMbU95eXRrbUFiWWJEa3ZSd0tudHVRQ20wbVFrTTZVM3JKRHVWblUtRm5idE9qcjF3ZV9QODhtNzJpcXBMZHF1cHpuV0tmQTV1amFBQVpYeElfXzYtYXhKaHh3RjFmTG5SSVVCb1M2WXhIT1A3c2U4RXlLUHhuOWwyaTRRcVJZcUJ6MGNfa2ljRXo4MHpLb0RtbzNZM25QanBETVcwWUxPSHM4SQ?oc=5",
-      "source": "The Business of Fashion",
-      "publishedAt": "Wed, 15 Jul 2026 16:41:38 GMT",
-      "description": "Bottega Veneta Taps LVMH Fragrance Chief Romain Spitzer As CEO The Business of Fashion",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
