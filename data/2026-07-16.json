@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-16T05:32:28.285Z",
+  "generatedAt": "2026-07-16T07:58:49.160Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-16.",
   "articles": [
@@ -14,20 +14,28 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "LVMH stock holds steady as investors watch luxury demand - Ad-hoc-news.de",
+      "title": "LVMH stock holds steady as investors watch luxury demand - Ad Hoc News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkcwLTdWOXNRMkZJQ25qQTlYczZVd2RJWXVzZkU1VVFLV2dXOWl1Rzg3NEtGbDNIV095NG9GYXdKVmlFRTFlWUhFZU92Y0N3WlFvcVNNV0ZPUGY2ZUNGcU9sTlFQTkNIbnN3Z3pLZkQ5SzUzWDczMmtoeWFmQ1duX0t2clNUd1VhUkVrcVpQclAyN2lxOEJUVlpRUXRHNGhGNXdHcl95cjF4c21YRWhTZWdtRjdjdw?oc=5",
-      "source": "Ad-hoc-news.de",
+      "source": "Ad Hoc News",
       "publishedAt": "Wed, 15 Jul 2026 18:47:41 GMT",
-      "description": "LVMH stock holds steady as investors watch luxury demand Ad-hoc-news.de",
+      "description": "LVMH stock holds steady as investors watch luxury demand Ad Hoc News",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Hermes stock steadies as the luxury brand keeps its premium edge - Ad-hoc-news.de",
+      "title": "Hermes stock steadies as the luxury brand keeps its premium edge - Ad Hoc News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXY4T3pGMktxVWd0bWVyN3c2dVlhRDFDMFBKMDREQ1dKcDBaUnljQzBTN3B2NnplZlNVME1ta0x2Y0NLZ0NiSldRUVgxa0Jhc0U3X25TTXlIOXo0OU1FQXF4ZkdEbnlrZWZyWWZNbzRwczZYNzNIOFBEbXAwVURBcWd5dXdyZzl4LV9CdVNjU2NKbXdXSTRNTWx1MmtXY3FQRk50OFVjYk1rT2hDQ01hV2RTZ3pCUnhGMlhrQTJXQjI?oc=5",
-      "source": "Ad-hoc-news.de",
+      "source": "Ad Hoc News",
       "publishedAt": "Thu, 16 Jul 2026 03:38:37 GMT",
-      "description": "Hermes stock steadies as the luxury brand keeps its premium edge Ad-hoc-news.de",
+      "description": "Hermes stock steadies as the luxury brand keeps its premium edge Ad Hoc News",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Brunello Cucinelli stock reflects the luxury brand’s steady positioning in the global fashion mark - Ad Hoc News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1czMnJjMndmeVNhdHNKQk1pcFZucFFWZEJkUlRnd05vWWFhTF9Da2RuLUpEdUNGYi1QMGRUdXUyeDF0UUd6TGl4M2N3bmxvNllEVWpYQlZ3aDVoem1tRmQtNVg4UlNtT0FoQ1hkRHlvQ1RmV2M1dXd2T1pucDJLZ0ppbDR0SlViVFVBejBHb1l6UE5DeWdTT1FCQ0hMbHd0WjVPbTRDNlBnZEUyUDZ3d0tPSjFFb0ZJOWd1WTZRU1ZyWmJJYTFqRmF3?oc=5",
+      "source": "Ad Hoc News",
+      "publishedAt": "Wed, 15 Jul 2026 23:37:12 GMT",
+      "description": "Brunello Cucinelli stock reflects the luxury brand’s steady positioning in the global fashion mark Ad Hoc News",
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "Chanel Hong Kong Theft Trial Opens Window Into Luxury’s Destruction Protocols - The Impression",
@@ -36,14 +44,6 @@
       "publishedAt": "Wed, 15 Jul 2026 21:23:02 GMT",
       "description": "Chanel Hong Kong Theft Trial Opens Window Into Luxury’s Destruction Protocols The Impression",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "How Football Is Influencing Luxury Fashion Trends - Outlook Luxe",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Id0hBTDBjQ2ZrN2VYbFllbVpfNFJib01ZZW04S0VveFFoX1hWNDVWeS1DanNJVkZJMUVwTUU0emVQSnpNcm1XUGg3NnJVSm4zajFMYVNGNkFob01pMElNQnY3TWIwSmhZWWfSAXdBVV95cUxNb2NtRUtITzJiSjdmaUFBVDJhU3Z4a1NhYTFjNHdGZnREMmlyS01ERXFFTmJ1Z1VqV2NnR2d6M1cwRERIN0g2TUJ4eGpOR0lqNlNNLVlDTzJyc2M5U1RBQXBTcE9Zd3c3T0pSX2c1b2dFM2FKdGlqOA?oc=5",
-      "source": "Outlook Luxe",
-      "publishedAt": "Wed, 15 Jul 2026 18:36:00 GMT",
-      "description": "How Football Is Influencing Luxury Fashion Trends Outlook Luxe",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
