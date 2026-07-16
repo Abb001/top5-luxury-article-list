@@ -1,9 +1,50 @@
 {
   "date": "2026-07-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-15T16:14:35.017Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-16 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-16T01:52:14.371Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-16.",
+  "articles": [
+    {
+      "title": "Richemont’s Fiscal 2027 First-Quarter Sales Rise 20% as Jewelry Drives Luxury Growth - Oui Speak Fashion (OSF)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQlhCVzdlaVlMcFFjd19xUTNvbGY3Sy12WHdjdW9UOGFRZERIMVpXVFJoRTJ6T3cxZkxXQmd2dEF2M2N3T0ZmVWNncU9JczM0Y2Q1cWZhNHZaZVUzZ3d1LWV0NFJ3Ulc1ZXEwUEhRbUhLUzNZQjJTdVJzcjNBaUhUWk41LWo3cGZPZEpvU3NkcktwZkx3bkVYREtJZW9aU09ZRVVRZ1FQLTNyU1BLc2hzTQ?oc=5",
+      "source": "Oui Speak Fashion (OSF)",
+      "publishedAt": "Wed, 15 Jul 2026 19:28:15 GMT",
+      "description": "Richemont’s Fiscal 2027 First-Quarter Sales Rise 20% as Jewelry Drives Luxury Growth Oui Speak Fashion (OSF)",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH stock holds steady as investors watch luxury demand - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkcwLTdWOXNRMkZJQ25qQTlYczZVd2RJWXVzZkU1VVFLV2dXOWl1Rzg3NEtGbDNIV095NG9GYXdKVmlFRTFlWUhFZU92Y0N3WlFvcVNNV0ZPUGY2ZUNGcU9sTlFQTkNIbnN3Z3pLZkQ5SzUzWDczMmtoeWFmQ1duX0t2clNUd1VhUkVrcVpQclAyN2lxOEJUVlpRUXRHNGhGNXdHcl95cjF4c21YRWhTZWdtRjdjdw?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Wed, 15 Jul 2026 18:47:41 GMT",
+      "description": "LVMH stock holds steady as investors watch luxury demand Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Chanel Hong Kong Theft Trial Opens Window Into Luxury’s Destruction Protocols - The Impression",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDlTUXJFSmtsLXJDbFNhYmhmdmRVemRVQWtGNXVRaG4zbTcybUlTUGZqczdDYURSZHNQU0JEcVM4UzBnTEczX3FNQjQ5OF9ral9rUDd0Tl90ZkxoRkJLWDlfenl3aWFTUXFJaFh2SmRwek50NHgtV1dBaXNPOHAwZG1pWDk1dk5GXzhUaWpHcGVHMGh4a1RkSFVyRkhZamE5bm1zRzVn?oc=5",
+      "source": "The Impression",
+      "publishedAt": "Wed, 15 Jul 2026 21:23:02 GMT",
+      "description": "Chanel Hong Kong Theft Trial Opens Window Into Luxury’s Destruction Protocols The Impression",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "How Football Is Influencing Luxury Fashion Trends - Outlook Luxe",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Id0hBTDBjQ2ZrN2VYbFllbVpfNFJib01ZZW04S0VveFFoX1hWNDVWeS1DanNJVkZJMUVwTUU0emVQSnpNcm1XUGg3NnJVSm4zajFMYVNGNkFob01pMElNQnY3TWIwSmhZWWfSAXdBVV95cUxNb2NtRUtITzJiSjdmaUFBVDJhU3Z4a1NhYTFjNHdGZnREMmlyS01ERXFFTmJ1Z1VqV2NnR2d6M1cwRERIN0g2TUJ4eGpOR0lqNlNNLVlDTzJyc2M5U1RBQXBTcE9Zd3c3T0pSX2c1b2dFM2FKdGlqOA?oc=5",
+      "source": "Outlook Luxe",
+      "publishedAt": "Wed, 15 Jul 2026 18:36:00 GMT",
+      "description": "How Football Is Influencing Luxury Fashion Trends Outlook Luxe",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Bottega Veneta Taps LVMH Fragrance Chief Romain Spitzer As CEO - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWVMNlVyeGVMbU95eXRrbUFiWWJEa3ZSd0tudHVRQ20wbVFrTTZVM3JKRHVWblUtRm5idE9qcjF3ZV9QODhtNzJpcXBMZHF1cHpuV0tmQTV1amFBQVpYeElfXzYtYXhKaHh3RjFmTG5SSVVCb1M2WXhIT1A3c2U4RXlLUHhuOWwyaTRRcVJZcUJ6MGNfa2ljRXo4MHpLb0RtbzNZM25QanBETVcwWUxPSHM4SQ?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Wed, 15 Jul 2026 16:41:38 GMT",
+      "description": "Bottega Veneta Taps LVMH Fragrance Chief Romain Spitzer As CEO The Business of Fashion",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
