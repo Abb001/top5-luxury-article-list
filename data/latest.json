@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-17T10:39:38.689Z",
+  "generatedAt": "2026-07-17T13:09:32.096Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-17.",
   "articles": [
@@ -14,11 +14,11 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury British fashion brand boosted by US and China sales - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYk54VUhqdVNYRjNTLXFkbDR1WmdvZGRhVlZOb3c0NmJGTm95SU1yV0d2bFFpVXpOT1dkbmptZUFiNGp4NFk2WVloTmIzQlI0bjlsMmZsbEJZbmRScGhiMHdzb3RPdnh4amtvaEVKWkVrQlFkMkp1RU16b3dTdGMtYS1lYURLZlhabk5RRTJLckNGclhK?oc=5",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "Fri, 17 Jul 2026 10:28:19 GMT",
-      "description": "Luxury British fashion brand boosted by US and China sales Yahoo Finance UK",
+      "title": "Luxury British fashion brand boosted by US and China sales - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVExtcnJCQWh4YUFOVDRwNm81TzRfNlZpMjNqS3Frdk92RGtHUDZnZ2dTVHlOMjVoNEcyU3Z4RjRUMU43YVRGd3V2LWI4WmJmR2lZRzlZeFUyWW4yNFVPMVdJS29VTjZFZzB3Ml95RVhoUTZrdWkzX1BNR3NKVmltRDZDT0F3V08tN2k3WWdQeUlmc2NNR0E?oc=5",
+      "source": "The Independent",
+      "publishedAt": "Fri, 17 Jul 2026 10:28:00 GMT",
+      "description": "Luxury British fashion brand boosted by US and China sales The Independent",
       "feed": "Google News - luxury fashion"
     },
     {
