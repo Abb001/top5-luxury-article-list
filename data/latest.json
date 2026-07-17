@@ -1,9 +1,50 @@
 {
   "date": "2026-07-17",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-16T16:10:34.310Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-17 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-17T01:56:15.253Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-17.",
+  "articles": [
+    {
+      "title": "Fashion's biggest maisons reminded the world why couture remains the pinnacle of design - Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjBpLXgtZ1k4T2lRQkVyUnN0OFZFcGI3M1FhdXh2YVE0bnVYWHBPQ1o3Yk5JV3k4elZHNF9tOHZqbUpicjgwakNXbncxZG5pOE1rcDlxZjdMNUpmWVhvak1qSWNhZFpWTmY3REJiZlk1by1fcjBsemdmbThNSTYtRExhWVMwUVU1eFBRMmVUX0sxZUNrSjRCb0wtWjExSkFockZuZ0ZBSV9iTGFROWFGcHJHTGlrQQ?oc=5",
+      "source": "Manila Bulletin",
+      "publishedAt": "Fri, 17 Jul 2026 01:35:49 GMT",
+      "description": "Fashion's biggest maisons reminded the world why couture remains the pinnacle of design Manila Bulletin",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Italian police raid luxury brands Bulgari and Chanel - Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEJfM2YyUi05dWVGMDBlelI4ZlBXQ1BZYk45S1FxMHlvd2FXbFRkeU5MNGw0Q1RxT3MwMU54SkQwa3hvcU5mWHJsZU93c0pVNkJ1TjZCVkZMZzMzUzY5aGZSTElzOU5XTGYtdmlmUm5DeHNuUjM4SzJCNmQ3d0R3V3VWM0FaZXBYTldJOUhsbloyMDRUQkt3M05XQk0wZGhEU0ZFY0xXOE90V0JGZGNBN095b1czQQ?oc=5",
+      "source": "Free Malaysia Today",
+      "publishedAt": "Thu, 16 Jul 2026 22:34:37 GMT",
+      "description": "Italian police raid luxury brands Bulgari and Chanel Free Malaysia Today",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "A new standard of modern luxury has hit the Batemans Bay market - Region Canberra",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGg1eFlkYzZXdVFjOXlWRDlDZ2tFTEpQZlZEZnBRNnI1ejc1UHJraWtGWlRVQzhrdjRvUHpTTjU2WHhLX3hLeXhITmpGSFJ2ekZndU5kYnJEcmNVU2J2UWY0d29xRGJ6VFdTR096ZG92Z21SV2xobW5uc0JfcTNkbXlVNUNoemtUS1lhdTNUTkdqSF9HMk5CMg?oc=5",
+      "source": "Region Canberra",
+      "publishedAt": "Fri, 17 Jul 2026 00:48:20 GMT",
+      "description": "A new standard of modern luxury has hit the Batemans Bay market Region Canberra",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "This is the luxury luggage brand I never travel without - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlNtY1RoOTBsUW1rNXFYNXVOTWgwNzlKSmlrZkZOVlo3UF9lLUpJQkxZdDJtWmp2RHh1QU9WX2FuZDAxUlpNMzhxQ2lRRFVYdDdSNW5DZDJCYm1jS0hBcjhTTnlaMGtZYWZ4bERyWHQwNTJCY0h6RnV2TGdRdlZZeURxOG50REwyYW1mTkxwdXBVcFBBaFI5dWt4WGI2Z1dKM1V6M3YxdFU?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "Thu, 16 Jul 2026 23:52:12 GMT",
+      "description": "This is the luxury luggage brand I never travel without London Evening Standard",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Zimmermann earns Haute Couture Federation accolade - Ragtrader.com.au",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDlCSHZ6ZXVCOHJPek82a2YxUjRFdWwwNkQ0QUNoU090U1FFb2ZBOGxqVHVXbFYxTVR3WEtDMnJsVUJCSzlTZUNsT1JqTGVLZGpmQkRHT3VVaFRpMVR3TzkySDlZX3lPRUVhcXI1NzZIVTZ2YVlzWHBjODIwcDVXRGhLV2NnUFFwaHpKag?oc=5",
+      "source": "Ragtrader.com.au",
+      "publishedAt": "Thu, 16 Jul 2026 23:31:31 GMT",
+      "description": "Zimmermann earns Haute Couture Federation accolade Ragtrader.com.au",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
   "fetchWarnings": []
 }
