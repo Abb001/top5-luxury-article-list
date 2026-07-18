@@ -1,9 +1,50 @@
 {
   "date": "2026-07-18",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-17T16:08:38.468Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-18 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-18T01:46:10.330Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-18.",
+  "articles": [
+    {
+      "title": "From Hermès Birkin to Chanel: 7 luxury handbags in Jackie Appiah’s collection - Pulse Ghana",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzdyOU9mY3c3emx0alE1Zl9yNnFpMmJndmw1WUtvNnVtWDM5Rnk4VlRCZkhGNmlXODRyOGFycFI1MndkOXc2eDFVUnlhWDdZaXV1cFllb2hGZUl1U0NCWmg5Ymp1dTNneGhEc0l2elpEM1A2djJmWFZRNmM2VTh6U3VSOGE2dTNKQ3NXYjI1WFl4TjN2bXlBSE1TdXJManFiYVE1cndocXZXRkJXcGhQV19yekhreVZrLU0wRWxWSy13aDB6?oc=5",
+      "source": "Pulse Ghana",
+      "publishedAt": "Fri, 17 Jul 2026 19:03:05 GMT",
+      "description": "From Hermès Birkin to Chanel: 7 luxury handbags in Jackie Appiah’s collection Pulse Ghana",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "This Week in Retail: Burberry Carves House Check In Marble, Tod's Opens Singapore Flagship, Balenciaga Debuts Piccioli Couture, Chanel Stages Fairy Tale Couture, Schiaparelli Pushes Aquatic Legacy. - RETAILBOSS | Substack",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43b0VScFJneWoyZTU4NHdQd3VseFpwZWdfNFVwM3VMVmRqc0YtWDRoaVhYM01xWFJ1cVNEd1lGMWVJalJRZHRYZVlMMEVnM2RuZzcxOU1ReVVvbkhLaGRZYzRlMzNQVDFPWXQzUlJEdmxRbWlqZkJJUA?oc=5",
+      "source": "RETAILBOSS | Substack",
+      "publishedAt": "Fri, 17 Jul 2026 19:46:34 GMT",
+      "description": "This Week in Retail: Burberry Carves House Check In Marble, Tod's Opens Singapore Flagship, Balenciaga Debuts Piccioli Couture, Chanel Stages Fairy Tale Couture, Schiaparelli Pushes Aquatic Legacy. RETAILBOSS | Substack",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "This is the luxury luggage brand I never travel without - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlNtY1RoOTBsUW1rNXFYNXVOTWgwNzlKSmlrZkZOVlo3UF9lLUpJQkxZdDJtWmp2RHh1QU9WX2FuZDAxUlpNMzhxQ2lRRFVYdDdSNW5DZDJCYm1jS0hBcjhTTnlaMGtZYWZ4bERyWHQwNTJCY0h6RnV2TGdRdlZZeURxOG50REwyYW1mTkxwdXBVcFBBaFI5dWt4WGI2Z1dKM1V6M3YxdFU?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "Fri, 17 Jul 2026 23:52:12 GMT",
+      "description": "This is the luxury luggage brand I never travel without London Evening Standard",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Uniqlo Sister Brand GU Taps Luxury Designer to Sell $18 Jeans - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2M3NzF2WWM1SzNTcUdDNV9kY1VfVkV5c0wyV0RTSjVSOG1BNnNJaTY1OVcwYXZvY0V2YmVCcS1FMkNxSURsYVNiTDNPTHhDYXl5dlZqYlgwdkNyb0NLSWxYYmtpLW9rZC1pT01PV3VlRC11T2ZpU05kaWtxUHZrZUFsVHpwY2FzbVpycVdkc0h3aVhrQ0I2N0l6ZV9vTHhrSzB5UktNZE1yRnVYYy1QWQ?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "Fri, 17 Jul 2026 23:00:00 GMT",
+      "description": "Uniqlo Sister Brand GU Taps Luxury Designer to Sell $18 Jeans Bloomberg.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hilton accelerates luxury and budget expansion amid market pressures - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVFQaUFaa2NxaHYtNmx3ck9wbkJCNFh5RFRSUDM0R0FsREJZRkhrU3Y3dFhCQlBIOVQxb2NyWEJLQVdWREl4TlBCLTlYLXlLRWVVcjV0cUdibEMwNV92V3JISGo2OFFBU1dhSGUtX01BQTNxVU1GaC1DUjl0QVktSDBRaGdfUjlLSUNYOVJ4SDVLV1ZzeXRXazRuaEs3elZubWpqeDBNaFhXR29USC1oM1psbnowTHdNd1VJRkJR?oc=5",
+      "source": "MSN",
+      "publishedAt": "Fri, 17 Jul 2026 22:06:52 GMT",
+      "description": "Hilton accelerates luxury and budget expansion amid market pressures MSN",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
