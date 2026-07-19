@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-19T12:58:32.535Z",
+  "generatedAt": "2026-07-19T15:50:02.840Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-19.",
   "articles": [
@@ -12,6 +12,14 @@
       "publishedAt": "Sun, 19 Jul 2026 01:24:46 GMT",
       "description": "Why Vintage Cartier Became the Smartest Buy in Luxury Watches? Resident Magazine",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "African designer Imane Ayissi redefines luxury on Paris haute couture stage - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREpGZ0V3TDBsNGRDMEVnd3IxY1ZtNHgxd2RlaWNWaEhZVU5GWUpGRmY5Q2I3YTN6ZlluY3JJbTJxZkdrLUxzV01xalZYQlM4Wndfa2MybkxfODZxYng1anUwREdmR1FINnVZUGtpS3BuMU9QNG1iMFB1MlVZQU1LRDE0c1FJcDZudFJXb1lhbl9uOHhZbkh5MFE0SF9pWnNaSjFwVnBmNHhUenFyNE1mNlpTRQ?oc=5",
+      "source": "RFI",
+      "publishedAt": "Sun, 19 Jul 2026 13:21:53 GMT",
+      "description": "African designer Imane Ayissi redefines luxury on Paris haute couture stage RFI",
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "LVMH stock trades steadily as profitability and cash generation support luxury strategy - ad-hoc-news.de",
@@ -36,14 +44,6 @@
       "publishedAt": "Sun, 19 Jul 2026 12:35:41 GMT",
       "description": "Kering stock trades lower as Gucci transition weighs on earnings ad-hoc-news.de",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "This is the luxury luggage brand I never travel without - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlNtY1RoOTBsUW1rNXFYNXVOTWgwNzlKSmlrZkZOVlo3UF9lLUpJQkxZdDJtWmp2RHh1QU9WX2FuZDAxUlpNMzhxQ2lRRFVYdDdSNW5DZDJCYm1jS0hBcjhTTnlaMGtZYWZ4bERyWHQwNTJCY0h6RnV2TGdRdlZZeURxOG50REwyYW1mTkxwdXBVcFBBaFI5dWt4WGI2Z1dKM1V6M3YxdFU?oc=5",
-      "source": "London Evening Standard",
-      "publishedAt": "Sun, 19 Jul 2026 11:52:14 GMT",
-      "description": "This is the luxury luggage brand I never travel without London Evening Standard",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
