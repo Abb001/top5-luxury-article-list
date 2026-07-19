@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-19T05:43:32.385Z",
+  "generatedAt": "2026-07-19T08:02:41.498Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-19.",
   "articles": [
@@ -14,6 +14,14 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "How one fast fashion brand is betting on luxury talent to fuel global growth - The Star",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRYNGt1dDNGdEgwU3Mxdi1aLUJyOGgwdGJMelpua0JOa0UyUHIzcVlrVl9jMGRkQnY4M09ZdjQwV0xxUlo5Z3pDRTlvMTFkd18xSWhDTFJzM3M0OUpwSW5WdzN3WmFYR2k0WDhsSy1uX0NQdUlTcm1wQ0NBYlJha2FNdThrbGRHSHBKalp0MlVSNllQbUVXVGRUU1ZWV18tY21HSEEwOTRuN3lfX3pTV0N1NEp0aV9DMFAtS3dKQzB3U1VYZ3hIdGtB?oc=5",
+      "source": "The Star",
+      "publishedAt": "Sun, 19 Jul 2026 07:00:00 GMT",
+      "description": "How one fast fashion brand is betting on luxury talent to fuel global growth The Star",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "LVMH stock trades near record territory as luxury demand supports margins - ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGpsSWJvU3A5ajduNjk1YmJydWFzNVBsQ1NyUm5weVVTd25GbUEwaEhTZGxJM1hIRXY1cWRUam4wUzRfakRpOUc2ZlQ2dl9RWUZpWVFWbWZ1WVlfbURiMl9pVGItdGdlSjJpRmVKLXQ2V0k1VnNuQUhCOXpucjMtYTJUeGJ3dDFtbXRrZ2JIb3ZKQUNUVnI1RUR3YXhoZ3dEWDExcjhGS2JyZDMzeGlaYnNWWWI4MUJjQWFnNlF3cDBrR25OMjJGYW5SUGs?oc=5",
       "source": "ad-hoc-news.de",
@@ -22,28 +30,20 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "World Cup stars turn arrivals into global fashion stage - MSN",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2hNcG5yLXNMMlBWaGJYT3I2ZThZSkkta2hfMFp3cWNVSVF3eUt6ei1sWnpCOFFoRHdzS0NJdWlXeFZkV2o0cUNWMm5oUEFTcURDTmdvc3J6X2locDVCRWRrZWl5Vmhta1ZsdDlsMEFQbm9zeC1BSzBTVlNYNzlFVUlTY1laWGhfNzdGcUVVaUxONVJicm9qWFFPeUNNRk13Qmw1WHdTblc0NDc0VlE?oc=5",
-      "source": "MSN",
-      "publishedAt": "Sun, 19 Jul 2026 00:14:03 GMT",
-      "description": "World Cup stars turn arrivals into global fashion stage MSN",
+      "title": "In Pics: The Most Bizarre Luxury Bags - ED Times",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tMHliSUExb3NIZjBmZjhXNmxVMzFJdXpieThYUkxJRF8tRXNXZkZJT1lDUjZQU2VtdERuME43Q2tSamlweGxKOFNfVkE0VmRlT0J2VlpSMC1RNmhQaXlEckkwZ0Z2Vlk?oc=5",
+      "source": "ED Times",
+      "publishedAt": "Sun, 19 Jul 2026 07:25:02 GMT",
+      "description": "In Pics: The Most Bizarre Luxury Bags ED Times",
       "feed": "Google News - luxury fashion"
     },
     {
       "title": "This is the luxury luggage brand I never travel without - London Evening Standard",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlNtY1RoOTBsUW1rNXFYNXVOTWgwNzlKSmlrZkZOVlo3UF9lLUpJQkxZdDJtWmp2RHh1QU9WX2FuZDAxUlpNMzhxQ2lRRFVYdDdSNW5DZDJCYm1jS0hBcjhTTnlaMGtZYWZ4bERyWHQwNTJCY0h6RnV2TGdRdlZZeURxOG50REwyYW1mTkxwdXBVcFBBaFI5dWt4WGI2Z1dKM1V6M3YxdFU?oc=5",
       "source": "London Evening Standard",
-      "publishedAt": "Sat, 18 Jul 2026 23:52:12 GMT",
+      "publishedAt": "Sun, 19 Jul 2026 05:52:14 GMT",
       "description": "This is the luxury luggage brand I never travel without London Evening Standard",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Gig Harbor Mediterranean villa listed at nearly $6M as WA’s tax landscape shakes up luxury market - KIRO 7 News Seattle",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMHlBb3FlNGI3Rjh2ZEkzWGZPMmRvZHBXOTBENHA1bjZhRXJlYkhXLW9Ja2xxdjQwdnE4eUc5cnZCZFZVWDhENGNUR3ZTWUlrVFZzQzBSMWl4Q0RUbm5JOG12VDBYT0sxVldSQ2kyaVp0cWdlUW5xekxCOGl3YXZXdU9LUVhQSHJBVnB2SVVtVVpwbE9jTXZLQVZKLUJCX3VVLTBFVFNVeGp0T2Y4M2JGQlg4NENhUnpUZVRuYkZCWTV3S1I1QmE1Mnp3U3FDQTV4THRBdm5OcXVoMlJqekg4c1hScHk2eTkwOGF1M0RTRWJON1FhcFVKRNIB-AFBVV95cUxPMHlBb3FlNGI3Rjh2ZEkzWGZPMmRvZHBXOTBENHA1bjZhRXJlYkhXLW9Ja2xxdjQwdnE4eUc5cnZCZFZVWDhENGNUR3ZTWUlrVFZzQzBSMWl4Q0RUbm5JOG12VDBYT0sxVldSQ2kyaVp0cWdlUW5xekxCOGl3YXZXdU9LUVhQSHJBVnB2SVVtVVpwbE9jTXZLQVZKLUJCX3VVLTBFVFNVeGp0T2Y4M2JGQlg4NENhUnpUZVRuYkZCWTV3S1I1QmE1Mnp3U3FDQTV4THRBdm5OcXVoMlJqekg4c1hScHk2eTkwOGF1M0RTRWJON1FhcFVKRA?oc=5",
-      "source": "KIRO 7 News Seattle",
-      "publishedAt": "Sat, 18 Jul 2026 17:49:12 GMT",
-      "description": "Gig Harbor Mediterranean villa listed at nearly $6M as WA’s tax landscape shakes up luxury market KIRO 7 News Seattle",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
