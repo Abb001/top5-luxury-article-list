@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-20T11:37:35.666Z",
+  "generatedAt": "2026-07-20T13:51:00.492Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-20.",
   "articles": [
@@ -22,6 +22,14 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "LVMH stock trades steadily as luxury leader highlights 2025 earnings resilience - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWl3ZDB3TGNXQU0xSUVvUEg4YVNXWDhSZDh6RDRwTXQzLTd2cVdXMzFfTGFyWG1VRGQ1Si15T19VeUhHdXRQVTgzMXpMNXlRcHgxcEM5TnJQZ1JFUVhuSHZjZTc4NWlrMy1kNnI4VVlsOUhoUFFKZ0lTbWVxbnBaWTVyUnFFTDhQQTQ1eV81QU1BMXQ3d19ZOXA2aGRaV1FuSGFkdjNBcFItS2pEVUxSMjJkbld0RmR3Rjdhdi1ubWtUWWJyVEE?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "Mon, 20 Jul 2026 06:52:51 GMT",
+      "description": "LVMH stock trades steadily as luxury leader highlights 2025 earnings resilience ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Italian police search Chanel offices in luxury labour probe - Retail Gazette",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3JjakZLcXRxbTdkSS0tVVVaMEdLVjFjak1iVkUxMHJWdzQxdEY3ZTVpR3libDE3RVNaVzdjWVMzTm0zTVA4aVE0ZFJFSjJydHJPM0RrTDdIcWIteXhobFVCa2lRZEZ1b0x4dWJERlFpa2VtZTAza1FfMFZKR2NKU1BncUxZWlNVeXIzckdYcVRRd1pxVURiSXhEcVNwVjZWeTZNWVBVNFE?oc=5",
       "source": "Retail Gazette",
@@ -36,14 +44,6 @@
       "publishedAt": "Mon, 20 Jul 2026 04:41:12 GMT",
       "description": "Palace Hotel Tokyo pairs luxury stay with Japan fashion tours TTG Asia",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "LVMH stock steadies as luxury giant leans on resilient margins and cash generation - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1NxRDNqM1VXLWhKcWNNbnNEVnhGSlVuczlZX1NCSW8wMzBRa2tLZ3dUY1BsNFhVVkVvT1EyU09tUy1xaVBQQUlyRXZsVFc3Zy0yeU45WlFHS1FKY0NNUFJoa1gzUnpxWTVjb1piOG9SMWt4a254YjVBeWZ6SV9yUnhEVUxrWjk1NVZiNEs2UTdIQWN3LWtldXUxYWtqbHNXT2xOQ0dSS2JCYXRuX213UVpiNUlhRXNJdEFPaDl3X2FmYVJnVE5NNEh3?oc=5",
-      "source": "ad-hoc-news.de",
-      "publishedAt": "Mon, 20 Jul 2026 02:47:03 GMT",
-      "description": "LVMH stock steadies as luxury giant leans on resilient margins and cash generation ad-hoc-news.de",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
