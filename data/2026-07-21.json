@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-21T01:54:36.744Z",
+  "generatedAt": "2026-07-21T05:42:07.780Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-21.",
   "articles": [
@@ -22,28 +22,28 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "US and Gulf buyers revive London’s luxury property market - Elite Agent",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTZyQ05ReTd6VUlsUndrVklraTZ5VGpBQWU1UEF3LXRQRUlOaXMyeXpNNkF4N1QxV0dTSFhsZ1l3VzByTjhiYjhVQXQxM2pXYnZRQWpBMWZ4V3kzYUZpM2tyNlE4dXI2akJreTBpMk5rNHJ6RU5xZm1HSWlTV3lNWQ?oc=5",
+      "source": "Elite Agent",
+      "publishedAt": "Tue, 21 Jul 2026 01:52:49 GMT",
+      "description": "US and Gulf buyers revive London’s luxury property market Elite Agent",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Singapore luxury home transaction value eases in Q2 despite resilient resale market - Real Estate Asia",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnBLaElnQUNxWHBiNzc2QnZKOF9JZmtXdTBMek9Sci1qMjJuTU1oaXVHNW1MbE1yZHFENmt0V2hoSGpsSDRscXdUdjZoR0V0alR2bWVwUEswb0ljX0t6bFdzM1pILUNvMU94eVI4TUwtMUJrd0Nsc1ZnLXRVcFB6RE92ZHFxMGhuTDYwcDJIa2JwMnZJNlh5T1dBcGxDYTBjOHBhUnpUUUs5NXQtejZ2dG1EU0hKNC1ka01NZTk0Zk5uVWdNR3c?oc=5",
+      "source": "Real Estate Asia",
+      "publishedAt": "Mon, 20 Jul 2026 23:32:21 GMT",
+      "description": "Singapore luxury home transaction value eases in Q2 despite resilient resale market Real Estate Asia",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Zuhair Murad Fall 2026 Couture Reimagines Strength Through Love and Dominion - Luxferity",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXZ3a3RrcnJaelJlbl9qeHNjVUVJS2hMYnZOZE1RUl9Ud1JQR2hEcUNLQ1JnaE00MmhDd05KNmxyUVNXU21RUmltSzJ3LS1sdWxYel9iMjlRWTBVNzlZZWpRd2cxUlZpRVBYWDNpZzRQcmtqNzRtZW9nelJkVXJlRExsNUVtcDZmWk1McF9SbWtDYTBFRHotNHMtTWM?oc=5",
       "source": "Luxferity",
-      "publishedAt": "Mon, 20 Jul 2026 22:01:06 GMT",
+      "publishedAt": "Mon, 20 Jul 2026 23:08:17 GMT",
       "description": "Zuhair Murad Fall 2026 Couture Reimagines Strength Through Love and Dominion Luxferity",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Why Modern Luxury Buyers Care More About Heritage Than Trends - Augusta Free Press",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEZVMG1iLUgxNVMybzVTOEdlLUhiRHdqMDNWeUl4aTJRTHZSeUg3LWZwUmZvQmpOdFpvaUVOQUdabHpyck51SnVVWVRuUi1PVDA1N3hReDdNSWlQMDd3Mzd0WlBLNnY4dlQ2cjBrZFpOZzZtUV9QZ3RZUkNXRWFkanlFUm5PMDZQNmhnZmNHaUNremR4VVZwTFFUcXk2LXRhTVUtSQ?oc=5",
-      "source": "Augusta Free Press",
-      "publishedAt": "Mon, 20 Jul 2026 20:19:48 GMT",
-      "description": "Why Modern Luxury Buyers Care More About Heritage Than Trends Augusta Free Press",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "The lifestyles of the rich are changing. Utah’s luxury housing market shows how. - KPCW",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMU56X3k5ZXIyQ3ZMUmdCNjRGSWRfUy1wTDZGNzBqQTByR1lDaHkwd1VKQVgwOFZEN2Y4WWRsUlRKYUN5ZnNUOXZyaTJqRzhwTEhUREJOMHV2SGJPa1hpRV8zVXAzV3lvWXVMOFRwY2w3cUw3b2ZoVE0xRGczMnl1QVBhLTFxMU1ycGpaTmEtdFp2QkRoOFBuYkkyY0hsT3FFbUo0MDg3bHdXMWxfTTV1bldhYWpod21UUXY4?oc=5",
-      "source": "KPCW",
-      "publishedAt": "Mon, 20 Jul 2026 18:48:00 GMT",
-      "description": "The lifestyles of the rich are changing. Utah’s luxury housing market shows how. KPCW",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
