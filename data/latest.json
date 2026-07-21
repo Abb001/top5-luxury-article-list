@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-21T05:42:07.780Z",
+  "generatedAt": "2026-07-21T08:11:06.778Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-21.",
   "articles": [
@@ -14,11 +14,27 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "Hermes stock holds near record levels as luxury demand supports margins - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUpTSzNkOXV1ZTROa2NUejlTcHUzczV3SU5rTmlzOFI2LS1VclR0ZndfclFzdG1LU2V4TE5Ea0hlX3lLSXNwUFR6bmozY2IyMkh6WThrWHZZR1I5YVBJLUdVX2dhbVpuakljVi1MUHcxb2lBX3JhOHFjcmxaVk1LWHEzWGZwYVpycEN4SFg0TUdRS1l6WHVJNkVIWTRReXZlOXVXUHRTQm1udlo0b3pJaFlFQTYzbXJGNjhFRlYzdFBUcDAxeEdiUjJR?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Mon, 20 Jul 2026 18:39:33 GMT",
+      "description": "Hermes stock holds near record levels as luxury demand supports margins Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Where Fashion Meets Performance: Anatomie’s Approach to Luxury Dressing - USA Today",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOUpoMTZoM3R0QnYxMC1hSkJWN1lDY0dseTRRWktYYTYyYnpzSGZKWTNWc2hpbHpDdWZ0SkQ3LW4yWDMwd0V1OGp3dDh6VTg3eWJVWV9aM21OLW1ZZm5hanJqakdLeVhXdUIxQl9VSm9RZDNPZDlFTFNOQjlIYTBQQWtaSTZZYWVQbkZCYXp5Y0lnZ0VtWHdTbHR3Q3RMeVlWWkg2eUtVU0FDUUhGSU5NaVQ0TWFsVmNSQ2c3LXFOSHFteW1XT3AtYm1iZERUTGptOGIwNmRHSU1WZkZKTjBsM3VWVnZnSTA?oc=5",
       "source": "USA Today",
       "publishedAt": "Mon, 20 Jul 2026 18:16:00 GMT",
       "description": "Where Fashion Meets Performance: Anatomie’s Approach to Luxury Dressing USA Today",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Working in a Kenyan abattoir inspired founder of Kenyan fashion brand - Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbzRtSzZtaU9oS0VVUER2cUJkNlIteFY5cnVBNlZfQzBKZ1NaYndRMXVSNnJLVExFNUVOZ3RYSFFyTlI2WV9hd2Q5LWhtNTVRaDFjYTMtNUVmZS00WEc2dFhEaDU1cm9VcFBobUIwdk94UTFiNmFEOVpUMFpNWWY5ekNmSVdoczVJNlBOZkdYWGtZa1pQaDVFSEZsc01wcksweEdOTHc3SDlHLXhOSEYtX2xoT1dqYzZhNnZPM0RFX09GRGJE?oc=5",
+      "source": "Daily Nation",
+      "publishedAt": "Tue, 21 Jul 2026 08:00:00 GMT",
+      "description": "Working in a Kenyan abattoir inspired founder of Kenyan fashion brand Daily Nation",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -28,22 +44,6 @@
       "publishedAt": "Tue, 21 Jul 2026 01:52:49 GMT",
       "description": "US and Gulf buyers revive London’s luxury property market Elite Agent",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Singapore luxury home transaction value eases in Q2 despite resilient resale market - Real Estate Asia",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnBLaElnQUNxWHBiNzc2QnZKOF9JZmtXdTBMek9Sci1qMjJuTU1oaXVHNW1MbE1yZHFENmt0V2hoSGpsSDRscXdUdjZoR0V0alR2bWVwUEswb0ljX0t6bFdzM1pILUNvMU94eVI4TUwtMUJrd0Nsc1ZnLXRVcFB6RE92ZHFxMGhuTDYwcDJIa2JwMnZJNlh5T1dBcGxDYTBjOHBhUnpUUUs5NXQtejZ2dG1EU0hKNC1ka01NZTk0Zk5uVWdNR3c?oc=5",
-      "source": "Real Estate Asia",
-      "publishedAt": "Mon, 20 Jul 2026 23:32:21 GMT",
-      "description": "Singapore luxury home transaction value eases in Q2 despite resilient resale market Real Estate Asia",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Zuhair Murad Fall 2026 Couture Reimagines Strength Through Love and Dominion - Luxferity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXZ3a3RrcnJaelJlbl9qeHNjVUVJS2hMYnZOZE1RUl9Ud1JQR2hEcUNLQ1JnaE00MmhDd05KNmxyUVNXU21RUmltSzJ3LS1sdWxYel9iMjlRWTBVNzlZZWpRd2cxUlZpRVBYWDNpZzRQcmtqNzRtZW9nelJkVXJlRExsNUVtcDZmWk1McF9SbWtDYTBFRHotNHMtTWM?oc=5",
-      "source": "Luxferity",
-      "publishedAt": "Mon, 20 Jul 2026 23:08:17 GMT",
-      "description": "Zuhair Murad Fall 2026 Couture Reimagines Strength Through Love and Dominion Luxferity",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
