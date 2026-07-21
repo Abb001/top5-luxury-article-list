@@ -1,9 +1,50 @@
 {
   "date": "2026-07-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-20T16:20:19.995Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-21 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-21T01:54:36.744Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-21.",
+  "articles": [
+    {
+      "title": "Paris Haute Couture's FHCM Adds Four Fashion Houses: Tom Ford Returns to Couture, The Row Joins Minimalism, Zimmermann Brings Australia, Alaïa Adds Tailoring - RETAILBOSS | Substack",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZl93ZE9uYndReloyZjZsUVl0V3l3MzhWcG9GUnR5VnFXOWdOZVA0WGpxMFM3RXY1OWVoM3ZJSjVneXlGY3VTXzVhaHFlT25NMVF2VzZyaF9GVS1Bb1ZzaHlJMUo0SWxYdi10amk4X0ZTdXNjRFVmeg?oc=5",
+      "source": "RETAILBOSS | Substack",
+      "publishedAt": "Mon, 20 Jul 2026 19:26:25 GMT",
+      "description": "Paris Haute Couture's FHCM Adds Four Fashion Houses: Tom Ford Returns to Couture, The Row Joins Minimalism, Zimmermann Brings Australia, Alaïa Adds Tailoring RETAILBOSS | Substack",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Where Fashion Meets Performance: Anatomie’s Approach to Luxury Dressing - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOUpoMTZoM3R0QnYxMC1hSkJWN1lDY0dseTRRWktYYTYyYnpzSGZKWTNWc2hpbHpDdWZ0SkQ3LW4yWDMwd0V1OGp3dDh6VTg3eWJVWV9aM21OLW1ZZm5hanJqakdLeVhXdUIxQl9VSm9RZDNPZDlFTFNOQjlIYTBQQWtaSTZZYWVQbkZCYXp5Y0lnZ0VtWHdTbHR3Q3RMeVlWWkg2eUtVU0FDUUhGSU5NaVQ0TWFsVmNSQ2c3LXFOSHFteW1XT3AtYm1iZERUTGptOGIwNmRHSU1WZkZKTjBsM3VWVnZnSTA?oc=5",
+      "source": "USA Today",
+      "publishedAt": "Mon, 20 Jul 2026 18:16:00 GMT",
+      "description": "Where Fashion Meets Performance: Anatomie’s Approach to Luxury Dressing USA Today",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Zuhair Murad Fall 2026 Couture Reimagines Strength Through Love and Dominion - Luxferity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXZ3a3RrcnJaelJlbl9qeHNjVUVJS2hMYnZOZE1RUl9Ud1JQR2hEcUNLQ1JnaE00MmhDd05KNmxyUVNXU21RUmltSzJ3LS1sdWxYel9iMjlRWTBVNzlZZWpRd2cxUlZpRVBYWDNpZzRQcmtqNzRtZW9nelJkVXJlRExsNUVtcDZmWk1McF9SbWtDYTBFRHotNHMtTWM?oc=5",
+      "source": "Luxferity",
+      "publishedAt": "Mon, 20 Jul 2026 22:01:06 GMT",
+      "description": "Zuhair Murad Fall 2026 Couture Reimagines Strength Through Love and Dominion Luxferity",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Why Modern Luxury Buyers Care More About Heritage Than Trends - Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUEZVMG1iLUgxNVMybzVTOEdlLUhiRHdqMDNWeUl4aTJRTHZSeUg3LWZwUmZvQmpOdFpvaUVOQUdabHpyck51SnVVWVRuUi1PVDA1N3hReDdNSWlQMDd3Mzd0WlBLNnY4dlQ2cjBrZFpOZzZtUV9QZ3RZUkNXRWFkanlFUm5PMDZQNmhnZmNHaUNremR4VVZwTFFUcXk2LXRhTVUtSQ?oc=5",
+      "source": "Augusta Free Press",
+      "publishedAt": "Mon, 20 Jul 2026 20:19:48 GMT",
+      "description": "Why Modern Luxury Buyers Care More About Heritage Than Trends Augusta Free Press",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "The lifestyles of the rich are changing. Utah’s luxury housing market shows how. - KPCW",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMU56X3k5ZXIyQ3ZMUmdCNjRGSWRfUy1wTDZGNzBqQTByR1lDaHkwd1VKQVgwOFZEN2Y4WWRsUlRKYUN5ZnNUOXZyaTJqRzhwTEhUREJOMHV2SGJPa1hpRV8zVXAzV3lvWXVMOFRwY2w3cUw3b2ZoVE0xRGczMnl1QVBhLTFxMU1ycGpaTmEtdFp2QkRoOFBuYkkyY0hsT3FFbUo0MDg3bHdXMWxfTTV1bldhYWpod21UUXY4?oc=5",
+      "source": "KPCW",
+      "publishedAt": "Mon, 20 Jul 2026 18:48:00 GMT",
+      "description": "The lifestyles of the rich are changing. Utah’s luxury housing market shows how. KPCW",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
