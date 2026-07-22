@@ -1,17 +1,49 @@
 {
   "date": "2026-07-22",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-21T16:17:21.971Z",
+  "generatedAt": "2026-07-22T01:53:22.015Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-07-22.",
+  "message": "Found 5 article(s) published on 2026-07-22.",
   "articles": [
     {
-      "title": "Park Slope fixer-upper tops Brooklyn’s luxury contracts after 34% price cut - The Real Deal",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXEydno1RmI0d0N1UFZvVDRwU082aU9NV3hNZlNLMlFFdEZ5dUNoeHY3Vk9YbEh1YnBjSmV0b2JoYkVCQkFSN1RUSjloX0hlNlRWMk5oRjVCT3BtNlI4SnNOeWpsUjc3YUpYRjkxeU9KYjVnN29FWnNVZVBnV3BlcjhtZnBJQzkzbV9sVnJpejN0VXg1aEFXRkpwb2owUQ?oc=5",
-      "source": "The Real Deal",
-      "publishedAt": "Tue, 21 Jul 2026 16:00:00 GMT",
-      "description": "Park Slope fixer-upper tops Brooklyn’s luxury contracts after 34% price cut The Real Deal",
-      "feed": "Google News - luxury business"
+      "title": "Quiet Luxury Gives a Chic Upgrade to Menswear Collections - FASHION Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFE3NGdBNDlsd1owQmp2c1U5emVKaWZJVHB3WlhTRkQ3enAxVjV5QUFIVThfQ3RCMXNHYzZLYlVXWGQzNzFtdHNaRS1nc2xuZnJjdGFmb2E3eHFDNThrNlNQOWc2b0pGVEVLbU82UXFJQkRlVzBIcUxuR25YQVBfc3RjSEttZGkwRmZJVEplNEtqWFR1M3hz?oc=5",
+      "source": "FASHION Magazine",
+      "publishedAt": "Tue, 21 Jul 2026 18:37:40 GMT",
+      "description": "Quiet Luxury Gives a Chic Upgrade to Menswear Collections FASHION Magazine",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Melania Trump wears Christian Dior haute couture for state dinner - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmVMVGdlUDVELVJjMm5KVnlfRXRIZUNHNGJ1MEZreFBlMzAtSGxnNE0wUS1ra016MTdpS0kzT2FWOGxObkRsb1BKNm1BZWRnenF5ZDRsdGRWZjRQY1M2akg5blJHXzZ6R0luVzItTmVtMXVzWGVTYkJDWWFKMjNvcGdPMzRic044dEoyVmozYlRZOTFfOUhyWDlPZk52eVEyWm1uY0ZYOWVycVVqWTJ0OHByNi0?oc=5",
+      "source": "MSN",
+      "publishedAt": "Tue, 21 Jul 2026 17:06:01 GMT",
+      "description": "Melania Trump wears Christian Dior haute couture for state dinner MSN",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Omega Celebrates 57 Years Since Apollo 11 With the ‘Moonwatch’ - ELLE",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGdGSDgzbzgwd0Q4aDNXN0p1ZXRSNDVmSXhMYWdveGlCMW5jZnFlT0NrWG40bHFyZzhpVGV5ZlRlaTFDc2NkaGdEejNoYmdIUDVaU1U5VXJzZ0VwTUE2am1Hai14SVJpVGVLY1dHQktzNU5QUUF2d2lGdWkxd29Hai1Fb3o4QQ?oc=5",
+      "source": "ELLE",
+      "publishedAt": "Wed, 22 Jul 2026 00:36:48 GMT",
+      "description": "Omega Celebrates 57 Years Since Apollo 11 With the ‘Moonwatch’ ELLE",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Skims Collaborates With Emerging Luxury Brand Vettese on Sculptural Ready-to-wear Capsule - WWD",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVFzYjVXQUFOZWNjR19tT1NyU2tRVXE5YktyMlZDZ1Y1MVR1dVgxMFBhZ1l0U29tQm5XOGxEdVZBS2JscmRoRVRvb2hiUktDNTZFX2QtSnpHZmVaYldvUzltM2x0SkVxQ3JZT0hFc0xrWS1YYl8yRExMQmNRRGYxUEw4TXpJY3hXY2JlYzRwSk9CbGV3SWVBVFpTSGtSWWlqb2E5ejJoZENiQkJH?oc=5",
+      "source": "WWD",
+      "publishedAt": "Wed, 22 Jul 2026 00:30:22 GMT",
+      "description": "Skims Collaborates With Emerging Luxury Brand Vettese on Sculptural Ready-to-wear Capsule WWD",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Fashion Inspired Romance Campaigns: Burberry Unveiled Its Love, on Repeat Chinese… - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Y3NKT1Q4WmVtMTZpNG5xMXFpRkNSNm5uN1NqY2M4TTVWdDRYa2RJM3NaNkc4cFhlb3ZOQVJHNG5jUDZlS0ZCalFMcHE2ZUhvMjNSdjloUi11UG44V3c?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "Tue, 21 Jul 2026 23:48:45 GMT",
+      "description": "Fashion Inspired Romance Campaigns: Burberry Unveiled Its Love, on Repeat Chinese… Trend Hunter",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
