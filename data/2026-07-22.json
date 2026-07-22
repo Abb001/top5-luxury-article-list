@@ -1,10 +1,18 @@
 {
   "date": "2026-07-22",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-22T05:40:43.409Z",
+  "generatedAt": "2026-07-22T08:11:20.782Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-22.",
   "articles": [
+    {
+      "title": "6 luxury fashion brands entering the fitness space - Lifestyle Asia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTliWTdPN3VRZkI5UVJuNmo5cjRBeXk2eG9fdVI0QndIc0JYZmJXa1NMREtfR1VLY2FjQ3VnRHZyQ1B0aHFxdEt0NTZ1WFBfbXVLRWgxRkJ1RjQ3QmRqbnVzRWlWVzhNSVo2aHFqVWtGcTF4Ul9yTkdtRUZjQXJXdjNMaVRnQ1IyR1dtcm1lMTF1Yy02dE5hbHN0UEgwRElVMHVkZHFLONIBrAFBVV95cUxNNWNlRDNVMEZnZS1qM1BDNlVySzFPakVRVlEtX2ZRVWRETl84RHZ5YzdZMGhodWpha0d0QjlHUDRXTWVTT3JJWHcxZVV5MjlVeG9kTjZXckFtQm1VOEprODdMWjBEWWx0aXVad2lUcEZ6cm9PS0lhVlZ2QlM3Smw0LVVrZWVUcGJySjg3V1pwNmpDZnBwUWhTM0JaOWJ4c2p3ZTBqOXlvNlF4OUhU?oc=5",
+      "source": "Lifestyle Asia",
+      "publishedAt": "Wed, 22 Jul 2026 07:09:36 GMT",
+      "description": "6 luxury fashion brands entering the fitness space Lifestyle Asia",
+      "feed": "Google News - luxury lifestyle"
+    },
     {
       "title": "Rolex vs. Patek Philippe: Which Watch Brand Rules Celebrity Style? - The Hour Markers",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXh6ajg0TjgzUXRlZ2I3N0dUaFV5eUpJMjJkQm55V25wa200bUEtRjNRQ0pBQlAyR2x1VUN1cEk1SFVmc04ycWhUS1UwWnJ3a2lpb20yOF8tUGdlZk9lbW1PZTBEcUxwelN3akJjSldBMUpTWGIyOF9NcE9qdWZfag?oc=5",
@@ -36,14 +44,6 @@
       "publishedAt": "Tue, 21 Jul 2026 17:06:01 GMT",
       "description": "Melania Trump wears Christian Dior haute couture for state dinner MSN",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "\"Restrained Confidence\"... BMW's New Luxury Brand \"Alpina\" to Launch in Korea in 2028 - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96V0VRNWk4MXVLb0kwc19sbUVyMGVLV2RlNS1qZmNQNEZuNm8xa3RfaV9NZ0gxQ2RkWC11WWlKcFVBdGROV2FtRFBGbXdOMWhCVlhRcnBJTGd3ZFB0MlRkTmIzbVZfMHluN0VCZHVKZWR1TUE?oc=5",
-      "source": "아시아경제",
-      "publishedAt": "Wed, 22 Jul 2026 05:06:28 GMT",
-      "description": "\"Restrained Confidence\"... BMW's New Luxury Brand \"Alpina\" to Launch in Korea in 2028 아시아경제",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
