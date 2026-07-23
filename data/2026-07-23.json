@@ -1,10 +1,34 @@
 {
   "date": "2026-07-23",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-23T11:02:24.058Z",
+  "generatedAt": "2026-07-23T13:28:18.090Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-23.",
   "articles": [
+    {
+      "title": "LVMH stock holds firm as luxury leader leans on 2024 profit resilience - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWhIc29lYVdoR0pMM2N5U29CODdVSzV4aF9lamxEZHNRT0NONXJPaW52al92cE44VFh6MmZjWGpKOEUwT2Ffa2RCUlpkV3NMVTV1QmYwTnFNdnFieTA1enhNRlNjaFYtV2FuR2dvZkdtQVF1cDg2NHlKWURHajFwTVdaUFFPTjduS2FOcDZaRHg3b00tV0Y5X3Y3bXVYSTl2cG1tU3owQ2hXci1OTU43SHhLUHVzWGpMOTlGR3hoX29weGNPRmozZw?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Thu, 23 Jul 2026 12:09:12 GMT",
+      "description": "LVMH stock holds firm as luxury leader leans on 2024 profit resilience Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Everything Going On In The Luxury Fashion World Right Now - SheerLuxe",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORmhwT25Ea1ZZWkVuTnUxYndreDB4d1Q3RUFrZFp1TVNQb2dKdlBmX3A4TnUwWEtoZHNnM2VXLWpNY01NOVZGanZ2V3dHSjhYX1dmVlZlQmdTcFJzQ3pqNmtYUVJuTV8yaEZXWUdyU1hSNkxWMGRQenlIQVlQRlVsWjMxUVRacHdlUGJvcVk1Z0d4R00?oc=5",
+      "source": "SheerLuxe",
+      "publishedAt": "Thu, 23 Jul 2026 11:43:02 GMT",
+      "description": "Everything Going On In The Luxury Fashion World Right Now SheerLuxe",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Irish gay fashion designer Jonathan Anderson to make history with Dior runway at Trinity - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbC1sX19mVjRIdXh0YWtIQVozZ2NVTEg4ZWctMzRiVmJPaEVmSnBZN3VHb3hMc0o4SmhEQmkyWC03c1RCYzlFSm5CWVpodDNzaW1JVzBFVGRCVmoxRlljaTFITHVrX1lrVE5rNHMxWi1iLUtBeTVHYkM0UzBhTExxX0J3?oc=5",
+      "source": "Yahoo News UK",
+      "publishedAt": "Thu, 23 Jul 2026 11:42:32 GMT",
+      "description": "Irish gay fashion designer Jonathan Anderson to make history with Dior runway at Trinity Yahoo News UK",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "How much profit does each employee generate? Hermès outperforms the other luxury giants - La conceria.it",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnlJa09ySmFvRnZza05fSWloN2EwQkJJRkZrOVFwMWlvaGg2RG1xYlZtMDlPRnl0MkZySzBuYjJnQUZobHNVVUtJTFVvWEhhU2labkpwRlZkeWFNV0FNWmhBc0MxeVJPaHJPY2pDbHRSS2JYZHpFVG5FRjVuZ09VZ1JtZnVIdHRyd0h2NGNnZmEyeEw4YkEwLUN3VW9WWEVQRGFDWTdJUjdSZmF1MnM4NUZiR25ab0REN2RRVlln?oc=5",
@@ -20,30 +44,6 @@
       "publishedAt": "Thu, 23 Jul 2026 06:34:00 GMT",
       "description": "Why India Couture Week Is the Pinnacle of Indian Couture Fashion Outlook Luxe",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Denim in Luxury and Haute Couture: how luxury elevates the most popular jeans - nssmag.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52QzdZd1gwbEU2dGx3ZEZwaGtoZHBfMEZxUEFXVjNCOUpoZzhpcUZaZlVmVzBPMjFVUXdjWkEtTEdGRXZVSURUdXY4b1lYeDFDSl9xYmRFV1lDaE1HVVYwNlJvTDlhalBwVFlkbjB6My1nNGRU?oc=5",
-      "source": "nssmag.com",
-      "publishedAt": "Thu, 23 Jul 2026 03:17:44 GMT",
-      "description": "Denim in Luxury and Haute Couture: how luxury elevates the most popular jeans nssmag.com",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "LVMH stock steadies as investors parse first half 2025 results and luxury demand trends - Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHFIYlRlQzQwZjZkWWFLTUo4X2Z4VTZVSHVxa05RWWhQOHBjSFpyNWF5M0ZqZE5LNFhISE5VbWlaU0tHdUhFOExWTE1vVWt5amV2U25Rbjk1M3VKa3BOLWZpdVpSUFBWUmRhbTlHRzBqcGhkZUZtLTlLcUVsamh4dHBBYTg3cXJ5Sy0xVDYxNVZuNy1neU9hVU1ScWstcHRCLWJ5SEFDNHJOMm5idDBPVG9VRTZZQjVGT2xOWGozQjdOQVZJZjBLSGR0Ymc?oc=5",
-      "source": "Ad-hoc-news.de",
-      "publishedAt": "Wed, 22 Jul 2026 23:27:38 GMT",
-      "description": "LVMH stock steadies as investors parse first half 2025 results and luxury demand trends Ad-hoc-news.de",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "LVMH stock trades near record territory as luxury demand supports revenue and margins - Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTGIwUDF3UXdoUWRrTFZndWtnUFhjVkdRZXVlVlZRTjFIem95Uno5SjU3WkRLb19yRmdualVGNE5OdFZBWWtHMEtvaDE1dFRfZEhGNEdhZjY0RFJPRUdDMWF2WXU4dmZQdi0yVDgwZGdIYW1ROEpGUXBadUdXWmZaUEhtVndIdDhuMG9QclV5TDE4Mk4tSWZkc3pULWtmSEpOcHJXLXAxVXVMbEVxb0pwTEpLWGdzYlM4LVBNTzNtcnpKYnlJbXIwMEgxWFM?oc=5",
-      "source": "Ad-hoc-news.de",
-      "publishedAt": "Wed, 22 Jul 2026 19:35:22 GMT",
-      "description": "LVMH stock trades near record territory as luxury demand supports revenue and margins Ad-hoc-news.de",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
