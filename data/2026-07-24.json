@@ -1,10 +1,18 @@
 {
   "date": "2026-07-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-24T10:55:32.897Z",
+  "generatedAt": "2026-07-24T13:20:36.205Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-24.",
   "articles": [
+    {
+      "title": "7 surprisingly stylish chess sets from luxury fashion brands - Tatler Asia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWp3VmJvcnFLUHJkVV9lMjdNVHM2bkNsWlRrRk12UmlwSlZuczZSUUxwTml2ZHJZR0poa2dJeU1uYnk2anU2RTUyMTFDc1RHb3hmdHNkcGxZZnJNWVNKTnFPenhMOF96dGVwSFFiUWpqaUFfVkozZTJJVlduMzhSWEhzWU96dw?oc=5",
+      "source": "Tatler Asia",
+      "publishedAt": "Fri, 24 Jul 2026 11:20:58 GMT",
+      "description": "7 surprisingly stylish chess sets from luxury fashion brands Tatler Asia",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "What Gucci moving into Formula One means for the fashion industry - thenationalnews.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2pjZzVsODdBRjM1YXBoeWt2aE01OGMzT3J1VjdkZ3BNRk1sYzlxcVZEQ2pURlJQRGVfdnI5dm5xcWxCZjFyM3B1eTgtSXh2RDdOYnpVTm9DZHE4eW15V2ZoYTVJbkcxV2JfUGhlRi1scHN4cjFDaEN2bU5QSk5CV1VoN2ZMRkZTR3ZMTEVBdjVQWjF3MU0wRjJxZmFnZkFYeHhjYXJDR0t6ZEc0dk1XY1dxc2JKQVB1SkE?oc=5",
@@ -14,36 +22,28 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "News | Hermès joins high-end retailers as elevated oil prices add luxury to Calgary - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjVUblgxelhhSFZISm03cWVVbkNXemRwYWtMamQ5ajdpNHdYQmhJOEhLSjAtN25lbUF3WUNTLXB4RDBqN3BQZEpVeklWajdBc3VOUnMwc0l2d2FkWHRIT25PTDdfY3dnSXdjN2JORkRKMlM1bklDWmhfQXpLMlI4dHZZNGFMT0VuQlhTNS1pSUV4X202eTlRTmJPQlNQY3RidmtRZnBMdlQ4X2FqSGtyWDFlOHNLTUk?oc=5",
+      "source": "CoStar",
+      "publishedAt": "Fri, 24 Jul 2026 08:40:39 GMT",
+      "description": "News | Hermès joins high-end retailers as elevated oil prices add luxury to Calgary CoStar",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "A Stitch in Time: The Rise and Fall and Rise of Fashion Watches - Watchonista",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWZSZzdfOHdiRG9BazktLUpCeG1oek9oQU5sYVJjUlRfT281RzJoVkV3MFBwbWRoTjVXVHlrUFBkV2I4SUVFYVlyOGUyanBNX0hwb2FFMmFGdVF5WGlWUGtuWlRLYktoeUFnMGNobDJnQ1hqMTFISHBjUURiSWgwaFpVNmlUMnJDbkxHU0VjWG1BTlJRbXBNMVdkcklPU2Nt?oc=5",
+      "source": "Watchonista",
+      "publishedAt": "Fri, 24 Jul 2026 07:29:10 GMT",
+      "description": "A Stitch in Time: The Rise and Fall and Rise of Fashion Watches Watchonista",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
       "title": "LVMH stock trades steady as first half 2026 earnings highlight resilient luxury demand - Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDJkLUpwQ09qamdOUVRralRuckZqSGlnejNadEI5UHd5bTk5Zi1PamZocmlaQnpBc21zSW90TEtDelpqLTd5amVzOWN1eXVlTXMxUWx1cl9sMGdXNUR0ODgxb2I0SDQzWm5jand5d0NQRkcxbVVxMEhublZuNDU5WE1zNkd6ZkgyazZrTlcwQm5NZmNLQ3RmWFp3cjdvLTdreUdnRUFXNUNpeURFN1h4UEQ5cjVXYmVQZWVMdWJKdGRfM2c3NnQyNjJIRQ?oc=5",
       "source": "Ad-hoc-news.de",
       "publishedAt": "Fri, 24 Jul 2026 06:50:04 GMT",
       "description": "LVMH stock trades steady as first half 2026 earnings highlight resilient luxury demand Ad-hoc-news.de",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Inside the family business that switched from wine to luxury watches - AFR",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYWJ0ckwwdDg3QUJ3V3ZvVFBGdVlFS09Ra1JYVDNQdzBYZElGNFp2eG1PZU5raU9zMU9MTGVZUzItTzJmNTVPTUQ1dEpPMzJBNVJSZUt0SjlVOHZkdDRJVkNEZXJyOEN0a0RyWTZFdi1WaGlpci1rTGtPbXJJb00tM2JoY0VYdm5kM1hCM3MwVTFxMmFTT19HSWQyMW9XckJCTzIwcFROcjlCa1lmSUJBWWtBcTlHSDYwMzVpZHFidXBScVVtVHpSd3FWbmFnTklHR25nRA?oc=5",
-      "source": "AFR",
-      "publishedAt": "Thu, 23 Jul 2026 19:00:00 GMT",
-      "description": "Inside the family business that switched from wine to luxury watches AFR",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Rolex vs. Patek Philippe: Which Watch Brand Rules Celebrity Style? - The Hour Markers",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXh6ajg0TjgzUXRlZ2I3N0dUaFV5eUpJMjJkQm55V25wa200bUEtRjNRQ0pBQlAyR2x1VUN1cEk1SFVmc04ycWhUS1UwWnJ3a2lpb20yOF8tUGdlZk9lbW1PZTBEcUxwelN3akJjSldBMUpTWGIyOF9NcE9qdWZfag?oc=5",
-      "source": "The Hour Markers",
-      "publishedAt": "Thu, 23 Jul 2026 17:55:21 GMT",
-      "description": "Rolex vs. Patek Philippe: Which Watch Brand Rules Celebrity Style? The Hour Markers",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Gaurav Gupta’s Light Song Comes Alive With The Couture Editions Of The MG M9 & Cyberster - Esquire India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWVzUmo3OWdBdmRsOUc1SzV3UHlCNlN5N3lYekZlV0JDd1lDdENBSjFrVTdCRFNWT3RkV0dzT1VSNFA5X3hHLUhKNm04ZDhwSHltVzhuUmEwemlJQVZMWi1Bdm50cmU5ejllMGl0Rl9DU1Q4LVFaWjk4Mm8tTElOUVBramVzdTY3eF9LMGNnbG43MnBnUm9JaWlFZWV6VWdfYUllR0xqd2hlb2VzOXo3b3JDNVBnM3ZuRkVpV0lpQjVnNDBISkhEZVQ4cGNZRTTSAdwBQVVfeXFMTVZkV3pmZWFUWXZKTGp5WDhTMnNaM0p1Z2w0RkxJZTVHNkpueUNEWjdqT0NDdmdiSjZXaFJsZ1hqZHkySWVzZUxENGxyaFdoZlA2aS00UW1OSlpsY1ZNNEdMMEFiaFQ3NWNRNEhPY2t0STB3TTVrcE95eUdpSGtjX2x4QnI0bjRxa0xwSDJKNHpidVVlZ2xTcjMtRV9fU0JvdEN6Ni1LMzNTcHYxZDRvXzRKdGFGVzFUR05QVWplSVUzMEljbW1HbElmWjh1dVl0OEJ1YWk2bVR5b0VvOA?oc=5",
-      "source": "Esquire India",
-      "publishedAt": "Fri, 24 Jul 2026 10:41:21 GMT",
-      "description": "Gaurav Gupta’s Light Song Comes Alive With The Couture Editions Of The MG M9 & Cyberster Esquire India",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
