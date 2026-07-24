@@ -1,10 +1,18 @@
 {
   "date": "2026-07-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-24T05:42:24.465Z",
+  "generatedAt": "2026-07-24T08:11:00.084Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-24.",
   "articles": [
+    {
+      "title": "LVMH stock trades steady as first half 2026 earnings highlight resilient luxury demand - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDJkLUpwQ09qamdOUVRralRuckZqSGlnejNadEI5UHd5bTk5Zi1PamZocmlaQnpBc21zSW90TEtDelpqLTd5amVzOWN1eXVlTXMxUWx1cl9sMGdXNUR0ODgxb2I0SDQzWm5jand5d0NQRkcxbVVxMEhublZuNDU5WE1zNkd6ZkgyazZrTlcwQm5NZmNLQ3RmWFp3cjdvLTdreUdnRUFXNUNpeURFN1h4UEQ5cjVXYmVQZWVMdWJKdGRfM2c3NnQyNjJIRQ?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Fri, 24 Jul 2026 06:50:04 GMT",
+      "description": "LVMH stock trades steady as first half 2026 earnings highlight resilient luxury demand Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "What Gucci moving into Formula One means for the fashion industry - thenationalnews.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2pjZzVsODdBRjM1YXBoeWt2aE01OGMzT3J1VjdkZ3BNRk1sYzlxcVZEQ2pURlJQRGVfdnI5dm5xcWxCZjFyM3B1eTgtSXh2RDdOYnpVTm9DZHE4eW15V2ZoYTVJbkcxV2JfUGhlRi1scHN4cjFDaEN2bU5QSk5CV1VoN2ZMRkZTR3ZMTEVBdjVQWjF3MU0wRjJxZmFnZkFYeHhjYXJDR0t6ZEc0dk1XY1dxc2JKQVB1SkE?oc=5",
@@ -14,35 +22,27 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Evangelista Enters the Luxury Lingerie Market - WWD",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZXRmS0UyanRjSU5Wa3JPNkNDNFc1ZFl2dU9oMmlESk5kd25lMHA3Q21yMjVJZkJhY2tDYkV3aVV6OU4tUVpHTXo3LUMtUzBTUERsanBicFU2WjIwV1FTeWgteDV4UFBSYUZzZl84MmxHRklUajRCQ2lqbXpLUnNCXzJnMFBJZmZOVWoxLWNiNnJkNjJ1R3JEMGMzVm0yT3pxX0ZYZFlmeGxiVU1HamV2OXZqaGhtdw?oc=5",
-      "source": "WWD",
-      "publishedAt": "Fri, 24 Jul 2026 04:01:45 GMT",
-      "description": "Evangelista Enters the Luxury Lingerie Market WWD",
-      "feed": "Google News - luxury fashion"
+      "title": "Rolex vs. Patek Philippe: Which Watch Brand Rules Celebrity Style? - The Hour Markers",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXh6ajg0TjgzUXRlZ2I3N0dUaFV5eUpJMjJkQm55V25wa200bUEtRjNRQ0pBQlAyR2x1VUN1cEk1SFVmc04ycWhUS1UwWnJ3a2lpb20yOF8tUGdlZk9lbW1PZTBEcUxwelN3akJjSldBMUpTWGIyOF9NcE9qdWZfag?oc=5",
+      "source": "The Hour Markers",
+      "publishedAt": "Thu, 23 Jul 2026 17:55:21 GMT",
+      "description": "Rolex vs. Patek Philippe: Which Watch Brand Rules Celebrity Style? The Hour Markers",
+      "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "This luxury retailer has some of the best designer bag deals I've seen - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFU4WjRQRF82eXc4a0p1c2lFdWtOZXlxQTJORWRsM09YMjZmOTliZUpkSld6UHZUY0JxTmRNZUNVeWxUNW95RFJFQUE5M3RwM3otbU1jbG0tTTk2SFJHM2pRSnl3bjRTRW5KUmJNYll6LTlLSzBnZkJVcEVXTWxBaEc1NmgwZUduMnFfNW5ySTN6TnNvMXUtM1ZWYk1uZ3I1T1UxcjM3VQ?oc=5",
-      "source": "London Evening Standard",
-      "publishedAt": "Fri, 24 Jul 2026 03:08:00 GMT",
-      "description": "This luxury retailer has some of the best designer bag deals I've seen London Evening Standard",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Yoon Hye Jin reveals luxury rings gifted by Uhm Tae Woong every anniversary - global.mediafine.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2h2UU9CUlhncWRKVDVQR3RydTNDRjIzS0daZEhyQ204cTlMajFYS25KWlU4Rm9sc1hYcFo1bTVBc2ZYOXVwNlhxaDA2Mk55SDk5a1NsckNfdXhDRm04QnFsNUhZRTdrZG9fb2x5YWZwdTAyb2s3YnJ2RVpiUnUtd09lQUhyVWtyRlZsLVBlVTBjemhjWFhpWV93?oc=5",
-      "source": "global.mediafine.co.kr",
-      "publishedAt": "Fri, 24 Jul 2026 02:15:24 GMT",
-      "description": "Yoon Hye Jin reveals luxury rings gifted by Uhm Tae Woong every anniversary global.mediafine.co.kr",
+      "title": "Inside 3 Striking UK Luxury Homes Hitting the Market in 2026 - streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHU3UWczdkVsdHM2M2dnQ25RcGROYk9XbWdBdTl3UnlqR1NobVk1WmxxY051Z21FQ2VKT05qNkRDejRPdURGNWVhc3lfLVYxZXlEYUNzbmdybnpMbldpWnVVeFo0MHJYYmJhalcwNzJkSWRlLWxoWWFXNGlMWFlPR0FlZXI5V3RTYWY0bEd0SQ?oc=5",
+      "source": "streamlinefeed.co.ke",
+      "publishedAt": "Fri, 24 Jul 2026 07:00:50 GMT",
+      "description": "Inside 3 Striking UK Luxury Homes Hitting the Market in 2026 streamlinefeed.co.ke",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Reasons the red carpet is Paris Couture Week has no chance with Cannes in 2026 - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlVjeGplcy02RnlObFlsellMRWNnY2hTUTFHekhWekpBWmZRSmZadFk5dVlsNmtER3pyUkd6YWxTZ3B4N2ZVMDdHOE1RU20yM3NpVENoQnVkd1hfMEhUaFBybVlieU56UXZiMW54QmVyMWNVTVZIMS1xRnFRN1Nuc3RXWkVPRWREel92aGJTdktwR2VzNEg1bXkzdGpWc1JL0gGmAUFVX3lxTE9FUGdzNmg4OVhDV0g0djJyUHZwaG1mZEJELUR3THRYRW1QSlh2dFotV1ItUHV1Q3VPRzlxNjE4RkRsdk1lbTlCSFNKdndvVXNQcUJDUnFQampXajJCWllDYnd4UkdmcHRwOUsxUEdrQXFETHVfQ2tIc3lHZnR6NzdQZERRTmd2a05keFBrT3BYVFpWVGhFQ2dDa18ycnp1Mm5ibllaR3c?oc=5",
-      "source": "Prestige Online - Singapore",
-      "publishedAt": "Fri, 24 Jul 2026 01:39:06 GMT",
-      "description": "Reasons the red carpet is Paris Couture Week has no chance with Cannes in 2026 Prestige Online - Singapore",
+      "title": "Paris haute couture blends art and storytelling on the runway - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOWkgyTkFtcFBrMUFRUllVWC11elVISzM0dHFNdEUyRWZpN1VwQlBEQmNnZUdQNlFjcFlCekFmbDVkbFkzdWV6M2hHdmZUYW1RMjluZEI3VUNRdEZmWXNBUnVta25idnVO?oc=5",
+      "source": "Межа. Новини України.",
+      "publishedAt": "Fri, 24 Jul 2026 06:18:43 GMT",
+      "description": "Paris haute couture blends art and storytelling on the runway Межа. Новини України.",
       "feed": "Google News - luxury lifestyle"
     }
   ],
