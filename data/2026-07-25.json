@@ -1,9 +1,50 @@
 {
   "date": "2026-07-25",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-24T16:35:32.559Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-25 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-25T01:55:43.450Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-25.",
+  "articles": [
+    {
+      "title": "Japan's Luxury Jewelry Boom Hits Record as Weak Yen Fuels Demand - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEpnZy1TckxjcnRPLVJ3QzJnR1NLMHVranhzQ1Z1dVZTSERWczZpNm5wWVRRYlRIMkpsbUxVSHhSUzdrek5CRlJDbF85cm5CemRXd0c0cEx6SWFGTUQ0cVAwLVdPUXRWelhOeV9yQ19yTlExMC1TRURpWnIyendlcGpSaGpCSEhsZVI1dXF2OEpNRDEyWkN5SHgxdk14Y0phdkc4Z05VTEs5RTZ0QzVkNElBNmVveWZLNGZFNVJpLWViZw?oc=5",
+      "source": "TradingView",
+      "publishedAt": "Fri, 24 Jul 2026 18:02:59 GMT",
+      "description": "Japan's Luxury Jewelry Boom Hits Record as Weak Yen Fuels Demand TradingView",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH stock trades near record territory as luxury demand supports earnings - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSlp4dV9IWk9BMUY0WnRNT01HS3lpaUpnNHlQTTc2TjhycWt0b1gwNUEwdzFMckRmVzBMeTBSeVlYVkVucWUyUEdwaDFLYnRmLVpRSkpyUm1iOUdUdGcwaG9BS3dmS2I3YmdpeXdGYThuNmpOYmpQY0lQSkpLTUVFYVFCMkN4WTU1cWRfNUZ2RWFSc1BGeFJhMmpVdXJXWFAxWHA3eXNsTGlDaWQyUHJGTU83YklGeWtYUTNxNEE1bWVocUJEa0pYMWxKeHBydw?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Fri, 24 Jul 2026 18:01:45 GMT",
+      "description": "LVMH stock trades near record territory as luxury demand supports earnings AD HOC NEWS",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "The standard of luxury consumption is rapidly changing from 'logo' to 'quality'. As more consumers s.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYzZmMW42Ykdyck1VYXo2Sm5CSnVsX2dVXzB2Rl9JNkVSRFFHbDZ3Z092XzVXQ3VMRVNMVlRDU0wtVXBVdTh4eDRubks1T1lQVDRF?oc=5",
+      "source": "매일경제",
+      "publishedAt": "Sat, 25 Jul 2026 01:51:17 GMT",
+      "description": "The standard of luxury consumption is rapidly changing from 'logo' to 'quality'. As more consumers s.. 매일경제",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Global Unbranded Hotel Market Hits $30.4 Billion in 2026 as UHNWIs Pivot to Stealth Luxury - Nomad Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONldJRG5DUm4taEE3TEEtaEg0V0xLdkRBN2lhLThEcmE1a1hHVmQxU2RQTkpHNmtXVkctWmQtLVB1RUVDbS1kLVFXdlpNQmpiU1ZoSTJ6SWY0N0QtcjhZTHdmTGtacXFYNlFlUUxwTGVaeWtmWXNvVko5QlRjSDJEZThNLUVSR1E1Y2lPbXNKYVlhU3kzN1pSc3dlTQ?oc=5",
+      "source": "Nomad Lawyer",
+      "publishedAt": "Sat, 25 Jul 2026 00:29:54 GMT",
+      "description": "Global Unbranded Hotel Market Hits $30.4 Billion in 2026 as UHNWIs Pivot to Stealth Luxury Nomad Lawyer",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "This luxury retailer has some of the best designer bag deals I've seen - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFU4WjRQRF82eXc4a0p1c2lFdWtOZXlxQTJORWRsM09YMjZmOTliZUpkSld6UHZUY0JxTmRNZUNVeWxUNW95RFJFQUE5M3RwM3otbU1jbG0tTTk2SFJHM2pRSnl3bjRTRW5KUmJNYll6LTlLSzBnZkJVcEVXTWxBaEc1NmgwZUduMnFfNW5ySTN6TnNvMXUtM1ZWYk1uZ3I1T1UxcjM3VQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "Fri, 24 Jul 2026 21:08:00 GMT",
+      "description": "This luxury retailer has some of the best designer bag deals I've seen London Evening Standard",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
