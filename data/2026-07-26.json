@@ -1,9 +1,9 @@
 {
   "date": "2026-07-26",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-26T02:00:22.059Z",
+  "generatedAt": "2026-07-26T05:52:16.418Z",
   "status": "ok",
-  "message": "Found 4 article(s) published on 2026-07-26.",
+  "message": "Found 5 article(s) published on 2026-07-26.",
   "articles": [
     {
       "title": "LVMH stock holds firm as luxury demand supports revenue and margins - AD HOC NEWS",
@@ -12,6 +12,22 @@
       "publishedAt": "Sat, 25 Jul 2026 18:47:22 GMT",
       "description": "LVMH stock holds firm as luxury demand supports revenue and margins AD HOC NEWS",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Luxury Homes Go Underground as Spain’s Secret Property Market Expands - slguardian.org",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUxacndFTF9sUGF5c2hWWWpnRm9aQ0JobXlPdnZ5RzFDWnc2ZExjUE5ickVhY0xHSmkxQUVvOWNRZ1loUllvNWM3YXRYMFIyeGxnc0V5eVJYSXlrOU5xUUR1UXBzQUVtM002UEg4ajZWV3B5N0Y5OHl2R3NBRXBXQzFfWV9BUnpXMDY2T3MwTGRXT3NveXlV?oc=5",
+      "source": "slguardian.org",
+      "publishedAt": "Sun, 26 Jul 2026 01:58:01 GMT",
+      "description": "Luxury Homes Go Underground as Spain’s Secret Property Market Expands slguardian.org",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "I went to Haute Couture Week for the first time. Here’s what I learnt - The Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmZncHhJMG82NXZlQS15LTYyQ2VnbVhSLUU0NmZqTGZZTUZ4SHJfNVpUMHRBQWlpS1NNQXM2QzFQTklnZmZ5dFJqckpDanRDcmk1b0VMbVlMWGNBTE1OSzhURVFMOWprNUZGQXl1eW15Smh3UlBldzJvSGhEdXl0X1QyOVNhM2dmelBTUmViSW9uUmlLeUhuUU1pbFgwYzJLRlJ5VDVaLWtNNHhONTRJ?oc=5",
+      "source": "The Times",
+      "publishedAt": "Sat, 25 Jul 2026 21:00:00 GMT",
+      "description": "I went to Haute Couture Week for the first time. Here’s what I learnt The Times",
+      "feed": "Google News - luxury lifestyle"
     },
     {
       "title": "Moncler stock trades steady as luxury outerwear group posts higher first quarter revenue and margin - AD HOC NEWS",
@@ -28,14 +44,6 @@
       "publishedAt": "Sat, 25 Jul 2026 17:59:00 GMT",
       "description": "BYD reveals Denza Z9S, a sleek luxury EV with more than 570 miles of range The Cool Down",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "A Diamond Is Forever Showcases Range of Desert Diamonds - WWD",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTm0yS1lheEFKVm4xV2g1RHBnalpDckRseVNtNDN3T0p1RXN3UFpMRF9IUGtuUDF6LWstZVBiM0ctT2c4TkowdDMxdFdmUjVRRFFhano5TjBnWUdXOXZreEtsVm5Xc1pSdXZ0WG9nMjltSU9tcjdEX1dNM2J1VkNSZ2lxMFhYckJZMlNtR3dmRlBTZWdFZ0xDdUstYWpmdEg2OGUxWjNWdnhlMnM?oc=5",
-      "source": "WWD",
-      "publishedAt": "Sat, 25 Jul 2026 17:45:37 GMT",
-      "description": "A Diamond Is Forever Showcases Range of Desert Diamonds WWD",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
