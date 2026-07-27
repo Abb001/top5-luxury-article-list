@@ -1,10 +1,26 @@
 {
   "date": "2026-07-27",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-27T02:07:55.774Z",
+  "generatedAt": "2026-07-27T06:19:23.374Z",
   "status": "ok",
-  "message": "Found 4 article(s) published on 2026-07-27.",
+  "message": "Found 5 article(s) published on 2026-07-27.",
   "articles": [
+    {
+      "title": "Jewellery Shines as Fashion Slows in Luxury Market Shakeup - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjBHd2VtMVFrRVRuM0hqdnN1QmpxelpuVlVPRkdrdnNpOWp3RlRRZ2ZyZGJHTkg0cTg3VEZxTjNwRkVvNmJPMEhQV0xvYTNNNzBUZ0VwX1hnWXpKbnZvcFlmMzhUYWdvQllHZVRtYkFYbDJQUmxEYldyb0JXTDZ5bXRTTUVIU2d6NnN1d0FmcVhFdlUwaVpZOW5n?oc=5",
+      "source": "Global Banking & Finance Review",
+      "publishedAt": "Mon, 27 Jul 2026 06:18:11 GMT",
+      "description": "Jewellery Shines as Fashion Slows in Luxury Market Shakeup Global Banking & Finance Review",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "From Benetton to Gucci: How fashion raced into Formula 1 - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0x2WXNiX2dMMzI1MWhYc1M0OTZVNFBIanpoaWloeVJnZ3NGQjF3S2VVeXhlNk5jNVdzNnFsdGZHWnZ4c0R6cEFNU2h0eTk3UE9SQlpvNU1nOXZBSGpPQzNQM1dPclNOWVNBMV9QdnFwMnVHUjRBVkxkM3Z6b2hhbV9YTm9oS0FyR09uc0hmV1U3d2hORnl4R1lVWExiTWPSAa8BQVVfeXFMTkFBSDdZODVvd3RnSDM1amhEaGlnR0QzYkoxU0MwelhqeFdrTEUwbVRsVWE0ai02eG0wbWJzQm9TS2dHZzNnbWZNLUk1N3RFc0k5R3R4Y1F1SGQtVEhrd05iaDNLa2I5dlBONFphRTJFMDBrZnRMYW1maE1WN0FoQWdjZWhjVGk0S2dndWpITVIxeVlyUy1fdkw2UGNjVjZJV284b0FBVDlGaFE3LV8zUQ?oc=5",
+      "source": "Gulf News",
+      "publishedAt": "Mon, 27 Jul 2026 03:00:00 GMT",
+      "description": "From Benetton to Gucci: How fashion raced into Formula 1 Gulf News",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "LVMH stock steadies as investors weigh first half 2026 trends and luxury demand - AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnFoQTJ2SDVfUVROTDFHUmo0U003QURDNWNzVkp1YmIzdE94WHpVdkpTellWcEI5Nk1memVMZElmS2VhVkczc19aaHlVbXItWUg3UzUtOFFPQ1FCQlRRNEZiWjY5Qk51bWZ3Z0hnV2R6ZnFIUkJRdHNxeU45b2ZBTDZaMUE1WlZnRG95dk83ZlNsLU11S0R4cDlhWEo4YlhycXM4QlFBYlRNNG10dHlMakcxRmdkWGJ3VXVjM2NDeWExd24wYUNvY0NCSQ?oc=5",
@@ -14,26 +30,18 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "China's once-sluggish luxury market is showing signs of recovery as the country's tech sector contin.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01SUNicWtRalRUdW1Fa2NYNlViQzg4Q2VpVlcxS1p2SjFUWHlnelUtZllPa1VpMzdKU1VseE92UHJNaUxpaFdoblVXRmhwb3M?oc=5",
-      "source": "매일경제",
-      "publishedAt": "Mon, 27 Jul 2026 01:31:51 GMT",
-      "description": "China's once-sluggish luxury market is showing signs of recovery as the country's tech sector contin.. 매일경제",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Back in fashion? Burberry sales jump in China amid tech wealth - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRHlCeWx4MG1JSnFlQkdTS005cnpCQ3ZGM0k1dDd0T3VpaU1UbHVWSkFWTEFRVHBmQ00xdFZRam5jaWtaRkVWQm1LTW04bzVScC1Od1RGOHVPOVFja19TSUdmRU1BamR3djBWNjltbUt1b3lqWVp5RFdwMXlaTFVFU0VObkhXVk5CdmR5Z09fWkFvMEIxSHVucUhnejJDUzVkRHRpTS1CWXROd01fb1V1M0V2QkltWFdoZ3daVHN3RXVUNzItc2dJ0gHHAUFVX3lxTFBEeUJ5bHgwbUlKcWVCR1NLTTlyekJDdkYzSTV0N3RPdWlpTVRsdVZKQVZMQVFUcGZDTTF0VlFqbmNpa1pGRVZCbUtNbThvNVJwLU53VEY4dU85UWNrX1NJR2ZFTUFqZHd2MFY2OW1tS3VveWpZWnlEV3AxeVpMVUVTRU5uSFdWTkJ2ZHlnT19aQW8wQjFIdW5xSGd6MkNTNWREdGlNLUJZdE53TV9vVXUzRXZCSW1YV2hnd1pUc3dFdVQ3Mi1zZ0k?oc=5",
-      "source": "South China Morning Post",
-      "publishedAt": "Sun, 26 Jul 2026 23:00:10 GMT",
-      "description": "Back in fashion? Burberry sales jump in China amid tech wealth South China Morning Post",
+      "title": "Bihar's Fashion Revolution Starts With One Dream | Aman and Shwetanga - The Better India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUW02WjN4dEdqa0k5OGxNNzRsZEdDcEpVOUctYURiWld1M3NnTmJ4UTVZN0o3ZWY3eEg1cWk5T3FSaHRVbkxEUS1RY3laUlNCbG52NlR4bmV1RWN6ZUFlX08yS0ZWZ3Jndlg5cDF1QlJ0dEpXOTRXZWFvR2x0WW0zRE5MX3E1SzRVclpyWElWSHVPN1VjcWVzRXFCbGdqblVhM2ZJRVpXaERfdVNOWFNhamQ5c2VJQmljUFJ4cEZB0gG-AUFVX3lxTE5RbTZaM3h0R2prSTk4bE03NGxkR0NwSlU5Ry1hRGJaV3Uzc2dOYnhRNVk3SjdlZjd4SDVxaTlPcVJodFVuTERRLVFjeVpSU0JsbnY2VHhuZXVFY3plQWVfTzJLRlZncmd2WDlwMXVCUnR0Slc5NFdlYW9HbHRZbTNETkxfcTVLNFVyWnJYSVZIdU83VWNxZXNFcUJsZ2puVWEzZklFWldoRF91U05YU2FqZDlzZUlCaWNQUnhwRkE?oc=5",
+      "source": "The Better India",
+      "publishedAt": "Mon, 27 Jul 2026 03:30:05 GMT",
+      "description": "Bihar's Fashion Revolution Starts With One Dream | Aman and Shwetanga The Better India",
       "feed": "Google News - luxury fashion"
     },
     {
       "title": "Luxury Womenswear Flagship Stores: Ruti Opens Its East Coast Flagship in New York City - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iZDlvVkV6SjZ0cW1KclF2cExSUVRHbzdjdUs3Y2JVcWdCdUN6VE9fUmozaFJkVU0xYXhIMVZEOWltTmh5X3Z3UXdXQm5KdmJxaHVKYnl3U3hvZ01nTmF5Yk1iU20?oc=5",
       "source": "Trend Hunter",
-      "publishedAt": "Sun, 26 Jul 2026 21:03:37 GMT",
+      "publishedAt": "Mon, 27 Jul 2026 03:00:01 GMT",
       "description": "Luxury Womenswear Flagship Stores: Ruti Opens Its East Coast Flagship in New York City Trend Hunter",
       "feed": "Google News - luxury fashion"
     }
