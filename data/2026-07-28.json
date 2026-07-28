@@ -1,16 +1,48 @@
 {
   "date": "2026-07-28",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-27T16:53:40.438Z",
+  "generatedAt": "2026-07-28T01:49:14.812Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-07-28.",
+  "message": "Found 5 article(s) published on 2026-07-28.",
   "articles": [
     {
-      "title": "LVMH sales tick up as US luxury demand offsets hit from Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWxIaXJEWXgtcHdzZjI2R3lwcFdYd1E1TW5QeHF6QkFkMTJRd2FKck9td01ta2ppc0Jaa0YzT0VTOUV4OENwd1lhRVRHT0FMdDNfUUlZdk1FZDVkaUZXX2RhRlVKRTF2elJ2RVR1elZxVE1GZDhZS3VEcVJLYW9vUURySF82c0hKYjhsVXJId2VUcmNKVTBzQ0phd3FaWkwyUVhvYUFUekR0djI5M1d0b1BFMTE?oc=5",
-      "source": "Reuters",
-      "publishedAt": "Mon, 27 Jul 2026 16:24:21 GMT",
-      "description": "LVMH sales tick up as US luxury demand offsets hit from Iran war Reuters",
+      "title": "LVMH’s Mainstay Fashion Arm Returns to Growth, Boosting Hopes of Luxury Recovery - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFRadVp0RVBtYjI1Nzk1cDNuUmV6dDZTMDN1bjUwanFnVjZfOUp3dFlvbFZGZW9oS3F1ci10cENjNmpoZzE4ejluMGdMZ1IySlRLY3hKSy1xZnJFSWdKRkNsWUMxLXltc0tYNG9NQjRxbDNWY2NZbmc4UDJHVFA0QWpnUmYzUEhaWEkxcGN1dWRIMzdXSllQX2xMWm5nNWRLdVJjOVZTM2lhczExX18taFVzNjZ3N2t5a1RuLXQ3UQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Mon, 27 Jul 2026 17:03:00 GMT",
+      "description": "LVMH’s Mainstay Fashion Arm Returns to Growth, Boosting Hopes of Luxury Recovery WSJ",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH Fashion Sales Rise 1% as Dior Turns Corner - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkQzSG9oa1M1VkQ0cS1YUkJhX3VBWnNualNzWDF1azJEQS1INnBURWRhcjhUM3lQUmI5SllSYUd6em1acFFpSmxYODZZY2hRYUtmc0xmVzZBaTd3cTBwZDdmYVluRThDdWVxMUV6Xy1XWjdaemszelc3Wmc1QnpZQXRha0o0NXlrT1lSbDZvWjFRel9DMG9hMWRSaXVzRFQ1X1prcUlDLWpzZw?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Mon, 27 Jul 2026 16:02:26 GMT",
+      "description": "LVMH Fashion Sales Rise 1% as Dior Turns Corner The Business of Fashion",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "LVMH sales tick up as US luxury demand offsets hit from Iran war - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2JxM3V4akN4a3l6M2RvX3UxaFNCdWlmTUhucm16ZnVLT21QNDE3aTJMSUw0eVBoODg5ZWY4M1Z3YlYwT2swRU5ucjBPU3ZsUGpnMkNzbDBIc3RTSGpNWDlscTNjNTZVYTBqVVphbWNsd1R5UVB0Z19BUDg3VlZnMVNma1hBT3A5dUZYeWpid1VIUFlQNF9TQXJTck85d2taMGZ6Q1p5TnZhUGxQd252SHBRMTlFVnR5cUtvdUtKdVVBdw?oc=5",
+      "source": "The Business Times",
+      "publishedAt": "Mon, 27 Jul 2026 22:14:00 GMT",
+      "description": "LVMH sales tick up as US luxury demand offsets hit from Iran war The Business Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Earnings live: LVMH sales grow as US luxury shoppers boost results - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQS1IbFZvbjJTMFVxelh1NTQyalgxZVdWNzl2bktIeTVYa3Z1Y1RIR0dGVzhZRWRrOTBnQjV2Q2x3TkhkYk45XzZoeUtDanZFbjJaQl9MTTFSZE5leG4tSHNvZk1pSERJSnVlemZXQ1VwYThMRll0R3A5YnVPNDdpeFVSWTBienpmRnI4YkRGaThIVl9KZDROaUNNY1hUWTVaRmJucTFOYTIwRi1BVnpORGZIbk56ajlYckg4?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Mon, 27 Jul 2026 21:09:45 GMT",
+      "description": "Earnings live: LVMH sales grow as US luxury shoppers boost results Yahoo Finance",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Jewelry Leads Luxury Market Amid Stabilization, Bain Says - nationaljeweler.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmVFc2FPaTNiWnBrQjZJM3I5XzdJTWRzYXI5bU1ZbGdnMDZoemtMTS1jTlFLcFNHd3pCSjVuSUU4d3NkWk9OSG11ZkZzQmQ2S2ktM09nV0QtcUgweTJ5QmJsX0dQX0taZ0dmaTJKT2hCOEtZb0g0dG0tcE9ueVJEU0hsSVk3QWstWnhQRE8xQzd1R05DVnF5cFhhN3QwOUdY?oc=5",
+      "source": "nationaljeweler.com",
+      "publishedAt": "Mon, 27 Jul 2026 19:52:30 GMT",
+      "description": "Jewelry Leads Luxury Market Amid Stabilization, Bain Says nationaljeweler.com",
       "feed": "Google News - luxury business"
     }
   ],
