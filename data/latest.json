@@ -1,24 +1,32 @@
 {
   "date": "2026-07-29",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-29T05:43:41.722Z",
+  "generatedAt": "2026-07-29T08:25:01.330Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-29.",
   "articles": [
+    {
+      "title": "Paris Couture Week melds fashion and art as designers reinvent luxury - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mVHhEZ3hDcExoVHgyUm9tYW5uMzR3RkVKT1I4RXN4ajNTTU8weTJTcktrQzU2Wm9WdVJCOTVjWGNTWVJ3b0ZWa0RZVjVlTjN2ZklWZEVRQi0tTjJSekxGSTR0Z0dOczg?oc=5",
+      "source": "Межа. Новини України.",
+      "publishedAt": "Wed, 29 Jul 2026 06:30:33 GMT",
+      "description": "Paris Couture Week melds fashion and art as designers reinvent luxury Межа. Новини України.",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Hermes Sales Pick Up as Luxury Sector Eyes Upswing - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG1jMWtSTzBuX0Rfbjd4ZFh0a2dZU3BrbVdFcGpkdi01dDJta01UUERkOGtZSkxOVGlIeG0zN1pUUXhvRlhFaDNFV0psMUYyZ1JYY3J4LUlKNUk2SmQzTlVQRkpsWlVYYkhsRmFTekxxLVJsSnRNN2VCR1htdXFidWFvbjVYZFhaODNpelBsSXF3U0c2SlZfbnBYVQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Wed, 29 Jul 2026 06:37:00 GMT",
+      "description": "Hermes Sales Pick Up as Luxury Sector Eyes Upswing WSJ",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "American luxury fashion brand Coach expands its open access collaboration with The Sims 4 game - Retail Technology Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMWVEQjZYTXRiN3lra2VrbnRTTF9HT0c2Q3FMNzRpZ3BiY3EzWDdzWEhfY2Rhakg1Zl9UYXlOSU9PMTJDWUw2ZVVMYjZWZVpiXzVXcktlQ08xMzdLVzhGX25XcS1QRjVLeTdVbllpbExGNW44Y050Y1F2LVh4YTV2NzJsUFZHYWItZWNiRkc2T08yaUxrOWhpcWpuMHhuM3pCYmhsTmhlc0s1bUdXMGNjQXdLNnFob0R0NHUyTFF0N3k3eVFabFkzSGFIb1FlR3hjVTB6VldSckJvR29SRUE?oc=5",
       "source": "Retail Technology Innovation Hub",
       "publishedAt": "Wed, 29 Jul 2026 05:27:28 GMT",
       "description": "American luxury fashion brand Coach expands its open access collaboration with The Sims 4 game Retail Technology Innovation Hub",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Acne Studios: The Business of a Swedish Luxury Fashion Brand - Monocle",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DdHNNbjlkY3ZRTzRJcjgxYW1ScDlaNVpId1VlYVMwazNpblB4WEZKUGhIR1dUVnRveFloUmFtNnd0YkZzVjVLNUFoWGNPQVVRNC1VRVd5MGtJUkdmSmhhRGVEX2JxeGVMRFVrNXotUXBmdw?oc=5",
-      "source": "Monocle",
-      "publishedAt": "Tue, 28 Jul 2026 22:48:37 GMT",
-      "description": "Acne Studios: The Business of a Swedish Luxury Fashion Brand Monocle",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -35,14 +43,6 @@
       "source": "RTL Today",
       "publishedAt": "Tue, 28 Jul 2026 17:21:56 GMT",
       "description": "Luxury group: Kering sales begin to recover as Gucci improves RTL Today",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "AI Wealth Creation Triggers KES 400B Pivot in Global Luxury Markets - streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONi0xakt6TlVncEt2MUMwU25qZThHM25HU0FGcTgzYVRmR04yVDFSREdGV1dETmlxQ1hhRURHb3ZTSlFFQVlBMUpFOTlEMEdkVHY2d1QxVElnT0R1ejlTMVV2QnkzRXE0d05ZMzd4VlhmNGhzNU1POGF3ay1hTmh1VWN1aUQ?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "publishedAt": "Wed, 29 Jul 2026 05:39:18 GMT",
-      "description": "AI Wealth Creation Triggers KES 400B Pivot in Global Luxury Markets streamlinefeed.co.ke",
       "feed": "Google News - luxury business"
     }
   ],
