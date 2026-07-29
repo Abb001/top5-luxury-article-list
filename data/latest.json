@@ -1,10 +1,18 @@
 {
   "date": "2026-07-29",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-29T11:15:33.518Z",
+  "generatedAt": "2026-07-29T13:49:58.209Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-29.",
   "articles": [
+    {
+      "title": "Hermès’ Chief Watches China’s Pork Prices to Gauge Luxury Demand - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjI1eVN2SGNDa2QxNmYzRTRPU2xXOFNTcXljR1M4eUpNcnp0WXpadEhYU1pUUHhhempTcUprVWJ0QVdNeU0xOTc0TzJCZFNkcC1zU2dWa1l4YVdpM0puRW83eEU0TXQwNlVFcTQ1aXF1YmFkWTVzYmU3bWtVM1FuTmJUUUl4aEM5VkNmVXNHUDhIWHNhbHBOcVZ3WGRjTl8wZGJrQmU5bVNhQ0hxY2c?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Wed, 29 Jul 2026 12:25:51 GMT",
+      "description": "Hermès’ Chief Watches China’s Pork Prices to Gauge Luxury Demand The Business of Fashion",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Paris Couture Week melds fashion and art as designers reinvent luxury - Межа. Новини України.",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mVHhEZ3hDcExoVHgyUm9tYW5uMzR3RkVKT1I4RXN4ajNTTU8weTJTcktrQzU2Wm9WdVJCOTVjWGNTWVJ3b0ZWa0RZVjVlTjN2ZklWZEVRQi0tTjJSekxGSTR0Z0dOczg?oc=5",
@@ -14,35 +22,27 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "Leeds agency lands brief with globally renowned British luxury fashion brand - Prolific North",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXVYN1NjMWZSMWpYWktocTc5MVlKN1RaUGdYVEh1allzeno1TkpJTVozQTRNb2liSDc5UzM1c2x2dS16M2xjOFMxRURnOXRYOGw3aTQzZFJweGxOOU8tSUtaeWlmRmJicWEyYXRhemhSUzZ5OEQ0eTcxaDZ1OWFGVzgzdEdVeHluVUNZZnFuUHNMYkdzbHp5ZjBSc1VMdWNkaXJ4RmlZbXNUYUtyVEFQU1ljOXg?oc=5",
+      "source": "Prolific North",
+      "publishedAt": "Wed, 29 Jul 2026 11:13:44 GMT",
+      "description": "Leeds agency lands brief with globally renowned British luxury fashion brand Prolific North",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "Hermès shares drop as investors fret over weak China luxury market - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0FDeFc1RWpZaFQ1bFM1QmJVTkloWmNWdVI0eVBnMy00cEtUVlE3VUMyejNOR0xlc2kyaUpJT015S0lHMElWRHJzVDRrMm02X0diM0tqSmRQNnVRM3dtc2stcjJwYlpGbU9ZUnBWbnJqOGhFbExqTUs3dEpSRGsyT1JLZ00?oc=5",
       "source": "Financial Times",
-      "publishedAt": "Wed, 29 Jul 2026 10:30:00 GMT",
+      "publishedAt": "Wed, 29 Jul 2026 10:38:17 GMT",
       "description": "Hermès shares drop as investors fret over weak China luxury market Financial Times",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Hermès Confirms Its Strong Performance in the First Half of the Year and Prepares to Enter the Haute Couture Market - Luxus Plus",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdmNnTGgxUXNRLVVnYjh6YmdMenlaWHNNMjNsU1pSdTZTYWR0ODk2dWE0ZDFETnQxb1NCZ2I2cE9zMm0yZGVUT2NZUE5OM1NyaG9idVllUnhKRmFiQnVFcllBWkc1Q05QVlNWOGlVVDU1NTVwNGZFNU1WaDUyYlFWN1VWWkl6YjhRbkxaQU91NnBVeUNkYTJDenQ4MjgzUXU4NGlmZzdhd21yemRCdVFRc0RYQXJUOUNhdVVkOFVMeWM0QzA3UGFDSTJRZnpLZmFWVjVLSjc4aFBPZw?oc=5",
-      "source": "Luxus Plus",
-      "publishedAt": "Wed, 29 Jul 2026 09:02:49 GMT",
-      "description": "Hermès Confirms Its Strong Performance in the First Half of the Year and Prepares to Enter the Haute Couture Market Luxus Plus",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Gucci beat sparks Kering rally as luxury rivals fail to impress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMERiczVMUy0tU1NpUFFIT25lSUhfMHRjM041N3EtRUhLdEswM2VlVG02MXQ5Q1JXVzRpTVpGWkotTTkwX2hPanU0N1I2T2RhaUlTYXFrMFVFdXNoRW1XVU9EOHlMcGJpbEVURGo4azczSEp0NFB6aDJfYzZsdzBmLVFhQVE3Q0pJdXdBWmtNcENJSVhVZlNYWmFFNFh2RkxHRzhWS2FiRW51X28wMG12VTVn?oc=5",
-      "source": "Reuters",
-      "publishedAt": "Wed, 29 Jul 2026 06:59:00 GMT",
-      "description": "Gucci beat sparks Kering rally as luxury rivals fail to impress Reuters",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Hermes Sales Pick Up as Luxury Sector Eyes Upswing - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUZnT2pDOU15c0FSbl9hbFBZenNuT1QtSTdobTNoVlhmQjV2Q3ByaURrcExvMWFERzBHaV9MV1BuQ3BucVdtczBFMUNKblUxSW5VZllnaTdzc1c2MHBNalRtVDZEaFpSVlExem9OSk1nMTNyazJHYTQ3XzdLdWRZQTJfVFlJMHdtblhUR2N5bndtb0ltOXVGYUd1QUVZUUxwZG90dU9B?oc=5",
-      "source": "marketscreener.com",
-      "publishedAt": "Wed, 29 Jul 2026 06:43:13 GMT",
-      "description": "Hermes Sales Pick Up as Luxury Sector Eyes Upswing marketscreener.com",
+      "title": "LVMH, Kering and Hermès: what the first-half 2026 results reveal - nssmag.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlNEQ2tDNENvTzg0ZWdtLUxHRG5iX2pGMDQ2YUhEWU1jcEpqbjVxYW9rbm9wTExwN1Y0TC1jeFp1c3dDaERUV05fZEFKbXRPeElwb0pKcTYyY2tWVE1faFAwUHgxdzhyOFlUclRRcFpPaDY2ZE5DeV84SFFjVFJTU1Y4SjhocklHRnc?oc=5",
+      "source": "nssmag.com",
+      "publishedAt": "Wed, 29 Jul 2026 10:32:50 GMT",
+      "description": "LVMH, Kering and Hermès: what the first-half 2026 results reveal nssmag.com",
       "feed": "Google News - luxury business"
     }
   ],
