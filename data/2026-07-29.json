@@ -1,9 +1,50 @@
 {
   "date": "2026-07-29",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-28T16:28:39.935Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-29 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-29T01:51:31.741Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-29.",
+  "articles": [
+    {
+      "title": "Acne Studios: The Business of a Swedish Luxury Fashion Brand - Monocle",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DdHNNbjlkY3ZRTzRJcjgxYW1ScDlaNVpId1VlYVMwazNpblB4WEZKUGhIR1dUVnRveFloUmFtNnd0YkZzVjVLNUFoWGNPQVVRNC1VRVd5MGtJUkdmSmhhRGVEX2JxeGVMRFVrNXotUXBmdw?oc=5",
+      "source": "Monocle",
+      "publishedAt": "Tue, 28 Jul 2026 22:48:37 GMT",
+      "description": "Acne Studios: The Business of a Swedish Luxury Fashion Brand Monocle",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury group: Kering sales begin to recover as Gucci improves - RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUzJPYXpXdFBITUtzTm9KTF9NZm0wN2ROYTdFY180QkZtVzVuMlhLN01PVWhaQTNvS3VYVE9FMTZoV3VDbFBYWC1IN3JHN2pvdDJ1YkpwLW1qcG5Gc2Q3UzM0NjdkVVRoQmxnMGZTZkkyWkNSckw5MC1sMUVDalVHMlF4TjRKYWtZclAxa21KUnlNQ0ZtVV9tSFNLZGU4TTVwcDBz?oc=5",
+      "source": "RTL Today",
+      "publishedAt": "Tue, 28 Jul 2026 17:21:56 GMT",
+      "description": "Luxury group: Kering sales begin to recover as Gucci improves RTL Today",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Sentiment rebound lifts luxury chains - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sZlNsYmdqNVVyY2xhaHhNMldtd01ZVlduOFNsNTNGbDZaSzBmVWhLWHpTdDJocE0wejJkZzV0eTRkeUxBbzExaEJKTExNa0FtWGJUcm9mblZSR2tFRmt3T3BBRGdpNDlNUW9ZT1ZBSU5lRy1EcmNVNkhIR1F2QQ?oc=5",
+      "source": "China Daily",
+      "publishedAt": "Wed, 29 Jul 2026 01:09:17 GMT",
+      "description": "Sentiment rebound lifts luxury chains China Daily",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Womenswear Designer Rosie Assoulin Delivers Luxury for Less With Limited-Time Target Collab - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3V2T3RXNXJBS0FzbjRjWkdDUzJWMXJsNERyWk1VZVJ0RElFVzllSHBIT0pCRldPQWtTcnZFMUJ1blJ6VHE3NDBKd1d1cUR5dU5ZaWpuZlZnUnpLa0owT015SDNWVGdGemVYbWdUQm1hOFQ1UTVRZnFjMnR0UkpTc2RBa2JySmdYWGlpSXAtNTd5QUFLUHoyUjVmcms4NGE0aFdaQ0NLZ3p1dW1yNjI4REhuVndDdWtJSW1pTkdGQUNJdw?oc=5",
+      "source": "The Hollywood Reporter",
+      "publishedAt": "Tue, 28 Jul 2026 22:15:49 GMT",
+      "description": "Womenswear Designer Rosie Assoulin Delivers Luxury for Less With Limited-Time Target Collab The Hollywood Reporter",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Frasers checks into Burberry with a 4% stake in Mike Ashley's latest foray into the luxury market - This is Money",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbkdFbXlsNHpycHFNQndrSlBaM0Z6Y2NBcmRtTjdXSC01b1JOYUcxbldYZWtiWWJHdkdBZGpvYjVhRXNEUUJmcDh6UWFrRUNub0pvUC1HQ0hFSG5qY2tkVDFlN042dF9sWmFtOTJfVTZ5UXBPX2hwb3V6d1VkTkFlREJXdnJ1LXJsMFg2OHRMeld5R0s0Qy11a3VLcUxYZ1phVS03VzZHQ0NsaTZpLVlrbk5zNFQ3TTBRZGNGaGV6TDJnRVRTdnBQOGxnWXlicVdvVWdj?oc=5",
+      "source": "This is Money",
+      "publishedAt": "Tue, 28 Jul 2026 21:00:49 GMT",
+      "description": "Frasers checks into Burberry with a 4% stake in Mike Ashley's latest foray into the luxury market This is Money",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
