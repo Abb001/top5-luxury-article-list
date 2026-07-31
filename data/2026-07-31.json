@@ -1,10 +1,26 @@
 {
   "date": "2026-07-31",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-31T11:23:17.402Z",
+  "generatedAt": "2026-07-31T13:44:45.964Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-31.",
   "articles": [
+    {
+      "title": "From Harlem to Haute Couture, ‘Every Inch a Lady’ Traces Audrey Smaltz’s Trailblazing Journey in Fashion - wwd.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2J6ZTMwY241SmxoR2syTFRVVDhCS2lmX2NkZzZwOG4tLWZ1eHlGOE5NTGdHSFY5V25TLW9KVUh5YkxmTjF2RzQzUHk1RlN3aGxTbnpRVThNOG5HSDA1MWtmNnN4TlNtYUh2c1ZfQktxRnZwMllRYTNLSW9GcEhaaWtzb3M5VzB1dEdYMHMxaV8?oc=5",
+      "source": "wwd.com",
+      "publishedAt": "Fri, 31 Jul 2026 13:01:38 GMT",
+      "description": "From Harlem to Haute Couture, ‘Every Inch a Lady’ Traces Audrey Smaltz’s Trailblazing Journey in Fashion wwd.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "A New 3,000-Square-Foot Luxury Boutique Featuring Gucci & Tom Ford Is Opening in Buckhead Village - WhatNow",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTkVyQTU4R0pMQzRWby10ZEhpTnd6RlFpLWdSV3lqRTdMYWZ3OFpmSnhocGY0a0o3dk1MUzd3RThoLTg1Q3dUV2NrMkx2dWFLSVJ0SlRyM05EazhFWFRIN3U3c2l2dWZWb1NjX1dJUkpoMnZ0NlpmYk1YQ3drNEJqZnVKdUttelAtUGFKdmo4di0xSlBaSnZnOThROEpZTW1SSkpNS0gzMG9TQ0JwSHdnWnpUMHBSdXpEeXpqUDFGeXJQazliQldqeGtR?oc=5",
+      "source": "WhatNow",
+      "publishedAt": "Fri, 31 Jul 2026 08:29:38 GMT",
+      "description": "A New 3,000-Square-Foot Luxury Boutique Featuring Gucci & Tom Ford Is Opening in Buckhead Village WhatNow",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Luxury’s Summer of Muddling Through - The Business of Fashion",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHhMYzZmRW5WdUxHWWJ3ZXAwdS1oc0ZWRWpQcXVWLXdCcldwTWNVSUR5ckt0aHFGZHdETnhqeFRRVm5IZElwQzZUZkFEbUc1Z0dDUjB3U2NyTjhRSU8xdDhjc0hVM2ZNeEdWOEQ2X2huWHh3OU0tX19zRUdqUGY5bTFpRXpOdWhLMTZiOVNuWQ?oc=5",
@@ -28,22 +44,6 @@
       "publishedAt": "Thu, 30 Jul 2026 17:05:14 GMT",
       "description": "The Secondary Market Advantage: How Pre-Owned Horology Is Reshaping the Global Luxury Watch Industry The Boca Raton Tribune",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Why celebrities are swapping luxury labels for accessible fashion brands - NationalWorld",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlk4LUV4QVJDRE5Ba0ZlVXlzak5DY0NYXzRGYUo5ZndmaVgyRVJHeGhIMDJsWXYzdkNrU3BJZ1FyZ2FhNWdHTllLLS0wRTFlYkhDRkRQVWVBRmxQU2NUalNWdFB6eWlQXzlCZm5qdWRHVGpIaEVtak1XSGNQZ0ZrTXpraEJxMVBzeW9aTnl5UlNLR1VSQTRXM0FfVHZZQQ?oc=5",
-      "source": "NationalWorld",
-      "publishedAt": "Thu, 30 Jul 2026 16:24:10 GMT",
-      "description": "Why celebrities are swapping luxury labels for accessible fashion brands NationalWorld",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "L’Oréal plots first Gucci Beauty launch as early as 2028 and wants to make it a multibillion-euro brand - Cosmetics Business",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWFqMk9GT2pTSjFUenZ2aE5JdWZnTklzbFR6b0NmWkVBQ0pFUDlKNVZZcVZiREVpUF9FcHhNVHE0ZUE2ckpsQ3NJSDlhajRpWUZ6UE42YjFZWEcxdDNhX0daenFfQWl4M0RYUm5iSXZZU0RMaEJjYjJObDlSdDNEdHRhN2RBemllVUhxaWJoNEM?oc=5",
-      "source": "Cosmetics Business",
-      "publishedAt": "Fri, 31 Jul 2026 11:02:22 GMT",
-      "description": "L’Oréal plots first Gucci Beauty launch as early as 2028 and wants to make it a multibillion-euro brand Cosmetics Business",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
