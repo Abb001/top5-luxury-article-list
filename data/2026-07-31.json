@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-31T05:57:58.947Z",
+  "generatedAt": "2026-07-31T08:48:46.641Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-07-31.",
   "articles": [
@@ -38,12 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Heritage Fashion Museum Exhibits - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZYndTXzNqMlFyUUVzamFmYWZYYUk4VTlYaWpOMjRMUGxWUDNvT25qejg2anUxVVk5dlhObFZnZEVDVjJNLVl3TVZjcDY3Zk94X01aUTk4SHV3UGVRVFdB0gFfQVVfeXFMT1lid1NfM2oyUXJRRXNqYWZhZlhhSThVOVhpak4yNExQbFZQM29Pbmp6ODZqdTFVWTl2WE5sVmdkRUNWMk0tWXdNVmNwNjdmT3hfTVpROThIdXdQZVFUV0E?oc=5",
-      "source": "Trend Hunter",
-      "publishedAt": "Thu, 30 Jul 2026 23:55:22 GMT",
-      "description": "Heritage Fashion Museum Exhibits Trend Hunter",
-      "feed": "Google News - luxury fashion"
+      "title": "How Saadiyat Island became Abu Dhabi's most coveted luxury address - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTE5VWk5FejFCeVNtNXhpcmp2SzFER3ZZdl9CaVBxMHgtQ0hzMmxjc0NNcEFlbnRodW1palV0M1V4ZjlXOUptVVo3NURPdzVRRGdoeWFacjYtVllfdFF2X1VrMnhmY1ptS3BSdGFocVQtOU1aTkJLakpVRnc0TkRERlJwM0hMUzTSAY8BQVVfeXFMTkF3RzhzX0xtLTdBaWZHRTZQZm9sRmhEbmdudjFEekN5SUFTWlJibUlPMU1CU1FxcE9HNWN6b2s3eDZKTlJMWTJMN25Kc1JkTE5HalU2a3YwOFpJSERtbDk3ME1pbG4xa0RKUklDcEJmUDJjZkY2SVZoWEZlcHN3b2J5WGRxcmRMWmFkWllSV1E?oc=5",
+      "source": "Khaleej Times",
+      "publishedAt": "Fri, 31 Jul 2026 08:28:34 GMT",
+      "description": "How Saadiyat Island became Abu Dhabi's most coveted luxury address Khaleej Times",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
