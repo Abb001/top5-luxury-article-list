@@ -1,9 +1,50 @@
 {
   "date": "2026-07-31",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-30T16:21:09.631Z",
-  "status": "empty",
-  "message": "No articles published on 2026-07-31 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-07-31T02:01:41.217Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-07-31.",
+  "articles": [
+    {
+      "title": "Luxury’s Summer of Muddling Through - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHhMYzZmRW5WdUxHWWJ3ZXAwdS1oc0ZWRWpQcXVWLXdCcldwTWNVSUR5ckt0aHFGZHdETnhqeFRRVm5IZElwQzZUZkFEbUc1Z0dDUjB3U2NyTjhRSU8xdDhjc0hVM2ZNeEdWOEQ2X2huWHh3OU0tX19zRUdqUGY5bTFpRXpOdWhLMTZiOVNuWQ?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Thu, 30 Jul 2026 20:28:55 GMT",
+      "description": "Luxury’s Summer of Muddling Through The Business of Fashion",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Fendi’s New Denim Collection Elevates Banana Fiber to Luxury Fashion - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTBVQjRqMWxuV1BiMl9jXzh4ejVVdlRqdzV3QUhpVDMxVnlhWlZWMnJWaEV0aVhTX214NmlvMmUxeWVDSHRtNVNZYXdCbjR0VTkyTXFoU0xQdzU2NWhyTWN2VkdDR1FpRXRxMHFkb2JkOTRESXRQRlJQX2FLVjIzcmt2eXQ5cVhNMlVpUkprZk0yODVtZjZvSk5vNjhtNEhyMlF3c3owUQ?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "Thu, 30 Jul 2026 19:36:18 GMT",
+      "description": "Fendi’s New Denim Collection Elevates Banana Fiber to Luxury Fashion Yahoo",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "The Secondary Market Advantage: How Pre-Owned Horology Is Reshaping the Global Luxury Watch Industry - The Boca Raton Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaHdtSVNTdEp1UzN6WGZIWUlXNEhzc1V0UjQtSGU4TTF3UlJqRURJRTEwODJVQWtocHd2WXQ2MVVvenFiSm4yWklYUE5pb0pDamNBRXF6Vy1rU0lmOXByOTdybkNibWRMY1Q3X2J0SnlPZ2t6Y0F3dDJzOTF4d2NCNWNSUGhETFNPQ1ZzSkRuSVhNdHY5aEp5cURuY01FX182b0lheXY3M3dKM1pnMVRyTm1YRkE0d0hiZlg5ckdWeXpDZTdWVy10WXgyb2hsSjhRT0pNaVRTaTNoQ0NLYllFYjhmUER1V01vSkNn?oc=5",
+      "source": "The Boca Raton Tribune",
+      "publishedAt": "Thu, 30 Jul 2026 17:05:14 GMT",
+      "description": "The Secondary Market Advantage: How Pre-Owned Horology Is Reshaping the Global Luxury Watch Industry The Boca Raton Tribune",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Why celebrities are swapping luxury labels for accessible fashion brands - NationalWorld",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlk4LUV4QVJDRE5Ba0ZlVXlzak5DY0NYXzRGYUo5ZndmaVgyRVJHeGhIMDJsWXYzdkNrU3BJZ1FyZ2FhNWdHTllLLS0wRTFlYkhDRkRQVWVBRmxQU2NUalNWdFB6eWlQXzlCZm5qdWRHVGpIaEVtak1XSGNQZ0ZrTXpraEJxMVBzeW9aTnl5UlNLR1VSQTRXM0FfVHZZQQ?oc=5",
+      "source": "NationalWorld",
+      "publishedAt": "Thu, 30 Jul 2026 16:24:10 GMT",
+      "description": "Why celebrities are swapping luxury labels for accessible fashion brands NationalWorld",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Heritage Fashion Museum Exhibits - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tNGRGcWx1bDlDYkF2QkZoOWxiQXhtZkpnTVVHTkJ6WEptYWhMeE5JUWRreHNXTGRUODlfZjNWM2h1ZEptTnNvTEM0V1dfYV8tUkc1ck4xUW5KQdIBX0FVX3lxTE9ZYndTXzNqMlFyUUVzamFmYWZYYUk4VTlYaWpOMjRMUGxWUDNvT25qejg2anUxVVk5dlhObFZnZEVDVjJNLVl3TVZjcDY3Zk94X01aUTk4SHV3UGVRVFdB?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "Thu, 30 Jul 2026 23:42:31 GMT",
+      "description": "Heritage Fashion Museum Exhibits Trend Hunter",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
