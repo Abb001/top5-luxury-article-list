@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-01T08:06:40.267Z",
+  "generatedAt": "2026-08-01T10:27:39.000Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-01.",
   "articles": [
@@ -11,6 +11,14 @@
       "source": "Yahoo News UK",
       "publishedAt": "Sat, 01 Aug 2026 04:00:00 GMT",
       "description": "Luxury fashion label opens new shop at Designer Outlet Swindon Yahoo News UK",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "LVMH Sells Patou Back to Cosmetics Magnate Dilesh Mehta - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CYndfSmM5Nmotek9lTjlodlR2bmlteWRLbmZCSUJxNDdHdmljZnNoNmFTMW9NR1dIWUY0eWZCY1hrbVNiNVVyRjBrekNxWlZoZEY3Rl81MkI4UmtYOUtnc2tzaTgzeC1NZVdiODBpa1pHMzE1YUR2VFB3aFVxeTQ?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Fri, 31 Jul 2026 18:03:55 GMT",
+      "description": "LVMH Sells Patou Back to Cosmetics Magnate Dilesh Mehta The Business of Fashion",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -35,14 +43,6 @@
       "source": "The Business Journals",
       "publishedAt": "Sat, 01 Aug 2026 04:00:00 GMT",
       "description": "What today's luxury buyers tell us about Charlotte's housing market The Business Journals",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "‘T.N. govt. must increase oor-to- oor height to promote luxury housing’ - PressReader",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ2FUc3Q3ck54cnliOFFzUGVwQzYtRFhwaDJkQlBwTVBIeU9UVVJab2tTckpsTzhibmVETDQ5TWdlVVFrbFBqTHRzWHhCSERqc2dkaTh2NjBiUXowYmNMakNKcGJxUkdodzgxdWIySUJuODhZOEx4WlZJNl9GUTNKblFuNmlua3I3bXpz?oc=5",
-      "source": "PressReader",
-      "publishedAt": "Sat, 01 Aug 2026 00:19:56 GMT",
-      "description": "‘T.N. govt. must increase oor-to- oor height to promote luxury housing’ PressReader",
       "feed": "Google News - luxury business"
     }
   ],
