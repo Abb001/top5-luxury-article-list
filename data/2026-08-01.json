@@ -1,10 +1,18 @@
 {
   "date": "2026-08-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-01T10:27:39.000Z",
+  "generatedAt": "2026-08-01T13:02:16.756Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-01.",
   "articles": [
+    {
+      "title": "Threadgasm Reports a Shift Toward Individual Expression in Luxury Fashion - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFF4M2JCTUdCRktVSUFPVFdwRUVjVHJ5b0RaZUZOS3V4OGwybWxWN1ItZ2dUaWZTMVdYYmNRSTY0WDJYQS1uM1dPN3lRS1pGNDhuSERET0FjUGlLZWRISjdiNk5ybTlNVmFXcUNfZVlsLXRranNEMEhqVzlzU3dxYmhpTDY1TU96VjVKWWV6RjAtUko3ZEZaSFJCRnVLTzBwZGRRWUtMUzRPUmI1VHByejBubXdKdmRWRHA5ZHMwSUpEZw?oc=5",
+      "source": "ANI News",
+      "publishedAt": "Sat, 01 Aug 2026 12:37:00 GMT",
+      "description": "Threadgasm Reports a Shift Toward Individual Expression in Luxury Fashion ANI News",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Luxury fashion label opens new shop at Designer Outlet Swindon - Yahoo News UK",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16QU5JTFEtUkJYQTdvUTRqeWswR2d3TTl6X2I0dFJrOW96THBIa1RKRXk1Sk1YalBtWkZQbFNTa2NndllqS0R6ZDZtUkkxX25LVkdSOGFwX3YtY1c0T1FVaWdnRVNKZ3NJdHFLUXVyRENfTnlVNmxXU2pzczY?oc=5",
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Where sculpture became couture: Rahul Mishra brings DEVI home - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2ticW1ubXZnU01aR0h4cFFmMVZQbmxoNFZwdTRfTXl6aG95bmNybUo1YjRKc3VUamJHOG1rUzdTV2VFYUVDNk8tME9EWFVKTE45YklzMkdadGtSV2ppYzdRcmVzd1daYThGVUFuTVZHQzRIZjVRX1E5WmJ1bmlsLWg3UmtYOU5RRWlzbVQ0NHRPQ0ppMXFpODM1MWNzdUcwbHlrUHdLd9IBtAFBVV95cUxQZDBHRC1VWDhuemEyTFU1MWJOX09jVFQ5ZGUwWXJNZGF1emxIbzhQMWdRWDBsVXloYWxGd3pGYlRWSWswNHMzZDhPRFdUR0tPSWYwdjdRbm41UU5BY2hGQlZOSlJEZEVmM2ZhLUV2OVF2TVYzNTlZaFlXNGJpWFlsdE9uQVZ0cWdOaTJhbXBDTDRfYlZ4LTdoTVlqbzhtUk13a2VSenlJZFpkVHJMQ0NtaFdqamQ?oc=5",
-      "source": "Fortune India",
-      "publishedAt": "Sat, 01 Aug 2026 08:01:29 GMT",
-      "description": "Where sculpture became couture: Rahul Mishra brings DEVI home Fortune India",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "What today's luxury buyers tell us about Charlotte's housing market - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNall1SmUySUNLZTlERUlqSWN3WGJPM2UwQjJqTkluc2ZscnJvX09yTlAwYzI4QlJQNExHNkpoclhrdmlvRmpMX3NSemU0QlBjYTF0UlNmRFNrMVAzelFpYnhyQUlXMFNjUDZHQjg1Sy1JejdtLUpSZ0sxWlAzZ1VmUi1CeHVaaEdncThfNWlCOXAxbXRZUnlRdXFNYy1jNXBMUXdobDY1QQ?oc=5",
-      "source": "The Business Journals",
-      "publishedAt": "Sat, 01 Aug 2026 04:00:00 GMT",
-      "description": "What today's luxury buyers tell us about Charlotte's housing market The Business Journals",
-      "feed": "Google News - luxury business"
+      "title": "Indonesian designer redefines luxury eveningwear for pets - Wake Up Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcWJaUDVkQm9KclZkNGJTc01tNThlNktPT1JXWEVfTldWeU9pNXk3a0xVV3RiQlYwRjRfbjVQWXhpN1RQTFhUUUhhenpZaFVzeHUxQWdWYmNUNTA?oc=5",
+      "source": "Wake Up Singapore",
+      "publishedAt": "Sat, 01 Aug 2026 11:30:07 GMT",
+      "description": "Indonesian designer redefines luxury eveningwear for pets Wake Up Singapore",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
