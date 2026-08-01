@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-01T13:02:16.756Z",
+  "generatedAt": "2026-08-01T15:54:27.764Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-01.",
   "articles": [
@@ -14,11 +14,19 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Luxury fashion label opens new shop at Designer Outlet Swindon - Yahoo News UK",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16QU5JTFEtUkJYQTdvUTRqeWswR2d3TTl6X2I0dFJrOW96THBIa1RKRXk1Sk1YalBtWkZQbFNTa2NndllqS0R6ZDZtUkkxX25LVkdSOGFwX3YtY1c0T1FVaWdnRVNKZ3NJdHFLUXVyRENfTnlVNmxXU2pzczY?oc=5",
-      "source": "Yahoo News UK",
+      "title": "Threadgasm Reports a Shift Toward Individual Expression in Luxury Fashion - indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV0tTMWJVZjNLUVNZV3ltS3E4UWROU0ttUXdiSkNfSFJ3NFJKY2JPVGRwOUlZaktBdmtraGV6OGpDMGNoQl91RU5MRWZjRHhwMm8zR0xteXRvQ2tzTm5haFZhUnVROTJPeTBqc1l5QWc0QXExSVM1UU9xVVRTTW9fejM2dnVJa2NBeUNnZGk4SndYMHh2cDMtX0FMZWJFUTZIdDVtRlRYTEYwWFZsZ0JWc2NNMlBqQ25I?oc=5",
+      "source": "indiagazette.com",
+      "publishedAt": "Sat, 01 Aug 2026 11:03:00 GMT",
+      "description": "Threadgasm Reports a Shift Toward Individual Expression in Luxury Fashion indiagazette.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury fashion label opens new shop at Designer Outlet Swindon - Swindon Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVNCaVpDS1dfSXNWb3Q5OFhlNUQwRUE2dlJ6Q3Q4SzFHMklHQzVzNko1ekhvc2t0Ql9UWllkQWdUY2t2bjUtWkpSU0FRTVJYYkhzZl8wZjNCTG5NTHlQdThjT1F3YnBFYW00TWZ2ekNOdjNkV2pNRGxqZ2ZOa1V1S2FYYUNueGg4MTI4eXdOcm5GY3d1SGc4SG00VkMxd1NVcXo5XzBsX2d2VWJiSUFtc2lBR0NSZw?oc=5",
+      "source": "Swindon Advertiser",
       "publishedAt": "Sat, 01 Aug 2026 04:00:00 GMT",
-      "description": "Luxury fashion label opens new shop at Designer Outlet Swindon Yahoo News UK",
+      "description": "Luxury fashion label opens new shop at Designer Outlet Swindon Swindon Advertiser",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -36,14 +44,6 @@
       "publishedAt": "Fri, 31 Jul 2026 16:06:20 GMT",
       "description": "Hermès’ Scarcity Model Shields Europe’s Richest Family From the Luxury Slump observer.com",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Indonesian designer redefines luxury eveningwear for pets - Wake Up Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcWJaUDVkQm9KclZkNGJTc01tNThlNktPT1JXWEVfTldWeU9pNXk3a0xVV3RiQlYwRjRfbjVQWXhpN1RQTFhUUUhhenpZaFVzeHUxQWdWYmNUNTA?oc=5",
-      "source": "Wake Up Singapore",
-      "publishedAt": "Sat, 01 Aug 2026 11:30:07 GMT",
-      "description": "Indonesian designer redefines luxury eveningwear for pets Wake Up Singapore",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
