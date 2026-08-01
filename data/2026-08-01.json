@@ -1,9 +1,50 @@
 {
   "date": "2026-08-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-07-31T16:40:12.407Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-01 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-08-01T02:02:37.696Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-01.",
+  "articles": [
+    {
+      "title": "Hermès’ Scarcity Model Shields Europe’s Richest Family From the Luxury Slump - observer.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazlSbWtEYXhNUlJvbk9rUWFFXzE3N0t1ZENjbGUzZzg2VVpiZG9ZeldvM3VFeUxrU09xQWI5Ymd0MHQxOEo4WkZwN25kMjNTcUFZQkpjYjBCMlhfYk12WDRzemlSbmNxYjB4RjRUbnpORnp0SHk5QnloS3Q0RHE1enliWVhWMkpjWWttdUpoU2lROW5qb0g3enhwNWFmUWZ1S1NfQl93Yw?oc=5",
+      "source": "observer.com",
+      "publishedAt": "Fri, 31 Jul 2026 16:06:20 GMT",
+      "description": "Hermès’ Scarcity Model Shields Europe’s Richest Family From the Luxury Slump observer.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Golden Heir Announces New Era of Premium Streetwear and Timeless Fashion - Issuewire",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1kwb1RDNWVpQXlScURMcU8weHdLWDl3TmV5NUUxVFRoWGhHSTRyX09EenpiSk5HOXZ5RjNqVHp4a1E1Z0tiMTVyUkJvQ2ZudzN4WFkzdlQwbWtfRGZiLWVpQUJQcVVLM1JwWXlsR0xYZVN1QmNPVUEwUXlCVEJIUVVzdkFxOXVBRm90SXNjdlozbVVHQXRlM1ZTX0tmSTQ0c0FFNjhRNTBhOE9COWZpQVROOTZRZw?oc=5",
+      "source": "Issuewire",
+      "publishedAt": "Fri, 31 Jul 2026 21:40:24 GMT",
+      "description": "Golden Heir Announces New Era of Premium Streetwear and Timeless Fashion Issuewire",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Celebrity investors flock to Versova Luxury residential market - BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVZ5UmVPcHB1b214Nk1lUE5lSXNDMWVwQlZiaDFYN2tQeVNaR19pcUoyTGdERy1iRjRBcEdfOXBUMFR3bm1TcHl0N1hkNHVkaW1PRWlCczc2cjBrUGk3SHU0b1A2Zll3bFZEUkp6b3pyMVBNSnlENzFiOTlKQXkwNFV6MmdnekxoaTJpSTRzdzlKUHVpSkVreGxtY1BSTTQ3OU9GRm0tSks1Zw?oc=5",
+      "source": "BW Businessworld",
+      "publishedAt": "Fri, 31 Jul 2026 20:09:15 GMT",
+      "description": "Celebrity investors flock to Versova Luxury residential market BW Businessworld",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Inside 6 extraordinary Arizona luxury homes on the market - AZ Big Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTRFYVF4N1JMLXBaam9hUEFoZ3lUbUdYcDNQZFQyd0VsMDdObzAyZVdYOExGaEYwVzRKYXNEZE54cWtYc1hQVmphaTRET1V2WlQ2bU54bmVUMXk2TmhQVExOQ25oQUloLXBSM1FBMTVKNHE1MkVjOGlxS1hzSV9WWmpWeUM2WjBCUzB1LW1yZDV3NDlfckFHMg?oc=5",
+      "source": "AZ Big Media",
+      "publishedAt": "Fri, 31 Jul 2026 19:23:52 GMT",
+      "description": "Inside 6 extraordinary Arizona luxury homes on the market AZ Big Media",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "DSQUARED2 Becomes AS Roma’s Official Fashion Partner, Designing Team Uniforms From the 2026/27 Season - Oui Speak Fashion (OSF)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmV3dHVfZlY4VmVrRlM5M3Y3S2xWVUV1M3VsaUhWSXdZaDI3Y1ZfWkRjVmZyZkttX1hCSmFsMXA4eWFUQUthV3d0V21NOEdUbzlqQjgwZEhTTVh0WlBXdmJNMm9jUXhRZUUtdm1ueFBEcWNiRHl3ZVRtLVFrQW04aVBCazI3bF9tbGlxRnZwd3QzVnJDYlRMaGdfbll2bkVxY3VPYlhDRS15WGI4UE9OV3pFOFpYd2RVV1QtMXZEWUgtNjFzWklF?oc=5",
+      "source": "Oui Speak Fashion (OSF)",
+      "publishedAt": "Fri, 31 Jul 2026 18:30:11 GMT",
+      "description": "DSQUARED2 Becomes AS Roma’s Official Fashion Partner, Designing Team Uniforms From the 2026/27 Season Oui Speak Fashion (OSF)",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
