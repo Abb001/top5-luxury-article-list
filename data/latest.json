@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-02T13:03:06.563Z",
+  "generatedAt": "2026-08-02T15:55:08.569Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-02.",
   "articles": [
@@ -30,20 +30,20 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "#MetroStyleWatch: Filipinas In Haute Couture Week F/W 2024 - Metro.Style",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTi1WWUk1REQydTVWNnZFc3dia1pVZWtQNWlkeHJiMGg4Q2Z5Y0VwbV9QV1hSaHh6dmdRb0MwVHlVNkRyQnFCWFgwWHdEM0hPdFpNVXVnaEVKall3eUZ2Y3dndjh5XzNsSm5OQjlMcldOU19LZEYtOWNNMnUxVWRGSVRVQk5NaFk3TEU2UDBLM1VudVBkY2Jz?oc=5",
+      "source": "Metro.Style",
+      "publishedAt": "Sun, 02 Aug 2026 00:01:34 GMT",
+      "description": "#MetroStyleWatch: Filipinas In Haute Couture Week F/W 2024 Metro.Style",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
       "title": "[Luxury World] Does Chanel Offer Discounts Too?... The Much-Anticipated 'Day' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nU0NlTE1VTFJ4bnE3el93Qi1jNlFhNWZEV2lvUkJHZnBKcHpEQkx4Q1ZQWFFsbi1BXzZhbmpWal9XYWNRTWkyUVVBVVpnYnp6WHNBNEI1am1FbHRWejdHLW5vd2s?oc=5",
       "source": "아시아경제",
       "publishedAt": "Sat, 01 Aug 2026 23:24:00 GMT",
       "description": "[Luxury World] Does Chanel Offer Discounts Too?... The Much-Anticipated 'Day' 아시아경제",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury Outerwear Gains Momentum Among Fashion-Forward Indian Consumers - Press Trust of India",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVk1Nd1JmbjR6dS1tUm9QZWNLZDctVHVNeXNaYTlDeHhHZm5QS3FBUG5tVloxWlNkUENXMEhKYzFLaFRhdGVyU1pJTHVTd3lLN2J0Q0I1eUtMRTFvN2x6MWFsNUt6SGFmVVRSbURQdWV5OFVsUHdHcWR0VWJDay03QVBFVkRLcHh4U25odlJpaERKSE83N2xHZGJXcDA1QmlmY05vbjkzTzN3UDhaVWdBVzdJek9KcVk?oc=5",
-      "source": "Press Trust of India",
-      "publishedAt": "Sat, 01 Aug 2026 16:22:06 GMT",
-      "description": "Luxury Outerwear Gains Momentum Among Fashion-Forward Indian Consumers Press Trust of India",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
