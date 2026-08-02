@@ -1,18 +1,13 @@
 {
   "date": "2026-08-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-02T01:59:16.060Z",
-  "status": "ok",
-  "message": "Found 1 article(s) published on 2026-08-02.",
-  "articles": [
-    {
-      "title": "Luxury Outerwear Gains Momentum Among Fashion-Forward Indian Consumers - Press Trust of India",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVk1Nd1JmbjR6dS1tUm9QZWNLZDctVHVNeXNaYTlDeHhHZm5QS3FBUG5tVloxWlNkUENXMEhKYzFLaFRhdGVyU1pJTHVTd3lLN2J0Q0I1eUtMRTFvN2x6MWFsNUt6SGFmVVRSbURQdWV5OFVsUHdHcWR0VWJDay03QVBFVkRLcHh4U25odlJpaERKSE83N2xHZGJXcDA1QmlmY05vbjkzTzN3UDhaVWdBVzdJek9KcVk?oc=5",
-      "source": "Press Trust of India",
-      "publishedAt": "Sat, 01 Aug 2026 16:22:06 GMT",
-      "description": "Luxury Outerwear Gains Momentum Among Fashion-Forward Indian Consumers Press Trust of India",
-      "feed": "Google News - luxury fashion"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-08-02T05:48:09.093Z",
+  "status": "empty",
+  "message": "No articles published on 2026-08-02 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
