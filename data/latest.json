@@ -1,13 +1,50 @@
 {
   "date": "2026-08-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-02T05:48:09.093Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-02 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "generatedAt": "2026-08-02T08:08:35.787Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-02.",
+  "articles": [
+    {
+      "title": "Horsepower, Haute Couture and the Hamptons: Rand Luxury’s Concours d’Elegance Delivers a $100 Million Playground of Prestige - Times Square Chronicles",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMHdVMnQtaEJ6YWt0U2VtaG0zWDd6cG1Nand5LWFJS1lMdmJLNGJRdnpab2l3bVAzUFlsbGtKVGhkeUxLWUNJdEliQVVlSEVMYVJndElNYlZrdnFsSVFVU2JCRmZfWUpKOHctbGpydHFqNUVPS1doa0MzaDlXalRSNnNmT1cxdVZBWE9RNnVzWkwxaV9vM25wRUQ1UHpLcEhyejBBVkh4ZTZNTTgxY3M2Xzg2WDBHeWk5bTBTNlNwRFZ3ZWFwMnJQTTNmdTdXYkF2akVwUEpnYXpiUQ?oc=5",
+      "source": "Times Square Chronicles",
+      "publishedAt": "Sun, 02 Aug 2026 04:06:17 GMT",
+      "description": "Horsepower, Haute Couture and the Hamptons: Rand Luxury’s Concours d’Elegance Delivers a $100 Million Playground of Prestige Times Square Chronicles",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "[Luxury World] Does Chanel Offer Discounts Too?... The Much-Anticipated 'Day' - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nU0NlTE1VTFJ4bnE3el93Qi1jNlFhNWZEV2lvUkJHZnBKcHpEQkx4Q1ZQWFFsbi1BXzZhbmpWal9XYWNRTWkyUVVBVVpnYnp6WHNBNEI1am1FbHRWejdHLW5vd2s?oc=5",
+      "source": "아시아경제",
+      "publishedAt": "Sat, 01 Aug 2026 23:24:00 GMT",
+      "description": "[Luxury World] Does Chanel Offer Discounts Too?... The Much-Anticipated 'Day' 아시아경제",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Luxury Outerwear Gains Momentum Among Fashion-Forward Indian Consumers - Press Trust of India",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVk1Nd1JmbjR6dS1tUm9QZWNLZDctVHVNeXNaYTlDeHhHZm5QS3FBUG5tVloxWlNkUENXMEhKYzFLaFRhdGVyU1pJTHVTd3lLN2J0Q0I1eUtMRTFvN2x6MWFsNUt6SGFmVVRSbURQdWV5OFVsUHdHcWR0VWJDay03QVBFVkRLcHh4U25odlJpaERKSE83N2xHZGJXcDA1QmlmY05vbjkzTzN3UDhaVWdBVzdJek9KcVk?oc=5",
+      "source": "Press Trust of India",
+      "publishedAt": "Sat, 01 Aug 2026 16:22:06 GMT",
+      "description": "Luxury Outerwear Gains Momentum Among Fashion-Forward Indian Consumers Press Trust of India",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "j-hope's Exclusive Stage Wardrobe for the BTS World Tour Was Crafted With Couture-Level Precision, and It's Stunning - graziamagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVlVPdmhjWGQtS0pqNXhLV1FhSTV3UFVJQkpfc2RuN1hjMXdmYUdKOGFERzV4RU83LTM3UERFYVpjSGRiRWF3ZEg2NGt4dWNLNV9qR253M3NfX3Q3NV9nbW14d0RlRGJXQzZZNWo1cU5qS2RqcG0yajF3d3E5YnJjNHZ6STFDaGFjZFJxV2h2bjJtckVKMWZ2V2tsQVVmZ0dmNXRXa283ZzMyUDc4WkhuNHVQdHEzTHI0VzU0X0NHWGZuUEV4N19PNXR1OFFrWktfU1Q3NGZfYkVkRWRpQjBWSVlHeEpvei1zQVZXZERzZFU?oc=5",
+      "source": "graziamagazine.com",
+      "publishedAt": "Sun, 02 Aug 2026 07:32:37 GMT",
+      "description": "j-hope's Exclusive Stage Wardrobe for the BTS World Tour Was Crafted With Couture-Level Precision, and It's Stunning graziamagazine.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Global fashion's Indian touch - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHZVMzViOWVjTWVQN2FId3dJT0wwOWF6VkR4Q01FWUVfRmg4MTNXd3FGb1Z5OFk4N1NJckREbTdzcWFlWU1FRmNHdF9BN2tPQ3E1MWxXNHktMVVQYlhuVWZ5ODU5ZTlkaGs1Rkl4bXlsUWU1aGVNeUhSUlVCRGc5XzFYY0paYndzSjFiUGhR0gGOAUFVX3lxTE1QdlUzNWI5ZWNNZVA3YUh3d0lPTDA5YXpWRHhDTUVZRV9GaDgxM1d3cUZvVnk4WTg3U0lyRERtN3NxYWVZTUVGY0d0X0E3a09DcTUxbFc0eS0xVVBiWG5VZnk4NTllOWRoazVGSXhteWxRZTVoZU15SFJSVUJEZzlfMVhjSlpid3NKMWJQaFE?oc=5",
+      "source": "Fortune India",
+      "publishedAt": "Sun, 02 Aug 2026 04:01:03 GMT",
+      "description": "Global fashion's Indian touch Fortune India",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
+  "fetchWarnings": []
 }
