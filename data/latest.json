@@ -1,9 +1,50 @@
 {
   "date": "2026-08-04",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-03T17:04:32.472Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-04 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-08-04T01:47:23.937Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-04.",
+  "articles": [
+    {
+      "title": "Luxury Brand Owners: Who Owns Louis Vuitton, Gucci, Chanel, Rolex and Other Iconic Labels? - Outlook Luxe",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanpvcUo5MUNLVXpYaFNtbk0yWWJqeGhnVFFqdUViaW43cUM4VjdNQXJnZDhqTUhfVjJxTXRkTXdYNnNMV3VuUnJvd3FURXZnZmNXQmc5Z0ZEUUpXZXhqVk1NVDhycF9mYkJFQmt4VFdwZjdySm1EZzRFMVR0R3ZGNWJpZ1ZVZ1dZQmpDRGd5a1d2NThoc2l0dmlyT21IWFRjd2dxdTE4OHFrRWx1clEyaHU0TVIycno3SFRlNExCVdIBzAFBVV95cUxQTTlVdHZReEREQWxQTmRsa1JwalZWM0dyS1BVc0tRS1BFbndPWkYyV29RSjZsZ09JT2l4ekpRaDMwU3d2VGlKeTItb0VvUkRlUmlqdk1QNmhZM2hvUHBBV0dGelVTTk5IeWpyTW9uSXRxZEFGMmt5Y3JtLUNyaldTWkk0S3JSQTktT2ZSYTczLWxueFdxaF9sRHNBR1pQNkFnWEd4X2F2cDVWOWRVTFlNUnk3NHBOVWZOcGFDckdNUnpkZ1VQWW52UjRUVGo?oc=5",
+      "source": "Outlook Luxe",
+      "publishedAt": "Mon, 03 Aug 2026 18:26:00 GMT",
+      "description": "Luxury Brand Owners: Who Owns Louis Vuitton, Gucci, Chanel, Rolex and Other Iconic Labels? Outlook Luxe",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Secondary Watch Market Surges As Independents Outpace Luxury Giants - jckonline.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOXRwQkRYNVFvYWpkOU5LamJQdjNjN2I0UmxtYmI2QVpzSmZKS2VhYXpSZkhJWmYzUTB1UFVRdGxwLTFmcDdFNTNTTlBfLWYtS3FfaDg5QnMtaTRBTG5RRy1mLS1tUXJEYkl1OGhrS3dpaTdwS2docmFaN2dXWUU?oc=5",
+      "source": "jckonline.com",
+      "publishedAt": "Mon, 03 Aug 2026 18:44:27 GMT",
+      "description": "Secondary Watch Market Surges As Independents Outpace Luxury Giants jckonline.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "This Under-the-Radar Perfume Brand Makes Some of the Best Luxury Fragrances Inspired by Chanel, Le Labo, Tom Ford & More - sheknows.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbFJjRWNLQVZtS0hKRkVEdXVnd3p5cTBnR2V4RllabWVFdy1MTW8zblBOY3pRTk9HRzJNeFJuQUxxdkxJUV9SMllneWZLZEsxT3JQQVMzUTkzSjVjSkJBV3BfdFUycHJ2Tm90V0RTSTRrNzd4MjFoX2FsWFJnYW8?oc=5",
+      "source": "sheknows.com",
+      "publishedAt": "Mon, 03 Aug 2026 18:32:00 GMT",
+      "description": "This Under-the-Radar Perfume Brand Makes Some of the Best Luxury Fragrances Inspired by Chanel, Le Labo, Tom Ford & More sheknows.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Luxury Fashion Took Over Lollapalooza's Onstage Style This Year - The Zoe Report",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXBYLUNpd2Y3N1dTczlIa1lZY3Nkd0pyS1pvRTFSRko5VlM5RFNhTjRBemhVRzBtcHhKbUVQRnZwTWlFTUkxWFB6ZFNMVmVzcXhiTjV4ZXNqRXh3SXpCNmFXeDhlYzVKZW9GbXQzdUloRnZqN1FZd1hUTWZhVkJjNmJjcmJkczA?oc=5",
+      "source": "The Zoe Report",
+      "publishedAt": "Mon, 03 Aug 2026 18:14:12 GMT",
+      "description": "Luxury Fashion Took Over Lollapalooza's Onstage Style This Year The Zoe Report",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Michele Lamy: The Fashion Visionary Behind Owenscorp and Rick Owens' Creative Universe - gaukurinn.is",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0SFJWQjBKdFRhaEJLN3JqYVkxOEJDMF8zQW1Ld2pha2lXVERiYmwyeC1mdlNxemVRMVRucGxoWlVwdzhneGctS01B?oc=5",
+      "source": "gaukurinn.is",
+      "publishedAt": "Mon, 03 Aug 2026 20:07:59 GMT",
+      "description": "Michele Lamy: The Fashion Visionary Behind Owenscorp and Rick Owens' Creative Universe gaukurinn.is",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
