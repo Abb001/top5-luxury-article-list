@@ -1,9 +1,50 @@
 {
   "date": "2026-08-05",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-04T16:47:11.500Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-05 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-08-05T01:48:58.099Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-05.",
+  "articles": [
+    {
+      "title": "Chanel to Chatbots: How AI Is Transforming the Future of Luxury Resale - Outlook Luxe",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGVELW1pU1psU2R4QkF6d1FCbGNPdF9jRXJUYU5fdTRyRUVfNVMzeDNWdlhGYmowS0FybGk1YTJZYlgxaVQtdHdqak05eERSSGRrR2VTdkl1dkNTbWlTVGU4cDN4bmlseE9uWUxwaFViMDZCOHp0YTJveVdPcXJCcDFCdnhhVTk1cGhWNlE5U2lKUTNzUEppaVZYdU1CODc0MXpXXzkxRkg5WW5aZkFPZ240bTBQaEZKbndkc0pMOVNibjkwdkd6dFlMWFjSAcwBQVVfeXFMTjBlRC1taVNabFNkeEJBendRQmxjT3RfY0VyVGFOX3U0ckVFXzVTM3gzVnZYRmJqMEtBcmxpNWEyWWJYMWlULXR3ampNOXhEUkhka0dlU3ZJdXZDU21pU1RlOHAzeG5pbHhPbllMcGhVYjA2Qjh6dGEyb3lXT3FyQnAxQnZ4YVU5NXBoVjZROVNpSlEzc1BKaWlWWHVNQjg3NDF6V185MUZIOVluWmZBT2duNG0wUGhGSm53ZHNKTDlTYm45MHZHenRZTFhY?oc=5",
+      "source": "Outlook Luxe",
+      "publishedAt": "Tue, 04 Aug 2026 18:29:00 GMT",
+      "description": "Chanel to Chatbots: How AI Is Transforming the Future of Luxury Resale Outlook Luxe",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Chanel Sales Up 16% in First Half - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXV4anZDeXdyUDJrYkZsYnAtTXByUDdhMWI1aWp3cWpRUXQtTWt0WGQ3ZWZrOTBmTWRrUVRjWkJjYTZfWnpRc3RPNTZqTkhoS0pjMm4xdXdjdXdvUGhuTllkbTlMZnlwWkJiUG5ZeEhidVZuNWFYWDZ1bEkwWF9KaXhJbG1iQQ?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Tue, 04 Aug 2026 18:08:16 GMT",
+      "description": "Chanel Sales Up 16% in First Half The Business of Fashion",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Thailand property market shaken by nominee crackdown on luxury homes - nationthailand.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMVzdybUR3Mk80ZlI3ZVZHYVk3SV8zeWMyc2llS0ZIY0NWZFBKUDk1cmRHUnRpTG5XMjdZRFlXbTVaZ1lSY1dOamFmVy1ZazVEQy1HbWpPTVNLeG83T3M0bDE2Tm84V3hK?oc=5",
+      "source": "nationthailand.com",
+      "publishedAt": "Wed, 05 Aug 2026 00:41:00 GMT",
+      "description": "Thailand property market shaken by nominee crackdown on luxury homes nationthailand.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Matalan and New Look CEOs: this week’s fashion retail people moves - Drapers",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUF5aElCUTlVQ3F6MVV5dGlTaXdPNW5KdlVCbVI4VWVXbVRpbFU1dEF5MUxKM09XYi1BOU53NmMzMXMxR1E4T1NRTThaOFpQWEpYbnJpWmlDYTloMkhTckd4TTlnZ09CY0pkanVzbnJKQUh4V3l1a09RSUMzRXhzQlF0d2p1N1FoNkczUDZOdjRGRjdIWVpLTE9yMGc2MXhNbWcxQ1dQbE9zTF9yNnc?oc=5",
+      "source": "Drapers",
+      "publishedAt": "Tue, 04 Aug 2026 22:40:01 GMT",
+      "description": "Matalan and New Look CEOs: this week’s fashion retail people moves Drapers",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Shaker High School graduate creates luxury street brand Abel Honor - NEWS10 ABC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkY4QkxFLVNwNXdhTGczZmpBanBXa201UzNHdnFkTk1hVHowZmFIcjZRMjNDb1J5S2dUdXFpa0kwckRNd0paNVd0Yk9DRDFIZEc0SlJMX0MzX2xxRlFJRVM4LUdnOU4zUjZLSWgyLURfWUxEQTRhYm5fWU9PenM1ZmZfUWlGWDJaS2lEZ2J2VFBSNU9HRU5UYTgtaTJ0T2RVdHdkVHBJU0Vzd9IBrwFBVV95cUxOVnVaSFkyTTNyNVNDVF9hWmNnUUdnUHlLaVBtMHEtWlJUUHFEMXdtYmVuVl9wNXctVGs4RjI3dkZSMmZkQU9pQmFvc1dOS0hpekVHOVVOWkVtNmp1VW5kMER2bnl4WEEtZDVicVcyRm95N056Q2d4R0tubmNjT2FZZlhuVGNPNTNhek9TX0ZlcmVvR2VWZUcwMHVLSmtkMzVhbWZVVkpVU05hVFlXOF9Z?oc=5",
+      "source": "NEWS10 ABC",
+      "publishedAt": "Tue, 04 Aug 2026 21:05:13 GMT",
+      "description": "Shaker High School graduate creates luxury street brand Abel Honor NEWS10 ABC",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
