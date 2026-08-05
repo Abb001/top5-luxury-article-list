@@ -1,25 +1,41 @@
 {
   "date": "2026-08-05",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-05T05:38:13.060Z",
+  "generatedAt": "2026-08-05T08:21:57.901Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-05.",
   "articles": [
     {
-      "title": "Chanel to Chatbots: How AI Is Transforming the Future of Luxury Resale - Outlook Luxe",
+      "title": "Dior Qixi Explained: Why Jonathan Anderson's Romantic Capsule Is Going Viral Before Chinese Valentine's Day - Fashion Times UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlZvX1FmR3VuWTZoTDNKNzV0bVpmcWN2R0dsOUhMeHYyUnF0QUttWDlOaGJyNGJldUZ6LXhRcGo2TGxYU1lqeU9fOERpUG1VX3JGZFE1ZXVPYnNnUFl6N3o4cUx1eTh2SDBIYkhMYjhvU3BRdzE2RUdWby1udEowX3ZQTQ?oc=5",
+      "source": "Fashion Times UK",
+      "publishedAt": "Wed, 05 Aug 2026 06:00:37 GMT",
+      "description": "Dior Qixi Explained: Why Jonathan Anderson's Romantic Capsule Is Going Viral Before Chinese Valentine's Day Fashion Times UK",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Chanel to Chatbots: How AI Is Transforming the Future of Luxury Resale - luxe.outlookindia.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGVELW1pU1psU2R4QkF6d1FCbGNPdF9jRXJUYU5fdTRyRUVfNVMzeDNWdlhGYmowS0FybGk1YTJZYlgxaVQtdHdqak05eERSSGRrR2VTdkl1dkNTbWlTVGU4cDN4bmlseE9uWUxwaFViMDZCOHp0YTJveVdPcXJCcDFCdnhhVTk1cGhWNlE5U2lKUTNzUEppaVZYdU1CODc0MXpXXzkxRkg5WW5aZkFPZ240bTBQaEZKbndkc0pMOVNibjkwdkd6dFlMWFjSAcwBQVVfeXFMTjBlRC1taVNabFNkeEJBendRQmxjT3RfY0VyVGFOX3U0ckVFXzVTM3gzVnZYRmJqMEtBcmxpNWEyWWJYMWlULXR3ampNOXhEUkhka0dlU3ZJdXZDU21pU1RlOHAzeG5pbHhPbllMcGhVYjA2Qjh6dGEyb3lXT3FyQnAxQnZ4YVU5NXBoVjZROVNpSlEzc1BKaWlWWHVNQjg3NDF6V185MUZIOVluWmZBT2duNG0wUGhGSm53ZHNKTDlTYm45MHZHenRZTFhY?oc=5",
-      "source": "Outlook Luxe",
+      "source": "luxe.outlookindia.com",
       "publishedAt": "Tue, 04 Aug 2026 18:29:00 GMT",
-      "description": "Chanel to Chatbots: How AI Is Transforming the Future of Luxury Resale Outlook Luxe",
+      "description": "Chanel to Chatbots: How AI Is Transforming the Future of Luxury Resale luxe.outlookindia.com",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Chanel Sales Up 16% in First Half - businessoffashion.com",
+      "title": "Chanel Sales Up 16% in First Half - The Business of Fashion",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXV4anZDeXdyUDJrYkZsYnAtTXByUDdhMWI1aWp3cWpRUXQtTWt0WGQ3ZWZrOTBmTWRrUVRjWkJjYTZfWnpRc3RPNTZqTkhoS0pjMm4xdXdjdXdvUGhuTllkbTlMZnlwWkJiUG5ZeEhidVZuNWFYWDZ1bEkwWF9KaXhJbG1iQQ?oc=5",
-      "source": "businessoffashion.com",
+      "source": "The Business of Fashion",
       "publishedAt": "Tue, 04 Aug 2026 18:08:16 GMT",
-      "description": "Chanel Sales Up 16% in First Half businessoffashion.com",
+      "description": "Chanel Sales Up 16% in First Half The Business of Fashion",
       "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Dubai's Luxury Housing Market Puts Wellness at Its Core - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUENYM0stU3hHUzVKRUpQeV8yY3liZ1lGYno5QWxhQVdIZHJQMVF3TGpUS3RKS29GMGR0UkhDcXRTRUJCTDhhU1dpc29RbU1iajQ5TGVhR0Z2Mm1QbjU0aldhUUJ5UHo1Uk94OXg1NnFMRDJ2aks2eUY2MXliTndocUI5UndkYnQxbnZVMWo1dG1JYmgxbGFRd0VrUi12bXEtdkJ0SzUwS2I1Zw?oc=5",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "Wed, 05 Aug 2026 03:08:57 GMT",
+      "description": "Dubai's Luxury Housing Market Puts Wellness at Its Core Realty Plus Magazine",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "K-pop’s biggest fashion splurges: Inside the most expensive music video looks - Prestige Online - Singapore",
@@ -28,22 +44,6 @@
       "publishedAt": "Wed, 05 Aug 2026 02:07:37 GMT",
       "description": "K-pop’s biggest fashion splurges: Inside the most expensive music video looks Prestige Online - Singapore",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "'Luxury Living Meets A Carefree Lifestyle' And New To The Market In Orange - Patch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUt4ZjBOYWpKUlp5bV9CWW5fX3J0Z3g0ZEZobDZkblVRWnVTYmhKRlJlN2RwbU1fQzNYdnRrd3l1ZzhtM2ZoZHkxcERhYjBLT0FYQlc5S2kyMUxlNXFZWXhTVkVGRzZHRnZ5NzNvWnM5MExxRWRvMzh0d3dEbm5LRzA2QUw2R2hWVF9KQWViTGlQMDdVaktQT9IBvwFBVV95cUxOd0hSaFJLWlhsUUs0NHo1S3phRzc4czVyMWNhVnZVTzd5empfTDhOWmU1QTB4MFlEOUFKU1psTWJRLUN0R1JMTVRDdW9YdGRoa28tREpsa3NzdF9JZUlPdTVJVDg4WU9lUENWc3loLXVPemNrSUlycEN2OC1PbWRDeDJ5OFlwUGQ4dU5CNDZGdXZlYmFCX2VTQmkyQy1OTF9jb3djWHBNVFI0MWxYWnFESkkydDg3aWxRZk9IWmJudw?oc=5",
-      "source": "Patch",
-      "publishedAt": "Wed, 05 Aug 2026 01:13:00 GMT",
-      "description": "'Luxury Living Meets A Carefree Lifestyle' And New To The Market In Orange Patch",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Thailand property market shaken by nominee crackdown on luxury homes - Nation Thailand",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMVzdybUR3Mk80ZlI3ZVZHYVk3SV8zeWMyc2llS0ZIY0NWZFBKUDk1cmRHUnRpTG5XMjdZRFlXbTVaZ1lSY1dOamFmVy1ZazVEQy1HbWpPTVNLeG83T3M0bDE2Tm84V3hK?oc=5",
-      "source": "Nation Thailand",
-      "publishedAt": "Wed, 05 Aug 2026 00:41:00 GMT",
-      "description": "Thailand property market shaken by nominee crackdown on luxury homes Nation Thailand",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
