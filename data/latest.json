@@ -1,10 +1,18 @@
 {
   "date": "2026-08-06",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-06T01:49:39.819Z",
+  "generatedAt": "2026-08-06T05:40:32.623Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-06.",
   "articles": [
+    {
+      "title": "Inside the Las Vegas Couture Jewelry Show with Lynn Yaeger - Air Mail",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ucU42Ml9uM0gxVEQyRXo0dXl4Yjhrc3I3dW1GQjVKRkRPdUdMOFNLWVlMbjB3SWd2cG9XYW5kOExCMEJieTU0bXFyNklVd0V2b19fcWVLRnlDWjBXYlVGUktB?oc=5",
+      "source": "Air Mail",
+      "publishedAt": "Thu, 06 Aug 2026 02:53:01 GMT",
+      "description": "Inside the Las Vegas Couture Jewelry Show with Lynn Yaeger Air Mail",
+      "feed": "Google News - luxury lifestyle"
+    },
     {
       "title": "Chanel’s First-Half Sales Reportedly Rise 16% as Matthieu Blazy’s Collections Drive Growth - Oui Speak Fashion (OSF)",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZl9xb3NzTWlXTTRqdkdpTGVvRGFHZUlWR1ZDLUVyQU5TVXkzQ2xXakRIZlNQYWRPUlpUVklZdlVnZ0h2NVFHSWtFeDlmeFJjWFhjeGRKTmJWSlE4UmZqTWJZX3l3ZUhlMi1YUnlEWWRpTkZvbDdfaTRjOXMydlRXR0ZyY2lUTE13Q2NILXBQWjR5M3dhNEV6bWlfV1RNNDIxemJQWjU5a21QdFJMdC1JQVVtQ2hjMDg?oc=5",
@@ -12,6 +20,14 @@
       "publishedAt": "Wed, 05 Aug 2026 22:22:37 GMT",
       "description": "Chanel’s First-Half Sales Reportedly Rise 16% as Matthieu Blazy’s Collections Drive Growth Oui Speak Fashion (OSF)",
       "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "EXCLUSIVE: Exemplar Luxury Group Names a Women’s Fashion Director - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0FSd29aVFR3elgzSHFPNll0blBTNE1uMm1GcU5FTG8yN2ZLOW9vR3JYSXBreW13R0dtcEVfTnBrdGExNWhUaGF4RlNWUHBrcVBRcnNwamplSWN4SEN1RDdzeDhTdVZPbmlFeGh0ckt6WWlwNkJLd1hPVnFHWGNxODd3MHEwY01YNUVmLU05OA?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "publishedAt": "Wed, 05 Aug 2026 21:02:33 GMT",
+      "description": "EXCLUSIVE: Exemplar Luxury Group Names a Women’s Fashion Director Yahoo Finance Singapore",
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "KL Publishing Group Adds Two New Luxury Titles: Kaylene Peoples Fashion Talk & The Indie Hotspot - PR Underground",
@@ -22,28 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Onyeodime Atelier: Building a Luxury Fashion Brand Rooted in Nigerian Heritage - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzFfWWJ3c0s4c0oyVzBpSkhwZGxSYkpEbHJXdUhrdDlvNllrM1JrWTZacGNsc2pWa19lcDZhMGg2STdGYUZzV2hfYUl1SEstajV3bUdma0FwbTYwSFk4by1ubnVjMXd3X2Y1SkR1NnVzY0JQeTF1YjB0LXh5dGVWdDdMSU1hUkktd3JKTGJuVFNXcGpNOGNhMHFKcnNDbDdwU3VTcnZIdjU4aTFLSDhMMUo4R0lic1Bf?oc=5",
-      "source": "THISDAYLIVE",
-      "publishedAt": "Wed, 05 Aug 2026 16:00:39 GMT",
-      "description": "Onyeodime Atelier: Building a Luxury Fashion Brand Rooted in Nigerian Heritage THISDAYLIVE",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Interstate investors driving Gold Coast luxury market: Ron Bakir - Green Street News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGZnb3ZBUjU5aU9DMm04WWU4V0FSSGxrbU85RGF2NEp5bmpaa3hqS1MwMHRTQ2w0Zzk1dWNBVXJ6SjVEUC1MU2NpQVZIOWl3ZVJoVl9EckdweFdNNWRqYUZSME5uUXFIM3ZrdktzZGsxaWotejhHbHJEN0JzbldRaDktZFZtSE1jR1NWaEZacUtjVjBDbUFQZjNjVGZtLWJnUWc?oc=5",
-      "source": "Green Street News",
-      "publishedAt": "Wed, 05 Aug 2026 22:45:57 GMT",
-      "description": "Interstate investors driving Gold Coast luxury market: Ron Bakir Green Street News",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Denver luxury condos are the only real hot spot in a summer market with cooling prices - Denver Gazette",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0UzMG9IMG96emtrc29GV2xxYXZMcFNXNWhfXzJmaE1zM0lOaWc5MFkyMVR2ZkxyUzA1ZkdDbk1kOVZzaTRlYXEyeXg5ZmFOTnUtcXVVUFk1NjAtR3FMMXd1X09GOUxjbFJjSHpXWGNTMXhfWE52bzlWd255bzFsTlpDOTVMSk9IQWNSSFEzNXNEUk9uSUgtajltMGhoMnFuZ00tX2hBMVNBay1TYTJSblN2VUZZWFI4U3YwS3FEYWpIRFYxbWdr?oc=5",
-      "source": "Denver Gazette",
-      "publishedAt": "Wed, 05 Aug 2026 21:38:41 GMT",
-      "description": "Denver luxury condos are the only real hot spot in a summer market with cooling prices Denver Gazette",
-      "feed": "Google News - luxury business"
+      "title": "What's Up Fashion #10nov - the latest news on Fashion, Luxury, Accessories and Beauty - FashionNetwork France",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQVFsbHZPMmpKYUdPYTIxMmxIdjJqTkd1ZGYzTVNGbGJmeFk4NVBnQWdaeFJaZndwYXh2MHRVUktZNGlzS003Q1gwMm00akVWUE5CdWpkZnRZWDEzaWFfSFFESkx0bFR4aWRodnNFcDZkNFNvSFhJQnhJNFVhQ0dmbWwtNVphcDVDTFpXZFBrUER2ZFo0eDJUQUNiYWdWcnNPdEQ4bmJjR1hRQ0JHODkyUUs0UFpDTVFtN09uaHRSbmV3RDN2WXRRVFk1b2FEWHc?oc=5",
+      "source": "FashionNetwork France",
+      "publishedAt": "Wed, 05 Aug 2026 16:43:21 GMT",
+      "description": "What's Up Fashion #10nov - the latest news on Fashion, Luxury, Accessories and Beauty FashionNetwork France",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
