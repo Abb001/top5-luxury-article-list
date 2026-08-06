@@ -1,16 +1,32 @@
 {
   "date": "2026-08-06",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-06T05:40:32.623Z",
+  "generatedAt": "2026-08-06T08:19:16.929Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-06.",
   "articles": [
     {
-      "title": "Inside the Las Vegas Couture Jewelry Show with Lynn Yaeger - Air Mail",
+      "title": "Ultralight technical outdoor gear is becoming luxury fashion and Helinox is leading the way - t3.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPNmRXVjB2WnFJa0NMY1RvenhyVjlLazJCWENXdnQ1T2J3LXJFc0IyS1ljMzh3TXU3a09KRHBfMVB4TFA4NnYtQkxDcDlqWlc3UVpTUEtUcV94d1htTk93NU14SUJYWFVkZmNsX3ZtZ25GSy1OOHV2MFFn?oc=5",
+      "source": "t3.com",
+      "publishedAt": "Thu, 06 Aug 2026 06:02:43 GMT",
+      "description": "Ultralight technical outdoor gear is becoming luxury fashion and Helinox is leading the way t3.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "EXCLUSIVE: Exemplar Luxury Group Names a Women’s Fashion Director - WWD",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWFfM1RsWkJ3enhYQ1FkbWV0eS15eTd1c1FraXBxeE0xY1hoa3JhZTlDd01ONVV2M3NQUG5IZ2pBdjV1Q01JTXkyeWpadnMyc3Q5NFpxRFYxOW1IUW5KOHpCRzZFem03dWppVmdHWC12THJNZ0R0X3JIREQyRUdyLUVUOGJUQmN5cWxZOVZ5aENBTm02U01VT2hZVENMSXdDMVNISg?oc=5",
+      "source": "WWD",
+      "publishedAt": "Thu, 06 Aug 2026 03:03:42 GMT",
+      "description": "EXCLUSIVE: Exemplar Luxury Group Names a Women’s Fashion Director WWD",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Inside the Las Vegas Couture Jewelry Show with Lynn Yaeger - airmail.news",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ucU42Ml9uM0gxVEQyRXo0dXl4Yjhrc3I3dW1GQjVKRkRPdUdMOFNLWVlMbjB3SWd2cG9XYW5kOExCMEJieTU0bXFyNklVd0V2b19fcWVLRnlDWjBXYlVGUktB?oc=5",
-      "source": "Air Mail",
+      "source": "airmail.news",
       "publishedAt": "Thu, 06 Aug 2026 02:53:01 GMT",
-      "description": "Inside the Las Vegas Couture Jewelry Show with Lynn Yaeger Air Mail",
+      "description": "Inside the Las Vegas Couture Jewelry Show with Lynn Yaeger airmail.news",
       "feed": "Google News - luxury lifestyle"
     },
     {
@@ -22,28 +38,12 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "EXCLUSIVE: Exemplar Luxury Group Names a Women’s Fashion Director - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0FSd29aVFR3elgzSHFPNll0blBTNE1uMm1GcU5FTG8yN2ZLOW9vR3JYSXBreW13R0dtcEVfTnBrdGExNWhUaGF4RlNWUHBrcVBRcnNwamplSWN4SEN1RDdzeDhTdVZPbmlFeGh0ckt6WWlwNkJLd1hPVnFHWGNxODd3MHEwY01YNUVmLU05OA?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "publishedAt": "Wed, 05 Aug 2026 21:02:33 GMT",
-      "description": "EXCLUSIVE: Exemplar Luxury Group Names a Women’s Fashion Director Yahoo Finance Singapore",
-      "feed": "Google News - luxury fashion"
-    },
-    {
       "title": "KL Publishing Group Adds Two New Luxury Titles: Kaylene Peoples Fashion Talk & The Indie Hotspot - PR Underground",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTW9aSFFUX3k1bnBJOGtRSkE4d2VDMlJzLXQxQkpKekpPSUNGd3NucnJMTTl1V1VXaklhRHRXV2ZPUlFLQm94QnZsZVg4a1doMi1kMFlEOVVEcEZUMndHQUZNOTBzMUhSQ0RMOGIwTmIwZWg5X3o1Zm1kRlh5MnZUY3llMk9ZbXA0UTYwMUN2dWFleEp2dU9sMzFhSTJBZ0k2dzlWWU1VOTZHdzNMTzhoOV9MVDNBTGQyLWFWQjJiTHc2dnVOc2hyanFwMU5pTDdBdUE?oc=5",
       "source": "PR Underground",
       "publishedAt": "Wed, 05 Aug 2026 18:32:30 GMT",
       "description": "KL Publishing Group Adds Two New Luxury Titles: Kaylene Peoples Fashion Talk & The Indie Hotspot PR Underground",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "What's Up Fashion #10nov - the latest news on Fashion, Luxury, Accessories and Beauty - FashionNetwork France",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQVFsbHZPMmpKYUdPYTIxMmxIdjJqTkd1ZGYzTVNGbGJmeFk4NVBnQWdaeFJaZndwYXh2MHRVUktZNGlzS003Q1gwMm00akVWUE5CdWpkZnRZWDEzaWFfSFFESkx0bFR4aWRodnNFcDZkNFNvSFhJQnhJNFVhQ0dmbWwtNVphcDVDTFpXZFBrUER2ZFo0eDJUQUNiYWdWcnNPdEQ4bmJjR1hRQ0JHODkyUUs0UFpDTVFtN09uaHRSbmV3RDN2WXRRVFk1b2FEWHc?oc=5",
-      "source": "FashionNetwork France",
-      "publishedAt": "Wed, 05 Aug 2026 16:43:21 GMT",
-      "description": "What's Up Fashion #10nov - the latest news on Fashion, Luxury, Accessories and Beauty FashionNetwork France",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
