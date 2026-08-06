@@ -1,10 +1,18 @@
 {
   "date": "2026-08-06",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-06T11:12:57.871Z",
+  "generatedAt": "2026-08-06T13:45:00.028Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-06.",
   "articles": [
+    {
+      "title": "Why the Chanel Case Is About More Than Product Destruction - The Fashion Law",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFGc1FGU2VQOGxXVHVfUFpvaW03UThkY0pHNmIyQnlHWV9yeHRfcEw4UUNaM2k2VmxRd1l2c2c3ZllNeG9MdEJBSDhKNjR2eEJYMU9pMEtUaTI0UDMxOFlrdjNHUkxKU0xUWEpVT0JQbDNDTHhiakE0NVNvN2tLX1Iyc1NmYTJXRXAwU050Ym9HTmVWcF9adUhJOWg4V0JIZ2VfRA?oc=5",
+      "source": "The Fashion Law",
+      "publishedAt": "Thu, 06 Aug 2026 13:09:05 GMT",
+      "description": "Why the Chanel Case Is About More Than Product Destruction The Fashion Law",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "New York Fashion Designer Found Dead on Luxury Yacht After Investor Ran Naked for Help—Family Seeks $50 Million Alleging Assault and Cover-Up - Inquisitr News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54LUlYbUVKbWh5X2J0azZSaExfMzliWnFtNDBfYnc2OC1nc0hkZHZ2bS1mczUtVTlRVFpRUHFPUEE4WWxSb0wwLXZyRUxhd3ZaZ2tReVctdUE4MzJXTUpUUHQ4YzFZSTlWdXJqb0NsdGhyalhSTTA3UDBXektXb1U?oc=5",
@@ -14,11 +22,19 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "How Culture Circle is bringing global luxury fashion, beauty closer to Indian consumers - indianretailer.com",
+      "title": "Hermes and Brunello Cucinelli, Berenberg's top picks in luxury - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMG9aVWwwTXFBV2dxY0JidEZzT1FVd2FTMEI1SUpwNnNmYVFkVUYtVzJuYzdmdVR5VUNQZUVCeWFSVFpMR24yeVZ6YWljWDYycnR0OWtUcF9Zc18zcHpFTE5fVmY5aWdXRzNzWGN4azRBOXNnQmNWNmQ1ejA0SWVyS0dTd1d5Ync3bEVvNW4tTjB3bjlvU240cXBoSjdGT1pRWGxBSXRaeUFFMUtwZVowcENob0hmYi1EcXVwVVlwT09jMlhNUTJ4UUhoN0g0b3hhbGFTbDVJdTdub3MxNWc?oc=5",
+      "source": "marketscreener.com",
+      "publishedAt": "Thu, 06 Aug 2026 10:06:22 GMT",
+      "description": "Hermes and Brunello Cucinelli, Berenberg's top picks in luxury marketscreener.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "How Culture Circle is bringing global luxury fashion, beauty closer to Indian consumers - Indian Retailer",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkQ2VjlrdnN2SDE4MTRlTnM3dmtHZ2Q0MU55OG5sRlRvcnJCY2ZWcURCQThlNkFpcnd2Sm9ldWVBRWJMSjcwOUkxZkhKdjN0aHZuXzlfWlZIZlpyTmNYOVJxQmdDY1BpdnZGWXRmaW5rMk9VSGRBVXdkRng4N1dFSTk3X0tremdDTHFvVlFjQXI4ZmxUMnNvd1k5Yy1zdjZadHpXdXB2NWxUZS1NdVhQb09UTFkwUnJlWEN0a3pWMG5VNFk?oc=5",
-      "source": "indianretailer.com",
+      "source": "Indian Retailer",
       "publishedAt": "Thu, 06 Aug 2026 09:58:50 GMT",
-      "description": "How Culture Circle is bringing global luxury fashion, beauty closer to Indian consumers indianretailer.com",
+      "description": "How Culture Circle is bringing global luxury fashion, beauty closer to Indian consumers Indian Retailer",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -27,22 +43,6 @@
       "source": "Shots Magazin",
       "publishedAt": "Thu, 06 Aug 2026 07:50:08 GMT",
       "description": "Luxury Stores – Amazon Can Do High-End Fashion Shots Magazin",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Cafe couture: Fashion finds a new address in food-led experiences | Hindustan Times - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUjhZMHdWbVUyNC1wZi1acG15N2tBUW0zOTE5MHlyNEtKSVVOZVBUMDJDcHlIMmJ0di1mM2pJczVTeEtjQ09LZ0R0T3RkTEJqM29FNGh6Z1RSYzJyQTFNMHp2c2I0VXhWc3EtN083VFRDZEdTcXVSMEdqRjI0YmxISGRLSjZzTEtiVElJYU1fSzdJeVUxVUNEVmNaLWZqUDZYV0R5bmlzM2Y3T0ZhQ0txenFCRkNscEwtaHpXQ0Z0NHdOdkc4SWRKSHFBUmQyRGpPZHhvd9IB2gFBVV95cUxNdTdFa1g0VWVwNUNyVTIwSk83OWdJZ1JKMFVhVUw1NGNJQk1HSllCems5QWtWc1Y1cF82WDM4eW5BdXRhQkllQUNRNUx1SVRRWVNreTRZSV9NSF8yX2FTUW5jU1BwbFR1a2QyTGUzQURIaDdkQ0FSY2ZVYzdEMDYxVE4tbVFBVG9HN25yY1JmUWs5UVo0TnVuOTBGZ3E4OVc5UGtSZXJjbnczQkhhYVk4bnB3MVFxOFY1VWNtNVowSzFPWHFLZkZGTzNmYWpENzlfQlVfVVo3UE9BZw?oc=5",
-      "source": "Hindustan Times",
-      "publishedAt": "Thu, 06 Aug 2026 06:26:23 GMT",
-      "description": "Cafe couture: Fashion finds a new address in food-led experiences | Hindustan Times Hindustan Times",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Ultralight technical outdoor gear is becoming luxury fashion and Helinox is leading the way - t3.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPNmRXVjB2WnFJa0NMY1RvenhyVjlLazJCWENXdnQ1T2J3LXJFc0IyS1ljMzh3TXU3a09KRHBfMVB4TFA4NnYtQkxDcDlqWlc3UVpTUEtUcV94d1htTk93NU14SUJYWFVkZmNsX3ZtZ25GSy1OOHV2MFFn?oc=5",
-      "source": "t3.com",
-      "publishedAt": "Thu, 06 Aug 2026 06:00:00 GMT",
-      "description": "Ultralight technical outdoor gear is becoming luxury fashion and Helinox is leading the way t3.com",
       "feed": "Google News - luxury fashion"
     }
   ],
