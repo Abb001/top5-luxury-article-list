@@ -1,33 +1,41 @@
 {
   "date": "2026-08-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-08T06:37:03.933Z",
+  "generatedAt": "2026-08-08T09:29:13.608Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-08.",
   "articles": [
     {
-      "title": "The Gen Z View on Indian Luxury - The Voice of Fashion",
+      "title": "The Gen Z View on Indian Luxury - thevoiceoffashion.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFVvLUktMjRTZ3ZkMWxlWFhxcWl0MlBNV2t5YWpSQlloVFlBWUFCZGZVV1hBTWZxTDVlQnItVUdmcHplbjc2cUJvaWlNNF8yUU04QTd5RVJpS0xEYmZsRndxeXBaNGxKTUg4MWJUbEFPVFpRZXMzY3VBVTlURG1FOUtKQWltUG1wN203T1QxNG1VWVFwSV9nM2ZDUFU?oc=5",
-      "source": "The Voice of Fashion",
+      "source": "thevoiceoffashion.com",
       "publishedAt": "Sat, 08 Aug 2026 04:03:30 GMT",
-      "description": "The Gen Z View on Indian Luxury The Voice of Fashion",
+      "description": "The Gen Z View on Indian Luxury thevoiceoffashion.com",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Blazy or Bust: Luxury’s Zero Sum Game - The Business of Fashion",
+      "title": "Blazy or Bust: Luxury’s Zero Sum Game - businessoffashion.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaW5yeGV4VW84V1ZWbFNTT0tTRXFqQnpnQTFlS0NuWkdKVVN4YzB1SHRhcUtpVjNoeW5NVVo5SEpDam5mVlQ5QUtJLU1QZ3FHcVoweGdLaWhUWHRxd3hYQi1WMnRsbjNEb2o4ckN4RGhRenMwVlluYlpCSWtfdWkzNjRfSlZPRkg3Uk9uaWJDdE0?oc=5",
-      "source": "The Business of Fashion",
+      "source": "businessoffashion.com",
       "publishedAt": "Fri, 07 Aug 2026 19:00:00 GMT",
-      "description": "Blazy or Bust: Luxury’s Zero Sum Game The Business of Fashion",
+      "description": "Blazy or Bust: Luxury’s Zero Sum Game businessoffashion.com",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Why Luxury Fashion Brand Akris Chooses Independence After One Hundred Years - forbes.com",
+      "title": "Why Luxury Fashion Brand Akris Chooses Independence After One Hundred Years - Forbes",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFhTa2JfZzc4Z2t2SFdkSDFWcXYzSTdBYkZfdzdMY2FXVTE2a3VPUVF3U2FpWEtfVlc4STctdFlqSldEeHJzd05yTzFxcmJoOWJiUXUxekZxRjV0VlM5YTVqbW1IUWlHTWExYV9vZzRlNUJPSjBfX0R1elNVV1NwMEcweFFMdGRkdkt0b0xVa2hmUjkzSmJ1eTNlR0Nnd0Ixd0s3UUt3ZEpOWnNRcmtpbV9MalpCd2QyLTlOOUNYcVpOTzB0MDZV?oc=5",
-      "source": "forbes.com",
+      "source": "Forbes",
       "publishedAt": "Fri, 07 Aug 2026 16:58:08 GMT",
-      "description": "Why Luxury Fashion Brand Akris Chooses Independence After One Hundred Years forbes.com",
+      "description": "Why Luxury Fashion Brand Akris Chooses Independence After One Hundred Years Forbes",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Inside the fashion and literature intersection: Book clubs, accessories and beyond - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGJXSXQzVlo0dzJqTVI3Z3hOOF9KWU5vR2NUMTYwUEZGZGlNTG1XNGE0Mk5ramRIdlF6Z0s1V1hXVkFhb2h5TmhLRUVOSllSMlRJZmFvQ3BXQTcza1dXSENPWUxxQVJTc2g2V3dEaHNWVjVlb2wzS2puaU5rWmZhTnE4SUh5S2p1TmNzQzZyYVNyWTJHVVB1Z2tpUEdsZFFfUXFUNHcwSlk2REZidVVwUENFVV8yYTVCY1HSAb8BQVVfeXFMTVZ5TmtySVp3bmNsTWlwMDdyZE5iakgtSWZBN3ZvODdNSXVTcElmWnNwaVAyRUwxbGx3WG1vVTMtT3F6TWVQQzFGYWk1czVlWHA0N3A2dVRfRklTMUxKdVpnTmk2a0lPRzhBeS1xZF9BTFNaRTl0eVktcEZxR1czMkFrdnkxOFotcmRQeHdVRjNvUGdaSzFSUnZVdlVVbUVJQUsyME94TGRIWGk2bVhKd053cFhWYjYzU2tvWkhBY1U?oc=5",
+      "source": "Prestige Online - Singapore",
+      "publishedAt": "Sat, 08 Aug 2026 05:05:37 GMT",
+      "description": "Inside the fashion and literature intersection: Book clubs, accessories and beyond Prestige Online - Singapore",
+      "feed": "Google News - luxury lifestyle"
     },
     {
       "title": "German Automakers Pivot to Ultra-Luxury Market in South Korea - sekbernews.id",
@@ -35,14 +43,6 @@
       "source": "sekbernews.id",
       "publishedAt": "Sat, 08 Aug 2026 01:50:41 GMT",
       "description": "German Automakers Pivot to Ultra-Luxury Market in South Korea sekbernews.id",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "BMW, Mercedes-Benz turn to super luxury to fend off Tesla, Chinese EV challenge - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamZPOEVMeUY4eTlQZHZBMWlBOFZOMzZyVFJYWFVzbFNRTVRUZmhsUnlXbXpxYkgyazNfckxFM01yMk8yMXJ2S1lDN1lpY1VaS2s4eVdoaWxRSHRzRTBfOTJFcHNFUmxheTdydHhSSFhaNFpieDdaSGRVU0VDcEczU09kMjVUMVNyaUUtYXFuUkZIakxHX09RZVBxUWg4MWt5VzFfQUJuYm53MlFnd0hTenJ4YjBaUzdweEIzNHFSRjZRd0RwTUFWd09uSHV5Qk1xNmV5cNIB1AFBVV95cUxPamZPOEVMeUY4eTlQZHZBMWlBOFZOMzZyVFJYWFVzbFNRTVRUZmhsUnlXbXpxYkgyazNfckxFM01yMk8yMXJ2S1lDN1lpY1VaS2s4eVdoaWxRSHRzRTBfOTJFcHNFUmxheTdydHhSSFhaNFpieDdaSGRVU0VDcEczU09kMjVUMVNyaUUtYXFuUkZIakxHX09RZVBxUWg4MWt5VzFfQUJuYm53MlFnd0hTenJ4YjBaUzdweEIzNHFSRjZRd0RwTUFWd09uSHV5Qk1xNmV5cA?oc=5",
-      "source": "The Korea Times",
-      "publishedAt": "Fri, 07 Aug 2026 22:00:00 GMT",
-      "description": "BMW, Mercedes-Benz turn to super luxury to fend off Tesla, Chinese EV challenge The Korea Times",
       "feed": "Google News - luxury business"
     }
   ],
