@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-08T12:30:03.440Z",
+  "generatedAt": "2026-08-08T15:21:28.462Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-08.",
   "articles": [
@@ -38,12 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Inside the fashion and literature intersection: Book clubs, accessories and beyond - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGJXSXQzVlo0dzJqTVI3Z3hOOF9KWU5vR2NUMTYwUEZGZGlNTG1XNGE0Mk5ramRIdlF6Z0s1V1hXVkFhb2h5TmhLRUVOSllSMlRJZmFvQ3BXQTcza1dXSENPWUxxQVJTc2g2V3dEaHNWVjVlb2wzS2puaU5rWmZhTnE4SUh5S2p1TmNzQzZyYVNyWTJHVVB1Z2tpUEdsZFFfUXFUNHcwSlk2REZidVVwUENFVV8yYTVCY1HSAb8BQVVfeXFMTVZ5TmtySVp3bmNsTWlwMDdyZE5iakgtSWZBN3ZvODdNSXVTcElmWnNwaVAyRUwxbGx3WG1vVTMtT3F6TWVQQzFGYWk1czVlWHA0N3A2dVRfRklTMUxKdVpnTmk2a0lPRzhBeS1xZF9BTFNaRTl0eVktcEZxR1czMkFrdnkxOFotcmRQeHdVRjNvUGdaSzFSUnZVdlVVbUVJQUsyME94TGRIWGk2bVhKd053cFhWYjYzU2tvWkhBY1U?oc=5",
-      "source": "Prestige Online - Singapore",
-      "publishedAt": "Sat, 08 Aug 2026 05:05:37 GMT",
-      "description": "Inside the fashion and literature intersection: Book clubs, accessories and beyond Prestige Online - Singapore",
-      "feed": "Google News - luxury lifestyle"
+      "title": "Luxury homes are getting more expensive in the Philly area, but they’re still selling fast - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTZsZXZ3cHpRQjZDaWwyWERVb1pIb21xaWVXZWFkX0o1ajNPMFktN2l0MmpNU0t5WHo0NXM4ci1hRUlnUEZ2b3hWNmlwU3F3ajh1aWs4RU55NUtXaWhXaGZZc3UwaURYdmVSeFF4dUJsaWRwdUZRRmR5LU91R21TNGVpQUoxOG5UYUNpdWhKU25DUGtIYUx2N3pwVWpfS3BDTWJ2LUFtaTF4LUFNdVd5SXZ0SQ?oc=5",
+      "source": "Inquirer.com",
+      "publishedAt": "Sat, 08 Aug 2026 13:01:00 GMT",
+      "description": "Luxury homes are getting more expensive in the Philly area, but they’re still selling fast Inquirer.com",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
