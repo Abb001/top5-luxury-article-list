@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-10T12:50:19.709Z",
+  "generatedAt": "2026-08-10T15:52:22.180Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-10.",
   "articles": [
@@ -22,19 +22,19 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "LVMH, Prada, and Kering: Top Stock Picks in Luxury - Morningstar",
+      "title": "LVMH, Prada, and Kering: Top Stock Picks in Luxury - global.morningstar.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDE3RVlERndzWHd5YndTdUFLOWoyZlZDRlRBS1Z3eXBHQVFKRkxGTXNrVEVKTHd1cUVzR2p2OE5CLXZCT21OeVVIZ1c2QThudDFqZVgyel9PXzdKMGpfMlRuOHYzbjJIeFZHRHBpQzJqU2VzZ1czWWdZM2JxRUtvOVNjUTRremdpODJEXw?oc=5",
-      "source": "Morningstar",
+      "source": "global.morningstar.com",
       "publishedAt": "Mon, 10 Aug 2026 09:19:43 GMT",
-      "description": "LVMH, Prada, and Kering: Top Stock Picks in Luxury Morningstar",
-      "feed": "Google News - luxury business"
+      "description": "LVMH, Prada, and Kering: Top Stock Picks in Luxury global.morningstar.com",
+      "feed": "Google News - luxury fashion"
     },
     {
-      "title": "A Stay at Hôtel Plaza Athénée: Why Paris’ Fashion Icon Still Defines Luxury - hauteliving.com",
+      "title": "A Stay at Hôtel Plaza Athénée: Why Paris’ Fashion Icon Still Defines Luxury - Haute Living",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5enpYcmRaTV9fbjFKRTA4RFB1aEs2QzlZZFdkMm9FbzVoczRYZnFRSlZqVXNJczd2S0hoVk1PeHZ2ZFNFSDdreXNtQndXM0FPU0dERnZ4dE10aFBDbURfZE1KOUNpR0Q2aEtPamtRTmVCLWdsbG9lcWZ1bmM?oc=5",
-      "source": "hauteliving.com",
+      "source": "Haute Living",
       "publishedAt": "Mon, 10 Aug 2026 07:40:59 GMT",
-      "description": "A Stay at Hôtel Plaza Athénée: Why Paris’ Fashion Icon Still Defines Luxury hauteliving.com",
+      "description": "A Stay at Hôtel Plaza Athénée: Why Paris’ Fashion Icon Still Defines Luxury Haute Living",
       "feed": "Google News - luxury lifestyle"
     },
     {
