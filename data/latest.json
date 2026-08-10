@@ -1,25 +1,49 @@
 {
   "date": "2026-08-10",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-10T01:06:27.445Z",
+  "generatedAt": "2026-08-10T04:23:20.768Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-08-10.",
+  "message": "Found 5 article(s) published on 2026-08-10.",
   "articles": [
     {
-      "title": "Samsung C&T Fashion's JUUN.J Opens Beijing Store, Enters Chinese Luxury Market - asiae.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LdUxmcXpzRE5zeFBnSFNROWNsZXlLZGV4T1k5d1R0NlBWQjBhRU96VzMxRVB5M21GajJTbWFleFk4dklmTlJ0U2UxaEltUjU0QWlFaVl1TlZQQVVfdGk1V3lSTmM?oc=5",
-      "source": "asiae.co.kr",
+      "title": "Gucci is breaking luxury’s penny-pinching taboo - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnlPWDBocjdpaHVLUGtHd3pGbTZ2eUZ4SWF6SVBBWmpHWGpYZVpLVzhrajlaWkVwWndRa2psNTVQYXVIa3RiNVY0VkVVWjVyYnhVSXBkYk9ORVJ5NFJGNDhtcmowSElZaXdubEpER19HZXJOU3dVOWRXRDBwVXRBdklFcno?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "Mon, 10 Aug 2026 04:01:01 GMT",
+      "description": "Gucci is breaking luxury’s penny-pinching taboo Financial Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Style Edit: Chanel’s Paris haute couture show was a storybook brought to life - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1NJbzNIN2RoLVJqUm95SVB1TDhNTlRaVXk0SWtUMnRseklYSmRaTzNjeW9pMTNDT0RVSDBEc29IVFpjTExtczVKMktQVW9RSlI3eVhRV3A3aFdZZ0Y0WndyRmFHM0RNUFI0VkdXVjZpQldrSWtSUnMyb2RrOXFGYmFOaE1QMDlDYXhseTZwMkxObGc2dmFZUFBtak50UWJLYVBoRkNIa2JObWVWbVJDbU90QzUyOXJqaFFMaDNVeUU1a3hyQnU0eEp3S01Ebmx5eVBfaw?oc=5",
+      "source": "South China Morning Post",
+      "publishedAt": "Mon, 10 Aug 2026 02:00:11 GMT",
+      "description": "Style Edit: Chanel’s Paris haute couture show was a storybook brought to life South China Morning Post",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Samsung C&T Fashion's JUUN.J Opens Beijing Store, Enters Chinese Luxury Market - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12VnVhc0xvVEFIYUEwajdWaXdJTXlFXzNUNGs1MGhSbEU4RFMyYU85ckozQzRyMGx1alFUOFRReDBMaVpvbzJySDdxSk8wRHdoSktwQnZHUGNJQVd3MWZaVHRqbmVydUV3SGxpZGNMeGFmU1VhRXc?oc=5",
+      "source": "아시아경제",
       "publishedAt": "Sun, 09 Aug 2026 23:15:29 GMT",
-      "description": "Samsung C&T Fashion's JUUN.J Opens Beijing Store, Enters Chinese Luxury Market asiae.co.kr",
+      "description": "Samsung C&T Fashion's JUUN.J Opens Beijing Store, Enters Chinese Luxury Market 아시아경제",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Chanel sales jump 16% as new creations boost label’s appeal - BusinessWorld Online",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlkyZm9BbndQbmVUaWowTWEzd3RHNnd0UURkNG1yaGVwZlNtajYyWjZuamt1VEY1dEhSeDBNcjR3dENTekYyYXY4MmZTbThZM01yUXdNWmgyeVJRY25ublV0ZUx3OVM0bHBmc3B4MHNQM0owdHVxQVdpelNfcTR2d083NVpYRVd4TWhQVlpQUzZ4MDlZV2RnVkRGOHhJa1c3M09yNWhtV0lRUjRkOTR4NA?oc=5",
-      "source": "BusinessWorld Online",
-      "publishedAt": "Sun, 09 Aug 2026 16:01:48 GMT",
-      "description": "Chanel sales jump 16% as new creations boost label’s appeal BusinessWorld Online",
-      "feed": "Google News - luxury lifestyle"
+      "title": "Aditya Birla Fashion and Retail doubles down on omnichannel as digital-first brands expand offline - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdmFwV3BIa3N5NWlTd0ZpNlRBYVdfbHZXWE1jU2RaZTRPU2gzUDM1SnlrelFGRkVXM091VWwxYkE5OTFlY3RrOW03YWVlcV8yYlJWQ0hTNm54c2QtQ2RPbUpLamloU1pCOS1oOFNtYkppcW5QcHRoc21ZWFFsbGRaR1ZpcnIzUHF3LXd0RU9VNmpra2c3NjNxVE1JUEtXZVNxdzFKeDRWbnZCdlhkdkYxZmpLUVc3RVprT3RKQkthYmlZSl83Tlp6ZWxINlphbDdBWkhudWtHWGNyZ0J0azRBTFlraFY3QmRtZHFRbWtSSdIB7wFBVV95cUxNdmFwV3BIa3N5NWlTd0ZpNlRBYVdfbHZXWE1jU2RaZTRPU2gzUDM1SnlrelFGRkVXM091VWwxYkE5OTFlY3RrOW03YWVlcV8yYlJWQ0hTNm54c2QtQ2RPbUpLamloU1pCOS1oOFNtYkppcW5QcHRoc21ZWFFsbGRaR1ZpcnIzUHF3LXd0RU9VNmpra2c3NjNxVE1JUEtXZVNxdzFKeDRWbnZCdlhkdkYxZmpLUVc3RVprT3RKQkthYmlZSl83Tlp6ZWxINlphbDdBWkhudWtHWGNyZ0J0azRBTFlraFY3QmRtZHFRbWtSSQ?oc=5",
+      "source": "Storyboard18",
+      "publishedAt": "Mon, 10 Aug 2026 02:46:02 GMT",
+      "description": "Aditya Birla Fashion and Retail doubles down on omnichannel as digital-first brands expand offline Storyboard18",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Samsung C&T's JUUN.J Opens Beijing Store to Court China's Luxury Market - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFh0ZzhnbFdBRzQ5c09ZZXVJZnFDSHJGLTRMX3dYOEFjelJTV0h1TU1Ib3RJcVo3RjRxYzY5SU00eXYyR3kyZnF6ckdnX1EzaWpndTFkLUJlVVlGX2ZFNHVQbzJiVE1nVjVDZHVNN0JXUHhGNEJPTG84QzFhczVvTkdNUEMtRV9kOGMtYWMyVUVCY2pwdFZvb0dubw?oc=5",
+      "source": "Seoul Economic Daily",
+      "publishedAt": "Mon, 10 Aug 2026 01:55:39 GMT",
+      "description": "Samsung C&T's JUUN.J Opens Beijing Store to Court China's Luxury Market Seoul Economic Daily",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
