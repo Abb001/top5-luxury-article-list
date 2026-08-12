@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-12T12:49:33.364Z",
+  "generatedAt": "2026-08-12T15:52:10.522Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-12.",
   "articles": [
@@ -23,11 +23,19 @@
     },
     {
       "title": "Gucci Breaks the Main Taboo of the Luxury Industry: Why the Fashion House Is Lowering Prices - NEWS.am STYLE",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41dWdVQ0FEdWlaLVlON1RteG9NRm1NYmM4ZUZDQmJiODFyMUhLczU4V3VxeXR3YXBETk9zU2Z2ME5ad2EtVGt4NUFMWlAzQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKN25lNEdRQ2prZzYzbG1BemxDcGRzejZzNExhbHpkQkw1S3I0RlFIUm1JN2ptbjZ3SkN2SWk1Um9UTkRUOVg2UEotT1E0aUU?oc=5",
       "source": "NEWS.am STYLE",
       "publishedAt": "Tue, 11 Aug 2026 16:54:45 GMT",
       "description": "Gucci Breaks the Main Taboo of the Luxury Industry: Why the Fashion House Is Lowering Prices NEWS.am STYLE",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "LVMH stock slips as Deutsche Bank trims price target on softer luxury demand - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGxVaU5CbEVuUkI5QkFRRnhGM2tfQkFDaVdaMU1OU2g1a3k1S0lfR3dKS0pnMElnMGM2UE5zQXlFQmhiNUpzcnJxeDQ5cHhoME8zUXBWOWZUdnZoWm1YaFdZTzJycnRwa1FkTEpaQVdZOWFjOHl1LUdpZDFyRWJLclFldnJxMW5hN3MyYzdDZVhtSC0wY2txUnRaV3pXQUFGMEMwQmx2VFdqQkd4TnFfS3NLbzJ0dk9TaEVCQXJsLWNCNk4xNDdOeDQ1YkI?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Wed, 12 Aug 2026 12:44:03 GMT",
+      "description": "LVMH stock slips as Deutsche Bank trims price target on softer luxury demand AD HOC NEWS",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "Built to Last: Karrica on Fashion, Resilience and Redefining Luxury - The Hype Magazine",
@@ -35,14 +43,6 @@
       "source": "The Hype Magazine",
       "publishedAt": "Tue, 11 Aug 2026 22:03:21 GMT",
       "description": "Built to Last: Karrica on Fashion, Resilience and Redefining Luxury The Hype Magazine",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury Canadian eyewear brand brings a jewelry approach to sunglasses - Vancouver Sun",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0tEUnRPa3c3YjFSbFlqZ29UREtFRUQyZ3F5c0hiYVZLLWJ4R3Z0WmtkUDJrR2JfLUFTdndsMFp2NGVfZE9fTXBTeURnQ3JPd0NjRUpJUWZtVG9OdzY5aUZFeFgySzJSOHY1VU91UWlhSU02T1IxUi1lVi1ONkhUTDVPelZvRmdSQ0R4RkR6d0kyTXhULWRFZ295NU14RW1seGFvdXVRelhqQlk?oc=5",
-      "source": "Vancouver Sun",
-      "publishedAt": "Tue, 11 Aug 2026 18:24:24 GMT",
-      "description": "Luxury Canadian eyewear brand brings a jewelry approach to sunglasses Vancouver Sun",
       "feed": "Google News - luxury fashion"
     }
   ],
