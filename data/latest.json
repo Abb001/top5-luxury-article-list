@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-13T04:45:39.506Z",
+  "generatedAt": "2026-08-13T07:14:48.072Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-13.",
   "articles": [
@@ -11,6 +11,14 @@
       "source": "CNA Luxury",
       "publishedAt": "Wed, 12 Aug 2026 21:53:00 GMT",
       "description": "What it takes to recreate a Dior haute couture dress from the archives CNA Luxury",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Opinion: When Indian Craft Becomes Luxury’s Moral Alibi - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXpFYU0tSHBBQk9QYmdfQzAwcnhsTGlrOVlVbjl6TDd2UjJaWTBWQUVVaTU1ZEhXbllXeS1wa0VBR01aTkZJVGlBVWYyUUFIR0hwcUZpMHN4WllHSE9fdEc3MGM1bFpKX2wzSXY0ZzNGOFVpNkxvWXF4S2l4QS1HdU44Q2dBN04zNHk3Ri1hX2diNENqajRUWlJVTmtodjVYM0twcjdpWlR5a3h1TFdCdG13?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Thu, 13 Aug 2026 04:30:00 GMT",
+      "description": "Opinion: When Indian Craft Becomes Luxury’s Moral Alibi The Business of Fashion",
       "feed": "Google News - luxury lifestyle"
     },
     {
@@ -30,19 +38,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Park Ha-sun showcases 'high-low fashion' amid Go Youngwook controversy - global.mediafine.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQako1Tjdvb1JoajV5d3NHeHh4X29YWGZHTGVuYk9iUjdFNUFZR0wyODYxVEVhakhqZV9XY2pPTU4yN3BNRTQtQVBXRjQ2UDZOLXNHNk91TTFudW1TREdJYTFaY2hkWFZmOHI1MUxnZzczSGtkdzJsNG9Cc2J5ei1QTS1KazB1UHQtX2lsMw?oc=5",
-      "source": "global.mediafine.co.kr",
-      "publishedAt": "Thu, 13 Aug 2026 02:50:43 GMT",
-      "description": "Park Ha-sun showcases 'high-low fashion' amid Go Youngwook controversy global.mediafine.co.kr",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "John Galliano presentation at the Met exposes about fashion’s exclusive dedication - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaVdBUlctaElLU3NUbWJIaUlLUXR2YjQ5cDRsaVNoV1dRWGhZMWF5bFdMTzNJWDk5Tk1wNlo1bkdyV2NLSER3bXJSSVU5S3pHX1NaLXlQTlFYUEw3U2ZmNUs5WHJDM0VNdFIzbm0wTUh0c2VjXzAyT0NQZy1FWF9ib09UY1IxWktiejNwa3V4cDRGQzJEaXNXbE1xVHk5Ql9CS2xyZHI0ejJsS01mRTRsVTF6dWhwQdIBtgFBVV95cUxPaVdBUlctaElLU3NUbWJIaUlLUXR2YjQ5cDRsaVNoV1dRWGhZMWF5bFdMTzNJWDk5Tk1wNlo1bkdyV2NLSER3bXJSSVU5S3pHX1NaLXlQTlFYUEw3U2ZmNUs5WHJDM0VNdFIzbm0wTUh0c2VjXzAyT0NQZy1FWF9ib09UY1IxWktiejNwa3V4cDRGQzJEaXNXbE1xVHk5Ql9CS2xyZHI0ejJsS01mRTRsVTF6dWhwQQ?oc=5",
-      "source": "Prestige Online - Singapore",
-      "publishedAt": "Thu, 13 Aug 2026 00:39:41 GMT",
-      "description": "John Galliano presentation at the Met exposes about fashion’s exclusive dedication Prestige Online - Singapore",
+      "title": "How sustainability fell out of fashion - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTzJrU0V6b3ZQVS1TQVpDbHYwQXhQNnJydTU1Vlg1SklJcHlKNmx3eU1EQl9VU2FOcVlHaEJWWVN4VEUyTktfQzhvaUhXTnluUTBSWUJ0V0NLeU84cXFjbTZoM3NaNGZMNmNOMURjdWlTMnRWaTJPZVFYOW5lT2hsRmd1R0c?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "Thu, 13 Aug 2026 04:02:50 GMT",
+      "description": "How sustainability fell out of fashion Financial Times",
       "feed": "Google News - luxury lifestyle"
     }
   ],
