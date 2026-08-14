@@ -1,10 +1,18 @@
 {
   "date": "2026-08-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-14T09:52:15.053Z",
+  "generatedAt": "2026-08-14T12:44:58.818Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-14.",
   "articles": [
+    {
+      "title": "The Estonian fashion designer Oksana Tandit on why design is not a luxury - Estonian World",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1I3M2dwTjR4WEZSMFNWN244aVpFYm9sVUVHN1lLVDkybmU4QTljNERRVk9GWGFLUHJ1RHVEWjdlYm1BYWVpS2FCRnQwcFY1djkyWTF3ekgtN2xDWmJmOVRYaXlSUmVDOGZ1anhTWHRWcmZnaTNBcWlOS2pINWhZQkhOYnl4aHBvazRxZ2trMEI0M0lJM1I5Tkh6RnN2T243VmpiWjhBVnNmZ1JTU3c?oc=5",
+      "source": "Estonian World",
+      "publishedAt": "Fri, 14 Aug 2026 12:42:36 GMT",
+      "description": "The Estonian fashion designer Oksana Tandit on why design is not a luxury Estonian World",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Luxury Jewelry Market Size to Rise from US$88.3 Billion in 2026 - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdnRfeV83SUc4UzlnbmpVaXBkNzdFVjlMSHVrUHlfTXNEVjRTRDZuMDhDUmFZWXJsVEszZ0dyam0yUGJVUFdaUUVTaWlzZHNNUkcyMUwzSU5EVkpzN0NHanRwdnBmZ0ZaY3lab0l4ZUVhdEhSdmUtMWpNdHhidkFRaFJDTEpEVXp3SUpLendpZkZ6U1hjMGdUT20zQk1EbUhz?oc=5",
@@ -22,27 +30,19 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury Auto Leasing Market Evolution: Redefining Premium Vehicle Ownership Through Flexible Mobility - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeV9wdlZZU1hOTjBmVjlnNHU2bl9nM0RUX05EZUhNdTBzVi1FSFdmZTR4SzdvVnN0Y2tjOXRZaE93bVZfYjduQ2FQTnRiYl9SU3Zla1I5M3ZyQndHaWtuYzRzUmtEMXNDWXpDZUN4dGdiSndSUHd0TEt0WkVYOXd3bUVqT1JtYXl0Y3hrNjJrTjkxNGQ1bVE?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "Fri, 14 Aug 2026 05:03:23 GMT",
-      "description": "Luxury Auto Leasing Market Evolution: Redefining Premium Vehicle Ownership Through Flexible Mobility openPR.com",
+      "title": "In Cincinnati’s luxury home market, $2 million is the new $1 million - Cincinnati Business Courier - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmRFdHdMSUZOekRWODB5ZXF3bnVKU2lNcXI5ZU9GdXpRWEU5dldxTzlmMDN2OGpYS19CZ1RWT3dKbUxObFJ4Y0pMT1R3V3NCbHM3N2VPUDV0b05HSVl5M3AzMHVWSWdzYzhKdUZxVlZCUnN5ejhkMWpwZkt2MTRHNDRTdldsT3ZGVkdRREFrMjVqWXpZNjVGS0pRekhWZjh3U1BabW1rTVl1Q2ZVV1E?oc=5",
+      "source": "The Business Journals",
+      "publishedAt": "Fri, 14 Aug 2026 10:46:00 GMT",
+      "description": "In Cincinnati’s luxury home market, $2 million is the new $1 million - Cincinnati Business Courier The Business Journals",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Dubai’s luxury property market shows depth of investor confidence - Hotelier Middle East",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamdVOU5ZbzFRcEN5V3N4ZWdYOFNlYmpUOGxCVmlYNTlsWmhtUHVoSVRaNUFRRXF6eGcwUEY2aTV1YnVrb1lnUjJHaVpfQmdJM3NlbHd1aDV2bENmZFJxdllIazZNOVBPSWxPUU8tZXN6bXpRYmRucldGZWxsWVpyTEU3N1FkSzBWSEUyMWZHbXRheTFlODlSMlgwc3l3Q2w2OWZYcHVR?oc=5",
-      "source": "Hotelier Middle East",
-      "publishedAt": "Fri, 14 Aug 2026 05:00:00 GMT",
-      "description": "Dubai’s luxury property market shows depth of investor confidence Hotelier Middle East",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "5 reasons Chanel ranks the top on the Lyst index for Q2 - Hashtag Legend Hong Kong",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94WTNLOU93UGN2QU40ck56c1VHejFteGZsZm43Q2lPd2QyMEV3YXI4enJnTjdyZzFYQjlKYWprYWYwRFZUNnZHMmdSNUNhR0VwNEhWRlAtTFpKeV9Xb0NjaHFoMloyNi0yUDdWdnNyTk5wMzNmMVhrMzNHRlQ?oc=5",
-      "source": "Hashtag Legend Hong Kong",
-      "publishedAt": "Fri, 14 Aug 2026 04:30:10 GMT",
-      "description": "5 reasons Chanel ranks the top on the Lyst index for Q2 Hashtag Legend Hong Kong",
+      "title": "Hyderabad Luxury Market Gains Trump Branded Residences - urbanacres.in",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUVSODFLVlNfUXhBZkVtVlRnVllnTTQ2RzMycDU3V3Q4Rmdna2E5Z1VwTkdncWVlWEt6bkJZdUNyQ1d6UG5za0lpaEM1UW9ZVkk5akhQejhUR0c0QVFBLVkxRC1PUTJjZjhXVnR3TzVFeWVWaHRIZm1VODdFZnZOQTNZQQ?oc=5",
+      "source": "urbanacres.in",
+      "publishedAt": "Fri, 14 Aug 2026 09:34:24 GMT",
+      "description": "Hyderabad Luxury Market Gains Trump Branded Residences urbanacres.in",
       "feed": "Google News - luxury business"
     }
   ],
