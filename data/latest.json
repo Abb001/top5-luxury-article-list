@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-15T09:18:04.413Z",
+  "generatedAt": "2026-08-15T12:20:25.037Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-15.",
   "articles": [
@@ -14,6 +14,14 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "From inspiration to influence: How India is leading the global luxury playbook this year | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbzdFNjBCWWRyX29vcHo5aUdHUkl4U2YxUG9taTJZbEF1SjZPaHJsQUpKay1yN0xVbVdhbzdUUHpvOWlla1JSYVBMOExfN0twRWlDU0JOZlU3cjB5Wmpfd0t2LUtTVWt4SWtIX0Z5UTBfOUFaTHN3Q09TYThnX1dxUnhROVVjNTdqc3phUWwxWDFhbkhxdWRMTzJITGdQbTctUjNsOXotVFpLUDhYMXBvOEtfd1hlUEdOQ3VMVVVkMk9YbHQwb0FxQ2JRSWFmUy0zei1vYjZ6NW9KdW9tSGliNjloWnd3bjZGSVhkRVRCTnpmUVFzZURabVF30gH_AUFVX3lxTE1iWlpNaC03XzlVWEMwTXlXN3NoVzBQLUtsU1Z4cS1KRmtIY3h2WlVkOUNmYXNXSDd6MG9NOWhvclBvSjFpX004V05KV3ZIUUIxUmZXNXA3MUNGcXYxMVdXeGRqbEEzM2ZTbXhzamRPM29SRzg5bnpYbzBkbnRuTGliYzNOUXhIVlRWbkFJZlJLYjFNek9aZC1JTzAyRmFnUm9vcEhpMnJGT2FqTzZsWUdnTzQwWFN0MzhiU1hfUlo5bmh1Sm5MMFVISGppbXBZMElRVnBmeDY3OVFPVDlfLWZhNEEtaUV5UFdGMHl2ZS12bHZmUU5yMFQwRWlXMEoxdw?oc=5",
+      "source": "Hindustan Times",
+      "publishedAt": "Sat, 15 Aug 2026 11:55:57 GMT",
+      "description": "From inspiration to influence: How India is leading the global luxury playbook this year | Hindustan Times Hindustan Times",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
       "title": "Luxury Designers Tap Into B2B Market With Custom Uniforms - Whalesbook",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORE02c2dsenF3YXc0bTNaOXFwV1ZLX3NvUFllNEdBa2c4MFdCX1BwMXNnb0VQc29fdExEQ0sybUxxUFN1TjE2QU9lbFdNV2RKN0FfaklqazhSa0hreVlVS3ctQVNQM2J6d3hoXzF3aE11am9yWGhiTlBfX2dEZ0ViT002ZW1QNWF4VDJZX0hpVFc0dnJ4YUNUZE5VSFJnVlJBS2lpX2ZuMEVyUzNwTzFZb1BnYUYtMlZpM1lmVDZEODRYeTBFMDFGaDMtdzVCTGRRQ3hIMklEUDhZZU9EQUgw?oc=5",
       "source": "Whalesbook",
@@ -22,28 +30,20 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "Top 10 Best Fashion Brands In Italy 2026 - Nubia Magazine!",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fRkZvZEVDbVFRWlM1SnQzdHBDTkNOMjgzSlI4VGlNTmxENEkxQVA4cXp2U2FjMFNCeERXQnRDQll4QlhEY25hV184SXRyd2hESHhMV1RVdGZQRG5VRmtiNFcxanQtc1dvSXc?oc=5",
+      "source": "Nubia Magazine!",
+      "publishedAt": "Sat, 15 Aug 2026 07:30:00 GMT",
+      "description": "Top 10 Best Fashion Brands In Italy 2026 Nubia Magazine!",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think - Marie Claire UK",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdExLdlhBRWhRdDJ6VkxPNWd4NHFCTlFmOTBmcEVGak9YTUFxbzg1dWwzZTdCd1J2SjR1bEZZQ1BIYldiTVE1Skh2YlNVNDFkRW5zMmJhMUF6NkoxLXlJU2lIQmZtdGlXX0xkTVQxOXBfWVBZUEFwc0pLYmZYVWc?oc=5",
       "source": "Marie Claire UK",
       "publishedAt": "Sat, 15 Aug 2026 05:00:00 GMT",
       "description": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think Marie Claire UK",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "source": "WSJ",
-      "publishedAt": "Sat, 15 Aug 2026 03:00:56 GMT",
-      "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Independence Day 2026: From Lutyens’ Delhi to Malabar Hill, heritage bungalows that define India’s ultra-luxury market | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWS1seks0UFh6UXlGT3F6QUtuLWNTWDdpd3hvX0VvWTBhbzB3Uk5ybnNyMjlxRWRDN1VKcUd4aHJ5S01oU010X0IzeERzSlFhdkw0UlVHNElpbkJKdjI2QTlMWGt2R1pCeFh3bU0xVFZEcWk2ZlRYbjA2RE1USXhWV3ZhTXlMU290RlNxN1Y5MGpyYkd0THVTMlJVcEY4Y0tiNk5kNnl5WXdjYzlhdm1oWm5QQ3ctbU40WkVaS1B2ZHdjVFJYeDA1WHItOWtPNnBwcDBrdlFsaG5abkNpVFFRMEhXREZvN1RlM2U3Y0VCTjFVYWhpRlEzQ3lLbWMzbHFtN0pPZnd0ZHk0N03SAZACQVVfeXFMT1R1S3VRWmpZUHFmU0UxNlBhV204MG9Bd1hpSEZGRjNuNkdQd0lhVGhDZFY0YUkya2I2X3FfdmxzQWR4dktZLTJvUmlsbFdGN0hsSmNHZGU5OExMQ0Y2T2tyZ0FVZmdNbklRS1B2NE5VTzVLcU5oNzRIVzVWMVNyZnZMMUVRUHdwanQ3T29BMUV4S0c1elllSzBjTkxqM0FOaV9wSzFlRnZkcm5tVERLUV9VMGtTMm9iN2p2WEgyZGw3Sl8xQTBuVjFIdjN0N3BwdFBaV1EtbUhBd2F4ZHM3V2lBQVhkUC16M2thbUY5aEdNTG5zT01zSVRTUWF0UDVKOTNzZC1KQU8wcHhkWEJxd0s?oc=5",
-      "source": "Hindustan Times",
-      "publishedAt": "Sat, 15 Aug 2026 01:40:55 GMT",
-      "description": "Independence Day 2026: From Lutyens’ Delhi to Malabar Hill, heritage bungalows that define India’s ultra-luxury market | Real Estate News Hindustan Times",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
