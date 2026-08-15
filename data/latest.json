@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-15T12:20:25.037Z",
+  "generatedAt": "2026-08-15T15:12:17.974Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-15.",
   "articles": [
@@ -14,12 +14,20 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Sat, 15 Aug 2026 12:49:21 GMT",
+      "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "From inspiration to influence: How India is leading the global luxury playbook this year | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbzdFNjBCWWRyX29vcHo5aUdHUkl4U2YxUG9taTJZbEF1SjZPaHJsQUpKay1yN0xVbVdhbzdUUHpvOWlla1JSYVBMOExfN0twRWlDU0JOZlU3cjB5Wmpfd0t2LUtTVWt4SWtIX0Z5UTBfOUFaTHN3Q09TYThnX1dxUnhROVVjNTdqc3phUWwxWDFhbkhxdWRMTzJITGdQbTctUjNsOXotVFpLUDhYMXBvOEtfd1hlUEdOQ3VMVVVkMk9YbHQwb0FxQ2JRSWFmUy0zei1vYjZ6NW9KdW9tSGliNjloWnd3bjZGSVhkRVRCTnpmUVFzZURabVF30gH_AUFVX3lxTE1iWlpNaC03XzlVWEMwTXlXN3NoVzBQLUtsU1Z4cS1KRmtIY3h2WlVkOUNmYXNXSDd6MG9NOWhvclBvSjFpX004V05KV3ZIUUIxUmZXNXA3MUNGcXYxMVdXeGRqbEEzM2ZTbXhzamRPM29SRzg5bnpYbzBkbnRuTGliYzNOUXhIVlRWbkFJZlJLYjFNek9aZC1JTzAyRmFnUm9vcEhpMnJGT2FqTzZsWUdnTzQwWFN0MzhiU1hfUlo5bmh1Sm5MMFVISGppbXBZMElRVnBmeDY3OVFPVDlfLWZhNEEtaUV5UFdGMHl2ZS12bHZmUU5yMFQwRWlXMEoxdw?oc=5",
       "source": "Hindustan Times",
       "publishedAt": "Sat, 15 Aug 2026 11:55:57 GMT",
       "description": "From inspiration to influence: How India is leading the global luxury playbook this year | Hindustan Times Hindustan Times",
-      "feed": "Google News - luxury lifestyle"
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "Luxury Designers Tap Into B2B Market With Custom Uniforms - Whalesbook",
@@ -35,14 +43,6 @@
       "source": "Nubia Magazine!",
       "publishedAt": "Sat, 15 Aug 2026 07:30:00 GMT",
       "description": "Top 10 Best Fashion Brands In Italy 2026 Nubia Magazine!",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think - Marie Claire UK",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdExLdlhBRWhRdDJ6VkxPNWd4NHFCTlFmOTBmcEVGak9YTUFxbzg1dWwzZTdCd1J2SjR1bEZZQ1BIYldiTVE1Skh2YlNVNDFkRW5zMmJhMUF6NkoxLXlJU2lIQmZtdGlXX0xkTVQxOXBfWVBZUEFwc0pLYmZYVWc?oc=5",
-      "source": "Marie Claire UK",
-      "publishedAt": "Sat, 15 Aug 2026 05:00:00 GMT",
-      "description": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think Marie Claire UK",
       "feed": "Google News - luxury fashion"
     }
   ],
