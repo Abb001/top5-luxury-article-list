@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-15T03:31:53.435Z",
+  "generatedAt": "2026-08-15T06:22:50.371Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-15.",
   "articles": [
@@ -14,6 +14,22 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think - Marie Claire UK",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdExLdlhBRWhRdDJ6VkxPNWd4NHFCTlFmOTBmcEVGak9YTUFxbzg1dWwzZTdCd1J2SjR1bEZZQ1BIYldiTVE1Skh2YlNVNDFkRW5zMmJhMUF6NkoxLXlJU2lIQmZtdGlXX0xkTVQxOXBfWVBZUEFwc0pLYmZYVWc?oc=5",
+      "source": "Marie Claire UK",
+      "publishedAt": "Sat, 15 Aug 2026 05:00:00 GMT",
+      "description": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think Marie Claire UK",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Sat, 15 Aug 2026 03:00:55 GMT",
+      "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Independence Day 2026: From Lutyens’ Delhi to Malabar Hill, heritage bungalows that define India’s ultra-luxury market | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWS1seks0UFh6UXlGT3F6QUtuLWNTWDdpd3hvX0VvWTBhbzB3Uk5ybnNyMjlxRWRDN1VKcUd4aHJ5S01oU010X0IzeERzSlFhdkw0UlVHNElpbkJKdjI2QTlMWGt2R1pCeFh3bU0xVFZEcWk2ZlRYbjA2RE1USXhWV3ZhTXlMU290RlNxN1Y5MGpyYkd0THVTMlJVcEY4Y0tiNk5kNnl5WXdjYzlhdm1oWm5QQ3ctbU40WkVaS1B2ZHdjVFJYeDA1WHItOWtPNnBwcDBrdlFsaG5abkNpVFFRMEhXREZvN1RlM2U3Y0VCTjFVYWhpRlEzQ3lLbWMzbHFtN0pPZnd0ZHk0N03SAZACQVVfeXFMT1R1S3VRWmpZUHFmU0UxNlBhV204MG9Bd1hpSEZGRjNuNkdQd0lhVGhDZFY0YUkya2I2X3FfdmxzQWR4dktZLTJvUmlsbFdGN0hsSmNHZGU5OExMQ0Y2T2tyZ0FVZmdNbklRS1B2NE5VTzVLcU5oNzRIVzVWMVNyZnZMMUVRUHdwanQ3T29BMUV4S0c1elllSzBjTkxqM0FOaV9wSzFlRnZkcm5tVERLUV9VMGtTMm9iN2p2WEgyZGw3Sl8xQTBuVjFIdjN0N3BwdFBaV1EtbUhBd2F4ZHM3V2lBQVhkUC16M2thbUY5aEdNTG5zT01zSVRTUWF0UDVKOTNzZC1KQU8wcHhkWEJxd0s?oc=5",
       "source": "Hindustan Times",
@@ -22,27 +38,11 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "source": "WSJ",
-      "publishedAt": "Fri, 14 Aug 2026 22:24:43 GMT",
-      "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "John Lewis and Mountain Warehouse bosses: this week’s fashion retail people moves - Drapers",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUF5aElCUTlVQ3F6MVV5dGlTaXdPNW5KdlVCbVI4VWVXbVRpbFU1dEF5MUxKM09XYi1BOU53NmMzMXMxR1E4T1NRTThaOFpQWEpYbnJpWmlDYTloMkhTckd4TTlnZ09CY0pkanVzbnJKQUh4V3l1a09RSUMzRXhzQlF0d2p1N1FoNkczUDZOdjRGRjdIWVpLTE9yMGc2MXhNbWcxQ1dQbE9zTF9yNnc?oc=5",
-      "source": "Drapers",
-      "publishedAt": "Fri, 14 Aug 2026 18:13:17 GMT",
-      "description": "John Lewis and Mountain Warehouse bosses: this week’s fashion retail people moves Drapers",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "$70 million sale: How AI boom is pushing Silicon Valley luxury housing to new heights - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWENyRzVXb2I1Y3E1NkxKdlEydWxKXzdGdzYyV0d1UVp1SjNOU2pvbjZ6MFlfUktwcVFCYTlRSUJxRFBPOFpKVlBfZTJPMnhrZHdKVmZXZjh5TE8zajZoMHlUeHlXdFhEckM2TjY2Vmx2NFVkNGFzQmxOaTRYTEMzUmZudmxCU1NNajZCVXFMZ2FBdTVJOEw1V0tvY29hRFhwcEZZaFBpRlJjdU5VVUlsN0hHTUJ4WTRtUjduWTk0dDQtaEZ3UUVJb2Qtc05KNTJVbVRIWTdZdU9zMGlIUXF5QXVsS0dweS1ieUMwQ3drVHE4VlZX0gH6AUFVX3lxTE5iYzV2XzEzU1FvUmc3SVJmNDBDakdHc1ppbWdQUGx0MDQ1UWtsOHdVX0dGWTlfMDBiYmN0NndsRUlqaWQ0amRHalgtSlFvd1lGOXYxckZ2cDFQUVV3Tjg5NExZOHNnWUJMZElIa3RZZ0VWNnpuZUlLRlRIY0l0X2JqS0dwQjBuS0xIeTlGYXJoNU1nUERDbnNHWXRPUjFmekRMZk9VVlh6Nkd6ZUw2LTRVbGR5UHNrNHNnczRJT0IxaDMwaVZ5R2tCSDFRaC1vam01QzRnUWZxV1JUUzE4UTdHMXBfRUJ6SlZoaHlieklYTWxuU2p1R2tLNVE?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "Fri, 14 Aug 2026 17:32:00 GMT",
-      "description": "$70 million sale: How AI boom is pushing Silicon Valley luxury housing to new heights The Times of India",
+      "title": "Luxury tower 'affordability' claim rejected in landmark court ruling - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVpsLTNJdnNsQXBhdGNSazYzZy1tN2ljOEV5MzNNdVRMVFlwNHNkeW00dHo3TGVyZlBUcXJkWC1mUnpUNFcxM2V1OUY3bDEtOVVvMkRFcWhtbmtRVk1pdzJvYnhVM255R0tlaWhzc0dLNS1MTE9PcUZkQXBPQUJvamRxZnFkMVMzbENWcDRxaFhfbDZCTE5mR1lPeks3UQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "Fri, 14 Aug 2026 21:43:25 GMT",
+      "description": "Luxury tower 'affordability' claim rejected in landmark court ruling ABC News & Headlines – Australian Broadcasting Corporation",
       "feed": "Google News - luxury business"
     }
   ],
