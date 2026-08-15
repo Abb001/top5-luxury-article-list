@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-15T06:22:50.371Z",
+  "generatedAt": "2026-08-15T09:18:04.413Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-15.",
   "articles": [
@@ -12,6 +12,14 @@
       "publishedAt": "Fri, 14 Aug 2026 22:15:00 GMT",
       "description": "Luxury fashion lands on Main Street with Wunderkind’s first Utah location Park Record",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury Designers Tap Into B2B Market With Custom Uniforms - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORE02c2dsenF3YXc0bTNaOXFwV1ZLX3NvUFllNEdBa2c4MFdCX1BwMXNnb0VQc29fdExEQ0sybUxxUFN1TjE2QU9lbFdNV2RKN0FfaklqazhSa0hreVlVS3ctQVNQM2J6d3hoXzF3aE11am9yWGhiTlBfX2dEZ0ViT002ZW1QNWF4VDJZX0hpVFc0dnJ4YUNUZE5VSFJnVlJBS2lpX2ZuMEVyUzNwTzFZb1BnYUYtMlZpM1lmVDZEODRYeTBFMDFGaDMtdzVCTGRRQ3hIMklEUDhZZU9EQUgw?oc=5",
+      "source": "Whalesbook",
+      "publishedAt": "Sat, 15 Aug 2026 07:41:05 GMT",
+      "description": "Luxury Designers Tap Into B2B Market With Custom Uniforms Whalesbook",
+      "feed": "Google News - luxury lifestyle"
     },
     {
       "title": "Luxury Shoppers Put This One Thing Above All Else When Spending Their Money—And It’s Not What You Think - Marie Claire UK",
@@ -25,7 +33,7 @@
       "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
       "source": "WSJ",
-      "publishedAt": "Sat, 15 Aug 2026 03:00:55 GMT",
+      "publishedAt": "Sat, 15 Aug 2026 03:00:56 GMT",
       "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
       "feed": "Google News - luxury business"
     },
@@ -35,14 +43,6 @@
       "source": "Hindustan Times",
       "publishedAt": "Sat, 15 Aug 2026 01:40:55 GMT",
       "description": "Independence Day 2026: From Lutyens’ Delhi to Malabar Hill, heritage bungalows that define India’s ultra-luxury market | Real Estate News Hindustan Times",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury tower 'affordability' claim rejected in landmark court ruling - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVpsLTNJdnNsQXBhdGNSazYzZy1tN2ljOEV5MzNNdVRMVFlwNHNkeW00dHo3TGVyZlBUcXJkWC1mUnpUNFcxM2V1OUY3bDEtOVVvMkRFcWhtbmtRVk1pdzJvYnhVM255R0tlaWhzc0dLNS1MTE9PcUZkQXBPQUJvamRxZnFkMVMzbENWcDRxaFhfbDZCTE5mR1lPeks3UQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "Fri, 14 Aug 2026 21:43:25 GMT",
-      "description": "Luxury tower 'affordability' claim rejected in landmark court ruling ABC News & Headlines – Australian Broadcasting Corporation",
       "feed": "Google News - luxury business"
     }
   ],
