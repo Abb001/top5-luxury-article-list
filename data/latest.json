@@ -1,15 +1,23 @@
 {
   "date": "2026-08-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-16T00:48:21.500Z",
+  "generatedAt": "2026-08-16T03:40:42.372Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-08-16.",
+  "message": "Found 4 article(s) published on 2026-08-16.",
   "articles": [
     {
+      "title": "Rebound in China luxury home sales divorced from rest of market: analysts - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa1Jha3VxVkF0RDdmWFBWanF0LXNxaFFvcEpmUURkU0tjQ1pqY3hsaVJON0Nkb25rRVoxZ2hpeUJvUHpTSzR0VzZGWmZkXzRzLW9CSlNCaUhmb0tQQkstQmJ2WDRXaTNSSXAtLUxHXzVkZ0IxbEJxQXVtUEExYVJLcEs5UGNsR3htYmROdHA0bXhock5IV3RoeGVZVFdnbEp3djNBdkNnS1YwWFNBZmd0ZjBWZEJ0T1Itdkdrc0N6YkNfd1pTM1dDTHJtNHNaUm5DTC11dnVraHdETjDSAdsBQVVfeXFMTktXeFJWS1ppSVllZV9oZjRESTlEWlcxMzl0bzhCcFlGWG0xTmRwZkxpMVhUelg1akZnb3dnTm55aS1RNnM1Z21GZ3lQLXpLd2dqSGktek9EY2RuNC1Xdy1ZQTVOLUt4Q3FsUjJxamx2RWJkN19iUXM0TmtKR2ZEQ0xpMWF0QzVXQ28yQ0c5aEtGVW96MTBnbWNmOVJ0ckJERmRYajVVT1NQMXZJcnlaSllSdEtjdGM2ZkYyVTdpNWI3VTRINjE2ejlYRzJieV9ucnNrWG5EVmI4VTRn?oc=5",
+      "source": "South China Morning Post",
+      "publishedAt": "Sun, 16 Aug 2026 01:00:11 GMT",
+      "description": "Rebound in China luxury home sales divorced from rest of market: analysts South China Morning Post",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Mercy Eke: Blending Luxury Lifestyle with Business Acumen - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT080cEs5MEcxYl9sRTAwX0tCTkVNbDZ1WndISkZrS3V6NzV1U2VjZFh0b0FnV0Jya1RWVHhxMTBWMTNRTHdaQnBGaUVKU0pvYm1OZmZoT01LUG1KLW5RcXpldTU4NzVxcnU0XzIwWlBVS1VQY0F0UXEtZXV4YTkzS3ZxRjFzWVNMYXZfb2J5M0tDT2xUbjNDdzRYSUQyM2ItLWRSTHFnS3U3VUN3RTdz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlFrZ015dVlKS1VDM0ctOVdDbDRIc1VGM05qTFhsbngzMTNhUlkyX1pnQ01KZHNoQWRGbm1YOWMwZldTMS1xMG9kRnNUS1hsRzBLMWpSalRPU0xiNmNORTlQQWIyNFJFUnVaSGFaVmpEbDZJZFJNNWlmLXNMMWg3UWpoTXZ3TTA0N3FzNXpUTDc5WjFnaDNMNktZRDVNMzVIaUs2d2xHUlpuNXRRc0tNMlpaR2Y?oc=5",
       "source": "Punch Newspapers",
-      "publishedAt": "Sat, 15 Aug 2026 23:21:41 GMT",
+      "publishedAt": "Sat, 15 Aug 2026 23:29:45 GMT",
       "description": "Mercy Eke: Blending Luxury Lifestyle with Business Acumen Punch Newspapers",
       "feed": "Google News - luxury fashion"
     },
@@ -17,9 +25,17 @@
       "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
       "source": "WSJ",
-      "publishedAt": "Sat, 15 Aug 2026 16:28:52 GMT",
+      "publishedAt": "Sat, 15 Aug 2026 16:29:10 GMT",
       "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Sarawak’s Keringkam Impresses Chinese Designer - Sarawak Tribune",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFJMSXdla0F6Z3NpNEdSNC1pQ3F0b01TMTJPTTFidmVwRmZuZmYzNmVkWlFYS2lrWTNYOG9QcldqNjkzSkVCUEs0X0pTbS1ZYlFYTGIxdmtLYmZSYVdfazdjaGFYQ1pQZS1sclBDOWg3WnJseUk2SmZnVFRCM0ZPbHBMTQ?oc=5",
+      "source": "Sarawak Tribune",
+      "publishedAt": "Sat, 15 Aug 2026 23:32:59 GMT",
+      "description": "Sarawak’s Keringkam Impresses Chinese Designer Sarawak Tribune",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
