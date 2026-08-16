@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-16T03:40:42.372Z",
+  "generatedAt": "2026-08-16T06:25:15.617Z",
   "status": "ok",
   "message": "Found 4 article(s) published on 2026-08-16.",
   "articles": [
@@ -22,20 +22,20 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
-      "source": "WSJ",
-      "publishedAt": "Sat, 15 Aug 2026 16:29:10 GMT",
-      "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket WSJ",
-      "feed": "Google News - luxury business"
+      "title": "Best Women’s Clothing Subscription Boxes: 7 Picks Our Fashion Team Recommends - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMy01VGJVZ2lvMHRwSmRfcWttb29qcXJreHcyWi1fZ2t3TzI1eHlUODNqRU9NbEFpc3R6QlVyelBSUFptS3hyTEtxRzlwOXdIS2w2Smh5Wi1jNDJOblJzMjZfUXROR0lkeVZVbF93ek1pTTAzczlQSWJHblU1NVV3M1hQWU9ya1hVbXJwWHNDMkJsYXI4NjMxWFBJSjl6czl4UURoR3ZkOA?oc=5",
+      "source": "Forbes",
+      "publishedAt": "Sat, 15 Aug 2026 16:03:51 GMT",
+      "description": "Best Women’s Clothing Subscription Boxes: 7 Picks Our Fashion Team Recommends Forbes",
+      "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Sarawak’s Keringkam Impresses Chinese Designer - Sarawak Tribune",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFJMSXdla0F6Z3NpNEdSNC1pQ3F0b01TMTJPTTFidmVwRmZuZmYzNmVkWlFYS2lrWTNYOG9QcldqNjkzSkVCUEs0X0pTbS1ZYlFYTGIxdmtLYmZSYVdfazdjaGFYQ1pQZS1sclBDOWg3WnJseUk2SmZnVFRCM0ZPbHBMTQ?oc=5",
-      "source": "Sarawak Tribune",
-      "publishedAt": "Sat, 15 Aug 2026 23:32:59 GMT",
-      "description": "Sarawak’s Keringkam Impresses Chinese Designer Sarawak Tribune",
-      "feed": "Google News - luxury lifestyle"
+      "title": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXNYODVGLVFHaHQyT3ZsdDNaWV9yX3h1WEZCdDR1TC1YVTc5S0RWdmZPRnNNQVFabldIQm5xdi1oVU9ZeGFjOFFxdDVYLVcyWVVPSTRkcGdtVHdSVXJBYUlhYS00M2JTOEttVDg1TnQ1ajRQNFRfSnY1V0pacmtkMVdCNA?oc=5",
+      "source": "wsj.com",
+      "publishedAt": "Sat, 15 Aug 2026 16:00:58 GMT",
+      "description": "Maine’s Luxury Market Is Looking More Like the Hamptons and Nantucket wsj.com",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
