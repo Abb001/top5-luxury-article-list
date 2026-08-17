@@ -1,16 +1,24 @@
 {
   "date": "2026-08-17",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-17T00:46:14.165Z",
+  "generatedAt": "2026-08-17T03:42:08.628Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-08-17.",
+  "message": "Found 3 article(s) published on 2026-08-17.",
   "articles": [
     {
-      "title": "Dubai Luxury Housing Demand Holds Firm as July Sales Cross AED 3.4 Billion - Realty Plus Magazine",
+      "title": "Concert Couture: How BTS and Other K-Pop Stars are Turning the Stage into Runways - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSW1uQmM4dzhWMW5CMnAxYVpmRGJIWDg3LW82eThhcFJMX3lybG5CZHFjQV9mTUxJeEpkOERTR0RxZVYxSDRKQ01OWjBkanVobWN3Y2V1TWVBa2gtcmlmM1dvTnFvUDVTQmloRzktS19LNUgzT0xJakVIZGdhcVZ0NGlUd1J2bUhQdGdhYjdRNl95SWNFaFB6S1Qwa0tFRmFFRi1YV1RYTdIBrAFBVV95cUxPakk3b1gwRUoxOWZFREU2WGZFQTVaWUN1RFZYRVBNdEl3S3RnQWRMWjMwemgwcllmaHB5eXZHYWJkSFEzSHI0NHNNU0VzbFZYdG5DczJmUlg4Z2VpMGxRN29nWUxIOXg3M0RnSWlHZmsxVzNKaUx0djZKeHpmb3VGeUFyM0RmclZPSzdKSkkxbVJSZV91NHl0SkRKS2RFWklDTWhlT0N0TDBLNHdw?oc=5",
+      "source": "Prestige Online - Singapore",
+      "publishedAt": "Mon, 17 Aug 2026 02:00:00 GMT",
+      "description": "Concert Couture: How BTS and Other K-Pop Stars are Turning the Stage into Runways Prestige Online - Singapore",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Dubai Luxury Housing Demand Holds Firm as July Sales Cross AED 3.4 Billion - rprealtyplus.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblJMUDU3aE9MeV8wcF9TaDdEaXE2SVU1T3NrdEFSR2ozY3Q3OXNHSzlWd2VRcVFGNUU1NHdEQkxrOUdXMl91MjV3X2ppa3Y2TVZEdEFpQmZvd3U3aVZXZ212MWZnVlhzS0dWOENfUXdNYVJ1bW5ZdUxOcEg4VUt3RHRvcHotRFBSWWhZSW9MaElxYzdpLTlrNE5qRU5EZFZpWmttWHVRSEQ1ZjdjaWJEY2hORXdzYnc0VENSdEVzWm81dW8?oc=5",
-      "source": "Realty Plus Magazine",
+      "source": "rprealtyplus.com",
       "publishedAt": "Sun, 16 Aug 2026 19:45:19 GMT",
-      "description": "Dubai Luxury Housing Demand Holds Firm as July Sales Cross AED 3.4 Billion Realty Plus Magazine",
+      "description": "Dubai Luxury Housing Demand Holds Firm as July Sales Cross AED 3.4 Billion rprealtyplus.com",
       "feed": "Google News - luxury business"
     },
     {
