@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-17T09:32:32.990Z",
+  "generatedAt": "2026-08-17T12:26:13.958Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-17.",
   "articles": [
@@ -38,12 +38,12 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Celebrities headline Maddox Jewelry's fashion show - ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVJJemRGaDJ6YlhUWFVqYkJON3lhdHFkQVlDSV9yeXNJR1lIcHNIcnFYRFBQQTZ1ZVFMN3ZUeUhBZFcwQkxfLS1CQ1haMDdRdXBrTVV1enF2MEJZeDc1QU9sSXM0WjFRLWVTVGZCQ09scFNrMXR3a09vYlVjWnhibDdkVDcyTEItdjU2ZU94R1pmUWJrMzZUd2xuVUs5d3d0ekxHTjluRzZzV2pZZEN0aWFhTEtCc3pKUndrS1luNA?oc=5",
-      "source": "ABS-CBN",
-      "publishedAt": "Mon, 17 Aug 2026 03:19:00 GMT",
-      "description": "Celebrities headline Maddox Jewelry's fashion show ABS-CBN",
-      "feed": "Google News - luxury fashion"
+      "title": "LVMH stock holds firm as new analyst target underlines luxury growth - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTJSZFRuaWpRTjUtVkhSQlhuMDl4ZV9oX3ZtTm9uSWxLYThQbzhNZ0twaHdUY2c1c2JpS1puVWtpcFBYdGN2OXF5YmdiOTNPMXpvbkpOT2dyeFQ4VEd6SmJqUnZvb19MdXJ0Q1NQbVZpYlk0Yzh5eklMd0RHdFM5elJJYTViNTcxVnp0R3hjV090dTJ1aV94ZEFhQmZkTFpFQ3p2c1I0ek5KaUtIQWkzeUZEbWNNYmRLX2dRVVNzSDFlMk94V1QxcVFCdw?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "Mon, 17 Aug 2026 04:45:30 GMT",
+      "description": "LVMH stock holds firm as new analyst target underlines luxury growth ad-hoc-news.de",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
