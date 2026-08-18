@@ -1,10 +1,34 @@
 {
   "date": "2026-08-18",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-18T12:27:56.209Z",
+  "generatedAt": "2026-08-18T15:22:39.137Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-18.",
   "articles": [
+    {
+      "title": "How the “Investment Bag” Became a Luxury Pricing Strategy - The Fashion Law",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUG9jY3F4NU1OTG51N216aG9JQlpQRjdjeXFsN2JHSDA5OFNiS1hhajJLbGk1T0NKY3lwNkhpM0lIUVNnSnpIdWNzMFQ0VTdYRVhwVlZVY3BCWi0wOG5ZWXY4cTZjOTZFNXZQcmszZzhQam45VFVLZV9lRWJ4SzRYWjR6RENXUkNTbHpBWGRkYw?oc=5",
+      "source": "The Fashion Law",
+      "publishedAt": "Tue, 18 Aug 2026 13:12:28 GMT",
+      "description": "How the “Investment Bag” Became a Luxury Pricing Strategy The Fashion Law",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Mathilde Favier, Dior's PR director, dies at 57 - Fashion United",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkdfazdqWGVBcXo3Um1qckpfWHN0S0dOeUhvVzM2SjYzSVM1WjJpUHZBdDNyLXhiMUNpRU5Oa2dwTmIxTzVOenM5QzlHREpsMFFNdVFMY3YxSGpDLWs2SkQyT3pmZ0hJN1dMVW5DYXVNRENmVktBTEJDTDF2aW1oYklOOFl0aDRlX0NkN2RSQW56c3d6OURXUDhKdGVHNHA1ektSajNQU21BdW4zekE?oc=5",
+      "source": "Fashion United",
+      "publishedAt": "Tue, 18 Aug 2026 12:49:46 GMT",
+      "description": "Mathilde Favier, Dior's PR director, dies at 57 Fashion United",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Why the West Asia crisis has pushed Dubai's real estate into a 'wait-and-watch' mode, but the luxury market holds firm | Real Estate News - hindustantimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUG11SU15ZU15aU9IQUZkQklibHhWNU56TWFzSG02Q01xZWJCeFJFTXZkUkpMMTBiaDQ0bXVyNE5iOHlHSGJfZmNoOTI3WGhGX0VDZ2NuRmFJZ0lWdllvNUcwcWRwV3pyNk1ySlNvLWVtMFNZNzlkc3JzOTZRdklqQ2pnNUl0OTJ0V2JCLXJCRW1WWlBBaF8zRXltUVQ1b1kyQzVZdU5OdnlidEd4TVJiQ0R1TDdvbFhISXpla3BMVWQ5cHF0eFZ6Z1R2UHFaa2VqdzBJdmJ1ZW80VmVtUnYxSlphcXI0elNZS2FqamlaaU9FRFdJVGxFb3JSRUZuU1ZEUnNDdm43eVdod9IBjwJBVV95cUxPeUJhNktQVFVhbjJrZXgtemtvZVhmSVpybThhN0dGWHpsUWJCNm44S0NpSElwRlVKeTBWM2ttdDJXRE9idDJLQ0VHc3hwR0NWazBCcDFoOGxzVkF4M1lRdWdnRUNfajBrOHp4MXczMFpwMEZreVFqUjU3NFExeDB4bFl6UGswb25mUnlKbkZ3U0ZiQjdVTmQwR2JwUHQ4M1ZPNXZ2QWliMl9QbGtXRUU3NEc2MmFVTDA3UzBoVE5HS0Z2RWxPc01yXy1sVXJjcnhSajVnR01PZmw4X3k1Y1luT0hIZzZyYTJYWWYyMnRUZ1VVUXNKS1h2YzdiZ21LM0RETl9WWHBVNzVxWEhwVktj?oc=5",
+      "source": "hindustantimes.com",
+      "publishedAt": "Tue, 18 Aug 2026 03:14:32 GMT",
+      "description": "Why the West Asia crisis has pushed Dubai's real estate into a 'wait-and-watch' mode, but the luxury market holds firm | Real Estate News hindustantimes.com",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "The Devil Wears Prada 2 and Fashion’s Hollywood Ties - The Bulletin Time",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUlCVjhIMldBZTFsVWI4dVI0RHFpLTNxREppRkstZnJRRTlpcTRxWmd4eDNHc0R6OWZ0WDJaR1ZLck9TQUJhdzNEUFRaYUE1ZWVzNVIwM3dwYllfVVhGVnlaQ1B3dHViX09JcW9YODZ4WDBjTUdfZ0J3cWJVb3FoTjJ4OVVBQ2ZYdW1UZ3ViTFJEQzdl?oc=5",
@@ -14,35 +38,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Dubai mid-market hotels outperform luxury as H1 occupancy falls - Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEZ6emtBeURjUlRES3NtQnZSX05vREdlaXhiVWRNa3VVTkNkYW9LUVh3eU1XcnBDaHE5Snp1cVVWemNLanowQzhkWVpXQi1xLVhUclhWS0I1a3hLZlBPMWxscG9ZTWh2ZUVzeld5X2I3dlMwRVp5SDRhSFBnVnRiaVhlc1M3SEVDSDJlSzM2MjZEa01TRzlqVXF5OVNxaHpHRjlkQ3dGU29DSnppdno3QzJDUU14OUVmLXVjQVRkSnkzdw?oc=5",
-      "source": "Arabian Business",
-      "publishedAt": "Tue, 18 Aug 2026 11:18:41 GMT",
-      "description": "Dubai mid-market hotels outperform luxury as H1 occupancy falls Arabian Business",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Steering Ambitions: New Luxury Cars That Are Redefining The Drive - LUXUO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWxRdU5NOFU1UUZlZE94ZzdXb0VtU0V4WEp3QjhJbjdQQ29BZWdwMkdKQ2tDeEVkcGp1UDVkTGgzcHFRWkVEaDVEbVRlNFZoemVvTTJPeHFmRlM0NWF0VzM0dUdCZkZuSTZVaklkUmlZMG5NWktfTGdvWkREV1IzVjZrY2p2RHAwRTJZREloUzdEc0JKZjZtSmUtRVYxbHFkd0hGb0VfN0NBQXViZjhUVg?oc=5",
-      "source": "LUXUO",
-      "publishedAt": "Tue, 18 Aug 2026 10:47:08 GMT",
-      "description": "Steering Ambitions: New Luxury Cars That Are Redefining The Drive LUXUO",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Luxury Skincare Market to Reach US$52.3 Billion by 2033 at 7.4% CAGR | Persistence Market Research - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUFDNzRNbTU5bWJQb3l6eU5zSU5lbnlOZU4wNVZzeG5meUo5ZzFuOTRnZE1FeFNrS0taVVdESWRyajBhRHBjU212SFdQd1RsQXhDelFTUzFMcURqUjZKa0R4T0x3Qjl4NTQzTVd6enhpcktpNEpsV2tyQktjVjNlXzBUN1YtWTVtX08xdnFPUUNxVjJsby14Y0JzWWFQYU0?oc=5",
+      "title": "North America Luxury Car Coachbuilding Market Is Booming - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcEJoTmxKUlc2MGE3ZGRCUHV1WmFJd0NNZTUwaXlSdXVRSVBULXlFZko4ZUE2UmdRREtCdjhnQS1YRnlrLWVpWlo1OVpIMDJ2NHdoQnhDcmloTFQ4TkM4ZmM1NHV6RzhjRkduYktiOHFvaThxZEkxNGI3cDhOYmlHc3BfdkdHM0xhMjVxLVN5dkd0R3g2M293?oc=5",
       "source": "openPR.com",
-      "publishedAt": "Tue, 18 Aug 2026 10:05:06 GMT",
-      "description": "Luxury Skincare Market to Reach US$52.3 Billion by 2033 at 7.4% CAGR | Persistence Market Research openPR.com",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Kanika Chadha builds profile in Dubai’s luxury real estate market - Hyderabad Mail",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWw5dzVpaTlOaHZjVnRGMHBVM3ZldE91emNKUHI2R2VQQ3p0Rm5Ja3lJT0daS1l0dktCdGZBUEQzSXZXVTJSWlRoRTZINXN3SDVWZG5EY0o3aHBrZDd0NFQwdi01RXFMQktHMkNqd095YklPcHk2SENYVTBGbERZN3pyOA?oc=5",
-      "source": "Hyderabad Mail",
-      "publishedAt": "Tue, 18 Aug 2026 09:35:21 GMT",
-      "description": "Kanika Chadha builds profile in Dubai’s luxury real estate market Hyderabad Mail",
+      "publishedAt": "Tue, 18 Aug 2026 14:18:31 GMT",
+      "description": "North America Luxury Car Coachbuilding Market Is Booming openPR.com",
       "feed": "Google News - luxury business"
     }
   ],
