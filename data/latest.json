@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-19T12:28:27.425Z",
+  "generatedAt": "2026-08-19T15:22:38.257Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-19.",
   "articles": [
@@ -12,6 +12,14 @@
       "publishedAt": "Wed, 19 Aug 2026 03:36:19 GMT",
       "description": "Beyond the runway: The luxury watches fashion’s top creative directors swear by Prestige Online - Singapore",
       "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "NOIR & BLANCO: MarTech backbone for luxury, lifestyle, and fashion brands - Indian Startup News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkR5WDNhb0VPenp5THdkaFMtUk1pN1lfN09BYUYybUJZRUF0ejRGSHU2Q3hwWDJwZldxVFVhZWV6M3Z5STNQLWw0dkRnQmN3Vm5OcjdUUjNjTklIQmVfZTloMHVhWFZkdDB4V2JockhzbE5yOVRzSmRmaGVOSk5VOE9MYzZqTFhFdm9sUHVPWElnV0JlYXFqaGJRcW5HQktCVndMdEFoUTBsX0dsdGU0Tkw5UWVzUdIBtgFBVV95cUxNMkR5WDNhb0VPenp5THdkaFMtUk1pN1lfN09BYUYybUJZRUF0ejRGSHU2Q3hwWDJwZldxVFVhZWV6M3Z5STNQLWw0dkRnQmN3Vm5OcjdUUjNjTklIQmVfZTloMHVhWFZkdDB4V2JockhzbE5yOVRzSmRmaGVOSk5VOE9MYzZqTFhFdm9sUHVPWElnV0JlYXFqaGJRcW5HQktCVndMdEFoUTBsX0dsdGU0Tkw5UWVzUQ?oc=5",
+      "source": "Indian Startup News",
+      "publishedAt": "Wed, 19 Aug 2026 13:28:21 GMT",
+      "description": "NOIR & BLANCO: MarTech backbone for luxury, lifestyle, and fashion brands Indian Startup News",
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "H&M, Cole Haan and Vêtir are Glossy Fashion & Luxury Awards finalists - glossy.co",
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "'Two Ugly Things Together': Dior's Embellished Polo Shirts Spark Fierce Criticism Online - fashiontimes.co.uk",
+      "title": "'Two Ugly Things Together': Dior's Embellished Polo Shirts Spark Fierce Criticism Online - Fashion Times UK",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkVxRG1EYmNzcjVWRzB6VUdZRDViX2tqMUh6UTVrUnFEMFEyTTZtT0xQdlJRMHVwcDZ5UUUzOHlXaDZrQlBXNTdRbUVzeW1qRFNrVDJVbm84d2NQWVJWYkFkX21sbEN3SXhUVEM0QTFoVDZjTW44Ynh3UlE1QVQ4RThuTVJlTVFf?oc=5",
-      "source": "fashiontimes.co.uk",
+      "source": "Fashion Times UK",
       "publishedAt": "Wed, 19 Aug 2026 03:52:15 GMT",
-      "description": "'Two Ugly Things Together': Dior's Embellished Polo Shirts Spark Fierce Criticism Online fashiontimes.co.uk",
+      "description": "'Two Ugly Things Together': Dior's Embellished Polo Shirts Spark Fierce Criticism Online Fashion Times UK",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Luxe Shopping Platforms: The REVERSIBLE Luxury, for Less Highlights Designer Fashion Deals - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EQk10Q0RLa3RWS2JWYU5ISEVKZXVhRDBFZlV6dW14OENlRGx3YXZ6dWNJZDQwMXNCempRdlJ3UGQ4bmd1MjRTTC1VMm1YQnZZa250ME02MV9na3kwSFp2Q0xCd2JVeUZ5RlpNWmVB?oc=5",
-      "source": "Trend Hunter",
-      "publishedAt": "Wed, 19 Aug 2026 00:36:07 GMT",
-      "description": "Luxe Shopping Platforms: The REVERSIBLE Luxury, for Less Highlights Designer Fashion Deals Trend Hunter",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
