@@ -1,10 +1,18 @@
 {
   "date": "2026-08-22",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-22T09:18:35.722Z",
+  "generatedAt": "2026-08-22T12:21:55.868Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-22.",
   "articles": [
+    {
+      "title": "Dubai’s ‘Barkin Bags’ turn shelter dogs into luxury fashion all in the name of charity - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9idXlCTG5FYl8xN3RKWEpuTmhPMlAzZzdSMWZPd3VmdElKZ1B5MHc3X2pveDFlOXFTZDJRd3hMaVk3RGlrb0NGekhMVld2UHhmR0NQNl9mQ0luNXFubVFIVlBVTDJDU1hKc3hzVDE3T3owNEd0NlE?oc=5",
+      "source": "Arabian Business",
+      "publishedAt": "Sat, 22 Aug 2026 10:00:00 GMT",
+      "description": "Dubai’s ‘Barkin Bags’ turn shelter dogs into luxury fashion all in the name of charity Arabian Business",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "LVMH stock slides 30 percent in 2026 as China luxury demand cools - Ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGhYV3FkcDZneDZFNjVGamQ0UHFoU1NjaDY0QzZFeXhsdmdoUWN5eHVIQ2xOOVBPMlNSMnhFRUItblhjVTV5VEtiXzhpZkhtUS1lNXJxWnFxakdGY2xPX3RkM3lXWWZISkwya0J2UEdfQjBFMWJKYlhFNzJ0cGEtbUlyYzhJcWFPOFd4dVhvQ2lYY01RQ3FwU1BWOW45U2NYS1BwaTRpVVpWM3d2a2IxLVIxUzBtZmFkNTN4bnZPa3FnX3VDYnM0?oc=5",
@@ -36,14 +44,6 @@
       "publishedAt": "Fri, 21 Aug 2026 19:00:23 GMT",
       "description": "Mike Ashley’s Luxury Bet Is Getting Bigger, but Does It Add Up? The Business of Fashion",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Video: BMW on India’s Luxury Market: X1 LWB, EVs & What Comes Next - Autocar Professional",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWI4SzhGUE9lUmhIelI0d0FVQ2pqOHZHX1dtOFpodHRwbG9SbE5rSjRpZGxnTUNObGtBdy1QX1dySnU0d0F5QXVwT0dRQmhDOWd3WDNTbHhKei00NkRnM2F0QlZPSEU4MW54ZzFzUVRweGgyYzBtXzRsc0JtZlhYVXVfWkdwbFkyeGdWVkh6aWQyUG9XaGN5X0ZOQXA1UzEy0gGoAUFVX3lxTE5Xck4wcFRrRHNhSndHSnBMYnRKX2tBZjQ3UDB3VVJYbWxfTk40MF9XMlMyU1hxcWlXT2hJdmFLN3dxbjgzRmtKTWdsRWFGaE1hSXJ6dWY5UkRYWVdySTgyU2NmUTZlcUs4VWdPb0Eza3Awd242ZTlLb2lUWlpMbFRBQXp5bVZFUTVBWFVJdld5VUhwT1NXekd3YU92OHF2YU5UMFl5NU50aQ?oc=5",
-      "source": "Autocar Professional",
-      "publishedAt": "Sat, 22 Aug 2026 08:07:46 GMT",
-      "description": "Video: BMW on India’s Luxury Market: X1 LWB, EVs & What Comes Next Autocar Professional",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
