@@ -1,9 +1,9 @@
 {
   "date": "2026-08-23",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-23T03:42:33.196Z",
+  "generatedAt": "2026-08-23T06:26:21.205Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-08-23.",
+  "message": "Found 3 article(s) published on 2026-08-23.",
   "articles": [
     {
       "title": "Cardi B’s Latest Chanel Stage Look Is Straight Fire – Literally - hellobeautiful.com",
@@ -15,11 +15,19 @@
     },
     {
       "title": "Luxury sales plunge in China as tax push hits rich shoppers - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcUVtTGJEbmlGV3NfemJ3OGl3dll1VWlMRW41dEhIc2J6WlVKR0VDeFZ6TWpYNjM3bjBHNUVnT3pQNHI4WWs2dDdWcmVncktHVHd4bTF3N2ZETVNMSk04TjFwWGdWeFhPNEM0LVJFWS1TRGdjU2tPbk5HdFQ2d3JJX0d2YW1sbjRkLXBLOUs0UXpuN1hmM2JYS3Z1Q3BwbzFraE9nTzB3NTNZeXlmaHdyanFXQmFUUWlqNkU0UGw0TXIyLXdITTVfdXhlTmh1M01fWXdtc0NfazF2ZFh4bEcxeXVqbGJRVlB4TzFpUi130gHuAUFVX3lxTE5xRW1MYkRuaUZXc196Ync4aXd2WXVVaUxFbjV0SEhzYnpaVUpHRUN4VnpNalg2MzduMEc1RWdPelA0cjhZazZ0N1ZyZWdyS0dUd3htMXc3ZkRNU0xKTThOMXBYZ1Z4WE80QzQtUkVZLVNEZ2NTa09uTkd0VDZ3cklfR3ZhbWxuNGQtcEs5SzRRem43WGYzYlhLdnVDcHBvMWtoT2dPMHc1M1l5eWZod3JqcVdCYVRRaWo2RTRQbDRNcjItd0hNNV91eGVOaHUzTV9Zd21zQ19rMXZkWHhsRzF5dWpsYlFWUHhPMWlSLXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVkwdTMxUzNTaVp6TXY3b0NZNFV2VU01NW4zSlR6UWZKZ0k0RU55cFNMcEpiQldMZW8zZThNRFR6b3ozY1lGUzRTNjNLc1otSTVQVHlLNHIyOE56SHF6ODY3MHBmcXV1WkZLOWIzWUVsY09qZUdHOU1PWVh2dmNiUld1dEp2dHVEUkdYaXlGSnFRbjZfUmd3aGdzTERleU4xQ2pLOTh6SzhrM0FDS1lVSnhVZ3hNZjdyQUZ3TzZwLWFiTXlTUnRWWFFJcUw1cmppdnQ2bjNEZFJXVUVrTDJHSUtFR1Y2YnRS0gHuAUFVX3lxTE5xRW1MYkRuaUZXc196Ync4aXd2WXVVaUxFbjV0SEhzYnpaVUpHRUN4VnpNalg2MzduMEc1RWdPelA0cjhZazZ0N1ZyZWdyS0dUd3htMXc3ZkRNU0xKTThOMXBYZ1Z4WE80QzQtUkVZLVNEZ2NTa09uTkd0VDZ3cklfR3ZhbWxuNGQtcEs5SzRRem43WGYzYlhLdnVDcHBvMWtoT2dPMHc1M1l5eWZod3JqcVdCYVRRaWo2RTRQbDRNcjItd0hNNV91eGVOaHUzTV9Zd21zQ19rMXZkWHhsRzF5dWpsYlFWUHhPMWlSLXc?oc=5",
       "source": "The Times of India",
       "publishedAt": "Sat, 22 Aug 2026 21:20:00 GMT",
       "description": "Luxury sales plunge in China as tax push hits rich shoppers The Times of India",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "9 iconic designer bags to buy now and love forever - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEJNM3JZS0lESWpJSTNod2tCSDc5b3JZU0hyTEppbm1tZ0Q4el9YeVkyRkVSaHk4c3czc1lCSUVHTndCUGo5M0w0dTlhbzhzRmpwT1B5RUt6M3EzaTI0WTZpby1tRUFVRjVOdGZ1ZWhzQlRfck82WlF0Q0pfSmdHT2ZpeVMxWFFUTUFXZFpPaDdNNG5nTURuaF9yR1ZPV1BKV0VESA?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "Sun, 23 Aug 2026 04:05:07 GMT",
+      "description": "9 iconic designer bags to buy now and love forever London Evening Standard",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
