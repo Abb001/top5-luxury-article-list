@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-24T12:31:16.637Z",
+  "generatedAt": "2026-08-24T15:31:06.205Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-24.",
   "articles": [
@@ -12,6 +12,14 @@
       "publishedAt": "Mon, 24 Aug 2026 11:48:08 GMT",
       "description": "Caitlin Clark Embraces Luxury in $1,650 Prada Heels as WNBA Star Switches Up Her Style Fashion Times UK",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "How DSF Antique Jewelry is building trust in the modern luxury market - London Business News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk9aNmpUWER1anRsWHNTRW9nWm9MQ3FHTlBXTkxDaG5zOXJwYjVKck9Gd3VFbUFYYlZ0djVfNzN4V3RETTBUY0NQaXVhbWVnNlJLLVdyRkZYN1JodjZzTW1oQnBGYm1LWVcwRVpaZWY1TUZxQVNlbjlibzFNQ3pUWDZiSTQxc016cXVZODVjWWdxTnY4M3RPRzlBeGpxUkJHUHJnOQ?oc=5",
+      "source": "London Business News",
+      "publishedAt": "Mon, 24 Aug 2026 12:26:40 GMT",
+      "description": "How DSF Antique Jewelry is building trust in the modern luxury market London Business News",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "Fashion and Luxury Newsletter - Norton Rose Fulbright",
@@ -36,14 +44,6 @@
       "publishedAt": "Mon, 24 Aug 2026 09:33:00 GMT",
       "description": "Jacob Elordi's Cartier Watch Is Another Reason To Envy His Romance With Kendall Jenner Esquire India",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Kering stock reacts to China luxury slowdown as investors weigh Gucci recovery - Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDF1Z1JNV193NWxaaXpFdmtLQ2JCRXhaRHpYcmE2UFZ3LUNQVWJEWDVJWS1kUXA3OEdkbVNLN0ZUUDFueEdIZGNvZUtyVS1wX3FBWm5rWnVlNXRkei1kLXdDVC1rV3QtRldoQ3pxQy03cFFtN3pHYURTazhXX09hdkk4UUFzcEpxNlpfQVFtZkRjZEwtY3lqdVVLV0RHYTFSQU9lRVljVWRqTHl1MGRqSTBDR2ZXYU82Y2RJdjdGZHR0eDNIMndUbEtFdEE?oc=5",
-      "source": "Ad-hoc-news.de",
-      "publishedAt": "Mon, 24 Aug 2026 06:40:25 GMT",
-      "description": "Kering stock reacts to China luxury slowdown as investors weigh Gucci recovery Ad-hoc-news.de",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
