@@ -1,50 +1,13 @@
 {
   "date": "2026-08-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-24T06:39:18.725Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-08-24.",
-  "articles": [
-    {
-      "title": "LVMH stock softens as China luxury slowdown weighs on outlook - Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0t3RWduZVRySGtoSFNtMnVnZnFrRU0wOUFwV2NZd0pDVmQ1WjZEQkdlRGFmci1obFBGZ1kydEV1ejNldkRlLXRneVhJMTRUTUhiZWdmRnRVbTk0Nkc2dlFxTjdveUVZbTQ1X1NJNHk1LWFUYmViMlE3TmFaY1lNMm5qdjJ1dW1YOTRaNEFxaktEWmhuYWk2OU9DaFpzSGVEMHJQMFdIY21tc2YydzFOY3Z5Qko4UUNOZm5mUktTcmFTdw?oc=5",
-      "source": "Ad-hoc-news.de",
-      "publishedAt": "Mon, 24 Aug 2026 04:47:29 GMT",
-      "description": "LVMH stock softens as China luxury slowdown weighs on outlook Ad-hoc-news.de",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "In Luxury’s New Resale Era, Everyone’s a Fashion Expert - Vogue",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlB1bWpEUks3dndFYkd0Zm43amZ3Zkt3VFJndFpnSjJPNHlWR3p2TDV3QVpXdVd3clMxYk5QQTlQQU02ZW9kNWJpdGNnUF9KcTJGMF9Ob3JaanRYUVg3T0g0dUQzQkRrcDBSZXlJYjNSV3ktSEFJeHp0VXE0YkJkMHFlZE1tVDFiX3c?oc=5",
-      "source": "Vogue",
-      "publishedAt": "Mon, 24 Aug 2026 04:30:00 GMT",
-      "description": "In Luxury’s New Resale Era, Everyone’s a Fashion Expert Vogue",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Cardi B's Chanel Obsession Is on Full Display: Rapper Flaunts Eye-Catching Designer Bags in Lavish New Haul - Fashion Times UK",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uekNpUWFQQzBrMVNPUUpEQm5QY25BalFVVE9aVGRiMUt3aUZWdGtMUkNBRnFjRnpGT0NGMEVaelZTYWVLM1phbUtUWnFDZlJPM0ZqQ19qNW1wYTRWb1VTeWd0YV9JREQ5WThoYW1CVlhFYVhDZHlhbk5qbzM?oc=5",
-      "source": "Fashion Times UK",
-      "publishedAt": "Mon, 24 Aug 2026 04:22:42 GMT",
-      "description": "Cardi B's Chanel Obsession Is on Full Display: Rapper Flaunts Eye-Catching Designer Bags in Lavish New Haul Fashion Times UK",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Aston Martin Beneath the Statue of the Goddess—British Luxury Today at Nihombashi Mitsukoshi - fashion headline",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43QjYtcHBnQTQ4aTk0TG5OLUFhWGlSWUthR0hhcFR3cktoNVdkU3JnTU5BdExzVWpicXBod3UxMXJ5WHNrdGo1ZUJtWUZuNHpWaVVMNTJhZkdmdHlxV2c?oc=5",
-      "source": "fashion headline",
-      "publishedAt": "Mon, 24 Aug 2026 02:00:15 GMT",
-      "description": "Aston Martin Beneath the Statue of the Goddess—British Luxury Today at Nihombashi Mitsukoshi fashion headline",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury success demands evolution and engagement - analyst - FashionNetwork - The World's Fashion Business News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWh5bV9HSDBOVlpFdGxWOFFJcDdwMW9KUlVpczIyY0Q5SEVFcm9NVVlkUkk4OWM1T0l5amNVazBReFN1bkVybDZDakx2N1hWYkNmUHJ1QmltMVRRNm5YY2ZiVUFIMFJDbVlIbC0xblQwOWEyd2NLbkhwLTA5dExBdlVVZ0h5djAxemswMFNRNklscmduaGVVTTNwaVJ0REs2dXRNdjNR?oc=5",
-      "source": "FashionNetwork - The World's Fashion Business News",
-      "publishedAt": "Sun, 23 Aug 2026 17:16:19 GMT",
-      "description": "Luxury success demands evolution and engagement - analyst FashionNetwork - The World's Fashion Business News",
-      "feed": "Google News - luxury business"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-08-24T09:38:04.958Z",
+  "status": "empty",
+  "message": "No articles published on 2026-08-24 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
