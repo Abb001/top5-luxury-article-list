@@ -1,13 +1,50 @@
 {
   "date": "2026-08-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-24T09:38:04.958Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-24 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "generatedAt": "2026-08-24T12:31:16.637Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-24.",
+  "articles": [
+    {
+      "title": "Caitlin Clark Embraces Luxury in $1,650 Prada Heels as WNBA Star Switches Up Her Style - Fashion Times UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcU9PY3I1ZXJ1R2gxVlBETTNpX0hXWFBycTRlMFVqX0NlRnhrMjBPXzBEU2Q4UXMzOVhiY0M2TjQ5T0E0Z3Jna21MMEJ0R0g4WHVEYk5GelhvZDUwX3F0UHc1a3lDUncwQ0V3UlkyTm9LRDhzeEhQZHM1dm15bG5VLVgtanNwRmJhZXc?oc=5",
+      "source": "Fashion Times UK",
+      "publishedAt": "Mon, 24 Aug 2026 11:48:08 GMT",
+      "description": "Caitlin Clark Embraces Luxury in $1,650 Prada Heels as WNBA Star Switches Up Her Style Fashion Times UK",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Fashion and Luxury Newsletter - Norton Rose Fulbright",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEYwd0s2dExFbUxCQlJIWTNBcTlvdlZRRUN0Ty1HTWpFbC1rWkNxRDRocWd3NVhQd0F6cF9BTWxWUk02SEw3OHNXa0RQRllwNElrb0s5aXFLb3FYeVgzNkdNVDlTUldmTGllSWFzbHB4WDRKYWtGMl9zWVJnb1RiVHBSNGI4UnltVDBTR2VhX2hvOG9hR2NBaGVjd2ktVVFRX0t1QktOc3pZaWJQbnc?oc=5",
+      "source": "Norton Rose Fulbright",
+      "publishedAt": "Mon, 24 Aug 2026 11:25:37 GMT",
+      "description": "Fashion and Luxury Newsletter Norton Rose Fulbright",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury fashion giant Mulberry is coming to Liverpool ONE - The Guide Liverpool |",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVENpTzBqR2VRbGNSckZoaEtoTFZWenNTN0FhSjVBRnJUd1lxbWR5dm9JeEg3Z3JMQ2pyOVQyY29kRDI3d29rR3hyN2Q4VFRMXzFaWVRQc0EzMm8xdHJpaWN1VmtrMmQ0NzBqSHZqSXRNdERFRVVGOFJSUWkyUFRXSkdWMXluQ1c0bFJHRDA0bGQ?oc=5",
+      "source": "The Guide Liverpool |",
+      "publishedAt": "Mon, 24 Aug 2026 10:56:37 GMT",
+      "description": "Luxury fashion giant Mulberry is coming to Liverpool ONE The Guide Liverpool |",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Jacob Elordi's Cartier Watch Is Another Reason To Envy His Romance With Kendall Jenner - Esquire India",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdS1TQ1VGT1R6SE1QY3U4UHdfc3dVN3lRbFRNQTJ1aW1XUXFGS0c1elNtS2ZLQVVfQWNxcnBQSXl0V3NBSlI0Z2pzVllxYXViX1FDREhnTzhQTVo4LTk4bE9xM0J0Rlkyd05kUnV6cVpSR3ZfcDJQd0ZCZGpodUZZOHJwZVJzY0MycFNHX0VJQk9lWGZjaGF6UTRiNEthYzJ0bTA3MXJxUUJoZzNEQy1PTGhfY3RNSTVIMmF5Rk45VVRvTGlMOFFzRGxHTTZ6eXp3MWVEMEhUVS1sbGdCWmc1Wm02VXlQamg0ckQ4U0huSXZwbFZvdy0wVDBlWkxFODhaQWU4aTRB0gGGAkFVX3lxTE91LVNDVUZPVHpITVBjdThQd19zd1U3eVFsVE1BMnVpbVdRcUZLRzV6U21LZktBVV9BY3FycFBJeXRXc0FKUjRnanNWWXFhdWJfUUNESGdPOFBNWjgtOThsT3EzQnRGWTJ3TmRSdXpxWlJHdl9wMlB3RkJkamh1Rlk4cnBlUnNjQzJwU0dfRUlCT2VYZmNoYXpRNGI0S2FjMnRtMDcxcnFRQmhnM0RDLU9MaF9jdE1JNUgyYXlGTjlVVG9MaUw4UXNEbEdNNnp5encxZUQwSFRVLWxsZ0JaZzVabTZVeVBqaDRyRDhTSG5JdnBsVm93LTBUMGVaTEU4OFpBZThpNEE?oc=5",
+      "source": "Esquire India",
+      "publishedAt": "Mon, 24 Aug 2026 09:33:00 GMT",
+      "description": "Jacob Elordi's Cartier Watch Is Another Reason To Envy His Romance With Kendall Jenner Esquire India",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Kering stock reacts to China luxury slowdown as investors weigh Gucci recovery - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDF1Z1JNV193NWxaaXpFdmtLQ2JCRXhaRHpYcmE2UFZ3LUNQVWJEWDVJWS1kUXA3OEdkbVNLN0ZUUDFueEdIZGNvZUtyVS1wX3FBWm5rWnVlNXRkei1kLXdDVC1rV3QtRldoQ3pxQy03cFFtN3pHYURTazhXX09hdkk4UUFzcEpxNlpfQVFtZkRjZEwtY3lqdVVLV0RHYTFSQU9lRVljVWRqTHl1MGRqSTBDR2ZXYU82Y2RJdjdGZHR0eDNIMndUbEtFdEE?oc=5",
+      "source": "Ad-hoc-news.de",
+      "publishedAt": "Mon, 24 Aug 2026 06:40:25 GMT",
+      "description": "Kering stock reacts to China luxury slowdown as investors weigh Gucci recovery Ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    }
+  ],
+  "fetchWarnings": []
 }
