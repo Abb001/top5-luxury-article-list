@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-25T09:26:42.004Z",
+  "generatedAt": "2026-08-25T12:31:21.180Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-25.",
   "articles": [
@@ -12,6 +12,14 @@
       "publishedAt": "Tue, 25 Aug 2026 07:04:01 GMT",
       "description": "These Are the 8 Best Fashion Museums and Exhibits in the World—From Rare Dior Pieces to Centuries-old Couture Travel + Leisure",
       "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Emerging Designers Are Gaining Momentum on the Luxury Resale Market - fashionista.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFhvM0h1VmZhal9qWHo1dFd4bF9PN0xUTE4tY1JMUjBfd1NZbWZYc2k0Umk0SzZfNGVWeHhzNUlMSW9iQXpJQ2RJclBONjVWZ2ZSQTE3OTFEQTZ1QnFPRmtwM2xBTld1NHFhYW9XelU4TmRvLUhwZDRIemRKOEV2eFdiVVFvbTYzUVE?oc=5",
+      "source": "fashionista.com",
+      "publishedAt": "Tue, 25 Aug 2026 11:00:00 GMT",
+      "description": "Emerging Designers Are Gaining Momentum on the Luxury Resale Market fashionista.com",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "Chanel scam: Luxury reseller calls out widely reused serial code - Inside Retail Asia",
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "‘The Devil Wears Prada 2’ is all about luxury, but to what end? - Cedarville University",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWJvUUMyU2ktRTBvcmVsaFlSdTg4N0ozaTFYOEtTQ3BsMjVPS0dmS21QV19adHVYWnRXQ21pMU1DM052Wm52bFFaaU9QS0ItcGZBRTJRTUFnNVBvZHFfSXpGVnROTjFqRnVxRE5ULVlaM3hXRzdKblh4Y1RHckhBVzZIdmJIZzVYYWtnTUlUVnEtNE9IeEVSTVh2V2hGclE?oc=5",
-      "source": "Cedarville University",
-      "publishedAt": "Mon, 24 Aug 2026 18:35:55 GMT",
-      "description": "‘The Devil Wears Prada 2’ is all about luxury, but to what end? Cedarville University",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Chinese Singer Liu Yu Champions Indian Craftsmanship In Manish Malhotra Paris Couture Creation - oneworldnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYjlFQU5TMGhzLTIzZy0tb2I4VF9HcEExRWVwUDBuTkdlaEdZN0hwTmUyd3VZSDdNMDZrV3FtQ1JLWnZRd0ZrMkRWYjhnRVJQMzVOZWFQaVdhMUE?oc=5",
-      "source": "oneworldnews.com",
-      "publishedAt": "Tue, 25 Aug 2026 08:16:37 GMT",
-      "description": "Chinese Singer Liu Yu Champions Indian Craftsmanship In Manish Malhotra Paris Couture Creation oneworldnews.com",
-      "feed": "Google News - luxury lifestyle"
+      "title": "Dubai luxury market shifts towards trust, exclusive property access - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlF4Y2hhNHlXOXpFYUo2NXRQZ0o4c3R4eGhnM0ZIcHY3TDdPbFZEMkU3SS1YVEZGMlJ2ZHN0cDk4bmFFTTlSSFBBMGEybTNZWElaZ2p5ck5EdzY1WklCMGtyS0EwSy1WdUhOeFhnOUNlZDRLTzhxVXFDc0RhTEh3OGhfQUNlbkUwMHhGbHNoeW1RajRXQ3JKb01qOGVQVGJoT053RGpoYUViN244S2ZqdFBuZWtCd3R30gHLAUFVX3lxTE9xcms5blgxNzJrUTZvSEktUHd4YWZSWmFKenl0TnQ0dTB4WEJMRTluSTE1SFB2RFpDZjJMZE42S1YzNjN5ZDc4RmRfZ0lYV2NhRUhLcFZGVFljYlh4NzRPOGpiV0ZKWXVMc0ljazBNTzExeWh6MmlpNDNjVDd2ZmhLaFlaT2JZaG5qRzlFNmY3dk1HQ2hFLVVEdG1LMU5ZMW11SVhTeHNfVk9ORkN0SW5oWFRRbUVvZHU2cHhQWElwajZkMnhZMlpEVzk0?oc=5",
+      "source": "Gulf News",
+      "publishedAt": "Tue, 25 Aug 2026 11:59:08 GMT",
+      "description": "Dubai luxury market shifts towards trust, exclusive property access Gulf News",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
