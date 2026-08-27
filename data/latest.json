@@ -1,9 +1,50 @@
 {
   "date": "2026-08-27",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-26T16:11:11.891Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-27 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-08-27T06:20:00.214Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-27.",
+  "articles": [
+    {
+      "title": "LVMH Rises, but 22.5% Margin Cannot Fix Luxury's Confidence Gap - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PaUpLZzhEYTl4RnpUc1Z4cENsVUhrZTNaamg3VVdINGloei0tZGw1MHBFLVNmVlRVelBxYnVRLXJwdE8yLWN3dHR0TTB4TTBHUGtZSUEwQ1RsSE1WdnhsMndnVzN1dnc2SWVlMnFPVGQ3VXk1dUhtMzhEOA?oc=5",
+      "source": "Yahoo Finance Australia",
+      "publishedAt": "Wed, 26 Aug 2026 19:53:04 GMT",
+      "description": "LVMH Rises, but 22.5% Margin Cannot Fix Luxury's Confidence Gap Yahoo Finance Australia",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Peter Millar: 25 Years of Timeless Luxury Fashion - Modern Luxury",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX1cxNWt4SnQ5b3h1MkxhdlJzcTZ6WFZxRUJlRHBmU3dmOUxyV2NiNHJPbk9FUWMtN1lWWFRoTHM5U2p6a3p5T1lpeExFeG9Xb0tacERTdHR6N2lydHFlQ2lyVm81akpFSlgtYjRVRlpZaDhFSGd6aDRJTEIyc0pjbGZpXzJJcUZVajVj?oc=5",
+      "source": "Modern Luxury",
+      "publishedAt": "Wed, 26 Aug 2026 19:09:58 GMT",
+      "description": "Peter Millar: 25 Years of Timeless Luxury Fashion Modern Luxury",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Seiko’s whimsical watches buck the luxury norms - AFR",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDRmemtwVDl3VGxicnZTZjJNZExQVUc3Z3ZydnVHbDFBN2FoQUNJdVVTYTRFTHNZaGdENjVBeEpEX0pPV3d6dEZNWjFydXgtU3Q3TmExa0MtUDVjcXZsQkpaU3dqNU5mWExhcTRNUVNMSnFOcVJQUWMycmNWVDFSUURnbTQ3YUdqT3hQTkhaUlp6X3pxR2RlVTZ2X3JPY1BVdEtxcTdUWVc5bTk2N2VOVjl2a3JwbEk0cFdxalo4UGV4NFlQcE9sQnBITnRTQQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "Wed, 26 Aug 2026 19:00:00 GMT",
+      "description": "Seiko’s whimsical watches buck the luxury norms AFR",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Is wellness changing the future of luxury real estate in Dubai? - Construction Week Online",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcC0xdUdNUmVMX0VPTHhabHVpUlpkSjVpcGdsN2NnMW80NFdUNEJrMFgzbWQ4UVBKRVRHcDI5QnpmNXQ0TnJ3dzd6TV9NbUVyb2gxQUpBSXhDSWR1N1U1bktQUUlzckp4bTJaZ295UlFvaV9VRk9CVy15dmZ4b1BqMjg1a1BGSGVfQmhVOGk1a2hNaUdaSXdieTVuaTJrUWJ3WXQySnBBZG9jZnAtSzNJ?oc=5",
+      "source": "Construction Week Online",
+      "publishedAt": "Thu, 27 Aug 2026 05:10:29 GMT",
+      "description": "Is wellness changing the future of luxury real estate in Dubai? Construction Week Online",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Top 10 U.S. Cities Where The Luxury Housing Market Is Dead Regular Show Lost Tapes (uOFTaa5Lee) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tQXVzR2NCSW5rdWI4ekJsY2REdUJreV9HUkNPRWdiWTZ0Y2oyRlRJTXVUMlVZMHpiN0pGMTNRZGFsWnVVTmZvUDJURV96TWNIbHdkVnVEUUt1ZHc?oc=5",
+      "source": "Mshale",
+      "publishedAt": "Thu, 27 Aug 2026 01:39:37 GMT",
+      "description": "Top 10 U.S. Cities Where The Luxury Housing Market Is Dead Regular Show Lost Tapes (uOFTaa5Lee) Mshale",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
