@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-30T08:45:26.787Z",
+  "generatedAt": "2026-08-30T14:09:24.115Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-08-30.",
   "articles": [
@@ -14,8 +14,16 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "From the Vatican to Haute Couture: Pope Leo XIV Lands on Vanity Fair’s Best-Dressed List - NEWS.am STYLE",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFpPU2ZTczFZLVFaSlZieG1CUEp3NVMySnVaYTBGcGtqUERNS0FUWWpwNjVDMlVoOUJyaUo2OTEwZVZqU0YwU3lwVGFJZEZJanQ3dEFBeGcyN0VLOUVTd01GLUVodkx4NHVXUGtNVWIzcHlQSk9zZ3AwQk5PaTZabUJwWmZ5bWk4MFVsZTgzeWd5czNsbk5oMWRmVldkUTFoMGRDV24wa1pVQU5tYllvWVpJWWw2RDhmYWx2dFFicGhlTEJjVkVncQ?oc=5",
+      "source": "NEWS.am STYLE",
+      "publishedAt": "Sun, 30 Aug 2026 11:20:34 GMT",
+      "description": "From the Vatican to Haute Couture: Pope Leo XIV Lands on Vanity Fair’s Best-Dressed List NEWS.am STYLE",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
       "title": "SRK, Salman-backed fashion clothes company Purple Style Labs brings IPO: Investment starts from ₹546 per sh... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnBQSDVveUhTdlhtNXBrbWxZQ0JCOEZ6eFo0ZkNyTTdETVNmSTItX2U4TnFEN1Mtczc0QXJVUXpHUEIwa3RBQ3czWHNoNExRYWJXaHpkN2dxNkMyWmhfU0dQNElzWnBiSXhtTlNrdTV5RHE0T3drOTQ2cjU1OUdwTmptYXFKSWJoSFNxMk5SeFNtWElCMDlPMmNFYy1IRUV4M0MtWmZrQ3FRYXJxdk41N3lhVHRTVWdzZlNkV0dCMNIBvwFBVV95cUxNUnBQSDVveUhTdlhtNXBrbWxZQ0JCOEZ6eFo0ZkNyTTdETVNmSTItX2U4TnFEN1Mtczc0QXJVUXpHUEIwa3RBQ3czWHNoNExRYWJXaHpkN2dxNkMyWmhfU0dQNElzWnBiSXhtTlNrdTV5RHE0T3drOTQ2cjU1OUdwTmptYXFKSWJoSFNxMk5SeFNtWElCMDlPMmNFYy1IRUV4M0MtWmZrQ3FRYXJxdk41N3lhVHRTVWdzZlNkV0dCMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdE1RMFQ3TFc4OEY2cTVmMFBSU3JORHVWbk8zTXo4anNjenNvNTQ1emRwZG0tUHctSHRJRWFDS2h0MjR3bjhyMWp2RlpJM1prVVVncVR0aDFUN3hkcERCdWVuVUgwWGVNMUZRakxfU0VGRnhVZWZ6U1B3NEFrTHA0cTAwLTR2eFFSenhqY054ak5TS1k4XzBzaktHaGRPd0FGZUZsRHh6alNadVhxSGNfd2VYU3NiaTkzQWfSAb8BQVVfeXFMTVJwUEg1b3lIU3ZYbTVwa21sWUNCQjhGenhaNGZDck03RE1TZkkyLV9lOE5xRDdTLXM3NEFyVVF6R1BCMGt0QUN3M1hzaDRMUWFiV2h6ZDdncTZDMlpoX1NHUDRJc1pwYkl4bU5Ta3U1eURxNE93azk0NnI1NTlHcE5qbWFxSkliaEhTcTJOUnhTbVhJQjA5TzJjRWMtSEVFeDNDLVpma0NxUWFycXZONTd5YVR0U1Vnc2ZTZFdHQjA?oc=5",
       "source": "Bhaskar English",
       "publishedAt": "Sun, 30 Aug 2026 07:16:30 GMT",
       "description": "SRK, Salman-backed fashion clothes company Purple Style Labs brings IPO: Investment starts from ₹546 per sh... Bhaskar English",
@@ -30,19 +38,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Urvashi Rautela Fronts UNDRESS - Indias Luxury Intimatewear Brand for Men - Daily Excelsior",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXVGZ3VJN29TTXJtb211b1Yxck9JT2RUWjlIWHJIOWZIZTl2bENLTFZOTmFkMVJaV05VRDZwbGNaSmZlel9yWkRNTGhzVXRoVlp1OFJFU2pSYThLaV8ybGhQdGtLVjZPVjhqN0NNNWVwS3lWbnNLdlVTaGQ1czN3THZ0M0dJSTFPVFJVaTZYRklRVmFybGJqWkE4SHcwNEtKV25JZXVR0gGqAUFVX3lxTE1odzkxWXp0ekYxRE5JNDM2Y0ZIblFsbUxMOVlJWWNmYW5ZTmlBTTZBVm5OalZ6SW5qUHZjMGRZR2VIemdaVTQtUkxqOHRLMHNnVkRadHdoQ1ZCUVNBb3ktdmRWRUEzZXVBX0lkNVQtaU1zWk4yX0Utak9UaFJILUljcW5acHRyVzhmMFlyZHpCUFRIUkFqeFpFR0ZVWDBHUVFXbUh0X2hJVUF3?oc=5",
-      "source": "Daily Excelsior",
-      "publishedAt": "Sat, 29 Aug 2026 22:33:51 GMT",
-      "description": "Urvashi Rautela Fronts UNDRESS - Indias Luxury Intimatewear Brand for Men Daily Excelsior",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Taquiela Wright builds Black luxury one corset at a time - Rolling Out",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQ1QyWlM2OE93dC10MzNVSWdsR2p3RngyYlllR2Itd25hWWs3SExyVXpIcEhIdTR4YWNxclJSZmtmU0tOMEY0Ymk5R0swR19tZXdFUVJqUklCc0ExRzE5aER5MGFJdS1XTEdhQlppcE5LMk5PcWc?oc=5",
-      "source": "Rolling Out",
-      "publishedAt": "Sat, 29 Aug 2026 21:14:12 GMT",
-      "description": "Taquiela Wright builds Black luxury one corset at a time Rolling Out",
+      "title": "Pernia’s Sells Luxury. Its ₹680-crore IPO Will Help Pay the Rent - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeExTc21uY2Y3WHpWcUtRUDhOZld1dF80NFk5Q25Xb2U3TE16Z21XM3lrbTZURGZFc0d1cjhUS3pwNU5jRy1GN2lUYTVaOHpfNDY1RUp4ZEdlcXB1d0lOTkhWRVh5OXE0b3Vsbmdjc1Zka2xMd21Qa1Fqc1otY0VodTRXS2o2OWwxaXdZbDFod2ZhazViT1d6RmVGRExSUTg?oc=5",
+      "source": "Open Magazine",
+      "publishedAt": "Sun, 30 Aug 2026 04:38:34 GMT",
+      "description": "Pernia’s Sells Luxury. Its ₹680-crore IPO Will Help Pay the Rent Open Magazine",
       "feed": "Google News - luxury fashion"
     }
   ],
