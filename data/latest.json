@@ -1,9 +1,34 @@
 {
   "date": "2026-08-30",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-29T18:03:46.389Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-30 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-08-30T02:44:12.026Z",
+  "status": "ok",
+  "message": "Found 3 article(s) published on 2026-08-30.",
+  "articles": [
+    {
+      "title": "Urvashi Rautela Fronts UNDRESS - Indias Luxury Intimatewear Brand for Men - Daily Excelsior",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXVGZ3VJN29TTXJtb211b1Yxck9JT2RUWjlIWHJIOWZIZTl2bENLTFZOTmFkMVJaV05VRDZwbGNaSmZlel9yWkRNTGhzVXRoVlp1OFJFU2pSYThLaV8ybGhQdGtLVjZPVjhqN0NNNWVwS3lWbnNLdlVTaGQ1czN3THZ0M0dJSTFPVFJVaTZYRklRVmFybGJqWkE4SHcwNEtKV25JZXVR0gGqAUFVX3lxTE1odzkxWXp0ekYxRE5JNDM2Y0ZIblFsbUxMOVlJWWNmYW5ZTmlBTTZBVm5OalZ6SW5qUHZjMGRZR2VIemdaVTQtUkxqOHRLMHNnVkRadHdoQ1ZCUVNBb3ktdmRWRUEzZXVBX0lkNVQtaU1zWk4yX0Utak9UaFJILUljcW5acHRyVzhmMFlyZHpCUFRIUkFqeFpFR0ZVWDBHUVFXbUh0X2hJVUF3?oc=5",
+      "source": "Daily Excelsior",
+      "publishedAt": "Sat, 29 Aug 2026 22:33:51 GMT",
+      "description": "Urvashi Rautela Fronts UNDRESS - Indias Luxury Intimatewear Brand for Men Daily Excelsior",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Taquiela Wright builds Black luxury one corset at a time - Rolling Out",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQ1QyWlM2OE93dC10MzNVSWdsR2p3RngyYlllR2Itd25hWWs3SExyVXpIcEhIdTR4YWNxclJSZmtmU0tOMEY0Ymk5R0swR19tZXdFUVJqUklCc0ExRzE5aER5MGFJdS1XTEdhQlppcE5LMk5PcWc?oc=5",
+      "source": "Rolling Out",
+      "publishedAt": "Sat, 29 Aug 2026 21:14:12 GMT",
+      "description": "Taquiela Wright builds Black luxury one corset at a time Rolling Out",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "From the Vatican to Haute Couture: Pope Leo XIV Lands on Vanity Fair’s Best-Dressed List - NEWS.am STYLE",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFpPU2ZTczFZLVFaSlZieG1CUEp3NVMySnVaYTBGcGtqUERNS0FUWWpwNjVDMlVoOUJyaUo2OTEwZVZqU0YwU3lwVGFJZEZJanQ3dEFBeGcyN0VLOUVTd01GLUVodkx4NHVXUGtNVWIzcHlQSk9zZ3AwQk5PaTZabUJwWmZ5bWk4MFVsZTgzeWd5czNsbk5oMWRmVldkUTFoMGRDV24wa1pVQU5tYllvWVpJWWw2RDhmYWx2dFFicGhlTEJjVkVncQ?oc=5",
+      "source": "NEWS.am STYLE",
+      "publishedAt": "Sat, 29 Aug 2026 16:37:05 GMT",
+      "description": "From the Vatican to Haute Couture: Pope Leo XIV Lands on Vanity Fair’s Best-Dressed List NEWS.am STYLE",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
   "fetchWarnings": []
 }
