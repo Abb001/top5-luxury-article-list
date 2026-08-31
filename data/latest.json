@@ -1,9 +1,50 @@
 {
   "date": "2026-08-31",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-30T18:18:18.762Z",
-  "status": "empty",
-  "message": "No articles published on 2026-08-31 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-08-31T02:37:36.436Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-08-31.",
+  "articles": [
+    {
+      "title": "Fashion’s best-dressed furniture - Robb Report Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGVnA4VDJvWUk0bkJ4Njl6c1FxRlVmRTFPV3h2UWtaXzc5S3I4TnlGYjNZRmJqbzlqRkZaY2FKV1BVaEMxTjV1MFlkVU9NOElPUlBoUlItYlR2QWJrWGkzYg?oc=5",
+      "source": "Robb Report Singapore",
+      "publishedAt": "Mon, 31 Aug 2026 02:17:33 GMT",
+      "description": "Fashion’s best-dressed furniture Robb Report Singapore",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "New status symbols – what will exude luxury in 2026 - Shots Magazin",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFdCby1lY2p6RVdOV3NEejFQbEdMV0lSa1MxWUdHalFPUHZlcE5seXBQNnE5bndpMjlmUjM0d1BuODB3bFZXd2p4ZmZkaS1sX1N0V3JXUXk5VzltX05WYmMxVF9aTm9BZXBOd3dtZmh0MW9zZ1Vua0Nibl9fY1kwdFhRbkFMLTBHWUdoUFpNcGxaeUpkY0hRaHVvbWxycDI3V1E?oc=5",
+      "source": "Shots Magazin",
+      "publishedAt": "Sun, 30 Aug 2026 20:24:57 GMT",
+      "description": "New status symbols – what will exude luxury in 2026 Shots Magazin",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Haute Hospitality: How Renowned Fashion Brands Are Taking Over Beach Clubs - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1dHQUJHRGZJOFVrRkUyMWRkT3h5U1B3b0Zxd2tCVzN5RnNob0Zqd2JfemRLNXR4MVlQRDhTeDZnaG5MM2tfeTZNR3k3OGR5cVdOZ1gzV0ltVXZfLVlrb1FUQk1kX2pJSWNGSmR2VVotbWRseVNBaWx5R01aQ1lCLUJ1SdIBiAFBVV95cUxOM0hKSEtpUTN2TWIxaE1rTEhMc1hlMlZpSjVsVVM1bWhJLWJMUlVHT2tFc0NaQTRDX0d6bngtcjZJRDlVRE5ZZ0hFdEJKVHk1elV2c2daZGMyR3VWMFRyNVZGM2t6dzlEZHV0OVNNQUF4VHczeDFrTllyTlhSR2FEc1pzYi1zQXU5?oc=5",
+      "source": "Prestige Online - Singapore",
+      "publishedAt": "Sun, 30 Aug 2026 20:02:54 GMT",
+      "description": "Haute Hospitality: How Renowned Fashion Brands Are Taking Over Beach Clubs Prestige Online - Singapore",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "From the Vatican to Haute Couture: Pope Leo XIV Lands on Vanity Fair’s Best-Dressed List - NEWS.am STYLE",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNFpPU2ZTczFZLVFaSlZieG1CUEp3NVMySnVaYTBGcGtqUERNS0FUWWpwNjVDMlVoOUJyaUo2OTEwZVZqU0YwU3lwVGFJZEZJanQ3dEFBeGcyN0VLOUVTd01GLUVodkx4NHVXUGtNVWIzcHlQSk9zZ3AwQk5PaTZabUJwWmZ5bWk4MFVsZTgzeWd5czNsbk5oMWRmVldkUTFoMGRDV24wa1pVQU5tYllvWVpJWWw2RDhmYWx2dFFicGhlTEJjVkVncQ?oc=5",
+      "source": "NEWS.am STYLE",
+      "publishedAt": "Sun, 30 Aug 2026 17:38:09 GMT",
+      "description": "From the Vatican to Haute Couture: Pope Leo XIV Lands on Vanity Fair’s Best-Dressed List NEWS.am STYLE",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Purple Style Labs IPO Day 1: ₹680 crore issue opens today; latest GMP signals mild listing gains | Should you apply? - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1FzdVlWRFVVQ3Q4NHNvWkw1MXZ0Vmt5c3pyYUN5SHFsSUJWRG5jRDc5d0NCX0VXbjJ2MXNHVWsyeGlRSkkxbXlQQTJaX054RER1VmpwZGt2cTJVZXlueVowUDBoMGdrREFrNVhhOE41VWw0NFZ5bzdUb3JwQUxtR2FuT1R2YjRqRXRnZWpSTWhhWE5wSHFETEpWWVYwMXpETTRPU0RSRy1pb3pFUG55RXlsNDlNZmpxWHFxS2JmSFBHNW9LVGFLUEZOZVlOdUs5ZEtUOU1aVEFBQ3lkOU9GMXB5UDB2V1VOaTk3VFlxalpFWThoSzJzcm9B0gH_AUFVX3lxTFAxMUN4SXlRa2tSeTBzQ2phTTMtN0NCX3ducFNuT0o2RVlXU3lpTzh3QUlHUVpRXzFlaTR3cWxDOWZJNWQ3ZVlFZlhyNWdBeTRxNXh3enh0Q0JZVVluQURGRlBTNzYyYXhfcFBhb0FRVDBjUlprb0g5UGVMUHBOeVhQTTZWQXlxNFVVMlZveVpVdExQU3ZPdXNpSjNFbm1iT1NsTDVGVzNBcUVlYk9aSjJIZjBocy01SlI5amxpSENMVzBZUmMxTE1NcFQzMk0wLVB0QUhIcDhleWRZaE1KREloQlhQdHZOa1lzRXFObXhBZmxKYTFGOTBFMDB2N0JTdw?oc=5",
+      "source": "Livemint",
+      "publishedAt": "Mon, 31 Aug 2026 01:48:20 GMT",
+      "description": "Purple Style Labs IPO Day 1: ₹680 crore issue opens today; latest GMP signals mild listing gains | Should you apply? Livemint",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
