@@ -1,25 +1,49 @@
 {
   "date": "2026-09-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-08-31T18:31:14.337Z",
+  "generatedAt": "2026-09-01T02:50:49.232Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-09-01.",
+  "message": "Found 5 article(s) published on 2026-09-01.",
   "articles": [
     {
-      "title": "Ib Kamara Steps Down From Off-White Amid Major Brand Changes - Style Rave",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MFdETE9NRlVXTkVDVWFKd2pURWZjUkZvOURWQU9iWTdBakhtaWhRSWdvRjN5Z3oyVjQ5NVctb2xLSHBwNGdxQVBYMTRBMHZGcTF0ektJaGpJR1YyYi1Ra00xeVo?oc=5",
-      "source": "Style Rave",
-      "publishedAt": "Mon, 31 Aug 2026 18:04:35 GMT",
-      "description": "Ib Kamara Steps Down From Off-White Amid Major Brand Changes Style Rave",
+      "title": "Tropical resorts emerge as strongest regional luxury markets - Elite Agent",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkpBalF6bzlaSC1xOHlia2xncG94Skd0OHFDOUhmSS1JcTJPbFEwdEJlYUtGNUhjVGhmNWhSOHp1YmxENVA4M0cyc1ZBeGdsb3FuUkJFY3l3blRRVEJSdk5NYldOT1FkNlVxZWpORllXNXMyQ0owYUJZWFc3ZTg2VXVyWTFnS0ZyUHlXR0tHcUdvdw?oc=5",
+      "source": "Elite Agent",
+      "publishedAt": "Tue, 01 Sep 2026 01:32:33 GMT",
+      "description": "Tropical resorts emerge as strongest regional luxury markets Elite Agent",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Why Luxury Brands Are Betting Big on King Street and Charleston - Charleston Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHFjekxBeGdaYmZIY01QWVZjVi1LTmZKTW5xOExnb05uVXBFMHRSOXZwamc1SXVVa3BOQXlpLTlZQkk1ZmtRRVl3WEY0VV8ycFRiSmtoQVJYNnRkZkRGQVRRSTQ0Vl9ZMG5lYTZwNHFwMUxYSmtKazZNRUlJc1V0WWlVelByb0ZUMkdtWXhOQ2J1WFhMVm5VS2xpeFV2SlU?oc=5",
+      "source": "Charleston Magazine",
+      "publishedAt": "Tue, 01 Sep 2026 01:11:34 GMT",
+      "description": "Why Luxury Brands Are Betting Big on King Street and Charleston Charleston Magazine",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Who Is Nene Leakes’ Boyfriend Nyonisela Sioh? Meet the International Fashion Designer - EntertainmentNow",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObFJMRUVLNXNXbmhFckJBR25iZ1FzZ2xoQzJfakpYb1lTdUdBUmJsS25yWUd1NmpKWG5fTXRSanYzRGh1WGdnaVhYbEczTjRRMGoxSmFsN2V2ZHpLMjF0U0NMUXoxcmkxMkZpNTNVY1FsTFZWa3dYQS1KVDVOcTdJU2J6UnRnU0ZqaFE?oc=5",
+      "source": "EntertainmentNow",
+      "publishedAt": "Tue, 01 Sep 2026 00:03:48 GMT",
+      "description": "Who Is Nene Leakes’ Boyfriend Nyonisela Sioh? Meet the International Fashion Designer EntertainmentNow",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "John Galliano Retrospective at The Met Canceled - WWD",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjZaYmI3WFdtZzgzRl9BMVBuRHVkb0lnaEU3blBycmRseXJMX29Rc2tsbWZDOEhLLWI5ZmQtZTliTy1hSHVXQ3VGM3AtXzVJYjJ0eWlNcm04Y183OXU3WDdtclFPMFRYV0JUYjVhbW1ic2Z1Y25JREowN3UzcGIzdXNVR19XU0hyVXJSQXlFZDA0UG9FTndwazdn?oc=5",
-      "source": "WWD",
-      "publishedAt": "Mon, 31 Aug 2026 16:18:45 GMT",
-      "description": "John Galliano Retrospective at The Met Canceled WWD",
+      "title": "Victoria Beckham's Fashion Brand Finally Turns a Profit After 18 Years Thanks to a £104 Foundation Drop - International Business Times UK",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FSmdQaUJmQkt2RWFjdGE1eW8yT2lONld0Um1FM1Q4VWNCa0hpWDhDOGdoM0N2SWM4TFR0ZE5lNjl3bTBEM2JEeERTMGV3RDNiQnFIazUtLTZqSk1TWTMyV1U1OWZNeE5taWw1MmIza2F0OGpfVHFsbmdn?oc=5",
+      "source": "International Business Times UK",
+      "publishedAt": "Mon, 31 Aug 2026 22:43:46 GMT",
+      "description": "Victoria Beckham's Fashion Brand Finally Turns a Profit After 18 Years Thanks to a £104 Foundation Drop International Business Times UK",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Pinecrest mansion asking $16M leads slow week for Miami-Dade’s luxury market - The Real Deal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEI0OGdlUUpwYW5ZZkFmSWJIWDRZVGc4dVVxQmMxSXdjNzhOTWw5amhIRmZvWGdUOVlRS3lqQjRUbDN6Zm9jSEhLNkVaMmJzM0ZKQ25fTGZqSEUwSS1mc2ZmeUNoaVR4SW9YT1JZQm9COHd5Z0dlOUVNdURMdjRMbTJGWEVDU3FlNndtclV1WUtfZW43WExseEtxQm5vNmx1dGNrNA?oc=5",
+      "source": "The Real Deal",
+      "publishedAt": "Mon, 31 Aug 2026 20:11:00 GMT",
+      "description": "Pinecrest mansion asking $16M leads slow week for Miami-Dade’s luxury market The Real Deal",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
