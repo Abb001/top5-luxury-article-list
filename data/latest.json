@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-01T08:09:08.232Z",
+  "generatedAt": "2026-09-01T13:49:24.617Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-01.",
   "articles": [
@@ -22,6 +22,14 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "LVMH stock holds its luxury lead with $362 billion market value - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTl3T1lPRFRUczd0UFRUamlJeG5zT3dhN0NDN1NlYkNtalN4ZTUyaWtjNWNXdWpIdDN0QXBfMWN1SHlRN0llT25IVm9QakwzbE9LcjM5X2xHV1NMRUhzaHRMM2Fza0dUOHpLS1dRd1Z1bzlhYkdFeUNETzk0amVsbURWM3AtZ3pWUktZenZFUm1VcXg1UDk0a1F6dGZmX1dCbDA4YnRKZVRESXpLWEdtN1J0ajZSU0hmMFJnTlc2NU9oWFk?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Tue, 01 Sep 2026 06:55:09 GMT",
+      "description": "LVMH stock holds its luxury lead with $362 billion market value AD HOC NEWS",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "What to Watch: Quiet Luxury in Menswear Is Still Kicking — Can It Sustain Its Momentum? - WWD",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcXc0T0hqNDlyYnQ4ZTAxQ19IdXBEamxqSmFLT0VrSjZGTWdpZkdXMVV3cFJXa2x0UGU0WjhJNDZSR2NqWVAtdEZVNnVqMUNiRmU5VFZyZ3RUbUVmaE9oT1JKM1pDSExmRWNQNW1fMHQ4aEtYa240NzR4X3BBNHFMQXRCckUwaERBTEpNemFXejNmcHF0?oc=5",
       "source": "WWD",
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Giovanna Vitelli: \"We Want to Create an Altagamma Biennale—An Italian Davos for Design and Creativity\" - Luxury Tribune",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjlKMHo4TFNZTy0zcDdvR0lNcHZQYlNaRjU4aVNYUGJnbmlVOF9UQ0haWXRGX3EzbXoxYlpUeW5XeFJXWF9HMVRkdTFrbjU3RW05SWxGRVFuYVNiVVZMRmU3NG84ckZGbXFYeGdNUFFQeUluNGZsRlJuRC1qanY1NjlDMUhyNWZWVGlPNjhRQzdqekpubXFFZl9RS19ONTVSWEI0M2k4Y1F0ZFpOdXNNQnFDY1AzM2g4ZXFpbmZrbUN0Q2NVbU9iZHc0OTA?oc=5",
-      "source": "Luxury Tribune",
-      "publishedAt": "Tue, 01 Sep 2026 05:34:28 GMT",
-      "description": "Giovanna Vitelli: \"We Want to Create an Altagamma Biennale—An Italian Davos for Design and Creativity\" Luxury Tribune",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Ghost Month’s lingering influence on China’s luxury market - Jing Daily",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1QxZDhmWlVDa2lEbERua2NSb3haNzBhRnFJY2pITWZoTzlOVmlWNlM2RU5IUDhKUHRSZnFxbkVzN0xha0paSktkVElHeG5MY1R1T0hZZm9zeDJmNjVfc2VrbHpjQms2NGZjYjg2ZGl3dmNka2s4Mi16MC1qOGdhdml6ZDN5SzBuSG52MEdxcw?oc=5",
-      "source": "Jing Daily",
-      "publishedAt": "Tue, 01 Sep 2026 05:04:06 GMT",
-      "description": "Ghost Month’s lingering influence on China’s luxury market Jing Daily",
-      "feed": "Google News - luxury business"
+      "title": "\"I’ve Worn Luxury Items Worth Over 10 Million Won, But...\" — Why Ko So-young Ended Up at an SPA Store - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Lc3BGRTdOUnpZTGVvRnBaUmNSLXp5aUU0LUVzTlYzOHkyd0lvcHgxUzlXcmJncWJVRzh3aWxkNFE0ZzNIYnczQWE1bU4wWVdiYlVSdmNB?oc=5",
+      "source": "매일경제",
+      "publishedAt": "Tue, 01 Sep 2026 13:28:04 GMT",
+      "description": "\"I’ve Worn Luxury Items Worth Over 10 Million Won, But...\" — Why Ko So-young Ended Up at an SPA Store 매일경제",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
