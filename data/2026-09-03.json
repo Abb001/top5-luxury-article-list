@@ -1,9 +1,50 @@
 {
   "date": "2026-09-03",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-02T18:16:35.867Z",
-  "status": "empty",
-  "message": "No articles published on 2026-09-03 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-09-03T02:17:57.508Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-09-03.",
+  "articles": [
+    {
+      "title": "Laura Burdese: University of Trieste Economist, Swatch and LVMH Veteran, and Chief Executive Officer of Bulgari - BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSURIbERwYktSQnM1T3JXS3dxZ0xXNUloLS1oOGF5M2xnOUhHS1ItNHRjQUw2VmIzN25MMUxOVlh5S1lwTkpWTno0VkI1clF1MmVmQXBqTVVJT3Nka1JlTGFBbEtqWFhfTnc2eFAxZ3ZGYlVROXBkUmFXb2NzcWlUN1hvMzFEdi0xZGZVV1lLc0xBWkJUbFhLbmxBbkhpTFVCM19jZVZGZy01UEN3ZEhvWm1BUk1IS3lkZnZ4ejVlNWRfYjhPRUc0MkhweWUtSWJGRUR3YzhQcXU?oc=5",
+      "source": "BBN Times",
+      "publishedAt": "Wed, 02 Sep 2026 20:45:06 GMT",
+      "description": "Laura Burdese: University of Trieste Economist, Swatch and LVMH Veteran, and Chief Executive Officer of Bulgari BBN Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Moncler stock holds steady after latest earnings as investors watch luxury demand - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU1Vrd3ZRaUIzLXRYNFY2QW9XM0todG9EakZrS3BvNm01RGNmVDk0MUNJb0h0Q29TRE5VNWZmYVNISlF1S1hhLTdhUTV6cllmMGNWVFJUR2M0dlNObmp6amZQcWxrMUVfRXh2c180aGRDZEs3ZzBNalJFYVlSenoxODU1U3gyVVhpb0p5WEc2dG1rWXVyZnM4T2NVUDI4YWxZY0Z6M0dHcjVqclBVTFlZRkZyOVk5bXZCV3M0U3dWTW0zbEhDcktSTXROSW1naE9pY1dJ?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Wed, 02 Sep 2026 18:49:12 GMT",
+      "description": "Moncler stock holds steady after latest earnings as investors watch luxury demand AD HOC NEWS",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "New in beauty: from Chanel’s expanded fragrance range to Louis Vuitton’s lip liners - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWENOcTJRNlB5eDJjaVlKaXNLN3VHVFl5UUdDVHowN2dIR3llQ0FRNnJQaHJxS0JTUExwSTJ0bjBsTmRndlcwOWl3YTNLVDA3azlodXNSTEpUTm5OSkJTYzZlZFFvMk5Pb3I0bEx6RzRlSHcxanlpOFpEYTJqUXNOd1pRTjNhM0ttXzdyWWkxcGxlc3dCSTl4S1hFY01NZ1hHemdYYjhMVDdySnl6cnJqWU9oblRFcVhwd0tocmJUSFJpY3BiTU9DRFFBNG5vMjJf0gHQAUFVX3lxTE50RUp0bGV1dlVrbVVadXBqVFNFcDNYVjB1STQ2RnBQM0wtbXp1eUhQQzAybnpIMlIwMWVkQWM4SGtjY1BNQjdqV2dYb3lDOWExWGxNdFI5aWt1bWpmR0d3Ti1zZlZweno4eDV5dE44N1VyRlhYM2k1dnBPdlFWTzVhVzhRd0NIZDAzbmxHRFZtdnlHLUFnOUwxdDVNR0dRakNoc2twZ0pHM1U2T1VWUFFndGpxalJhdVZDV0IxWTFYRkJDOFJwOERhVlFUcGtpVkM?oc=5",
+      "source": "South China Morning Post",
+      "publishedAt": "Thu, 03 Sep 2026 02:00:08 GMT",
+      "description": "New in beauty: from Chanel’s expanded fragrance range to Louis Vuitton’s lip liners South China Morning Post",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Emerald’s New Owner Introduces ‘Glitter in the Grove’ - nationaljeweler.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWhWdENtMk5RMXlUZW5vb0tUSC1MTkVsMXg3czUtZjFIQ2xEN2FMUS01VE0td2JFWmY1X0ZwQV9lRTJ0ZjZ6TWVBcERLb0d0NVBhX0taRm94bmNxRkdTOHdiWFo1bEtmMGJsVVJqMVpHSlJpeG9lMHFUb0ZFLWdwUTFUUjNycXBFT0NxOEtRQXp2ZldYcjR4Rl9n?oc=5",
+      "source": "nationaljeweler.com",
+      "publishedAt": "Wed, 02 Sep 2026 18:51:00 GMT",
+      "description": "Emerald’s New Owner Introduces ‘Glitter in the Grove’ nationaljeweler.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Shopping too much for designer clothes? Blame your menstrual cycle - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVdvc1NNdW9OdHRBX0dESHRHNUpweDdlWERqczY5NlJZVDdBTUhINU9kbWwtdG01TzVmRVF6ZTVaeHZpTkplVTRQNnlZVEN6b0NyMXhCTjJpTjI2V0VhdXF5Q3B3ZzRMY3lveG9VYVN5YVNFU0JqaUNYZVd4aWp3aUx4SWVzV2FPT3FiclV2ZVV4b3EtekFkNEhET09UUTJzc1J2bW13?oc=5",
+      "source": "New York Post",
+      "publishedAt": "Wed, 02 Sep 2026 18:01:00 GMT",
+      "description": "Shopping too much for designer clothes? Blame your menstrual cycle New York Post",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
