@@ -1,49 +1,49 @@
 {
   "date": "2026-09-04",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-04T02:16:51.860Z",
+  "generatedAt": "2026-09-04T07:34:39.409Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-04.",
   "articles": [
     {
-      "title": "Introducing Nykaa Fashion LUXE: A Curated Destination for Global Luxury and Indian Designer Labels - India's News.Net",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWkJ2c1p1d21JX1RxWUhCNkRtMUJPTy1tejd5YWt6RVNXVXhuYkkwRTNvMXVZMVpHYUEzUm80eTh0QzhfV1pHdlM2OFB2S2c0UEhucmh6V1pIdUN6bGtObWcyc0FfN3pEOFRZbG1mVElxTFFDcVlGdTg2WXdoQ2QxaDFGa2pzM21QQTE3UmkxTXdNX3JCUTI1VENtc1ZYM0hoX3BVSGt3T0FkMmhQeUR0Z1RuY3pSSHpETElfTWdaeWZMRmdVR0FHV2ltS2JDVzJETUdoU0lR?oc=5",
-      "source": "India's News.Net",
-      "publishedAt": "Thu, 03 Sep 2026 20:59:00 GMT",
-      "description": "Introducing Nykaa Fashion LUXE: A Curated Destination for Global Luxury and Indian Designer Labels India's News.Net",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "South Florida Luxury Market Report — August 2026 - Haute Living",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVnJ3VUl6a3EyUkxERmdpTmFYZGRrQjNpRDRNb2gwU1ZPYTlvdEY3b052aVdlSEJjOVBhWmJCWUp3TTdjMEwya3N4c1A4TEItUTFfUmsydDNBc2pUU1Ywa0dPc0h4OEhDVFE?oc=5",
-      "source": "Haute Living",
-      "publishedAt": "Fri, 04 Sep 2026 01:26:21 GMT",
-      "description": "South Florida Luxury Market Report — August 2026 Haute Living",
+      "title": "What to Watch: Hermès May Be a Bellwether for China’s Luxury Rebound - WWD",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ01UYUh2dmVWMDV5M2ttUXZJY1B4V3A0Ti1FTEdsMy1Hc0dISXhxemtYb1VFSVlUWkRoTjUxVlpCR3ZaNUptNmI4OGFqbTVucV9NNHc4RHZEUG9CbzBlUGREVnBGbVhWcEVFcmlobWpCOFdoQ0UzUy1JMGgzVGpzTnJ6eTZPZ3VLOWMzN042WVdtZ2g2ZG0weE40Nk8zb3c?oc=5",
+      "source": "WWD",
+      "publishedAt": "Fri, 04 Sep 2026 04:06:38 GMT",
+      "description": "What to Watch: Hermès May Be a Bellwether for China’s Luxury Rebound WWD",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "New York Fashion Week leans into American legacy brand revival - FashionNetwork France",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ3czeEtMYml4WlZhRk1XQmpjV2FqOG1BMzVEcm10U211MkdqSXhLd1B0VTcyalpGZFlEMWVyaEJMTWhhNVlHRjM3TjU1djZYbnVzdEJ3VGtXeEl1UUNwR2xEajd5MmdGQUxCNWF0dkR0YnVReC10bmwzaTFReTJFdTFWa2tET2NnNG9DOUVBTXZEWWxUREhselU4RGNDWl80dzlXamQwejBPSExXQTRZ?oc=5",
-      "source": "FashionNetwork France",
-      "publishedAt": "Fri, 04 Sep 2026 00:28:40 GMT",
-      "description": "New York Fashion Week leans into American legacy brand revival FashionNetwork France",
-      "feed": "Google News - luxury fashion"
+      "title": "What to Watch: Hermès May Be a Bellwether for China’s Luxury Rebound - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0dvdzZlSDZXclNFNVNYNGdVN25WSzJCTHVjNlhFUE9hRkZXdWtmRllVYXpZZTlwaE9sOWVmd19TQzZ4ZjNZbFNmY0wxLXJIRGFjTkxoOXZpZUM1Uy00OHNfaHZWbFRqa0hUZ0xKREkwNWlXZ3pBcXBIV2hkc05aUGxndlBjVjQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "publishedAt": "Fri, 04 Sep 2026 04:02:00 GMT",
+      "description": "What to Watch: Hermès May Be a Bellwether for China’s Luxury Rebound Yahoo Finance UK",
+      "feed": "Google News - luxury business"
     },
     {
-      "title": "LVMH Prize Taps Jennifer Lawrence, Priyanka Chopra and Urassaya Sperbund as Presenters - WWD",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXFlbFBRQlNYTHdpaWpxSlRIV2VXZkxhLWZraEdXalZPQXZ1WkxhWjBkRGoxcHAtcXZMcXBOR3RCMHJNV3Z2S2hNTlVlYVBFeFY1ZVM3clYyZGhMWUpmeXVPR0dnbmxKQXZZWlBiNWtjMUxPVFRVSjRCVkVYa1JhMG5ONVFiQ2dEdEhjMThLdjBvRG9LTzd2MVNnSVdBb3JrUEhBM0NuNDYxcVZ6UGpSM2hlQy0?oc=5",
-      "source": "WWD",
-      "publishedAt": "Thu, 03 Sep 2026 23:50:17 GMT",
-      "description": "LVMH Prize Taps Jennifer Lawrence, Priyanka Chopra and Urassaya Sperbund as Presenters WWD",
+      "title": "CHANEL to Open a Limited-Time “Café Mademoiselle” in New York During NYFW - Oui Speak Fashion (OSF)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rejRuS1ZwWnY2dlYwQ3lwUGk5a0lWRFpTLUtrS1dHQ2ZjWVZwQ09JOTNGQkF0dzBwSTh1VmhmUkpERS0ybFpVd05WSnlYWUg0dkU1MVp2ZDRLeXhIaVlGOEpTT2xleVRuQzhBeFdqTUc?oc=5",
+      "source": "Oui Speak Fashion (OSF)",
+      "publishedAt": "Fri, 04 Sep 2026 03:46:22 GMT",
+      "description": "CHANEL to Open a Limited-Time “Café Mademoiselle” in New York During NYFW Oui Speak Fashion (OSF)",
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "The personal touch: The newest artist partnerships in fashion that honour handcrafted art - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWpjQ3VOZXpmcHc3REZ3RUF2NE9Pa2U4X1hOYTBtdWVSdkY0YVJ5clhTNFFDRGNPRE1WemhBQ1kyZHE2am53dGF5cmlfOVJaMHJueWphaXRIWWNVT3lhdUhSV2wtNGRaNHVDSktOLTVMZDY5anVQOU53Tmltak41RWZEby1hUnk0eEpOekEtODR5R0F4QlpJN1BRUDZtZC1Iclo3N2R6aTM3UG9wQXBQQlJ6Wl9oRkM50gG-AUFVX3lxTE9zc25RbnVxOWZVTmhPSjQ3M1lwampnVk4wY0d6MDZLS1BIQkFPSElFZUJsNHI3WGNPU3JPTjlCUlJwcnRvSXFyVFdONFZSb1VpdDR4Qk1sYXFKWFpreGJJdGtjbkRRT281V3NZaWJRTWJoWnhaOEVJUmZXclJ0cHJ6Y2p5b1FkbmV2VHNUX1M1eW1lUFBiRHpLTTRnMDAwRi1JUkJpVlVRU1A3ZnZjeDZaLTROYTByblQtQ2JtdFE?oc=5",
+      "title": "Coastal couture: The latest trend of luxury bags with a marine theme - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa29kZl9sM2FKNjlJejJKX0JCUjI2QUlSa1l5c0E3aUxZTi1BbzFtTjRSWEJLVTMtRFhnMHM0VVpicUVGOVB3OElsRjBhcVZ5a2xwcFZVaDVFRzVYVi1PWlpEX2RCU1RUVGVkTkJxSTI5aFJVVkg5c0pseVVrd3puR1ZwRjItTTBJZFE1OEVqQ0kxdFpiVmtMSTlNZENYMk5YazB30gGoAUFVX3lxTFBaQjBaR2dyQ3FHRWtCOEcwemM3RzZ1ek9iQUducjJQeHAxMjM0dENGZkJOVWtQUTRaNjFtR255dndERnVNMEMwZl93LWRoQWIxS1hKdTVVX0tjWWl0cmc1ZmtEOVJGQlEtSHNacFg3VFZoN2UtcGJiTEUxYXBsTGZPTThxdjFDcXVjNGJnbjhzdjBIRHgzRGtJcF92Rndpd3FlSWJac2dyWQ?oc=5",
       "source": "Prestige Online - Singapore",
-      "publishedAt": "Thu, 03 Sep 2026 23:33:07 GMT",
-      "description": "The personal touch: The newest artist partnerships in fashion that honour handcrafted art Prestige Online - Singapore",
-      "feed": "Google News - luxury fashion"
+      "publishedAt": "Fri, 04 Sep 2026 00:09:35 GMT",
+      "description": "Coastal couture: The latest trend of luxury bags with a marine theme Prestige Online - Singapore",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "The Pre-Owned Luxury Watch Market Is Booming — Here's Why Buyers Are Choosing Secondhand Over New - Grit Daily News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRTNmWlpQWUR4bmYyelZMTEsxbU9rWG9mQktFM0VqM3VFUldWYzNjQS1kM1pLSVlYMHVlOUpubGtzeWFrbkNwTHgzSzUwMFRUOE9xWXVyS1YwcGpPV2E5eWh1NmpYMnA1VWpoMGJ0b3VsVUdiX0VNOUtlcGRpRkE?oc=5",
+      "source": "Grit Daily News",
+      "publishedAt": "Thu, 03 Sep 2026 22:31:22 GMT",
+      "description": "The Pre-Owned Luxury Watch Market Is Booming — Here's Why Buyers Are Choosing Secondhand Over New Grit Daily News",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
