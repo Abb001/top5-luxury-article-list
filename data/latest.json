@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-04T07:34:39.409Z",
+  "generatedAt": "2026-09-04T13:02:11.253Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-04.",
   "articles": [
@@ -14,19 +14,27 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "What to Watch: Hermès May Be a Bellwether for China’s Luxury Rebound - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0dvdzZlSDZXclNFNVNYNGdVN25WSzJCTHVjNlhFUE9hRkZXdWtmRllVYXpZZTlwaE9sOWVmd19TQzZ4ZjNZbFNmY0wxLXJIRGFjTkxoOXZpZUM1Uy00OHNfaHZWbFRqa0hUZ0xKREkwNWlXZ3pBcXBIV2hkc05aUGxndlBjVjQ?oc=5",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "Fri, 04 Sep 2026 04:02:00 GMT",
-      "description": "What to Watch: Hermès May Be a Bellwether for China’s Luxury Rebound Yahoo Finance UK",
+      "title": "Fashion - Haute Couture, autumn-winter 2026/27: Make way for the independent labels - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFpEWGJHR3Z6ZGRYNF84dW1xazgwcDNKb2NWVTZ5WkY3aWdSWTZrdW9QVlZ0Nk5MYzRQZGFUOWYxVi00ZTZvWkxiNTdOalpPZkM0bDVUcmxycVF3VVZ3YkZORXFYaklmT09LemZPTkk2R29MaFJmclZxWS1tRmVsTnJvLVVYOVZuLWhnMHR5aVhQczY2Q2VHeURKNV84dFNNTnAxZ3gyZlY5OXlZemVtR2pIZzdVR3A0RlBjeFhOZkJkZ0U?oc=5",
+      "source": "France 24",
+      "publishedAt": "Fri, 04 Sep 2026 12:04:25 GMT",
+      "description": "Fashion - Haute Couture, autumn-winter 2026/27: Make way for the independent labels France 24",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "EPrivateClient - Rise in luxury watch “superfakes” prompts market concern - Pam Insight",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnVxVk92WjJjU0lOUjZLT2VnTmJ5RzJ1aFJ0bVNzUlU4dFJDWmU1NWl2Y0huRlhNaWE5dDRwbzdwcjdVNEtHZmtjRlI1V3BibjJCTmwtLWNsblFQa2g3ai1oTTBpaUZmLUhDeUZJeVdIdVM5eHpVSkZQc1dTU0lBbVBDNGdWZkxXMUpjX1BxNlEyUWpSVUxxODhCTTFEM3l4S01pZw?oc=5",
+      "source": "Pam Insight",
+      "publishedAt": "Fri, 04 Sep 2026 09:03:56 GMT",
+      "description": "EPrivateClient - Rise in luxury watch “superfakes” prompts market concern Pam Insight",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "CHANEL to Open a Limited-Time “Café Mademoiselle” in New York During NYFW - Oui Speak Fashion (OSF)",
+      "title": "CHANEL to Open a Limited-Time “Café Mademoiselle” in New York During NYFW - ouispeakfashion.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rejRuS1ZwWnY2dlYwQ3lwUGk5a0lWRFpTLUtrS1dHQ2ZjWVZwQ09JOTNGQkF0dzBwSTh1VmhmUkpERS0ybFpVd05WSnlYWUg0dkU1MVp2ZDRLeXhIaVlGOEpTT2xleVRuQzhBeFdqTUc?oc=5",
-      "source": "Oui Speak Fashion (OSF)",
+      "source": "ouispeakfashion.com",
       "publishedAt": "Fri, 04 Sep 2026 03:46:22 GMT",
-      "description": "CHANEL to Open a Limited-Time “Café Mademoiselle” in New York During NYFW Oui Speak Fashion (OSF)",
+      "description": "CHANEL to Open a Limited-Time “Café Mademoiselle” in New York During NYFW ouispeakfashion.com",
       "feed": "Google News - luxury lifestyle"
     },
     {
@@ -36,14 +44,6 @@
       "publishedAt": "Fri, 04 Sep 2026 00:09:35 GMT",
       "description": "Coastal couture: The latest trend of luxury bags with a marine theme Prestige Online - Singapore",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "The Pre-Owned Luxury Watch Market Is Booming — Here's Why Buyers Are Choosing Secondhand Over New - Grit Daily News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oRTNmWlpQWUR4bmYyelZMTEsxbU9rWG9mQktFM0VqM3VFUldWYzNjQS1kM1pLSVlYMHVlOUpubGtzeWFrbkNwTHgzSzUwMFRUOE9xWXVyS1YwcGpPV2E5eWh1NmpYMnA1VWpoMGJ0b3VsVUdiX0VNOUtlcGRpRkE?oc=5",
-      "source": "Grit Daily News",
-      "publishedAt": "Thu, 03 Sep 2026 22:31:22 GMT",
-      "description": "The Pre-Owned Luxury Watch Market Is Booming — Here's Why Buyers Are Choosing Secondhand Over New Grit Daily News",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
