@@ -1,32 +1,48 @@
 {
   "date": "2026-09-05",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-04T17:55:52.496Z",
+  "generatedAt": "2026-09-05T02:13:47.998Z",
   "status": "ok",
-  "message": "Found 3 article(s) published on 2026-09-05.",
+  "message": "Found 5 article(s) published on 2026-09-05.",
   "articles": [
     {
-      "title": "Thom Browne’s Fall 2026 Campaign Journeys Through Scotland — Where Tradition Meets Winter Tailoring - ouispeakfashion.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GTHVFODRRc1ZBRVpFQm50UlZ1YzNHRmR5OExhc2otOFEwVGdoSG9MYU1tWmh5ZnNmZ1laa2o3S3BmSHRGVkU1TXdyM3JLdjRnaHdXVjF0aVFmS05Ha3JFblFrS1hGdl94d2RUaW05ZEh2VUdIVEJV?oc=5",
-      "source": "ouispeakfashion.com",
-      "publishedAt": "Fri, 04 Sep 2026 17:48:14 GMT",
-      "description": "Thom Browne’s Fall 2026 Campaign Journeys Through Scotland — Where Tradition Meets Winter Tailoring ouispeakfashion.com",
+      "title": "‘I enjoy the hunt’: Hong Kong shoppers are turning to second-hand luxury fashion - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbG1aY2ZYbERyLVE0a1V1bVp2cU9uU24tZEt3Vks0QldqWWZXZTMwRW0yWk1CRmtkZWZYRzBoM0dCY0VBTk00eWRiOHFKcnQwcVZ1bDRoMHZhLUp3dlR6aHBVNFdrQ2pzWks3ZzRfMzFNTkZkdEl5RjBNZW5iazRYMFFacnFfdlRwa1VUd005OEdQaVF2MDhpSmNka1dSakN2QzZfQnoycFNXNVJYUW5fNEl4LVFRcjJPSlI0NGltVVZfOFRIcXBLdTZWbFA4ZFhLdkHSAdIBQVVfeXFMUDNVNEl1ekN5R09hOXdvTVRya0k3WmYzRFhYTVVyMU5zb3BiLUdORXFISEc5Qkl6MDFMdlhtTHIyTjN5WWVrdTJNaWV5dk9UemdfbnpTNW1SOTJoaUtMbC0zWnNFOENSTW5wMy1UVjdtM2ZCcEZfSjY4QXpwelJqRmxQVUdhUjdXbFIwSDNxV1JGcHlYQU9QMjktZnBjOHd5ZlYtZFdVcDRQMVZ0TF9jaGlpY0VoM0YzN0hMZ1RjYjE1T2c3Vnp0TnZTZ1RJTVZtdWRB?oc=5",
+      "source": "South China Morning Post",
+      "publishedAt": "Sat, 05 Sep 2026 01:49:01 GMT",
+      "description": "‘I enjoy the hunt’: Hong Kong shoppers are turning to second-hand luxury fashion South China Morning Post",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hermès International stock declines as luxury sector reset weighs on valuation - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzRpeDY3OHhmdVYwZVpoRlFEN0dpWlNFNVlDNEhyQW5kY0RSZVBfTXJOTzBhNDJqRVZkSU12RXpYbWZFdkpCT2lTbnp3Q3U0SDFRdVZYSkgtNHJhbUlCNGFtNm1FQV9QZnY2cXFvd3ZMWEdvLVBwVU8tSTNJZUV6MThlZHZqUFpuU25UUGdfdzhwUVNQT2NGdXNadlFhN1R1VVdSUjJxeldpdXdaUEh1SzlSaEpIWUYyX2RQWlp4V0NXb1hIbldMb2xpNA?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Fri, 04 Sep 2026 16:57:24 GMT",
+      "description": "Hermès International stock declines as luxury sector reset weighs on valuation AD HOC NEWS",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH Moet Hennessy Louis Vuitton stock hits multi-year low as luxury demand cools - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSzRFcFFZY3hPRVpCNVdUNHJuVzg0b2pIZjR2X1F1UWFVaXpUTHFoVnplUU9PNmhWOEJhbkFMYmZTdGoyU2lfaWJKNlR5MG9Kd1pLbkNsY2d5Z2NpckM4OUk2bjNJbDRKc3NnbWVLNkIxTlFHXzNCV0JwUlRkRXZaY0V5aVYtM0pjeWRBQ0NaOG1KRGkyanNkUmJ6RVBjMFVTbWxMdU9hS1JYZUZvSUZxUV9NZnhCVS02a3ZpZWdNTk1FdFRIQ2cyQmpyRQ?oc=5",
+      "source": "AD HOC NEWS",
+      "publishedAt": "Fri, 04 Sep 2026 16:46:55 GMT",
+      "description": "LVMH Moet Hennessy Louis Vuitton stock hits multi-year low as luxury demand cools AD HOC NEWS",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Inside Leonie Hanne’s Haute Couture World - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUpscnZMcnhlNVFucmU3UkxXRVRDNU55TEIyTmVFZHdoMDU5QXRnWVZsbXhHS0N1R0o2R3ZlVXl5b2doMXkxemR5dnBiTEd5enhBRzJXYVZlTERkSUM1Z3hmbkdZendKTVh2SUFWUkR2Nk11SnJOZkNYUlROcXJhdDRTNWlJd1VOeERCYUFjZW9rWHQyamFnb3Y4eUU0VDdqeE5GZkhB?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "Sat, 05 Sep 2026 01:10:00 GMT",
+      "description": "Inside Leonie Hanne’s Haute Couture World Yahoo",
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Coco Chanel at Home: 10 Photos of the Iconic Couturier in Her Glamorous Sanctuaries - Architectural Digest",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PUjdscDBjX2pULTVnYkpmWGt2QldkcEFMYTdzakRoOTVyNWhCbUZYallHXzh1QUFvT1U5cDdzdGJBUDYzVURjcTNWbHVPYnFjc1pWalRFZDVDMkh3bEhoZFVGMnNrX1M1NXg1TzlIeVNDY3RVOXdV?oc=5",
-      "source": "Architectural Digest",
-      "publishedAt": "Fri, 04 Sep 2026 17:16:31 GMT",
-      "description": "Coco Chanel at Home: 10 Photos of the Iconic Couturier in Her Glamorous Sanctuaries Architectural Digest",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Major fashion brand announced for Trafford Centre - plus all the big openings to come this Autumn - Manchester Evening News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGcxSy1RVXo5MzhkUmtuNUlpblRyMUhvRGx1Wm05ZEpGRi1wc21GMldNdlF0TklxaTNFU20wdm5jbS15RTkwc28zRDRnZTE3VkVoaWpub3NkbHRDY2N6VlBFeDc5dFlpV09aMENNQ0V4dXhyZ25UdUxxdGd5a2NqZWVLb2NaWjBvS0FwazdVRXduUnVhcnBaLWVnMlVSOElNVUtvZ1VNYnFhTVBZQ1BF0gG0AUFVX3lxTE9JOVQ5VlgtTEVWdmo0V2NXUnRjZTZLbWtLcTFqb0p0MTJsMkFtWEF2WTh5RFd6Vy1hWnlpSVZLNzhxSjg5d3JvdlZROUxWbTg0aDU1RVhOQktvdU4zMi1YNWF1Q0dsQXhLOHVvQm5NWDMwOC1EM1RBLVFic1RSMXdrS0RkVFA0ZWQxZnNQSzhnRTlBMGUwQ1NDVkdTRDFyeEFOWTlXc2hOZndickh0TXJwR2drOQ?oc=5",
-      "source": "Manchester Evening News",
-      "publishedAt": "Fri, 04 Sep 2026 17:12:00 GMT",
-      "description": "Major fashion brand announced for Trafford Centre - plus all the big openings to come this Autumn Manchester Evening News",
+      "title": "Study finds a surprising link between fertility and a women’s desire for luxury - The Brighter Side of News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFBkb2RfY3pkNU9kNV9WS2U1aTc4dHBmMUdhNHlSdWdqU2hzTEgyODVCaUpiUmxUakdBN3lpLXliQmY4R05talJVS2NPaXpUcE8xSjJTaklQeDZVWGZWZVpWVlp6UDktNnpxTHN0UnFTeHp2UkM1X0lPOS1IQU0xOUtiaUx6ZkZDQWppVFJ3cnRPN3BGWDdDbDR6NEtRQVU1V01NOGNhVmVsSktUeG1ZNThBYzd6STVi?oc=5",
+      "source": "The Brighter Side of News",
+      "publishedAt": "Fri, 04 Sep 2026 23:07:00 GMT",
+      "description": "Study finds a surprising link between fertility and a women’s desire for luxury The Brighter Side of News",
       "feed": "Google News - luxury fashion"
     }
   ],
