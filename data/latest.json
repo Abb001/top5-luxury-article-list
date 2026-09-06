@@ -1,9 +1,50 @@
 {
   "date": "2026-09-06",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-05T17:02:34.606Z",
-  "status": "empty",
-  "message": "No articles published on 2026-09-06 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-09-06T02:09:31.712Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-09-06.",
+  "articles": [
+    {
+      "title": "Marion Cotillard Goes Understated in Chanel at Venice - Red Carpet Fashion Awards",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0ppUW5GUUFWTm01emFKYjNFTzFMSlUtcDMxam5kV1FXeUJCZmlYWWgwbjZULW9CQjNmM1BWVjVhUGpwQUs2NGN3dVFPenR5NU4xbG8tbHk0QlNQLXNDTmM0eFgxbnQxSUx1dmszcHpXWktLWnJwMENMT1lhTU1jUk1DMGN1a1lfcGhYVjFNZy1DbWttOEVzU0w1MTNScy1nNVB2Y0tWUWU?oc=5",
+      "source": "Red Carpet Fashion Awards",
+      "publishedAt": "Sat, 05 Sep 2026 20:06:38 GMT",
+      "description": "Marion Cotillard Goes Understated in Chanel at Venice Red Carpet Fashion Awards",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Australia’s first fashion library’s rule for borrowers? No stylists allowed - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcERfTm5kUXZCNngzTzR5VTV0VHNMSUlEOGhNV1VPX1AtV2w2bGxKQ0hLS0pHaXFteWtCVDNPLWJ3X0ZjREJEUlBtaWtEdDBmZjh6VnRaVE55ekVnT0s5ak9FaEI3aXFNZ2gwTGFiS0ljR3VJaXRicjNSN0VHLTBqMVZxd29XTzlhcTlNNThCMlFTX2NqWnRybGwyUWZsdHBpNnQwMlRXanBWeW9VclUyVkEyTDJnMjZMT0o5Vg?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "Sat, 05 Sep 2026 23:27:00 GMT",
+      "description": "Australia’s first fashion library’s rule for borrowers? No stylists allowed The Guardian",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Nashville’s ‘Laid-Back Luxury’ Attracts Homebuyers Far Beyond the Music Industry - Realtor.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3FkZzJ2ZWRDTjZKZkdETVpGbEtDclB2Wmw5THlrWmxXcnZHMDRxZUs2ckZnQ1hOSHVVUUNzSWlsYi1RY3U1QUxrOFRWdG10VVlzV1lpeWFCMGdpVFZtWkU1aVJYRFdGV0lsbm9FRmpUaXg0Rm9tY3JfRzRaZlJ2LUNnVXJIdFUyeDVZajlxeWlwaWxS?oc=5",
+      "source": "Realtor.com",
+      "publishedAt": "Sat, 05 Sep 2026 17:12:00 GMT",
+      "description": "Nashville’s ‘Laid-Back Luxury’ Attracts Homebuyers Far Beyond the Music Industry Realtor.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Want to Spend the Holidays at Your Favorite 5-Star? Be Prepared to Stay There Two Weeks. - Robb Report",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2lXcDY5TUZsdmJxVklIOXJQVlR2TmtNWmk4WkVTOEVvOVJmTk5aSlJ4ZkZvR3lBREE4QktUaG1mOVpmd3cxeXJjN2VZWkY3ZGtrZDZWdGp3M1NEWDRja2ZFSXRidTA5TUk1Z2JXLTJoWGlHcmotLWdEVkRkYjJUdlQzMTNSMHFfeHpRZThKYVl0aDg?oc=5",
+      "source": "Robb Report",
+      "publishedAt": "Sat, 05 Sep 2026 19:00:00 GMT",
+      "description": "Want to Spend the Holidays at Your Favorite 5-Star? Be Prepared to Stay There Two Weeks. Robb Report",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Miami Beach mansion with a hidden connection to one of the world’s biggest DJs hits the market - latination.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DVklybTFubmIybTZpRjdVeW1QYzBEd0FfdW1ldmUwTGZrdU5ycEJvcUlWV09zWW1xTnV6SmlOUk8wWFh5OHY2Z0lyNlZPOWxEbzE3ZzNkX3VENURxRkRKdVNLcWxuMGY4Q09iS2RR?oc=5",
+      "source": "latination.com",
+      "publishedAt": "Sat, 05 Sep 2026 17:05:07 GMT",
+      "description": "Miami Beach mansion with a hidden connection to one of the world’s biggest DJs hits the market latination.com",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
