@@ -1,13 +1,50 @@
 {
   "date": "2026-09-07",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-07T02:06:51.349Z",
-  "status": "empty",
-  "message": "No articles published on 2026-09-07 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "generatedAt": "2026-09-07T07:43:37.555Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-09-07.",
+  "articles": [
+    {
+      "title": "LVMH Market Cap Retreats to Pre-Pandemic Levels as 60 Million Middle-Class Shoppers Abandon Luxury - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKaTBoRWYtVFVpMlB4R0t4Y1hyeWhHUll0M3hhQkdlY2ViNVBJTW44MjY5TVcwTDY3UGdubjVIbzA1STFpQXpSZkFZMmJPamhfUGdya3V4NjFqWjdrODM2SFdWRWFrenJtbU90bnJrRTBSZ1k4QkE?oc=5",
+      "source": "finance.biggo.com",
+      "publishedAt": "Mon, 07 Sep 2026 07:25:00 GMT",
+      "description": "LVMH Market Cap Retreats to Pre-Pandemic Levels as 60 Million Middle-Class Shoppers Abandon Luxury finance.biggo.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH sheds value as inflation and price hikes drive middle class from luxury - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEptWTIxOTFrbnhicndpcnllaXBxREphZkhzX0ptc2dEd0RWQ2U2dlJqUjdlNWxmQXZzUGdiQk9JSGN3S0tVODYxdnRLclN0SkhMMmpVVGxyeFBqbERrc0pCdHFmUnVHOEIwbFVOTnowQ2N0R3Y0TDBzQndic3FFaEVKMEtSQk5Q0gGcAUFVX3lxTE5TMEx5b1NMYkxpZmRrNjlUaXQwRjU0QmdGTTlQU3hYM3Nlekx5WmNTVWoxLVQ3QTdLMjM1RU1ISU4yNkZEUnZQZUhWUHRDRTF5YThpaW1icG5ITUhueG1pby1LRzZ2NmJiTzV5Y1JTVHZVbnY4WXB0Nkt4dEphVmR4SW13RjRzbG5XMTVodjJiSlJBUndmdkxmQThkYg?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "Mon, 07 Sep 2026 06:51:00 GMT",
+      "description": "LVMH sheds value as inflation and price hikes drive middle class from luxury - CHOSUNBIZ Chosunbiz",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Luxury meets accessibility at Milan Fashion Week - Stripes Europe",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XU25NblJQRkxKOWN5WGxkNFU2VE5GQ0c2aGtwc0phWUFxLTNzUUQ0UDNaZi1VeW9GdEVrY21XZ2FQVVVRQlBvUUJxMUdYb1RpSnM0VFp6TnQyUWRQU1JWVlN5V3oyTi02QThzSQ?oc=5",
+      "source": "Stripes Europe",
+      "publishedAt": "Mon, 07 Sep 2026 02:07:55 GMT",
+      "description": "Luxury meets accessibility at Milan Fashion Week Stripes Europe",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Luxury brand LVMH, which was the first European company to reach a market capitalization of $500 bil.. - mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wR3FRaS1LVURQYkpLV1J0SlZtZFoxb2hXTzVzSWF0M2R1a3hRLUNzV2ozOWpTQ0dzMWlWb0pya2dXTVo4c1lCR2xjZmJtMlE?oc=5",
+      "source": "mk.co.kr",
+      "publishedAt": "Mon, 07 Sep 2026 01:26:18 GMT",
+      "description": "Luxury brand LVMH, which was the first European company to reach a market capitalization of $500 bil.. mk.co.kr",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "How designer Lukhanyo Mdingi merges heritage and luxury fashion - Algoa FM",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSElXdEhIQ2RrZTREdUROdFRiMWh6NEZXb0p4WmZmR29ZakJMZHhpSjk1cS1DdGQxTUhBTFdCbEFsTjZHZldZek4zN21IZ2xHRzlzQWFVSTBBTUFyQkZzWkM1aF81a2JqV0VQX2JHYzJsa05QbjgxaWZsQng4dE9oSk0ycXpBZ3h1Vi1hUk1LMi1KRDJRYVh5R3llMWZhTmVLMUozQlR6YjZiWThyRWJaUGIzc2cxZm8?oc=5",
+      "source": "Algoa FM",
+      "publishedAt": "Sun, 06 Sep 2026 18:32:14 GMT",
+      "description": "How designer Lukhanyo Mdingi merges heritage and luxury fashion Algoa FM",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
+  "fetchWarnings": []
 }
