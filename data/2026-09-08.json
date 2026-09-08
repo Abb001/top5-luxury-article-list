@@ -1,49 +1,49 @@
 {
   "date": "2026-09-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-08T07:37:02.072Z",
+  "generatedAt": "2026-09-08T13:11:33.580Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-08.",
   "articles": [
     {
+      "title": "Soho Square Capital backs Scottish luxury fashion brand Strathberry as BGF exits - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGpZM1JUemdQT3NLUzItUzU0dVNsbWpUdnJhb2tSeFE5dHlwUWVLejNfVE10SFdPNDY2Zll0U0x6ZnhxV2FaX0lWNlJhTDRROHkxRkM0T1dJZnBpTjRCdTB2dHdmdEV3UFo4aWFBcXJXSGhyWVM0SFBncHBZREVPRnh3X1o1a1g3dVNpSlVjbzlLTU5IbTVqeTRaMk5jYjMwWFBnRXdIbE5zWFIzRzFQa3BIc3B6dTZScUcwWVBXcw?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "Tue, 08 Sep 2026 12:21:00 GMT",
+      "description": "Soho Square Capital backs Scottish luxury fashion brand Strathberry as BGF exits The Scotsman",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "BGF exits luxury fashion brand Strathberry - bgf.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GcUp0cC1kLUlKZWNjVUR0SS04SlBnU2dPTEpscEVEc3BFMm85bVZxRG1UVG1wMUx5WDRjeW8zeFd2ZHNhcUZ1V3BiVW82QW9DLWZFSDdrYk43MFdsSGdF?oc=5",
+      "source": "bgf.co.uk",
+      "publishedAt": "Tue, 08 Sep 2026 12:02:30 GMT",
+      "description": "BGF exits luxury fashion brand Strathberry bgf.co.uk",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Jordan 11 just got a luxury fashion makeover - lnt.ma",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03dHZMNnBYN0RLN3ZFRmUwbnlrbGxoWmRsNjB0NmROWmdOeTFqSkRNT25Pd2h2TzFyeTdLV2o1Ymdkc05YbGduYzlNTmxGc2dfV3F5TU9ZWENhLVI1UEh5UXBvTWh6TlBON19ZZg?oc=5",
+      "source": "lnt.ma",
+      "publishedAt": "Tue, 08 Sep 2026 11:45:54 GMT",
+      "description": "Jordan 11 just got a luxury fashion makeover lnt.ma",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Kenyan Fashion Brand Yoshita 1967 Wins KSh30 Million LVMH Award - KenyanVibe",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGV4dUhNOGlSbkxnOVY0eDdsN2JST1dtMzg3SEdVdGpDcTRTSkdFOVFuNVpJT3hTMVBHOGpBa2FMV0dIeXg0eWJjSWlCdVN5a1V3aGRuUFd1d0xPa0hZMnFPSGVDZVRmbnpoN2V6NlZ6OXpTUUcwUTlIbndfbEtpR0tjejRvQWlRa0tYdWt2U2tnWjRGMWc?oc=5",
+      "source": "KenyanVibe",
+      "publishedAt": "Tue, 08 Sep 2026 08:34:32 GMT",
+      "description": "Kenyan Fashion Brand Yoshita 1967 Wins KSh30 Million LVMH Award KenyanVibe",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "Luxury Fashion Brand Off-White Opens Second Flagship Store in India at Delhi’s DLF Promenade - Indian Retailer",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0ZFa3FQZDgzUjdmeWJ3Y2M3eXZpQ25DVUNvejdvbWQ4RjhLb2I2RENjS0pNRmhlVjJRcjdRT3FnOTdJVjFMZjlVR1hDLTVSQzFBMGU4QmJxTzNfam9jX3ZLQXl2SUlSZGRUdWs2OVZEOGJDZDNuZF9sZ0ItNjRzcHJnU0dVWDhINThsdFpFOU51SFBaQ00tX1daN2tQZFNEeGxZQThJbnFKbTNYUkpMazFPdThKdjFu?oc=5",
       "source": "Indian Retailer",
-      "publishedAt": "Tue, 08 Sep 2026 07:26:02 GMT",
+      "publishedAt": "Tue, 08 Sep 2026 07:30:00 GMT",
       "description": "Luxury Fashion Brand Off-White Opens Second Flagship Store in India at Delhi’s DLF Promenade Indian Retailer",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "A New Luxury Marketplace Is Making Adaptive Fashion More Discoverable - Vogue",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd19JTVp2bXZhNFhzZXFfQTBlX2dFREFDckh3S0t0UWtHYW9jNVBZTUxaVG1rVEZHQXlwQTk1bEtTTnFrcEFTUnBXUUVnSW9VOEJVaTRLSFpKc2tNcjBGbGZFNlE4Qkhna19ScWpzZ3VwSFBPQjEtOHRLZnd6ZjNWRlZkVnViNXZ1aWtXcUYySGlOYkVfLXByYTZlcHU1VVRL?oc=5",
-      "source": "Vogue",
-      "publishedAt": "Tue, 08 Sep 2026 04:30:00 GMT",
-      "description": "A New Luxury Marketplace Is Making Adaptive Fashion More Discoverable Vogue",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Cettire (ASX:CTT): Is This Luxury Fashion Platform's Profitability Turnaround the Real Deal? - kalkine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXU1WkRqZy1UYTFhZk40SjhpSTdiek9WdzN5ek1abDVQR1Z3bW9kMktqc09ZS1FsUGFGMW1JUWlLcGxqcGw0ZGZtVVBDN0YxRmNad2JUWFlUd1hTdFAtVGdCcjhVZVo4Z3JlQUptaExXV2hGQUNuNkVBalAwT1ZTdE9XZG1OSlVUb05LTmFTTndQT0Z1U2ZIWkkxRTRaNngxYzRydEd5NkYzUEcza0l2VGRCaE9RZW1CSTc1ckxn?oc=5",
-      "source": "kalkine.com.au",
-      "publishedAt": "Tue, 08 Sep 2026 03:47:00 GMT",
-      "description": "Cettire (ASX:CTT): Is This Luxury Fashion Platform's Profitability Turnaround the Real Deal? kalkine.com.au",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Best in style: Hermès, Dior, Celine, Louis Vuitton, and more - Robb Report Singapore",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYS3pLdUtnQ0IzVE5VX192UU1NWXJLVS1LcXc4c01ERFhJZ2NJcXhvczlHaEZEdTRNOWFQd2FsQzJkeF8wU2RZLWxHeGk0b01NRjRfZV95VW16OGdqWlVKMzcxQjhDVUJVOUNIZjctVQ?oc=5",
-      "source": "Robb Report Singapore",
-      "publishedAt": "Tue, 08 Sep 2026 02:17:02 GMT",
-      "description": "Best in style: Hermès, Dior, Celine, Louis Vuitton, and more Robb Report Singapore",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection - WWD",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDA2bHpTYTBSdmR3YjJXbDlYX19jTVZKUHBiNHNMVUxxd3BWLVpHRnlJOWFUMWlwVXlOcWt5akZVVUpCVGFHbXVsbGczVnpqbC1rZ2xxNGpVajVQR3hBUGktNzV4aVdsN0hpZUpaOFRuLThFUlJNNHppVXZDbExiVGFtMFQxTVFqS2FIUHhwTF9pLUIzWWMyOFUxOGRFTzhlbGdUcm9VSWs?oc=5",
-      "source": "WWD",
-      "publishedAt": "Mon, 07 Sep 2026 23:30:09 GMT",
-      "description": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection WWD",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
