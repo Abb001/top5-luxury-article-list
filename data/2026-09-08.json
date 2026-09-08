@@ -1,23 +1,39 @@
 {
   "date": "2026-09-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-07T18:56:16.440Z",
+  "generatedAt": "2026-09-08T02:18:35.574Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-08.",
   "articles": [
     {
-      "title": "Burberry stock edges higher as luxury group awaits next earnings catalyst - AD HOC NEWS",
+      "title": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection - wwd.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDA2bHpTYTBSdmR3YjJXbDlYX19jTVZKUHBiNHNMVUxxd3BWLVpHRnlJOWFUMWlwVXlOcWt5akZVVUpCVGFHbXVsbGczVnpqbC1rZ2xxNGpVajVQR3hBUGktNzV4aVdsN0hpZUpaOFRuLThFUlJNNHppVXZDbExiVGFtMFQxTVFqS2FIUHhwTF9pLUIzWWMyOFUxOGRFTzhlbGdUcm9VSWs?oc=5",
+      "source": "wwd.com",
+      "publishedAt": "Mon, 07 Sep 2026 23:30:09 GMT",
+      "description": "Cosplay Meets Couture As Netflix Expands 'KPop Demon Hunters' Universe With 'Golden' Jewelry Collection wwd.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Silversea Builds on Alaska Luxury With 2027 Wilderness Push - thetraveler.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0pMczdRbGs1WXdJajhwY0hfSWJCN05mWlV6blRnMjFNVzE4SzRfMTVHM2VXak5oaGgtaVpkUnRtN1pJeVlLb1R0Skw5RkR6OEJGdk1MWFpHa0VFWXhILURQRUVBNkxsbHd1WnVySVRzUXBFZzNoYlY4QUN6RDVMWEUzZEgzaGRadFUyNnBNQ0wzdw?oc=5",
+      "source": "thetraveler.org",
+      "publishedAt": "Mon, 07 Sep 2026 19:43:44 GMT",
+      "description": "Silversea Builds on Alaska Luxury With 2027 Wilderness Push thetraveler.org",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Burberry stock edges higher as luxury group awaits next earnings catalyst - ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajk3RzZVcUVFLTNkZVJMUGdaNm56ZTdXdlJ1Skh4VTUtbDhqZEVsdmdDb3Y5WVU4VTFHcV9NajczMklpMXlXUDlWNTNUTFNTYjdPRkFaRXNHVjlQbnNZb2FyZkcyQlhlS2x6RmVCVmFnTVZVRVZFa1k1X1RUVXBnNk5vMG5EUVRuS2N1WlB3Y09DaGw4UDlFMThwUGJYSUZPbXQ0dWZPeTUtMmFDSXlxdFRrTjNJUDh0YmIzN000bWZGUlAxYktjQUtkcHRwRGgweUE?oc=5",
-      "source": "AD HOC NEWS",
+      "source": "ad-hoc-news.de",
       "publishedAt": "Mon, 07 Sep 2026 18:20:54 GMT",
-      "description": "Burberry stock edges higher as luxury group awaits next earnings catalyst AD HOC NEWS",
+      "description": "Burberry stock edges higher as luxury group awaits next earnings catalyst ad-hoc-news.de",
       "feed": "Google News - luxury business"
     },
     {
       "title": "San Antonio home prices split as the luxury market pulls ahead, creating a K-shaped market - San Antonio Express-News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVlIN1hXMVRiRm9KWU5VSWpxSGRVLUM2WDVZcXVZVFN1QzEtdVJCXy1oSGNxXzRkcHBUSlZid2JpdG9HNGd5UFI4N1A4QXN2Qm82ZmllaGFpQ0lXTDJEY0dodDM3WDUtN0g0Zk13T3BibldGdWNia2g1OXBiTHc2OWwxTHhaaDE2MVJaSDUwRldjd0FJMGlNY0dVWTZ0Y1AzNUczYUZnTkxoSGFpTGc?oc=5",
       "source": "San Antonio Express-News",
-      "publishedAt": "Mon, 07 Sep 2026 17:10:16 GMT",
+      "publishedAt": "Mon, 07 Sep 2026 17:11:46 GMT",
       "description": "San Antonio home prices split as the luxury market pulls ahead, creating a K-shaped market San Antonio Express-News",
       "feed": "Google News - luxury business"
     },
@@ -28,22 +44,6 @@
       "publishedAt": "Mon, 07 Sep 2026 16:22:37 GMT",
       "description": "What to do in Paris' fashion scene in September 2026? Exhibitions, pop-ups, shopping and great deals Sortir à Paris",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "New York Fashion Week 2026 preview with CFDA’s Steven Kolb – interview - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU3F6SEpyZWNBWVZsYTFjT3BPMVlXZzJLN1NjM3FydzJGWUJYNVhrYmk0THdzRGZJN201NUlnNTJval92Tm9lMnd2OUdmRkE4aHZkTll6WVU4dGhSNlV0SnIwWllCLTNMVWdqSW1nX2czWW10c2o5Wmo5TUFCTFBaamVCVkxyRzBVQ3FTRU9VZzJRbXgtN2Z0d3duSmNxYkpIQ1E3TDNLQTlGNlMtLXV3WXdERlIzTFRsZF9PanlUNnBCWDhlUFh1RGJiLTZiN3diQ1NZcUw2VnNtNWJ5Z3FuVFVzMHF2U0txSHfSAeoBQVVfeXFMTWhndTd5WUVtNjRxVUJKSnY5YmxsNHhiY2JfUTFKX0lyY25MVHcxRGpNUXM4RGJPcC10TG1KU3h5ZlJHWmtjUkdROW1PZDdWMU9henhTR0JSNlR2bWhpM2g4RDNIUlB3YnNkVEVLbnVJTXJmR3h1MnRGNGUxT1F1SEZPM1FMVUdmb2hyeTNZb1NxcVQ0REh0anpKM1VhRVBfdkJKOV9HcEU2TjRNeGFQME9Md3FqZFBfQ1FlWGgwaVFaZG5QV1BNRVpIRjNKOF9SYlluUjgwb3dDdWxZelRleElMaGZJSHhJYmtn?oc=5",
-      "source": "South China Morning Post",
-      "publishedAt": "Mon, 07 Sep 2026 16:00:14 GMT",
-      "description": "New York Fashion Week 2026 preview with CFDA’s Steven Kolb – interview South China Morning Post",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Top Realtor in Peters Township, PA: Sharon St. Clair - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXppS0E3anlHLVdkaU80ZkszdVpPVmQyZEpDUWtONTk4NDlYTE1QcTUweC04ZS13NnRzQWpGemJ1ZTFhNDM5M3JMQS1KdG5ROEU1V1o3TkpkM2hSR0I3UGZKTnpuaTFVaHpneGNGRWQyb2dmS3RfVDRwNXhKcGtaSloxWnRMSnlneTJ3Rk1jWElRbm9wekl6VW5RdllJbkhHMFFLUUk4U3I2dWpCX2RmM1hsd180T2ZMNWc?oc=5",
-      "source": "FinancialContent",
-      "publishedAt": "Mon, 07 Sep 2026 18:20:00 GMT",
-      "description": "Top Realtor in Peters Township, PA: Sharon St. Clair FinancialContent",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
