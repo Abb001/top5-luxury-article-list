@@ -1,24 +1,32 @@
 {
   "date": "2026-09-09",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-09T02:21:33.706Z",
+  "generatedAt": "2026-09-09T07:42:43.147Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-09.",
   "articles": [
     {
-      "title": "China Luxury Label Icicle Hires Former Gucci Head Sabato De Sarno - retailnews.asia",
+      "title": "US Resilience Is Keeping Luxury Brands Afloat. Can It Last? - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFB1OXpyQWhBaXpGVml1cXkzblVsVUZPRVpVMDRJb2UtZGdBM0NQRGo0Y3lRYXBqZ2tCZFludDlEVzNXWVdjbUYyamRqRkltZERKSnpSMUZRdE9rWDdNRmo1Y0hWT1hwY1BpcFBlbjVRUTQwY3V0WklfcTlRbFBhREYtamd0dHA5NkR5eDM2QXl1U2w0c0N5eGVwNldOZ0p5c1cwZmFISjg3UzY3?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Wed, 09 Sep 2026 04:30:00 GMT",
+      "description": "US Resilience Is Keeping Luxury Brands Afloat. Can It Last? The Business of Fashion",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "China Luxury Label Icicle Hires Former Gucci Head Sabato De Sarno - Retail News Asia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNU9Dci1XdFI5X3drWWUxTVQ3Z0tWOV83MDhJQzRaZEhwaFZPeldfaURRYjJQTUo5OFZ4LUFqb0c1TWk5blJaNFJXUDkxcFhBTVgxQ295ZW5QZ2F6RnNGMDAwRDZ6MlExX0dDWU1zMHdpNm15U3VWS2RyLUM4UEYtSWc3eE1Fcm1hVHhNclFGR1U1Wnc?oc=5",
-      "source": "retailnews.asia",
+      "source": "Retail News Asia",
       "publishedAt": "Wed, 09 Sep 2026 00:09:45 GMT",
-      "description": "China Luxury Label Icicle Hires Former Gucci Head Sabato De Sarno retailnews.asia",
+      "description": "China Luxury Label Icicle Hires Former Gucci Head Sabato De Sarno Retail News Asia",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Patrick Mahomes’ $218 million Alpine F1 investment gets a major luxury boost with Gucci partnership - timesofindia.indiatimes.com",
+      "title": "Patrick Mahomes’ $218 million Alpine F1 investment gets a major luxury boost with Gucci partnership - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMG52UGY3Tlg3LUwyeXVkeWxYSEtrMVZqRkdROHpjWl9mWVZXQVgyR2RKVnRtLXZESXREM040R3FPVWs1c3YwYWk2ZUNmbUhHa0RaLVE2Vm1SR2VBUFZ0dHJYOE1nNHo3T0lZdmNLZGplUEcxcEZvci1MelUweGxmbk1OLVQyWThoTGFZdk9mdzdYdEJBN2J4dWxDaUk4ekc4dllyUERFZnNFVlo3bDVFWnRkamd1YV9yaUdOWjRrMlV0d3dqZGV2cWxmOEo1VEJoV0NGZ2NpMGNmOWV0QjJLeV9lTFBJTWFsZXlJcGlrWHhPQU53eGJOTGh2RWpLZ3gxM3E0Wk5B0gGLAkFVX3lxTE1TWWFxa0kzWDI1aUY0eGNIVkJuYlZNNmJtNFpCOG85dzRhb0hxTU43cmlwNGE5S19EQmpGdFFTOTBMTEJhREFYTVN3OXNuVGh0VUFScFRHTFF6WnRxT3lENXljWmtjb0V4MnRyMlFZeWg0U2p3V1hHdi1Pa0VkbkQ0SDQ5UTNkMnIzNUFSdmNubURMQ1NISXhtQmlaTUs4UnJlUVp1YmFQWUlzUlZ4WC1DdVFDSmx3dGlRaHNCMEoyNkhWV2NCUzItZ2VDZkpDM2RncGFOYkoyUTZ4X2pZN2U5NDZ1N3FGNWdnb2JQenl5cTBJT2J4eWlCb2duTmtBQ1RRVFI5SUE5bFNHQQ?oc=5",
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "publishedAt": "Tue, 08 Sep 2026 22:21:00 GMT",
-      "description": "Patrick Mahomes’ $218 million Alpine F1 investment gets a major luxury boost with Gucci partnership timesofindia.indiatimes.com",
+      "description": "Patrick Mahomes’ $218 million Alpine F1 investment gets a major luxury boost with Gucci partnership The Times of India",
       "feed": "Google News - luxury business"
     },
     {
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Kayode Alfred expands Aristocratic Clothing, targets global luxury market - The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGVGNHpNY1liWUU3dUhSQXdZQ2NuWlREN2pfNkxZV1ZpU3d1b3VldTc0akhvckJyTGxqbkdDaEdjTUd2c3RhM1N1WTlZN3VVWDVGbWhMektEQUJrSHJHWFZSbUxYTjVjNmg2STdLUEt6OURmQmgyUXF4NFdjZG55alVEalNzVmpqNkhhQjRINVZMdkp6REE?oc=5",
-      "source": "The Sun Nigeria",
-      "publishedAt": "Wed, 09 Sep 2026 02:09:14 GMT",
-      "description": "Kayode Alfred expands Aristocratic Clothing, targets global luxury market The Sun Nigeria",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Lynx fine fragrance campaign challenges luxury market with NBA star Dyson Daniels - Mi-3.com.au.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjkxdFZWekFDVml0MkNRbUNfc182TWZOc2tuQ0ZoNGc1dnNqay0xWG5NTnUyVVRhNDItOG1OaHlKWkdyQ2JHV0Q2NVRYV29TTWZkYnQ2TndnZ1h6MW5lcFFITTkya3E4TzlwSTBvb2NkOU5KUkhSOENlNllLZGxmS3NsVTBuTnRQSlBrQjdQaWdQc1BjYTZOeXZCa0tKUGhJVzdxeHB5ZlpZeE1jN1FMdQ?oc=5",
-      "source": "Mi-3.com.au.",
-      "publishedAt": "Wed, 09 Sep 2026 01:51:52 GMT",
-      "description": "Lynx fine fragrance campaign challenges luxury market with NBA star Dyson Daniels Mi-3.com.au.",
-      "feed": "Google News - luxury business"
+      "title": "Can an Asian Brand Redefine the Global Luxury Power Structure? - Character Media",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWEyUnBWMWx5bVYtSWEtLTNaZTNVTUtPLV9FX3g4SkJpUlR3Z0w2LWxvRnhyT2VKUmNsODlPcmpzZXQ0U3JtWV9JVjJkM3N1SHhXTkkxYVJDRTljQVFpb1gxeVVvRkk1U0pLME1xVkRrTV9MTGhYQnFub1ZVdUVtR2pSS1ZoazVGUmFwVzFWeGNjRVE?oc=5",
+      "source": "Character Media",
+      "publishedAt": "Wed, 09 Sep 2026 07:04:14 GMT",
+      "description": "Can an Asian Brand Redefine the Global Luxury Power Structure? Character Media",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
