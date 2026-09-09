@@ -1,32 +1,48 @@
 {
   "date": "2026-09-09",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-08T18:12:22.338Z",
+  "generatedAt": "2026-09-09T02:21:33.706Z",
   "status": "ok",
-  "message": "Found 3 article(s) published on 2026-09-09.",
+  "message": "Found 5 article(s) published on 2026-09-09.",
   "articles": [
     {
-      "title": "Predator Ridge Launches New Real Estate Partnership to Serve Growing Luxury Resale and New Home Market - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUXdLVERxRVB4aTZLUml5X0pMQ3NHMndtMDVkZnh4TjQ2NVBNMkNSeDdUbm05eC1iYjh3RFFJQ1ZwOEo1ckVDT0dOZU9DNzdFYjNGUXFoS291UG84ZERGMUlkNGJXZktfX2VuSjNXQ281SG9QaFNkaW1zLUljTHB2UkhRTV91eFpvblBtdHRyY0g2bi1WaEd6U2tVR2NNMmZtVk5wZVJWdnpzbDhsdUo0RU5kd2gyZEkwZFlnS2JTNVktMmlEaDNWVFhBWWpzb2E3MlhTdEFOclBCUkJzbFRwUWc1NU5sSVM3SmZxODhpMnh1S210b0theFFvWGJISmZlazhxbjZNaWFjWjcxVllRV1FlWEJSV3Jw?oc=5",
-      "source": "The Globe and Mail",
-      "publishedAt": "Tue, 08 Sep 2026 16:23:54 GMT",
-      "description": "Predator Ridge Launches New Real Estate Partnership to Serve Growing Luxury Resale and New Home Market The Globe and Mail",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "From Coach to Gucci: The Best Designer Bag Deals Still Available After Labor Day - WWD",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTW45RTBBSGpRRlN6dWNSb0ptcnFaMW9xUUZ4MkE4SlhKZEtnVUxoTXhVYzVDWld4Vm5nNERaS2lWWmNUNm80RkVfaGxSTnlPcFI3QWhvMXhXMDlvYkVHZ0I5ZDdWVzZsSkVIajVsZThMcVlrWmY3NldBdUpfVU1ybW00aFJjWGFPdUxic2hhZWFibUNhTVBmZGVpMmljQmhmUUpMZEpSaDE?oc=5",
-      "source": "WWD",
-      "publishedAt": "Tue, 08 Sep 2026 16:20:49 GMT",
-      "description": "From Coach to Gucci: The Best Designer Bag Deals Still Available After Labor Day WWD",
+      "title": "China Luxury Label Icicle Hires Former Gucci Head Sabato De Sarno - retailnews.asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNU9Dci1XdFI5X3drWWUxTVQ3Z0tWOV83MDhJQzRaZEhwaFZPeldfaURRYjJQTUo5OFZ4LUFqb0c1TWk5blJaNFJXUDkxcFhBTVgxQ295ZW5QZ2F6RnNGMDAwRDZ6MlExX0dDWU1zMHdpNm15U3VWS2RyLUM4UEYtSWc3eE1Fcm1hVHhNclFGR1U1Wnc?oc=5",
+      "source": "retailnews.asia",
+      "publishedAt": "Wed, 09 Sep 2026 00:09:45 GMT",
+      "description": "China Luxury Label Icicle Hires Former Gucci Head Sabato De Sarno retailnews.asia",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Manhattan’s luxury contracts whimper toward Labor Day Weekend - The Real Deal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUg4Z0l3QkJwTHd1WEFxN1QwS1YzNENYOWkxcjRuRWgxcXJtZ2tqV183WWs3YkpFZkNZdGdTclB2ZHNBd1N0dk5WZkxLdmRTOVdKS0tTem5XQTQtZy0wVjFDUUtqZEVGbGRBSWNYQ1ZjdmcyTk92LTNmbnkzVkhTOXpCZkpoRDJMWFRhYmlGTFg4ai01RGRqcm85aE1fNExMa1V3?oc=5",
-      "source": "The Real Deal",
-      "publishedAt": "Tue, 08 Sep 2026 16:09:00 GMT",
-      "description": "Manhattan’s luxury contracts whimper toward Labor Day Weekend The Real Deal",
+      "title": "Patrick Mahomes’ $218 million Alpine F1 investment gets a major luxury boost with Gucci partnership - timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMG52UGY3Tlg3LUwyeXVkeWxYSEtrMVZqRkdROHpjWl9mWVZXQVgyR2RKVnRtLXZESXREM040R3FPVWs1c3YwYWk2ZUNmbUhHa0RaLVE2Vm1SR2VBUFZ0dHJYOE1nNHo3T0lZdmNLZGplUEcxcEZvci1MelUweGxmbk1OLVQyWThoTGFZdk9mdzdYdEJBN2J4dWxDaUk4ekc4dllyUERFZnNFVlo3bDVFWnRkamd1YV9yaUdOWjRrMlV0d3dqZGV2cWxmOEo1VEJoV0NGZ2NpMGNmOWV0QjJLeV9lTFBJTWFsZXlJcGlrWHhPQU53eGJOTGh2RWpLZ3gxM3E0Wk5B0gGLAkFVX3lxTE1TWWFxa0kzWDI1aUY0eGNIVkJuYlZNNmJtNFpCOG85dzRhb0hxTU43cmlwNGE5S19EQmpGdFFTOTBMTEJhREFYTVN3OXNuVGh0VUFScFRHTFF6WnRxT3lENXljWmtjb0V4MnRyMlFZeWg0U2p3V1hHdi1Pa0VkbkQ0SDQ5UTNkMnIzNUFSdmNubURMQ1NISXhtQmlaTUs4UnJlUVp1YmFQWUlzUlZ4WC1DdVFDSmx3dGlRaHNCMEoyNkhWV2NCUzItZ2VDZkpDM2RncGFOYkoyUTZ4X2pZN2U5NDZ1N3FGNWdnb2JQenl5cTBJT2J4eWlCb2duTmtBQ1RRVFI5SUE5bFNHQQ?oc=5",
+      "source": "timesofindia.indiatimes.com",
+      "publishedAt": "Tue, 08 Sep 2026 22:21:00 GMT",
+      "description": "Patrick Mahomes’ $218 million Alpine F1 investment gets a major luxury boost with Gucci partnership timesofindia.indiatimes.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Bath & Body Works Has a Special Online-Only Preview of New Fall Luxury Perfume Dupes for Gucci, AERIN & More - SheKnows",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR08tZmNpZTUwTkxQQVcyNGNBc0FEN0FRbkJtVnktOGxSVzREeUhuQ2RIM2dlR2lsbnFRSG40endSSm9WVmcwWWI1OW15U2pUS3N6bE5reW11UFdGOTNTM0gtWmItZFdBa2xGZHhDOWhaZWVFNU1XR1VSNlpJUU53MUdXbFVBb1Nnc1VBcnczb1FhQzQwZkFqeE9rTFFZRU9FRTlWc2ln?oc=5",
+      "source": "SheKnows",
+      "publishedAt": "Tue, 08 Sep 2026 19:30:00 GMT",
+      "description": "Bath & Body Works Has a Special Online-Only Preview of New Fall Luxury Perfume Dupes for Gucci, AERIN & More SheKnows",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Kayode Alfred expands Aristocratic Clothing, targets global luxury market - The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGVGNHpNY1liWUU3dUhSQXdZQ2NuWlREN2pfNkxZV1ZpU3d1b3VldTc0akhvckJyTGxqbkdDaEdjTUd2c3RhM1N1WTlZN3VVWDVGbWhMektEQUJrSHJHWFZSbUxYTjVjNmg2STdLUEt6OURmQmgyUXF4NFdjZG55alVEalNzVmpqNkhhQjRINVZMdkp6REE?oc=5",
+      "source": "The Sun Nigeria",
+      "publishedAt": "Wed, 09 Sep 2026 02:09:14 GMT",
+      "description": "Kayode Alfred expands Aristocratic Clothing, targets global luxury market The Sun Nigeria",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Lynx fine fragrance campaign challenges luxury market with NBA star Dyson Daniels - Mi-3.com.au.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjkxdFZWekFDVml0MkNRbUNfc182TWZOc2tuQ0ZoNGc1dnNqay0xWG5NTnUyVVRhNDItOG1OaHlKWkdyQ2JHV0Q2NVRYV29TTWZkYnQ2TndnZ1h6MW5lcFFITTkya3E4TzlwSTBvb2NkOU5KUkhSOENlNllLZGxmS3NsVTBuTnRQSlBrQjdQaWdQc1BjYTZOeXZCa0tKUGhJVzdxeHB5ZlpZeE1jN1FMdQ?oc=5",
+      "source": "Mi-3.com.au.",
+      "publishedAt": "Wed, 09 Sep 2026 01:51:52 GMT",
+      "description": "Lynx fine fragrance campaign challenges luxury market with NBA star Dyson Daniels Mi-3.com.au.",
       "feed": "Google News - luxury business"
     }
   ],
