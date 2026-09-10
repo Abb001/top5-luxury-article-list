@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-10T02:20:38.578Z",
+  "generatedAt": "2026-09-10T07:41:36.140Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-10.",
   "articles": [
@@ -14,6 +14,14 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "Luxury’s new crown jewel: Handbags fade as jewelry market shines - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVdrN0JOdFFub2dkQlBSWlIyVFFYZnE5WktvSTJqZnJJT2Z6eTM0OFFBaXhJTHJ6ZC1nOHRDNDdJUzV1cFhlQmllSTYyUHY5M0RFeGVhdVR1cjdhaGZfNGlSbEcyY1dobHFKdlhhTmU2ZG5Mb3N5OHRUb0k2ZjBESF9YVWJWdHJXdDBobWhOdnFmUC03TnFwc1JZWXFRYXZEbkpaeC1uNlFkQ1ZKRkxYaDVwSzl1UQ?oc=5",
+      "source": "Korea JoongAng Daily",
+      "publishedAt": "Thu, 10 Sep 2026 02:18:08 GMT",
+      "description": "Luxury’s new crown jewel: Handbags fade as jewelry market shines Korea JoongAng Daily",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "AI Reshapes Luxury Fashion at Sungjoo Foundation's KIFT 2026 Forum - Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWExZd0N3UFR3VFQwNEI3Y2ZWVEFfZ0szM0M0Q2ZNNUl4MW9KRlNFcEtTVk02R1hBUlZaRFZsME5HY1hnVFZFcUxxalpObmwtajRNTXhBOXhUMTFtRjNMMFpiUVhNMEppRU43cEN1dHNzSTkzREc0bEhuNWl1VHRaZTY3eWMxQnFwRTU1UXRJWlhXXzVKejVpQkRRdmlOY0VfTDFBY3RpMA?oc=5",
       "source": "Seoul Economic Daily",
@@ -22,11 +30,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Meet Tylen Butler, the Fencer Building Fencing’s First Luxury Fashion Brand - The Quintessential Gentleman",
+      "title": "Meet Tylen Butler, the Fencer Building Fencing’s First Luxury Fashion Brand - theqgentleman.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2EtZVJCdWdNWGVIZWxlWll2RjhBSWlreDdmLWJaRlBwLTZaeFlzRFZfSDlnZWxaV2ZSbkVSZzhSQ3JfbXdfbGgtc3pvTzc4TjJCWUxtR0toRU45QjhCMk5McUx5OXZLT1FNN0w4Y2FYWjJlZ0RZbGJrZDBWZE1pa2lLclpUQkRCS1FBSEczY2VHbjNNcFpVZENDLWUzenFROXduUGtYYXdDQnJGOG5xX3FicUVYWUFx?oc=5",
-      "source": "The Quintessential Gentleman",
+      "source": "theqgentleman.com",
       "publishedAt": "Wed, 09 Sep 2026 20:29:37 GMT",
-      "description": "Meet Tylen Butler, the Fencer Building Fencing’s First Luxury Fashion Brand The Quintessential Gentleman",
+      "description": "Meet Tylen Butler, the Fencer Building Fencing’s First Luxury Fashion Brand theqgentleman.com",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -36,14 +44,6 @@
       "publishedAt": "Wed, 09 Sep 2026 16:14:00 GMT",
       "description": "Luxury denim brand inks lease for SoHo store ahead of Fashion Week Crain's New York",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Style Folio: Christina Chung on Confidence, Ageing and Finding Her Place in Fashion - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXA3S0EyQ3l6VVhqaXZHWWlWcGMzQnFiV2gzanRTMFlFbmZsc1YtY1B0b1Y1YW03T2NEVkZSX1VkRDgzc0ZkanJSalN1SFcyekVYaEJTazdtY1p4ZDlmNFFPakY1Nm1IZmF5cjNEaG9QWHBQRDlDLTdSRkVaWmhEN0ExNVVKZzl5d0JTNTVPZlZTUHl3OXJGcFc0dEFiR012TjB0TEptX19zRHFDbHVjNDRROXhWREZqVXctYm9ya9IBxAFBVV95cUxNaFFsS1R1cDhWbGJxOF83dWZuZ3lVS3JwVFB3QVQtUTVZbm8wT1UxWGE5RWlGQ3JXbVlHQlJ0RmFiZU5NTmR2bm5EWElvY1lNR0lDd1kwVUI1RzlFQi1WTlN3U0FBZ0d2aHdfVTNoSE5mRG9hZlEtQmZHOUNtbVM1QXFEUTJLUDJ3d0lTMUxBaUtRSzV2TExpdEVwZnFhR2ZVamVOcjYzWE9hbVFCZVlNTmxrejhrbjFzN0NGR25LeV82ZjdY?oc=5",
-      "source": "Prestige Online - Singapore",
-      "publishedAt": "Thu, 10 Sep 2026 02:00:00 GMT",
-      "description": "Style Folio: Christina Chung on Confidence, Ageing and Finding Her Place in Fashion Prestige Online - Singapore",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
