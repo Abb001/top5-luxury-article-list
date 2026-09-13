@@ -1,9 +1,50 @@
 {
   "date": "2026-09-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-13T02:21:00.393Z",
-  "status": "empty",
-  "message": "No articles published on 2026-09-13 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-09-13T07:50:53.111Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-09-13.",
+  "articles": [
+    {
+      "title": "Fenty Collection Lvmh - Rihanna and LVMH Are Temporarily Closing Fenty - defensorianna.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdHZVNFQ0bzdkZXRjRW0xbDFvZ3dBWldDTGVQZThPTVpPa19scVJtWWhxZGd4NjlhdXB0UkoxM2NWRjFzWmxRVU9ESWdPLThFYkVFSks5Q0Y?oc=5",
+      "source": "defensorianna.gob.ar",
+      "publishedAt": "Sun, 13 Sep 2026 06:56:34 GMT",
+      "description": "Fenty Collection Lvmh - Rihanna and LVMH Are Temporarily Closing Fenty defensorianna.gob.ar",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Coco Chanel at home: 10 photos of the iconic couturier in her stylish sanctuaries - Architectural Digest India",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUJYdTIzOGd5TlhzWGJtUzhrbURjeDFIRUJLYXQtWDhZWWRmdDhaVlg4NTMxU0pjeUZEUXg4UkNxR1JFQTRHSHA4WGFBNm5nUzdEeEhrR2dseWc4SEgxQjM5M1RGeTdhd1pxS3FRYWVnNDVVcW5JMFRzbmVXODdUa0hndFVwYVJScU1WMVpkUkdpOUhRVmNEVDJiRkU2V2FrUzhiRUJ4QnIwMXd3NmdmV2R4WHZwc0drN0FQQUpIbw?oc=5",
+      "source": "Architectural Digest India",
+      "publishedAt": "Sun, 13 Sep 2026 04:30:00 GMT",
+      "description": "Coco Chanel at home: 10 photos of the iconic couturier in her stylish sanctuaries Architectural Digest India",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Lotte Duty Free boosts fashion with Valentino and Duvetica at Seoul flagship - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmd2Tm5ZMzhlVVZNc2tNcjhIdEhRQW9HeUM2TDNzTDlleVdtalpEV3FiVWxiVnBMcjJkbEVDZnN2Q3hKVXdkS1ROSXVZck1DQ1F4X0ZMS1ZDRkE0dlN4c2RIRFFDMzQxcjIxd1JsNzBMUTZYWWxlc1pKZEdPNWwxQnlnbkNROFZfR2hpX3doQU5kS1HSAZMBQVVfeXFMTUZndk5uWTM4ZVVWTXNrTXI4SHRIUUFvR3lDNkwzc0w5ZXlXbWpaRFdxYlVsYlZwTHIyZGxFQ2ZzdkN4SlV3ZEtUTkl1WXJNQ0NReF9GTEtWQ0ZBNHZTeHNkSERRQzM0MXIyMXdSbDcwTFE2WFlsZXNaSmRHTzVsMUJ5Z25DUThWX0doaV93aEFOZEtR?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "Sun, 13 Sep 2026 04:27:00 GMT",
+      "description": "Lotte Duty Free boosts fashion with Valentino and Duvetica at Seoul flagship - CHOSUNBIZ Chosunbiz",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "BMW India Targets 30% EV Share in H2 2026 as Luxury Car Market Expands - Autopunditz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONXY2dTFQMlcxWE9HYlFvRHRCbU1NbkJtOE5UMHAxNGREZk9kODNjRTZJb1V2SzJpQUhSSGEwampwX3ZTaVBMYmw5a2FLTzItc0Z2a1MzMUd5dkgxRTAxVzFYNVhMVWkwVDNEQ1M5bEJsYUU5ck1BQ0UtdVFmaVNfMUJR?oc=5",
+      "source": "Autopunditz",
+      "publishedAt": "Sat, 12 Sep 2026 18:26:02 GMT",
+      "description": "BMW India Targets 30% EV Share in H2 2026 as Luxury Car Market Expands Autopunditz",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Palessi Shoes - Payless Convinced Influencers to Pay 600 for 20 Shoes at Fake Store - defensorianna.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16cF9FNVo4Rnh2bGZpUFE4VGlYOEZqaHdYM3BlVTJWTFAwRkJlYl9oSlhsd01ZbTBpckRmeVcydzNzNC1WUXZTTkh6amdkYXRzRTVJZGttNkw?oc=5",
+      "source": "defensorianna.gob.ar",
+      "publishedAt": "Sat, 12 Sep 2026 23:20:46 GMT",
+      "description": "Palessi Shoes - Payless Convinced Influencers to Pay 600 for 20 Shoes at Fake Store defensorianna.gob.ar",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
