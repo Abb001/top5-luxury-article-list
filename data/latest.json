@@ -1,10 +1,18 @@
 {
   "date": "2026-09-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-13T07:50:53.111Z",
+  "generatedAt": "2026-09-13T13:33:12.922Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-13.",
   "articles": [
+    {
+      "title": "Lee Hye-young Gifts Chanel to Junior, Uses 10,000-Won Wallet - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnpzdGQ0RE0yeU1uaWJYQUJHaWVKcENWbUpuWFlrNGN4NW9fTEVOMDRnNUhIWFhXU0hWWF9pWWo0YVh5M2VxVFFIUkhkM096Y1g3UDdXWWw2Y255MjM1dVpvMUJIS0QxWU9OczBadDdaZFhmRE9zbmJ5cjM3c2RDTFpOWmh2Y2FYYUFrVl9n?oc=5",
+      "source": "조선일보",
+      "publishedAt": "Sun, 13 Sep 2026 12:13:21 GMT",
+      "description": "Lee Hye-young Gifts Chanel to Junior, Uses 10,000-Won Wallet 조선일보",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Fenty Collection Lvmh - Rihanna and LVMH Are Temporarily Closing Fenty - defensorianna.gob.ar",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdHZVNFQ0bzdkZXRjRW0xbDFvZ3dBWldDTGVQZThPTVpPa19scVJtWWhxZGd4NjlhdXB0UkoxM2NWRjFzWmxRVU9ESWdPLThFYkVFSks5Q0Y?oc=5",
@@ -36,14 +44,6 @@
       "publishedAt": "Sat, 12 Sep 2026 18:26:02 GMT",
       "description": "BMW India Targets 30% EV Share in H2 2026 as Luxury Car Market Expands Autopunditz",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Palessi Shoes - Payless Convinced Influencers to Pay 600 for 20 Shoes at Fake Store - defensorianna.gob.ar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16cF9FNVo4Rnh2bGZpUFE4VGlYOEZqaHdYM3BlVTJWTFAwRkJlYl9oSlhsd01ZbTBpckRmeVcydzNzNC1WUXZTTkh6amdkYXRzRTVJZGttNkw?oc=5",
-      "source": "defensorianna.gob.ar",
-      "publishedAt": "Sat, 12 Sep 2026 23:20:46 GMT",
-      "description": "Palessi Shoes - Payless Convinced Influencers to Pay 600 for 20 Shoes at Fake Store defensorianna.gob.ar",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
