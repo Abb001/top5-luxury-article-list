@@ -1,17 +1,41 @@
 {
   "date": "2026-09-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-14T08:22:39.429Z",
+  "generatedAt": "2026-09-14T15:30:14.702Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-14.",
   "articles": [
     {
-      "title": "New Lidl £8 fashion item similar to £298 luxury brand version out this Thursday - The Mirror",
+      "title": "Heritage Days 2026: dive into the worlds of fashion, luxury and beauty - Sortir à Paris",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVWRWODFvUDNzYzJkT3h4TTYyd2VGYV9SM0NoTjFLQlJGYXY0YjF3bHYtY3M3MEpOTXhDSUxTNkUzNDNLdjVQUmdmZXoxRlpzeExnLW9mZ2RQa3dKU2lnNVNpRUJieGUzTTh5ak4tS2FkYllXZGNIeGZNWjQ3RXBabHFiMnBMQUE4TTl1OHY2NF9PTk1hbzFiUlh2M1g4eGFibUJ6OXZHcGVVa0xiUFcwN0dZcEpWRjcybW1HYnFoUlp3b2ZjamgwM29HZDZ2Zw?oc=5",
+      "source": "Sortir à Paris",
+      "publishedAt": "Mon, 14 Sep 2026 15:01:42 GMT",
+      "description": "Heritage Days 2026: dive into the worlds of fashion, luxury and beauty Sortir à Paris",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Unveil A New Bridal Story Look Edition Of Bridal Couture Fashion And Revisit The Desitination Wedding Red Carpet Moment - Issuewire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVmRrS1pEN2o3N2ZZN0dMblF6UjZ4N2R0a1ZQMENKU0wxVjU2QzFTN1NXS19yUWNJaVlmRFNCV0dhNWh1aGphRG5mLWlOSnQxSkxjRi0tdWJzTHJFZVBpR0hKbFAyMnQ3bnlIVS1aWGxHWFV4VUFkZU9ITHNiWmxIOVdMbmpROWJpamZHYjZCRFhKdjdqWllfa2t2dk5hNGpuTVZxN0VsbjdvcmkzRHJaQnZjOWphMzFhemtKRm9KVkE0Z2wxUkUtcmtfV1pFbkJzZmxMTkwxTk5Dd3p4NTJ4ckJuVDdwUkNUdVJHX2hyUU40eU9C?oc=5",
+      "source": "Issuewire",
+      "publishedAt": "Mon, 14 Sep 2026 08:33:34 GMT",
+      "description": "Unveil A New Bridal Story Look Edition Of Bridal Couture Fashion And Revisit The Desitination Wedding Red Carpet Moment Issuewire",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "New Lidl £8 fashion item similar to £298 luxury brand version out this Thursday - Daily Mirror",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUJ4R09aRFZYVllmMjFuSWFFbEtNOVBOZUhSczBsalFOZG1LQzBJcG5nU0c3R2c5SHB6dGZ5dGE0MDUtOXgycGVwazVBeVZ5VmVlcERzYWNEMDhFblhXOUxWbkkybE9mX2plQUpteEF4Vzg2alFvLVIwR2dvbGZGZWdLOUnSAYoBQVVfeXFMUDlxZHRsVnQ5TGU1R04yVGF0TlhkVmwwWGdXUEp2b3VVcVFCNk5yWVNLRS1JaDVRbWxqelZRZUpFWUY0aEkxN1lhNmFLVVRLT2FNZ2RHWGduSzRMc0F1UzEwbzJxLW1ZdFRoa2ZnN2VLRzdhbHRYd2drek1pRVpiVjlsSUlLdlFMbkZB?oc=5",
-      "source": "The Mirror",
+      "source": "Daily Mirror",
       "publishedAt": "Mon, 14 Sep 2026 07:59:00 GMT",
-      "description": "New Lidl £8 fashion item similar to £298 luxury brand version out this Thursday The Mirror",
+      "description": "New Lidl £8 fashion item similar to £298 luxury brand version out this Thursday Daily Mirror",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Bernard Arnault Drops Out of World’s Top 10 Richest as LVMH Faces Luxury Slowdown - Global Cosmetics News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVHFrVTBrSXZ4VHBINzR0RjZHQWV2NGFuc2hkZUtFd01Vb1BXSi1DeXA0LXlWOElaQWJ4T3NQNHpPdVZWTW8yek00Zk5RS1BKdUh0QV81LUdPYnc2RFdGMFFvd0pkRWdtUXhSTnRRVmRNczhhMUhHUW5sRUtMenFuOVJjUGR0dHRCVEFMb0NsYndmVG40SXNVU2NDZWVTZTNIVU42aUlzT1pNOTVIX2ZCTjZTeThoa1By?oc=5",
+      "source": "Global Cosmetics News",
+      "publishedAt": "Mon, 14 Sep 2026 05:01:16 GMT",
+      "description": "Bernard Arnault Drops Out of World’s Top 10 Richest as LVMH Faces Luxury Slowdown Global Cosmetics News",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "BoF Professional Masterclass | Chanel: The Designer Revamp That Worked - The Business of Fashion",
@@ -20,30 +44,6 @@
       "publishedAt": "Mon, 14 Sep 2026 04:30:00 GMT",
       "description": "BoF Professional Masterclass | Chanel: The Designer Revamp That Worked The Business of Fashion",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Ralph Lauren Embellishments Or Zardozi? Luxury Brand Faces Backlash For 'Stealing' Traditional Indian Craft - Times Now",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX2g0ejJsazVKaFhmenpPR3ZkOHUyOHRLdzhXMGw4cWY5WXkzbGxYU21Xd3FRU282anJDdzdibjNBY3ZSM1RyTHFqTmJ4djJRSkFfUVpUWDNGMmdlb1dGME9tNDZHaG1nZHdNT2dDUTZqX3gzanpCcjRZazhIdTJOOW9paTlJTktZMXNOdjdoUVFxOGhjTFFOLWRWWTF0cms0ZDZFNE9xMEFVRUlYZ0Zwb2RsSERVLUlNZjN5T3hGdjg0UFB5OXVMMnFDLVpqbGxtY0JxR3VVell6UW5HMFVFYnN0T3YtTHJEM1JRc3BCdGc3bTdzLXlBRElNQTVPQdIBgwJBVV95cUxNYzJqcXdsWVU5ZFF4UHFucDdRUGx0b0R1aFluRGd6a3RhZ0swOTVIbUVrUjhMcW1MLWxiUC1GbnhPSWZadWx4MVpnbWFSTTRaOU1HZVFzV2FWNk1xbHRsNjlnemIySFJqSnhLWXJiejBXVGdiZGN4c1ZUejNuUHlVLXVpM2V3VGo4RkRpVVI0UEVxOVd5YzBma0VKU0szQmJ5LS0zTlBsZnlOc2xySlR1c3N1RTVoSXdHQzRzTm9DZzU0WDJic0tRdjJzWEVXdjVGQ1owWVRlbExBc19rMF93QUFBT0o2b1NrRWg3ZmdUZWI0SnhfSUJEMDc4ZUdUeHJaZmYw?oc=5",
-      "source": "Times Now",
-      "publishedAt": "Mon, 14 Sep 2026 08:08:46 GMT",
-      "description": "Ralph Lauren Embellishments Or Zardozi? Luxury Brand Faces Backlash For 'Stealing' Traditional Indian Craft Times Now",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Huspy acquires LuxuryX ahead of major push into UAE’s luxury property market - Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYWVuSlE3RmJSSUJzRGxfc3NXVHlaRm1OSThHbm5oTzhwVlZtY1hfcmlYaWxjX1RhRzZmbHBDRmp5cHFYVEFMYVZCZFNwZ05wcmdTdWNSbkRXMUhfbHpBS0tQLUh6VGYzWnY4NmVNSURiVm9aekFJX3lBNXE0R01iY1JobUp5dHhXeGZ2MUF1NGRKcENqM2pWYk5adjdKSVN5Q3Rpd3VTYkFVa2p3c3R3SEdYcFF5QjlYRWNn?oc=5",
-      "source": "Arabian Business",
-      "publishedAt": "Mon, 14 Sep 2026 07:04:43 GMT",
-      "description": "Huspy acquires LuxuryX ahead of major push into UAE’s luxury property market Arabian Business",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "LUMERA unveils its inaugural luxury lifestyle edition in Doha - Qatar Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHhudlV1RVVuWlZ4M1RmSVV6X01JQllYb09zTUU1STh4THJEZ2wzWlpDNGkxeXZVSG4wTlFJR2RteTJVbzZNQ2E2a3ZSLXRHMXhTOXFjZ1Z2QU5PdHRaVWt3cWxnc21zNXV4dGNmY3BkRjNScmN4NU4wYmxURmUtMzA3aENvT29mb3pIQmlWM0pxbTNNMVA3ZkVyZ0J0aWdpdGptUHpsYmd4cU9vN3pVSDFEMNIBuAFBVV95cUxOSGV0eUdneXk4c1pyR3lDMVBmdWZ5UXF6T21URl9GaHI5X2FYbmJzdGViN251cnF0X0xRanVMQndESWdSaUpCUWZSVFg3bW5jT2JFT0ZxZDJLdEJldTNFWUtfdXV5ZHF0OW94c2VzU3dHZGRyOUkxZ0ctZDJ6WFpuMkxSdUJXNElyMjc5WXVXQTdIbmlIeWNVaWRwVmt6SHlUZUN0OG9oNkJia0lET0pma05hOUN4anVj?oc=5",
-      "source": "Qatar Tribune",
-      "publishedAt": "Mon, 14 Sep 2026 05:16:19 GMT",
-      "description": "LUMERA unveils its inaugural luxury lifestyle edition in Doha Qatar Tribune",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
