@@ -1,10 +1,26 @@
 {
   "date": "2026-09-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-16T08:07:42.780Z",
+  "generatedAt": "2026-09-16T13:55:52.560Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-16.",
   "articles": [
+    {
+      "title": "China’s luxury market slows as Louis Vuitton, Gucci, Rolex cut stores amid weak demand - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlcyaEhJbTB4bFVpNk1yNDRYTTdhQXRPSXQ4cjAxc1ByLWd6TkFwTE5ndk5rU2pweU9IX2psbHU0cDhrVFdKczAzM093RWRoS3BNRXVwbzMzTWRCTDJvb3RDZFRMZzJuM1J2TWFnbEVqSkJVVFdESGltS19vV083aU1ranZRRGJrdVZrRTdvWnBSbEFtWmctaFM1aG53R2VWeHpzckREQnplQlBNZTRRTE9jcEtxUVJ6UjFVZ2NFT0I5WWVHOXRVTU5hZEJnZWFJXzhv0gHYAUFVX3lxTE1BRlVCS1lhYVZ4bDBWM1Q1aG51d0JPN2E3V1dIR1VSXzUwdTZUTXFlLXMzNmtnU1JRLW56d3VWTjA5VElhSDgwSExCT2F2eXBOYU45cjRvUmxiQnpRYTRfWjBYNDdxUVgyTC0wVW1pVS04M1RrdjZVaVUwZzNzUm1vVGZiTnJockRXZHhrNDFuVHkzUlJDTFFYXzkySEVBOERGaVNxcy03SU43cTBwS1BnRHZaSHNZdll0NmpVOV9ZNkc2eVM4ZlA5NHQyVmFFdE42b0U3RUxKMg?oc=5",
+      "source": "The Statesman",
+      "publishedAt": "Wed, 16 Sep 2026 13:19:00 GMT",
+      "description": "China’s luxury market slows as Louis Vuitton, Gucci, Rolex cut stores amid weak demand The Statesman",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Fendi Couture & Karl Lagerfeld Exhibition: Rome's Fashion Legacy - Modern Luxury",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGhneF9qaG5tbUFRdGJ5RTh5bmZ1eFR1ME1rdF9MZ245b0NhbzJYOWxLUFNyV1pVLXpCVTZrSFFlZTVxbUx6Yndta25OWVNRWDlxU3ZCOFRxNHgyVENCR3pwdjRIYmMxMFhSQVB0M3NqOE5vTEZkWjFaN01GMnhoRGZjT3g0THY1RXFNT3VWcEZlVG5tdHB3N0o3Qk94bnJQVHYyM1NBRQ?oc=5",
+      "source": "Modern Luxury",
+      "publishedAt": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "description": "Fendi Couture & Karl Lagerfeld Exhibition: Rome's Fashion Legacy Modern Luxury",
+      "feed": "Google News - luxury lifestyle"
+    },
     {
       "title": "Gucci and Dior's outfit change is a work in progress - FashionNetwork - The World's Fashion Business News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWI3SmdzelprN042R1hXbVlqQ3VYRlBZeVJmT0dFOVNWZXk2VlNEZnlrbjFnV1IzNGp3NFJENDNEVFZja20wQXJTUkN1VUVqZVVjYzN3MVRELXJkUmR4dFBrQzhHM01oSW1ydS1Vckl4RDVtVVZNcDFvYVM5eGt6bzJ2ekpqSjNUQ3NZMmRrRTNDYzJ6VWVHdndSY0VuOW9sY1E?oc=5",
@@ -28,22 +44,6 @@
       "publishedAt": "Tue, 15 Sep 2026 21:58:00 GMT",
       "description": "Gucci owner Kering is backing Chinese fashion brand Icicle. Can it become a global luxury name? CNA Luxury",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury Cosmetics Market Is Going to Boom |• L'Oréal • Estée Lauder Companies • Chanel - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUdwV3lJMi1oeklySER1Mk1pYTh0UktpT0xFbVltRS1KSHA4SDQ1M3h5SnlYejhRUU1pcWs3TGlSUUZDQTg3clhLTE9iRmtyRG5iWGlSRkRUZHRsSjNjZUlJRXZfR2cwVFNqQm1JLWJ1YVRMTDVPM0xaVE1CLWlhVEpvLWJTcGhhVVlVUS1n?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "Wed, 16 Sep 2026 06:48:41 GMT",
-      "description": "Luxury Cosmetics Market Is Going to Boom |• L'Oréal • Estée Lauder Companies • Chanel openPR.com",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "L'Oréal overtakes LVMH as France’s largest listed company by market capitalisation - FashionNetwork USA",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcm1Ycm1iMHlUaTc5alZqdXlxazM5Z01rYWd0Y25COWhYeGJObVBjZjNnNlJqb2ROMi1RUDJwX0FLZXdnU3VzYTFiSm9FbS1mOENMcUxzWFpSU0wzMlRhak0zcFFib19oVFRUaWFLb0RhTjhkeG1wbjZCLTJZeVRhQWlidWpfM1ZFVjF3UUJTdnhuYmh1Z2RpRjA3YUxTVDh3ZFpVMWZIWW5VUTFqNVkwVHcyT1B3amR2UE1OcFdDY0VVOXlyaDBJcjZB?oc=5",
-      "source": "FashionNetwork USA",
-      "publishedAt": "Wed, 16 Sep 2026 00:52:58 GMT",
-      "description": "L'Oréal overtakes LVMH as France’s largest listed company by market capitalisation FashionNetwork USA",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
