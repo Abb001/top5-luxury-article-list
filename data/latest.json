@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-19T02:27:20.844Z",
+  "generatedAt": "2026-09-19T07:41:06.535Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-19.",
   "articles": [
@@ -14,20 +14,20 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "The rise of the 50+ model on the runways: Stephanie Cavalli, Christina Chung, Suzy de Givenchy and more - Fashion United",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWTIxZ2o2UGZSMEhJUE8xQzRTTHdESHdpc2JwN2VSdkxTYXRXdFA5YWt6N1VWbDNRaVpudFV1SVlqVEc4SlJCTXhLcXctS25fclVna2x4UThramt3MHpQWGE0eEpzUVRRRjNuZUlCdGNBaTBZMmRoN210VGRlYnhOMXdTYU5McktIdlFvNFdQcFh1U3ZxczlKSlJEZnE2bHBBWHpjd3YtVVFtb0ZRM2s5V1JBWXpUZWY1U1pLVXpMTlZCMnVhcTU3cmppZGExSTNUUC1DWWU3UDRJUjBxb0xva1FSVGt2dw?oc=5",
+      "source": "Fashion United",
+      "publishedAt": "Sat, 19 Sep 2026 04:04:40 GMT",
+      "description": "The rise of the 50+ model on the runways: Stephanie Cavalli, Christina Chung, Suzy de Givenchy and more Fashion United",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
       "title": "‘The Early Spring’ effect: Decoding Jing Boran’s refined fashion wardrobe - Prestige Online - Singapore",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUE0VXgyX3k3UnFQQjZKanU4S2dSdGd5ckhYYll1aFBXa2pnc3NiNllUWTc0ZUx3dk5rWERkbDNQLXlDSzBEMV9yQmNZd0x0dzQxNXZpbENPRHNOQVF1OGg1b01EeEF3eGNmbjl1RmptUmRHc1BHbXZYcFpvUF9XTmF6ZTlxYVk4eWs4RjgtUXhlcTNMdThjT0E0YkFmUFHSAaQBQVVfeXFMTVVpNVRCRFNobTJ3NHJhSTEwQVgyNDk1NFhGbDVweTZFcEdWSlVIMC1CWVBleS12UWFQank4Q2o3Vi0xTlVncGNWeEJMR1FISDI0clhUbTlhMmVUUjJPQWR0SGg1MTFtejU3RUlsdHpKWFRGa3ZuUVhJb2g5elpnanNBTlF5NDdBZTkxQk1mNEdrTUM4cFl6WnZjQm42S2NHVG5vWkg?oc=5",
       "source": "Prestige Online - Singapore",
       "publishedAt": "Sat, 19 Sep 2026 02:07:09 GMT",
       "description": "‘The Early Spring’ effect: Decoding Jing Boran’s refined fashion wardrobe Prestige Online - Singapore",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Scottsdale tiny home builder pivots to luxury market with $5.5M Phoenix spec home - ABC15 Arizona",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSW9yb1oyeF9CVWliU0N1QkJ0RjdKM2o5QlhVVUY1enBxUmZ1OUhEQUdZd3R2MTdZTldiOFRQN3dSbVV2bG9VUnNORXJFT2NGbURsWmFVTl9HS1FfRDNTajItMUpFdmNqbWFuRHBBVzFqQ1FwMjdaTjJGanZTTngzdXFmY2RKVF9HWmplVzZBMm43RTZNM1o2Zl9udnpsMVdnOF9NT3dZWFkxQ0QzY2dDZGJkazRXWWs?oc=5",
-      "source": "ABC15 Arizona",
-      "publishedAt": "Fri, 18 Sep 2026 23:15:27 GMT",
-      "description": "Scottsdale tiny home builder pivots to luxury market with $5.5M Phoenix spec home ABC15 Arizona",
-      "feed": "Google News - luxury business"
     },
     {
       "title": "Miami lands first US residences from a luxury car brand - latination.com",
@@ -38,11 +38,11 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Serena Williams Makes $95,900 Audemars Piguet Watches Now - highsnobiety.com",
+      "title": "Serena Williams Makes $95,900 Audemars Piguet Watches Now - Highsnobiety",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZN1VvQXJOVUxsTnBpNU9rYUhTSDJlZVVuZGFjSWVRbGE2c0xMQlJaRTk3WktQWTEySnpfU0RoeEM1aGowTHFqdk4xaE9qMzZJeUFra01hbVlEY2tLOUJlZ1FwWnlUY3FxUVhmaFlqZDk?oc=5",
-      "source": "highsnobiety.com",
+      "source": "Highsnobiety",
       "publishedAt": "Fri, 18 Sep 2026 17:20:49 GMT",
-      "description": "Serena Williams Makes $95,900 Audemars Piguet Watches Now highsnobiety.com",
+      "description": "Serena Williams Makes $95,900 Audemars Piguet Watches Now Highsnobiety",
       "feed": "Google News - luxury lifestyle"
     }
   ],
