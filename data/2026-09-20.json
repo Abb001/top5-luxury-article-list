@@ -1,13 +1,50 @@
 {
   "date": "2026-09-20",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-20T02:38:07.666Z",
-  "status": "empty",
-  "message": "No articles published on 2026-09-20 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
-  "fetchWarnings": [
-    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
-    "Error: Google News - luxury business failed: 503 Service Unavailable",
-    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
-  ]
+  "generatedAt": "2026-09-20T08:07:59.111Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-09-20.",
+  "articles": [
+    {
+      "title": "Caitlin Clark's luxury lifestyle beyond the WNBA in 2026: Prada fashion, golf, gaming, gardening, Nike ve - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNejljRlJxd3F2ZzVRZGpPUVVXTjY2MUhLSnBsTkpESXl4WlBLMXNaUkZXaGZSVGRsOWRDS0liYUJVS29RRjIzaDNyN2RBXzZfM25JSUxUaGJjVzJ1TmJSVVpDVWJiNDJnT0dZQjBic05YTHRKYnVkMzk4dXp0MWxaNjYwYWR2U3VOaWg2dUFIWWgzeUsyTHdGaWVGSERkZlVtcDc0SnQzdF9FUUZRSGtob29tVy1NQVpCeDNzNEFvM0N1bzhZdFdnTmdaNU1VRUpjXzl1V3I2cDhxZUEwRHlRaVdDbi1CS193ckhxc0RfSXZpS212dHdVZ092QU9mbldjTFcxaUFIY2JXSFA1X2VvVUZ1anN1X1lfQW4yTHAwb2dlQnBORmtjR0hON0FTOThFMno1bGRzbW10NE9hekN2MklvUTlnaTFWNVHSAc8CQVVfeXFMUGNMTHU5Q3JOblFSM3hRNjRFbnBubXdUaXZQN0Q1cmoxWkRVUG0tZGxIRERMdzdOb3JrR3lwbnU4dnNHUS14MkJUdDIyTS1NRTk4XzdPWG5JdXktNk5OUXluTHotQ1hvVWdKWDZXamZVbjBsVDMzbmlrMHNLdmllbk9UcE9OLUlXSHAwMFVBNGozNUxjVWlKSzBCdFM5ZEtBazBRaFozZm9RaDZPSVAzeUZTXzV4U2picVNXVnduLXFfTzUxV2NzcG11ZFVuR1RSUV83WkdVSmp4TVBBR3k1bHB5a09KY0FvUHRqMHNkUXBCb0lxMzY3bEJGZTkxSXlRR2o5MmRlYVc5Yy1aUkFOV05xNElpRXplM01BNUpGczktVl96SHBDSDR0UWRucnROaW5kZVIxVUc3SkhuQnVFOTlUNTVlbThpQUQ2ZjNxMzg?oc=5",
+      "source": "The Times of India",
+      "publishedAt": "Sat, 19 Sep 2026 18:30:00 GMT",
+      "description": "Caitlin Clark's luxury lifestyle beyond the WNBA in 2026: Prada fashion, golf, gaming, gardening, Nike ve The Times of India",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury London punk fashion boutique wins approval for a South Beach flagship store - miamiherald.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnR3dm1pT0YxOTdzU05fZWpkNzhQbDFYSl92eXkyZ2VMMFFrVDlOLWw5VWZZRnBMaHZJajVpeWlGVHNQY1gwNE9ITWRUdjRpYzZUZG9tSkJ3UmZRVHp5Z1FCNi1KY3EzQk94S0RRc0Z0YVFxb0lUV0VTMlNzZl9lZnpDNndXX0XSAYcBQVVfeXFMTXQ0bnBMOHlZMUJPUDdEQnd3U29GUE9JTEdmbHE1Y0dzOFRySDcwbGljYU8taUNRZFBpajNvOUl0V2NpU2NRVVZMTVJtYVQ2ZUE1cWNxcEIzNmRDaHJFVDJqa1otNjNDU1NiMUFpTFcwZi1Kd0tiTElVOHB3aWlTekZRc3ZLeUo4?oc=5",
+      "source": "miamiherald.com",
+      "publishedAt": "Sat, 19 Sep 2026 16:00:00 GMT",
+      "description": "Luxury London punk fashion boutique wins approval for a South Beach flagship store miamiherald.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "‘31 Rue Cambon’: Where Tom Sachs Makes Chanel Dresses out of Plywood - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0NWbUN4Vi1xZ2RQQXdoRnd3TUlQTC1wS2UwVDN3Q3Z6dlRiTlM0SnpreVNkNzRBZ29sVjl2TmJIRlN1U2xqdHZCUGYzYVhJNFlvQzZZSnU5T0NfLVVHdUhHaHE3LWNvLXhlTXVYOHlONTNoMHdxaUZvU0tCRkR0WjdaRzBpTF94SjBPZ2VuLUxSdnJqcnMtcW8waW14b0oyWmV0MGN3cjgzNDZL?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Sun, 20 Sep 2026 07:54:03 GMT",
+      "description": "‘31 Rue Cambon’: Where Tom Sachs Makes Chanel Dresses out of Plywood WSJ",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Aroma, Memory, and the Desire for Luxury.. - Kompas.id",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpQ0RkdkN4LUdQdF9xb3ZoNGEzSEJ3ZTVKWW1fc2JNYUtGb1c1OG81NEdNVmZSTVpfbS1iYVZ6cU80X2EwV09yV0txWXlQRFcwR2Z2RHFydUVkbzBWb2ZaOE5uYkFVVnRwRExtUEdxZFl1UQ?oc=5",
+      "source": "Kompas.id",
+      "publishedAt": "Sun, 20 Sep 2026 07:15:04 GMT",
+      "description": "Aroma, Memory, and the Desire for Luxury.. Kompas.id",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Its Indian Jewellery: Diors New Collection Sparks Controversy As Desi Netizens Find Familiar Designs - Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYUl1OVZKUlhid0twTE5TckRKcGpLUEV2WVhhYkUzSE9pSlJKeEZHMjhsMGkxZHdtSUNMRU1tQV9laFluZUFyQVQwTWltUzhKeVlzWmFhbUEwbDNaQ01mZElNOVU3RzZRSVBGdnRHUDFQZkhpSk1ueVNSZ3JjbU9XZjVmSmdiT2JQekNZNklHaGRFTGVJRnRGNkhoVFY3UWdjZFJJZVdXOExhUzlQd0dFcUtUZnZybDAwNThwakcxV1d0V01EUV9RZF9XRFMydXZxM0hjQ0pFei1kMEs3cUw0MXJMQmNVUEVSU3ExatIB8gFBVV95cUxNM2dCTXJUUHNWbVp5b0oxU0FhQnJCdzlod0FuOC1fLUFqbm1KNGd6NXp1Ty1nRDJtZ1FxUUVGVU40UEpVbGVkNzBoNy1sMW0wZlhPbkgwNXhJR0NBX2VTMktTR3U2b3VaZU82dnZlSE1aVm8yS2JKelFQdThHM0F6NGtnUDVWZjRQWXNZTzdpb2dDdi03ME5ZZU9wYmlBR1JUOW8tYlQtU01Ga1RaYTJNdXpNcHdYWTRyNGpVdkFiR3M1VmdiVkZQekktZmpvQlJGYlpKdk9zUGk4cTdtSWM0U2RlbGpkVDBBSlJnYXFRWFUzZw?oc=5",
+      "source": "Free Press Journal",
+      "publishedAt": "Sun, 20 Sep 2026 06:30:00 GMT",
+      "description": "Its Indian Jewellery: Diors New Collection Sparks Controversy As Desi Netizens Find Familiar Designs Free Press Journal",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
+  "fetchWarnings": []
 }
