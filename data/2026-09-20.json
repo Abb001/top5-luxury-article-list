@@ -1,18 +1,13 @@
 {
   "date": "2026-09-20",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-19T17:37:11.398Z",
-  "status": "ok",
-  "message": "Found 1 article(s) published on 2026-09-20.",
-  "articles": [
-    {
-      "title": "Heart Evangelista proves she’s a true fashion classic at New York Fashion Week - CinemaBravo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjVKZ0k4bWFuUjluSHRMZHpuZjVvLWxFSFBMVGpfVjFPN2REYjIwWmpmQ1FqeHk4alZNQmtfMmtRYzRPVWdscUNZUVE5Y2lxRDVueWx3MklxaUpmenlvWE8tRWFzaDVRRHgtbWxsN0JpT2Y2YnZhVU1KTFd5ZUdpZTc5bzhUY1JxdEFlTDBhRUNiYU8yMGxkam95cWVTQmxJMTNBVXVHaU1hbG9rTFZtR1AxQQ?oc=5",
-      "source": "CinemaBravo",
-      "publishedAt": "Sat, 19 Sep 2026 17:28:47 GMT",
-      "description": "Heart Evangelista proves she’s a true fashion classic at New York Fashion Week CinemaBravo",
-      "feed": "Google News - luxury fashion"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-09-20T02:38:07.666Z",
+  "status": "empty",
+  "message": "No articles published on 2026-09-20 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
