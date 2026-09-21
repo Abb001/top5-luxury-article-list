@@ -1,10 +1,26 @@
 {
   "date": "2026-09-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-21T08:24:40.220Z",
+  "generatedAt": "2026-09-21T15:31:02.209Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-21.",
   "articles": [
+    {
+      "title": "Meet Onalaja, a Demi-Couture Label Catering to the ‘Women That Luxury Forgot’ - fashionista.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUdhdldfaVZyTVRnd0tSaUVFUXJhT1FIUXJwT1RfZjVENHpkMVIwTHBUYWo0cE9KcHJRZnd1blU4RHpvWk1jS0NHMXhTR0I1c2RfVzQyQ3d3TEs0bjJsbzZUdjlXSDRUZzQtZjZvS3lOWFJVaG5YOF9iYVZJQms5ZzZB?oc=5",
+      "source": "fashionista.com",
+      "publishedAt": "Mon, 21 Sep 2026 15:00:00 GMT",
+      "description": "Meet Onalaja, a Demi-Couture Label Catering to the ‘Women That Luxury Forgot’ fashionista.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "These £12.99 Boots fragrances smell like rival luxury Chanel and Glossier perfumes - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1JrYXFvRVhZVlRQWFBOQnB5b0NmV3d5d0szM185cS02eV92QlBkZ0tBQkNmVWJreEgtaEM0Q0NkekxrU25xeEk2cHV3YkxNOGk5T1ZXQnhrMGNnUkJUMUUtWDh4RVM5dTFCQkZSNzR4Q0loV3hsSHNlYnBCeHdIZDM5U1NQazZPdll6SXZR?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "Mon, 21 Sep 2026 09:48:20 GMT",
+      "description": "These £12.99 Boots fragrances smell like rival luxury Chanel and Glossier perfumes London Evening Standard",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Fashion designer Wayne Cooper lists luxury Byron hinterland retreat - Domain",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3E2aTNTYUVzUDc5bFlyRWJaTlBDWVIxdzhTQk40bW1oQ2hNNDBuVjJMcGVMZlVYQjAzZkdjcGhBM3BuWTlyUHROVXZMS3FRZ25zQjlHd2VHRm02TmhVYjR3ZGcta1N2MWM5akpjeDZIZUpCa2dDejFBSnNTQmtqSnAzeV9qdU55cUtnalBQaERpWUNENWlJUEM2WktzeGhGSGxxTElIdENMQU0?oc=5",
@@ -27,22 +43,6 @@
       "source": "Traders Union",
       "publishedAt": "Mon, 21 Sep 2026 03:09:19 GMT",
       "description": "LVMH shares slide as luxury growth concerns deepen Traders Union",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury car storage reflects rise in Cayman wealth - Cayman Compass",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFM4Y3RDalVaUE1zbzl6WnpQRy1ldlU1RVI2WElBRlotaFNJOXJwdU5YeloxbmN6dnJGbnZKTVFLNlczUk5xLWI2V1JJdl96dmY4d2ZsNFJTOFVpSFdSb0RSdzlLVE5jWlpVNWlldXU4Q0w2UkdXR0RIWUFUMDRsM3lhdS0zZVgydFlzOVhFZFZseHB2cGQ0dkZR?oc=5",
-      "source": "Cayman Compass",
-      "publishedAt": "Mon, 21 Sep 2026 05:01:13 GMT",
-      "description": "Luxury car storage reflects rise in Cayman wealth Cayman Compass",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Overseas buyers turn to mortgages to buy luxury properties - thenegotiator.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0psTFcwVzVEU1J6X2VLSUpwWW9SLWVLZHJ5eHZGRXVIRXd1dHZBUjNFS2hYQ1NDc2t5YU5rbkxMM2t5SkFrR3A0dThSd3l6UzNDRmdDV3N0ZDduZXUwRXd2cm95Y1NqSk50alA2a3lyUTZzZHJQY29wWmpMdnF5V29JMmVZN2VFdTFqWE9DNmotMmQtV0dfb0ZBcldDcG50RmdJc1RvMFdfcEpvZS03WnN0SXNHWFExT2NmVQ?oc=5",
-      "source": "thenegotiator.co.uk",
-      "publishedAt": "Mon, 21 Sep 2026 04:58:39 GMT",
-      "description": "Overseas buyers turn to mortgages to buy luxury properties thenegotiator.co.uk",
       "feed": "Google News - luxury business"
     }
   ],
