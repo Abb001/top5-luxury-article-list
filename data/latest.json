@@ -1,10 +1,42 @@
 {
   "date": "2026-09-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-20T17:49:17.231Z",
+  "generatedAt": "2026-09-21T02:35:14.188Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-09-21.",
+  "message": "Found 5 article(s) published on 2026-09-21.",
   "articles": [
+    {
+      "title": "ATIZ San's 'Northern Duke' Milan Airport Fashion Delights - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTd4N2Q3Q2Q1U19vamdRT3ZhZUloSXdiVWxYLV9LRDY1ckdDNXdVbjFhUVltSTZJakxvOUktRm1iSFJ5Z3ZBRjlIOXlQNzRHVWlLNkIzM3BQSlZHT0hnVmRISGx6TlhHTkZ6TEx1VUN1aHNUM3BaYWpEOG1nVkRPT0xlTDVQckFVWjF3aHRB?oc=5",
+      "source": "조선일보",
+      "publishedAt": "Mon, 21 Sep 2026 01:24:24 GMT",
+      "description": "ATIZ San's 'Northern Duke' Milan Airport Fashion Delights 조선일보",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "CHANEL Camellia Collection 2026: A Flower Reimagined - luxferity.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTV5d0g3WGJyRERoMDV4VXdjUm1ZUGExODZqanRtVVh1LUJGTE94bTNmY0NkR1REbXlEXzcxOWRGUUp1MXNuZ2N1UU5zRThLZHNPSmZhSGFZR20zVTBuZzFRNE0ybk00Y3lJUTVCY0Y5V21zdEVyTWFXZ3FiQldhRnM4a2s1OW5uR0I4YQ?oc=5",
+      "source": "luxferity.com",
+      "publishedAt": "Sun, 20 Sep 2026 20:03:44 GMT",
+      "description": "CHANEL Camellia Collection 2026: A Flower Reimagined luxferity.com",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "David Jones battles to keep luxury brands amid broader supplier woes - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnlBNnpoak5XUGhnOTZYUVdZX2ZmYmczUk1MZlpvV09kNjV5aVpEQmxGVm9xY1Roak9jaGZOdzRqVnQzLVZtelhQWndXdWZkTjlMSGZOM21va3d5S2dfRjk1ckFtbHJoTXJNTmYyVV9IZFowT292cEZ4WXhRRnhZNlNoaUE0ZGhWRFZqVVV1ZDR3Q1U3V2hZZWEtYkdndDV4elQxTmVFRjBNaTRlMUNaVFdJc0VzSzRYNG1jVnhR?oc=5",
+      "source": "AFR",
+      "publishedAt": "Sun, 20 Sep 2026 19:00:00 GMT",
+      "description": "David Jones battles to keep luxury brands amid broader supplier woes AFR",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "ATEEZ San departs for Milan after addressing prior race controversy - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0laSEU0SkdfV01KNFFCRUh6NGZiM1JKdU0xdU1Hc0dUc1p1QkJuYy01ZWRIazRtd1Z3TlVUWUUtbnJnNFg2OXU3cm9CUDJKMDNPNFhJdDF2WWw5TEVMYXdpdkJNQUpJY0ZOS2ZzRzdRRmlrS0pvM1hRN18xeERRdjNQU3lTaG1G0gGcAUFVX3lxTFBuQUk4R01sTHJkOGpGQjFodEpUaEFxTmxxdGpPVmNhM3NBRGRGVEE1LUV2X0luT3VTa1hEU0JVTEJtQnpCbFNpR19IS3Z4c2FaLVJkU1lvdW1BYjdpVWRBRExUVFk4UFBzVHVONVNxaTVVaE0xbzR3M2lBY1dpVnVsSHh0VHllVUFBQ2ZRck1pZkx6Vm9nTFQwNTZGdg?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "Mon, 21 Sep 2026 01:00:00 GMT",
+      "description": "ATEEZ San departs for Milan after addressing prior race controversy - CHOSUNBIZ Chosunbiz",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "'80s Shoe Styles That Have Made A Comeback In 2026 - women.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGNxdG1zdlh1dHpRMDhDY3V4dWpLZGVCV2JmblZqVzUzWnBzeHRPdFRXS1IxT2JYNmREazI4OVRDTTYzRklOaDlnWXl1SDJZaHNFVjV1QVJaR1lxOXdyNFZ4b0NtaWk5WGFRNVY4dGVtZjdEV3NZZXJPQXJhTG5YVA?oc=5",
