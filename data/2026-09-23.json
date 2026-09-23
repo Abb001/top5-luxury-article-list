@@ -1,50 +1,13 @@
 {
   "date": "2026-09-23",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-23T08:08:22.487Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-09-23.",
-  "articles": [
-    {
-      "title": "Prada’s Skirts Take Centre Stage As Milan Fashion Week Begins - Channels Television",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW93ZFVaZXIzMTRSWkRma3BrRnRWN3haR0RhQ2pzamxXeUF6RlVYeVBlbmE3eXk5bjVaMVhibXFhZlBwX1htd05Fby1CVjFvYVF4Yk1xSWVxejBxZ29CQmoxWHF1eEhkb2VnTGdjZElHTEo3cTdTOXpsbmVva1locVd0VzlPLURWX1Ezb2ZfUkhiMmdpQW9aTkxBd2wwcXhY?oc=5",
-      "source": "Channels Television",
-      "publishedAt": "Tue, 22 Sep 2026 20:49:05 GMT",
-      "description": "Prada’s Skirts Take Centre Stage As Milan Fashion Week Begins Channels Television",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury fashion stocks seek boost from Milan, Paris bets as growth prospects worsen - theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFRHSm82R3loX01FcjZQcGp5NVdoVlBlS1BPQzYwV1p0djltVnR2VEtZOExBalpGTG9URGlocGdHSXZxTUZIbXdLYlRwYTVrVFgyZzdFdzF4YTZhY1pqM01GSDVKcktoejVidU52Q2g4ZFVHTU9ZWWNlRGx0c2w1b21BSEhtanp0czZlYk1DV0FQZlZCa3N5VGhZU3lXQlpGdE96cml5d202emhOUHRzUlBBejk?oc=5",
-      "source": "theglobeandmail.com",
-      "publishedAt": "Tue, 22 Sep 2026 16:32:56 GMT",
-      "description": "Luxury fashion stocks seek boost from Milan, Paris bets as growth prospects worsen theglobeandmail.com",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "'I make clothes to treasure, not throw away,’ says Yorkshire luxury designer as she opens city centre shop - Yorkshire Post",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOENfME9tRTlPZ0l1ODY2ZEJFSnVFczVLODFKbThZYzNVZlZjRzgyUm9hNGdUZ1dFWDRoR2swLUduLU9xZTktUjJHT2p3ZTBOY21aVjhQcmRocjJneDJfMFZXLVdiRWdyQ1lNZmxIdDdaREtCWlRvYU1odGI3YUlqRWF1OTM1MC1xOHJDZ1BOU3RDSnNYbHlVRElUWlY0SDBWcG51OXo0OUlxc2hRNEpWUWxVeGNwMGNtbTZ3dDZUeWFzQTZ6X2s2aVJLdDBHNDZvVW50cjRJcWZiRFhKQ1UyaDc4Ui02YjZqTHI3REIyRTcxaXN4VFQxdVpBSkZXeG13d1RPUURSZWc5eEZPRDZ1UQ?oc=5",
-      "source": "Yorkshire Post",
-      "publishedAt": "Wed, 23 Sep 2026 07:59:00 GMT",
-      "description": "'I make clothes to treasure, not throw away,’ says Yorkshire luxury designer as she opens city centre shop Yorkshire Post",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Plant-based plumage wows the world of fashion - worldbiomarketinsights.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTNmUThtNTVxOEhfcXFRbXJGWW1TNVdnVEFCQVROSVQ4Rkd5eDZwYTNaLTExeEk5RkZtaV9NaDh0a0lIXzRhZVFieml4aGpjT2pHV002ZXNoQTcxd3pORFV4MEJENUx3TWdTSUlSelVqMVlIcmlCcjBULU85VDBwVjRFalpaV1o2?oc=5",
-      "source": "worldbiomarketinsights.com",
-      "publishedAt": "Wed, 23 Sep 2026 01:55:20 GMT",
-      "description": "Plant-based plumage wows the world of fashion worldbiomarketinsights.com",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Diesel Spring 2027 Fashion Show Review - The Impression",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90TDJGUW9qdlhVTE9ueC01Z3Jldks4ZWVPZmFLMWxyakdQS19iek9YZU5abjRuREdOV2R1VXpLVTdPOElTYXRJdEw5Z3R6Ty03a0Q4ZEx4VGpEcHRTa0hpZnVsMFdMS1VGb0YwWUg5OXVFQkU?oc=5",
-      "source": "The Impression",
-      "publishedAt": "Wed, 23 Sep 2026 00:36:22 GMT",
-      "description": "Diesel Spring 2027 Fashion Show Review The Impression",
-      "feed": "Google News - luxury fashion"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-09-23T13:59:20.824Z",
+  "status": "empty",
+  "message": "No articles published on 2026-09-23 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
