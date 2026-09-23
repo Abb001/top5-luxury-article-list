@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-23T02:37:38.287Z",
+  "generatedAt": "2026-09-23T08:08:22.487Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-23.",
   "articles": [
@@ -14,12 +14,28 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Luxury fashion stocks seek boost from Milan, Paris bets as growth prospects worsen - The Globe and Mail",
+      "title": "Luxury fashion stocks seek boost from Milan, Paris bets as growth prospects worsen - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFRHSm82R3loX01FcjZQcGp5NVdoVlBlS1BPQzYwV1p0djltVnR2VEtZOExBalpGTG9URGlocGdHSXZxTUZIbXdLYlRwYTVrVFgyZzdFdzF4YTZhY1pqM01GSDVKcktoejVidU52Q2g4ZFVHTU9ZWWNlRGx0c2w1b21BSEhtanp0czZlYk1DV0FQZlZCa3N5VGhZU3lXQlpGdE96cml5d202emhOUHRzUlBBejk?oc=5",
-      "source": "The Globe and Mail",
+      "source": "theglobeandmail.com",
       "publishedAt": "Tue, 22 Sep 2026 16:32:56 GMT",
-      "description": "Luxury fashion stocks seek boost from Milan, Paris bets as growth prospects worsen The Globe and Mail",
+      "description": "Luxury fashion stocks seek boost from Milan, Paris bets as growth prospects worsen theglobeandmail.com",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "'I make clothes to treasure, not throw away,’ says Yorkshire luxury designer as she opens city centre shop - Yorkshire Post",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOENfME9tRTlPZ0l1ODY2ZEJFSnVFczVLODFKbThZYzNVZlZjRzgyUm9hNGdUZ1dFWDRoR2swLUduLU9xZTktUjJHT2p3ZTBOY21aVjhQcmRocjJneDJfMFZXLVdiRWdyQ1lNZmxIdDdaREtCWlRvYU1odGI3YUlqRWF1OTM1MC1xOHJDZ1BOU3RDSnNYbHlVRElUWlY0SDBWcG51OXo0OUlxc2hRNEpWUWxVeGNwMGNtbTZ3dDZUeWFzQTZ6X2s2aVJLdDBHNDZvVW50cjRJcWZiRFhKQ1UyaDc4Ui02YjZqTHI3REIyRTcxaXN4VFQxdVpBSkZXeG13d1RPUURSZWc5eEZPRDZ1UQ?oc=5",
+      "source": "Yorkshire Post",
+      "publishedAt": "Wed, 23 Sep 2026 07:59:00 GMT",
+      "description": "'I make clothes to treasure, not throw away,’ says Yorkshire luxury designer as she opens city centre shop Yorkshire Post",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Plant-based plumage wows the world of fashion - worldbiomarketinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTNmUThtNTVxOEhfcXFRbXJGWW1TNVdnVEFCQVROSVQ4Rkd5eDZwYTNaLTExeEk5RkZtaV9NaDh0a0lIXzRhZVFieml4aGpjT2pHV002ZXNoQTcxd3pORFV4MEJENUx3TWdTSUlSelVqMVlIcmlCcjBULU85VDBwVjRFalpaV1o2?oc=5",
+      "source": "worldbiomarketinsights.com",
+      "publishedAt": "Wed, 23 Sep 2026 01:55:20 GMT",
+      "description": "Plant-based plumage wows the world of fashion worldbiomarketinsights.com",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "Diesel Spring 2027 Fashion Show Review - The Impression",
@@ -28,22 +44,6 @@
       "publishedAt": "Wed, 23 Sep 2026 00:36:22 GMT",
       "description": "Diesel Spring 2027 Fashion Show Review The Impression",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Monochrome Luxury Sneaker Treatments: COMME des GARÇONS and Jordan Reworked the Air… - Trend Hunter",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cUItdnpWSjU4djRmMlFDdGtmZzNqeFlXZnF4TVlUaEJfZGFvM0dKbmdJSXJiQ2JSQkFBRWxsWTdIUHRnZEpBLXNldDhjeTFoaHRNWDV5aS0zZ1pSQ3N2MWdhZFhmMWpvMXg0SVlJSlRUT2dlLUVkdnA4OA?oc=5",
-      "source": "Trend Hunter",
-      "publishedAt": "Tue, 22 Sep 2026 21:58:58 GMT",
-      "description": "Monochrome Luxury Sneaker Treatments: COMME des GARÇONS and Jordan Reworked the Air… Trend Hunter",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Hilton Head's Quiet Luxury: What the Gate Doesn't Tell You - RESIDENT™ | A Luxury Lifestyle Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA5cDhUQ1BCbFU4MFp0WUFlU2d6ZTFNWll2Zy1SNlIwbUNKSnU3b3p3NllGRjM3VHhkbVBObG9Ra0EzcEl1QUI5V2dTYV9yTmJaYzVmZERESGV5MlB5eE50NlAtWjhkQlhWWXdWTDJVMU5CaVMyM2o3cXFFOVlSLTFTcGdoQWhYMHlFZzFLU3EtR1oydWE4MkJuaVVTaXVBandIcTQzTHhWQ0hYYXc?oc=5",
-      "source": "RESIDENT™ | A Luxury Lifestyle Magazine",
-      "publishedAt": "Tue, 22 Sep 2026 21:39:20 GMT",
-      "description": "Hilton Head's Quiet Luxury: What the Gate Doesn't Tell You RESIDENT™ | A Luxury Lifestyle Magazine",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
