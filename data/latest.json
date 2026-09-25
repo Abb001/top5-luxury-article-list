@@ -1,41 +1,49 @@
 {
   "date": "2026-09-25",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-24T18:45:46.474Z",
+  "generatedAt": "2026-09-25T02:43:49.454Z",
   "status": "ok",
-  "message": "Found 4 article(s) published on 2026-09-25.",
+  "message": "Found 5 article(s) published on 2026-09-25.",
   "articles": [
     {
+      "title": "Komehyo’s Brand and Fashion Segment Beats August Targets Amid Mixed Luxury Market - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVXR5NXFxSi14MDVyelpCN1NxeTN1YTJtaThiUjN0cEIyWTVSUHg4SWVSUjltbmQycEF6X0pfRVMzMDdfcy00Wkh4ZHpsS3o0amxDY2dnemVKcFRaOE01emlCLVRlU2FJUnhYYzVVX3U5WVhDbEV4U2VhNDZqaVl5WHRzSDdfbTdjSHNUOXd4TTFvX2dJLTdSREs5LVRtd3VYV19Qd2hua1IzMHNFYmNtcC1JcXpmN21YMDVwU2JUX0xGQTBNX3VTVXV3eFU4UzFOQURCcjdRcDdZQ0NRZkkwN3RleXVGeEYxZml2OTNWT1dxbUU?oc=5",
+      "source": "The Globe and Mail",
+      "publishedAt": "Fri, 25 Sep 2026 02:33:07 GMT",
+      "description": "Komehyo’s Brand and Fashion Segment Beats August Targets Amid Mixed Luxury Market The Globe and Mail",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Marion Cotillard’s Chanel Double Act in San Sebastián - Red Carpet Fashion Awards",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUpsTlpiNmVEemctMTNDeFh5ZEhBT3Z5bXNRNTM3UEVjOGxMbmwzMkoxV0RRQTlZSWphRmMyUmJuUHRHRktSTWI5ZzYyQkd1NldDR3VIUlkxQ2dVbmdjd1dEempJM1MzTnZaYlpFNG1pdUxPaF81dFJWVmFVVmlET3Bzb0NxXzNlS1lNRG55TDhSbXJfb0drMVVJZFdwYi0wUkpaZ2lqUQ?oc=5",
+      "source": "Red Carpet Fashion Awards",
+      "publishedAt": "Thu, 24 Sep 2026 21:18:34 GMT",
+      "description": "Marion Cotillard’s Chanel Double Act in San Sebastián Red Carpet Fashion Awards",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
       "title": "Shrinking market, growing appetite: Luxury fashion’s next wave of spenders - Savanta",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDhCUjA3WXA0VDA5eUVIVjNOQVYwUFlkWnZwQnUxVmlocElNV0d1b1dTSFNZZFpETmRXNnEwZTM2QkVXeC1RTmQ2UXlJamFzdWZWZTRUckkyQ2E3NkNUTVozUTkteDFDeFkzTDkxTFQzYy1SZDIyUjJRTkJXTzFNZVAwV1I2eUc2d2hCOXRhN3ktdk5DUHI1aFFKU1NnN0hoTTljbVp2R2NxNEpKS0tteFJIeVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzFEc2NjYXNmVnZYT0dfVjBKTFZaQ2FuR0J1a3pHTlNDWXpaekFpelk4RWY5Z0dQQW1wUkZSTndweXpyWWNfSlZWYmxSMVJUeDFPcDh2Tm0xS2MxREVwT3VyVHJjS3VUc2FrcGZwSjVXY282V0taS0ZpaVU5OHpHZzRrZkVBNVgxdGRUYTZkckpndnVkRTdXemsxTXFCNDlja0wyNE9Va2k0VW9NM1JKVVlOSmZSUUJn?oc=5",
       "source": "Savanta",
-      "publishedAt": "Thu, 24 Sep 2026 16:00:58 GMT",
+      "publishedAt": "Thu, 24 Sep 2026 18:00:34 GMT",
       "description": "Shrinking market, growing appetite: Luxury fashion’s next wave of spenders Savanta",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Which brand won the Creator London Fashion Week? - New Research from Billion Dollar Boy declares M&S the winners! - Roastbrief US",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGdXaHk4REpmSHMybDdkVGFmMlVfYXNRUnhnZVhycmxsZXRrNms0VHFxTGdmYS03ZlU3MUg5bU05U3doRzV4dUhrMFFRZE9pcFFEay1KY3VOUTItZ0prcjhIbTJDTFAtdXlpMzNpN2NoOUNUU1h0eldIRVJmRXV5M0Q4eVhRTkpxbXpGYXhqdVY5ckxRWE9uNUI3dkZsb2RHVXBfNlktb0NQZTZ0QTA0OXBaRkNmQjNmcFBfQlc4WTdsUDRCb2xEOE9Hdw?oc=5",
-      "source": "Roastbrief US",
-      "publishedAt": "Thu, 24 Sep 2026 16:52:22 GMT",
-      "description": "Which brand won the Creator London Fashion Week? - New Research from Billion Dollar Boy declares M&S the winners! Roastbrief US",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "The World of Children: Leo Kids, Euroyoung, Bimbus, and Other Top Children's Boutiques in Poland - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEVDeEtwSmQ4VEVGYjIxb29zTGNFWUJLUlB6N2RUTHREX1FfMTFocWZiYU5RcUdNdXBYaFNZdUxZWDFnOUozWkZuYW9rZDJuTG9wWlY5Mktza3RuTWR6YjZRWnNoUkZkRnFud1RuaVViNXVfLXVEdm1WNmEzVVRwVXZqTFZNSEU1WDVHazctZWRvaktzVVRGM3ZRQl8tamptd0lIbG5UV3BzMENlWWcyZg?oc=5",
-      "source": "UA.NEWS",
-      "publishedAt": "Thu, 24 Sep 2026 16:58:13 GMT",
-      "description": "The World of Children: Leo Kids, Euroyoung, Bimbus, and Other Top Children's Boutiques in Poland UA.NEWS",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "‘Happier Grocery’ to revamp long-abandoned UES movie theater space - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2Q1X1ppbzhjWmx1U0FyMEtEUXFxVmZLMHBpbGhVbGZKQUNBMnJoX3RycHVDbmxSdDh6MFBHQmhQczlLZFpfR1ZmdGF1aFlKdVlheVVsX3JEdVZkSEFmaGhkM0NVa3h6dzk3aGx4N1FCam9weVp6dndtdlVybzdqQ0NMd2dZcmtOTlhoa3NWTG9RX2xhX3R0S1d3MUN5YlRUR1BGLVFB?oc=5",
-      "source": "New York Post",
-      "publishedAt": "Thu, 24 Sep 2026 16:33:00 GMT",
-      "description": "‘Happier Grocery’ to revamp long-abandoned UES movie theater space New York Post",
+      "title": "Gucci's 'Made in China' sneakers test luxury image as brand races to win back shoppers - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2tUbmZFVkZnRTFLSl81Z1FiZXljNjU0TS1GUlJ5SFFYUnVBb0xSdWhDaEhWZXpFTHhkSkEtb2EwVmdvMzRtZFU5bXBTOEs2b2hXVWFFeDVNWTFzdGNhUXllOURiMFJlZ09VV3Axb1pBd1ZHTnRtbmR4ajRTTlNXQ2RFMFk1N1VfbkNYRUh2WlV3czJ4ZnF5UDR6SkptTkFTUDBaU1RiSTI0SllkdHJNSXQ1NWlEOVZVbWlMSFo5WEFQckZZVENXay1QVHo1cmtE0gHWAUFVX3lxTE9ybUVkUExwTTVNWjY3enh1WEkzWmtreElRSGdfNFFtMGVsWW5xRDFWY1hsQ05qVlk5Q0VmdC0ySkxRLWJRcHBONldmMEd5djhJLWpERWs0akxlTk9NRGJLaTgwQTlWaTdUVmFfUmU2OFhac2FYQTFWNjBLNktwYnE0aWhKMTFaNHE0SWZfQmZjX3N3WXNVTU1NQVc1OHUxYm01QUN1UmFfdFhzMHBaZm1PSFctLVlDeXZlQ05oMzBnbDNfTzZ4M3dEOUFoSldhRG1KTC1PUGc?oc=5",
+      "source": "Telegraph India",
+      "publishedAt": "Thu, 24 Sep 2026 16:53:25 GMT",
+      "description": "Gucci's 'Made in China' sneakers test luxury image as brand races to win back shoppers Telegraph India",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Say Goodbye To Quiet Luxury Purses: The Novelty Bag Trend Is Infusing Fashion With Fun - women.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEpuUUFDZTBVMjVLTXhycHJOa2VIWXNxV19DZjB0TWVSSDc5bmM0b0FocTFuNjF0NzI1bDZLbm1FYWUwRjRUSUxhVk1fN2RWRF9PYk0tRV8yWXN5UkZBcFJwYnVOVkhnSVFOdWdCRXJ1MXktUHlGSThQeWgzWEc1ZmRIU1l5YndCWW1aSQ?oc=5",
+      "source": "women.com",
+      "publishedAt": "Thu, 24 Sep 2026 16:00:00 GMT",
+      "description": "Say Goodbye To Quiet Luxury Purses: The Novelty Bag Trend Is Infusing Fashion With Fun women.com",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
