@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-26T08:09:55.064Z",
+  "generatedAt": "2026-09-26T13:31:09.951Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-26.",
   "articles": [
@@ -12,6 +12,14 @@
       "publishedAt": "Fri, 25 Sep 2026 19:29:42 GMT",
       "description": "Milan Fashion Week explores the meaning of luxury, from Vogue World to Prada The Globe and Mail",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "From Azamgarh to Paris Haute Couture: Shabana Azmi and Manish Malhotra mark 15 years of Mijwan Fashion Show - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONnlvQy02am4zc0NnVnJMUGdkOTlTVXQzS1otWHRRZGR1d0xmaF9Uck5zMXFiZnVXazV3Z2JOZEN2V3U3aFVHYUxJWFZJOVRJaklzUzlSWldmVTl2S3IzVDV5NkNiRk01SXFHN0xqdjkwQ2c0V2dzREp3SU1PMmRFNktSRFdHakwzSG8wWHJXbkhiZ003XzBlZmRET3pLaVl0NnI0LWFQbEMzX1dIT1NYQzUxNE5KVlYxTUI1TGE2RHVtaGtEakRobkp4ZDE1QXJoOVJ2bERkazlqdkJHOFcxYzBZS1lTdVBHQnBYdtIB8gFBVV95cUxOVGtSd3NpTmdWcWZSeUlEQ3FUTUVEUll4QURHZUR0em9vaXc4UVNYQUpadlZqQ3E5b0ZFR1pXSDFhcnBKd3hGYm0xSGI5cThXMGJlWnduTkFuX01YeDRUMTQ4dGJOWS1kby1VQkVSQnZuRDJleWRDZEhNM2JvTEtfT2VpcXZHVVUtUzZ3VjlPTUI0Mjdyb1g3Z0RlczU1NXpqUzdQS0pxQVEwMEVnSVBRMHptRHRlVGpIaVRzQlZ1dC1FSEpTempZc1c1V2tmdF9TcERGV2hTTUFTWldUUDZNZ2hUZHVrM3plbVNqQldINTVWUQ?oc=5",
+      "source": "Firstpost",
+      "publishedAt": "Sat, 26 Sep 2026 10:27:12 GMT",
+      "description": "From Azamgarh to Paris Haute Couture: Shabana Azmi and Manish Malhotra mark 15 years of Mijwan Fashion Show Firstpost",
+      "feed": "Google News - luxury lifestyle"
     },
     {
       "title": "Demna gets personal at Gucci for Milan Fashion Week - Philstar.com",
@@ -35,14 +43,6 @@
       "source": "The Guardian",
       "publishedAt": "Fri, 25 Sep 2026 17:44:00 GMT",
       "description": "‘It’s luxury that wants to be seen’: aristocrats and eccentrics inspire Demna’s vision for Gucci in Milan The Guardian",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Lim Yoona Makes Fashion History as Max Mara's First Korean 'Friend of the Brand' at Milan Fashion Week [PHOTOS] - International Business Times, Singapore Edition",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzE4V19kSDI3dUNjcnRvYklZMzd1U3FlVi1vZ1g2SGFVWFJkS0xLUlVraEVhYktfOENyazAwLWl6UTNNM1VnZ05uRGJnbk0zWkU4US1uOUtpWGZ1T0J4MTJ6QXFKMk02ZURiUmhwV3RyeXFXckJRSzRpMDZDOVVEaEREUWV1MWJUcXAwTzZIQmZIR0VFdDE5b0lQLXR4cnhsR0hIVnJ1el84QmxMNWlKZ0h5SklTQQ?oc=5",
-      "source": "International Business Times, Singapore Edition",
-      "publishedAt": "Sat, 26 Sep 2026 05:58:59 GMT",
-      "description": "Lim Yoona Makes Fashion History as Max Mara's First Korean 'Friend of the Brand' at Milan Fashion Week [PHOTOS] International Business Times, Singapore Edition",
       "feed": "Google News - luxury fashion"
     }
   ],
