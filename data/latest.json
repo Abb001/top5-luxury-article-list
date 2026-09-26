@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-26T02:46:41.154Z",
+  "generatedAt": "2026-09-26T08:09:55.064Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-09-26.",
   "articles": [
@@ -11,6 +11,14 @@
       "source": "The Globe and Mail",
       "publishedAt": "Fri, 25 Sep 2026 19:29:42 GMT",
       "description": "Milan Fashion Week explores the meaning of luxury, from Vogue World to Prada The Globe and Mail",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Demna gets personal at Gucci for Milan Fashion Week - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDhIVXd5UzV2YWFBR3RYV2prUTEtTGxITjktbDFfSjBfSlVHelVsTVlMakFlN0Z3NDdOeWlXTU9Rd1NHTE9jMXRnd1dkWEZaMURyYTRuNUQ2dWhLVGRYeDgwOEktTHZOS0FKcnRHeXRVTXd4djBhN1BDcmdPZXNhUWNDZnlobDltclU1eENCVnAxcnJqMFV3UTNiMC14VHhOSHRSbUkxakRYTngwNTdhSUxfQjdhWldGdWphWnFJdw?oc=5",
+      "source": "Philstar.com",
+      "publishedAt": "Sat, 26 Sep 2026 02:03:00 GMT",
+      "description": "Demna gets personal at Gucci for Milan Fashion Week Philstar.com",
       "feed": "Google News - luxury fashion"
     },
     {
@@ -30,20 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Demna sells a new Gucci fantasy as Moschino’s new designers loosen up the joke - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3REQjBvZjZLU2VWX1F3U3plRHdpODlpODdZcFBLNWtlSmxiUkpCZVI3NUNVeC1WZGN2b2ZwLS1YMmc1cGtrRnhwT1p5bzBndWVraXNNYUVDUUZPX1pJSG04cDNndXFHR25NYkFZYl9JYlhrV3ZNNUREVllnQzQ3NGc4U3ZTcThZdGR0ejdnYnZBX1lrZU5SNDZPTVVCOE1mTWY1c1R6SjZTMXJjZ0p2TGUyNGQ?oc=5",
-      "source": "WRAL",
-      "publishedAt": "Fri, 25 Sep 2026 21:51:20 GMT",
-      "description": "Demna sells a new Gucci fantasy as Moschino’s new designers loosen up the joke WRAL",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "South Florida Top Brokers on Miami’s Luxury Housing Market - The Real Deal",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN1BPWFF3dGZqc01MVHVNUEhMMGlteFFkODJGRUVTUkx4bXhXY2xScU1FNnZrbUdNcVVsRTR1QXVpd2FmeWlWY1QwYjlpX0o2aTN1TW9PbUpwbmZQamg3N0RIaUhBS05QVjF4Ty15a0F6QTJGdXNwcUJ2b3EyVy1VcDc3MFRrSGVMWjJ1bjdYb0kyQlR4TThVYVVHaXVVOE1E?oc=5",
-      "source": "The Real Deal",
-      "publishedAt": "Fri, 25 Sep 2026 20:30:00 GMT",
-      "description": "South Florida Top Brokers on Miami’s Luxury Housing Market The Real Deal",
-      "feed": "Google News - luxury business"
+      "title": "Lim Yoona Makes Fashion History as Max Mara's First Korean 'Friend of the Brand' at Milan Fashion Week [PHOTOS] - International Business Times, Singapore Edition",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzE4V19kSDI3dUNjcnRvYklZMzd1U3FlVi1vZ1g2SGFVWFJkS0xLUlVraEVhYktfOENyazAwLWl6UTNNM1VnZ05uRGJnbk0zWkU4US1uOUtpWGZ1T0J4MTJ6QXFKMk02ZURiUmhwV3RyeXFXckJRSzRpMDZDOVVEaEREUWV1MWJUcXAwTzZIQmZIR0VFdDE5b0lQLXR4cnhsR0hIVnJ1el84QmxMNWlKZ0h5SklTQQ?oc=5",
+      "source": "International Business Times, Singapore Edition",
+      "publishedAt": "Sat, 26 Sep 2026 05:58:59 GMT",
+      "description": "Lim Yoona Makes Fashion History as Max Mara's First Korean 'Friend of the Brand' at Milan Fashion Week [PHOTOS] International Business Times, Singapore Edition",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
