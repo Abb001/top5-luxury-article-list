@@ -1,9 +1,34 @@
 {
   "date": "2026-09-27",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-26T18:11:01.618Z",
-  "status": "empty",
-  "message": "No articles published on 2026-09-27 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-09-27T02:47:41.142Z",
+  "status": "ok",
+  "message": "Found 3 article(s) published on 2026-09-27.",
+  "articles": [
+    {
+      "title": "Anguilla targets luxury yacht market at Monaco Yacht Show - South Florida Caribbean News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnhQdWdTR2RIN0t2NV9tYzFnMEphekpNRlZPWERQUVdvdmJ4eEE0d0o3SmI3Y0xycjYzR3pCa3d4UW9QWkFtTUFuSzdnYTNhSEhEc2ZlYWpOUk1OMjNsNDVwcjh3T3Q0bzhLVHIxQUFhbVJoLXFidDNfdTZqSFdlV1FB0gGHAUFVX3lxTE1Kc21OR21sQk1sc0UydWhIdDVtUWVFOXNHMkc1U2wyeUU3R2wwY3hYbWQ5RlVmN3liV0JZVEs5aDIzbkhLbVNnUGhrQlRKLW4zak1Jdi1UOWNoNVZTcTgydjRhQ204TE9JZ1BpRjcwZ3ZHN3kwbGg3U29vdHZGclJYLWtqSnludw?oc=5",
+      "source": "South Florida Caribbean News",
+      "publishedAt": "Sat, 26 Sep 2026 23:35:10 GMT",
+      "description": "Anguilla targets luxury yacht market at Monaco Yacht Show South Florida Caribbean News",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Famous for cheap eats, Malaysia takes on the luxury market with caviar, wagyu and melons - straitstimes.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnFfMHUtTFVydVJSZ3p6T3Zuenplci1ZSDRUeldmS2xpNGRiQTZaUnFKUEVZMkN0Y1ZTNXdQZGQ1RU9WTDhiM0QyZlpjNzZDa2Y3ZTZHeVkxQkVWZDVrb3dwUmUxaExleUdxUjR6QkhPM1FZd1lHNElfaTZUTDBONVlON3J5YlNtVVk5OElFb1NhemFVZXlCNHp5NE5TS0lGUE1HcmJEOVlEXzhSZWFGR1paYmV5bWdaOFhkU0lEZkhxblBRcTQ0?oc=5",
+      "source": "straitstimes.com",
+      "publishedAt": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "description": "Famous for cheap eats, Malaysia takes on the luxury market with caviar, wagyu and melons straitstimes.com",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Galleria Out, Lotte In? Daejeon Department Store Market Begins Restructuring - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sWUtrZnpFVURQeUQwZjIwRnNNR0diUVd1akdMREt2bVZJblFHNG9ISU9QVXE5NFN4eWtranNKYTVSUkp6cjhraGtHSzdlRWQzbVBMcVg5NzgwRGNBQmNhc251Vl8?oc=5",
+      "source": "아시아경제",
+      "publishedAt": "Sat, 26 Sep 2026 23:11:00 GMT",
+      "description": "Galleria Out, Lotte In? Daejeon Department Store Market Begins Restructuring 아시아경제",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
