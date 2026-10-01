@@ -1,32 +1,48 @@
 {
   "date": "2026-10-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-09-30T17:19:42.252Z",
+  "generatedAt": "2026-10-01T03:21:07.912Z",
   "status": "ok",
-  "message": "Found 3 article(s) published on 2026-10-01.",
+  "message": "Found 5 article(s) published on 2026-10-01.",
   "articles": [
     {
-      "title": "Florida luxury home prices surpass nation’s with largest gains in August - The Real Deal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakRVdHFYd1pGY0tEd1hxWGVnUm1TQzRkR2NLamtWQXEwYVNjMEVPVTktNDVFM1hvbHh5bjdxT3B0Ty1RdWxBMjMyQ0pfOG9iYW9wX0p0ajRuRi1NMFBUcDM2ckdUcHdad1hEczlSeVZWbkNDMThLdTFyNHJNcy0xLVFtLWxPOUdMWDY4MFNEV3hyRTlMVW5ITXJsSk5fd0Y0R2EyMA?oc=5",
-      "source": "The Real Deal",
-      "publishedAt": "Wed, 30 Sep 2026 17:00:00 GMT",
-      "description": "Florida luxury home prices surpass nation’s with largest gains in August The Real Deal",
+      "title": "Live Q&A: What the Decline of LVMH Reveals About Luxury Stocks - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3VJenpnc2NHRkFlbmJUalV2UHh3d3FkcVVpS0lMZmZzb2t4c3lzM1k0N2sybHk1cXZ3VmxkUW84OEFEMWp6OG9vejNlNVZ6MFppQkpabVVWLTlJMEtBTDI4dlZkMlVpSWZ5OVhITW52ckd6bkZ2cDkzR0FMMXdXbDhuVDVjemNxUF9pRHNBVW9TelVVelNiSTdnVklUNjlKQWxMa0R2bXFhc1dtWk1PbQ?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "Thu, 01 Oct 2026 02:56:38 GMT",
+      "description": "Live Q&A: What the Decline of LVMH Reveals About Luxury Stocks Bloomberg.com",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Dhruv Kapoor unveils Presence at Milan Fashion Week for Spring Summer ’27 - Indulge Express",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbGVVN0ZmS0w0Q0ktR09NeXJKa3ZtYzltbWxSR1lKaXRCZlVEUnBXdExScGFfcXgyUTBCZGJrV2V6MlFBbHEtTTdUOUlFckpvTWZ4VHFpUkJtSWd6dkJoTlhCbEtqSzFMVlZvNkVRNUoyaldRcUlRRzJFTU5HaXVudzBVSzgtNnhycXBYY1ZfVnpRVkt0dUl6aF9HbU4zcTJIaDB4N2ZoUTJMVXlGZ2tnRGlydElSUm42bTE5RVBySmc3UE1lUFNzY01EeUzSAdoBQVVfeXFMTWduUl80N0V5STlsM05Zd0trb0lCb3Q5cDJySXhmaHdISkNOSk1pVVpqajlwVXdTMTNFVENKVTFiOGpyV3BwLTdUZnNlZ3VnTFFBNUIwel9sMDJhY3NuZGtxX2plNjM0QnlmRm9KRVBxeERoRUl1ME4zWk43bmExeS10TjFEUUdxcmJ2dnpMMVc5Y3RuVWxIZDhpV0lKMmtDRm9UUFI3SVZ3ckEybVNiaG5vQ2xyaFNYUzBRc2tRZWQ4aUlGdkdyVXJhY0d0b0ZmWnhYY3dFcDhFcGc?oc=5",
-      "source": "Indulge Express",
-      "publishedAt": "Wed, 30 Sep 2026 16:52:26 GMT",
-      "description": "Dhruv Kapoor unveils Presence at Milan Fashion Week for Spring Summer ’27 Indulge Express",
+      "title": "Luxury Brands Face Uneven Fortunes as Paris Fashion Week Opens - CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0xRdWNxQ3psQTZTQTc3aHNVZGFJVnZTTWc5WGRPZXNqSVRXU0V5MGY2VlZKTHM3OGRvY1g3blg4cDRmN05LcDFwYWhOOG9SaUZrTWprellYV2w0TkZ4ZjZkUmdrRzNteVNlbndmYnFpdVpNNFFBOWZPamNscW95dzFpc29sRUV0cktnY2VBQWZ2OG1jTXUwMUhRTQ?oc=5",
+      "source": "CEOWORLD magazine",
+      "publishedAt": "Wed, 30 Sep 2026 23:36:14 GMT",
+      "description": "Luxury Brands Face Uneven Fortunes as Paris Fashion Week Opens CEOWORLD magazine",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "South African designer Laduma Ngxokolo makes Paris Fashion Week debut with MaXhosa Africa - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMk5IRjdMUlhYbzVfUWtUQ0xxemNqcHExQkhyX3ZVWWlqa25LZHVObmI3eEJxbXUzMjZIVkhHVnpnVkM4eW5QLTNHUEpFRXJkU2xwZE16dERVWTYySVlQV2w1MHI0WVBGZUtYdjJrUGVycXlIOEhSMkZNckMxMXFzWWV4QU82MXl5MXZYVjlMRHhHcFcwWi1ZeVlaRzl6OVhKYmluN25LZVJyVjJCZ09UeHAyYURtNUJRY0FFbWJNNUEwSlpa0gHMAUFVX3lxTFBWaU1vZVllY2ItMjJtVkJZUjE1YkVoU05peGNLcHlidURZZi1nYzIxNzlMZXlsdDE5VlRVbmdVUmNuV3hEWG5VM252SFlhcFRhcXBDbkxFXzNBLXd5YlB1SjFTcklIajFqZTNsQVlaY2xFOENlZDRqcjA2aXVIVTU3YUx6NEc1SG41XzFyaGR3YWd2b1pZRy1KdzNNQ1FFVnhlVE9uTmw3T1lZY0lCMUhFUk9QWGRZVkxwQnUyS0NWVHhiUnFMLURVMFZiXw?oc=5",
-      "source": "The Express Tribune",
-      "publishedAt": "Wed, 30 Sep 2026 16:06:12 GMT",
-      "description": "South African designer Laduma Ngxokolo makes Paris Fashion Week debut with MaXhosa Africa The Express Tribune",
+      "title": "At Paris Fashion Week, Luxury Has to Prove What It’s Worth - observer.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0lVTzdYWHplOFFOYjN3RWdFNTJ5YmRWNVhmbzA3YXd0eFppUU9BeVlpUFFFM2dnRXBJclVPdmVOS19vNHp4OVM0cTBPZkpNRDJoT1N5WWZfdUtLcF9ETnc4VUVhS2dSWlkteGZzLWlFRHVTMEtLMGZ1NlNEU3cwRmRxVDNmYlk?oc=5",
+      "source": "observer.com",
+      "publishedAt": "Wed, 30 Sep 2026 20:48:46 GMT",
+      "description": "At Paris Fashion Week, Luxury Has to Prove What It’s Worth observer.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "How Anna McLaren built independent fashion label A Emery from bedroom idea to luxury brand - monocle.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkt6STNYcWd6SEgxdEcxaEpoS01YNjRhYmtGaEVscnRlRFlNVzB2bFgzdC11S0lOQ1cyRDEtbU0wUlBRVFJ1cnowcS1ocnFpNnRfczNxaF9SM191bW9va0lROUoydTdVNUVtTkc2VnRJWXpVNVpjT3RWdThTNUNQZ2JLNVZOazF2ZmVJVHlOQUc?oc=5",
+      "source": "monocle.com",
+      "publishedAt": "Wed, 30 Sep 2026 19:01:57 GMT",
+      "description": "How Anna McLaren built independent fashion label A Emery from bedroom idea to luxury brand monocle.com",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "South African Designer On Paris Fashion Week Runway Debut, Eyes Luxury Expansion - Forbes Africa",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGJJdnNfZkNwSTZVYV83U2Y5YUM5U2tjTGpMcFl6SlRZVWItWWxVWEM2TDZvc2tXbkpCb21hbE9NS3hTX2pxM3pFUm5CVWJHMEwtZ2puT2dUdkhTNnNBcXRVTzZGZnFaSnpxQUpqQkVKTXF4b0tsb3BIb0lsNEJGTnlEOXdjd1hTZUpZYWoxQ1p5OGt6Z093MUZKMWJpNTVyV2lKcnB6UkN5aG1Da3Q5Wld6T3NWdzhQQnhrVXNaSGpEcUk3TllfLWJkWjhfWHJOeEE?oc=5",
+      "source": "Forbes Africa",
+      "publishedAt": "Wed, 30 Sep 2026 16:35:00 GMT",
+      "description": "South African Designer On Paris Fashion Week Runway Debut, Eyes Luxury Expansion Forbes Africa",
       "feed": "Google News - luxury fashion"
     }
   ],
