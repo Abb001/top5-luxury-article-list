@@ -1,10 +1,26 @@
 {
   "date": "2026-10-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-02T03:21:45.806Z",
+  "generatedAt": "2026-10-02T11:38:59.288Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-02.",
   "articles": [
+    {
+      "title": "Parisian haute couture struts into the Minneapolis Institute of Art. So, is fashion art? - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2FBT0JtVHNsTjNwSGQ0dnhzX2VaSDRCM2JPNHZGOGpWOHpJVUgyNGpqOTRtNGk4aEJFeU9hMGgwMkV6UlNDc0RNSGZITmcwT09YS3ZSTWdpTTMwM3NLNXNldW1zNkpvTUhRVTQxU2lRWFZXNEFpLXpiLTR6TVdiTkw3RHI3VTA1c0RyZDA1R01zU2RJd2p2Q0NXMzR6VVFVdTRCdlAtanA1NWNZX3lGNGI3TzVwWWVTUGx1Wl9Od3Q?oc=5",
+      "source": "Star Tribune",
+      "publishedAt": "Fri, 02 Oct 2026 11:00:00 GMT",
+      "description": "Parisian haute couture struts into the Minneapolis Institute of Art. So, is fashion art? Star Tribune",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "#FASHION: Prada's skirts take a bow at Milan Fashion Week - NST Online",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2ZGMFIxX0hNVlV6WHVVazlvM1FVeDh2NlRKeFFDT2RrWUZlTnRXVDVETmZ2bWltU0RHRkpFUWdQSEtVYWxOS1dOQmlUbktrdVdpb3JYaHdTcTJRVFJuMERPc2xhdFBkVVRPRWY2Tk1wOUsyenI5aThVUXlGNmZJWlpVUV91bTB3SW1kUzY1ekpJc3BWTHFkS1dwWmxIcHV4Zy1UMmFULTNTdHlX?oc=5",
+      "source": "NST Online",
+      "publishedAt": "Fri, 02 Oct 2026 03:23:41 GMT",
+      "description": "#FASHION: Prada's skirts take a bow at Milan Fashion Week NST Online",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "CHANEL highlights some of its luxury collections at DJWE 2026 | Gulf Times - Gulf Times",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkhJeTM0OXZVVF9tcmdVRThnSFlhaGFWellOc05neERZVlk4VFZSV0N3T0FnNk5mXzBEVDVwZm5aX1d4cFFtQ3c5V25MMV9wdE9xX0V4WEZuaXRRMWZ6QnpyNGdwMVc4MDZ2dk9jMmdiSzctZjVTTE5QbExEZDlYbFFubTdJbXljNGMxSmN2Z3pPckxwYm5yZ3JPUW5iXzVDdm40a015bGNHT0dFU3fSAbMBQVVfeXFMUHlSbXcyS2tkWGJlTzNGZGZmY0FVSGxYYzczY281bi1wbl92SWJVTDlMei1rNDRIX0pqM0lyS18xbU9pZ2ExNktWQ040eHNUX2RnU1BCZWlKMFdnbTcwbmxlTWxwSlN6dWRmY3FvVFJ0OFFQaGxkeklxRGVyWFUzYzV4X3RtbkU0NzVJaFZfRG5rLU5nY0VfdTRtd21CdUhWSWpWNUMtVG5TR2xIQ1BqaXRCWk0?oc=5",
@@ -22,28 +38,12 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "DSF Antique Jewelry to Lend Two Objects to Bruce Museum’s 2027 “Adorned by the Sea” Exhibition - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcm1JR25ZRWhydlM5Mkk1RjlSUm5OaWRwNUJMZG1ZRnJWM05TdndNNklKUVJqbS10bW9JQnNxY3JlaHhFc1hPTzJxeVZOUkVWZmpYejk1Zjk2dDVxTG1Md2ZpbDZSelloYWxfZTV3U0tPMV9KMEdfREtUaExzekJPb2VmUGVxOXhweldfZGc0QlpDMlhsN29pVnRmSXRwZlQ1eHV6UGRQS3JGUzY0a09fcXRFdWtoVGF4OHdwdkxyS2JuS2NJV1pzX3dRZWpNY28?oc=5",
-      "source": "EIN News",
-      "publishedAt": "Thu, 01 Oct 2026 23:12:00 GMT",
-      "description": "DSF Antique Jewelry to Lend Two Objects to Bruce Museum’s 2027 “Adorned by the Sea” Exhibition EIN News",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Paris fashion in October 2026: must-see exhibitions, pop-ups, boutiques, and deals not to be missed - Sortir à Paris",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdG9XbXFtV3R4VHdDNmtiZ3BnV0JvSU10ZXk1VUVBZDZLU2c2dEZyeVRYeWdYclJENFNWdThROWtwWEI2V1hSZk83SzVZUjhqd0ZqSUpJdDFBUVdkZGdiUzRhMWxUcEdzazlCMGFueEFhZ3dwM1h3MllwYm1DWG4yLWZ5R1RXMGZQeWN2RXc0czFUQkc1RzRhak5Ia28tdktqd2dVQ19IT2gzekFabk9lMWlPWGlJd2R3cGhVR2QzazFQUFVST1ZhVUVzUnhkejI0Y0V2R1o2TWlTOHBFNl9XU2pPN0JtaHNpdmR2aUhVYVVyOWQyVGtSTkhoblUyVmNqVmFlMDhtMFVaZw?oc=5",
-      "source": "Sortir à Paris",
-      "publishedAt": "Thu, 01 Oct 2026 21:17:28 GMT",
-      "description": "Paris fashion in October 2026: must-see exhibitions, pop-ups, boutiques, and deals not to be missed Sortir à Paris",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Twin Cities weekend guide: \"Paris Couture,\" Crypticon, fall fun - Axios",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzFWQ1JCMmstS2ItZ1kxc1E5LUVSQ2o3SXk0Wk1JY2ZjdWRRWDlrM0NUcDFyZVRPLUJxaGxSUWlES3RMeVRsb1NjVGc0V3lnaUhBT3RxQXA4M0RpMzBVNW15RzFTamt6TmVfMFVMbnZ6Y0ZsVzR1OThQSTRDeTM3TTY4RXZfWFk3UkhvRFhEVWVYZG1KZjhJUF9RamVZUmkxRTVkOVJCdw?oc=5",
-      "source": "Axios",
-      "publishedAt": "Thu, 01 Oct 2026 20:51:15 GMT",
-      "description": "Twin Cities weekend guide: \"Paris Couture,\" Crypticon, fall fun Axios",
-      "feed": "Google News - luxury lifestyle"
+      "title": "Ye Shouzeng & Shawna Tao | BoF 500 | The People Shaping the Global Fashion Industry - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ONjVCOTFVcV9neGhvX3VhSDlBcTgxM0hsbzE1NkxGYmVpUXR4UHo4U0dLUzhVTVhaSEhwQ1h2dG4xd1ZoSE9wbFllakEzZjNEbGZxQ2Jab25HNGlWVk9NdmUzQTJEck9YZGQ0SHFpdGRSdw?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Fri, 02 Oct 2026 09:14:38 GMT",
+      "description": "Ye Shouzeng & Shawna Tao | BoF 500 | The People Shaping the Global Fashion Industry The Business of Fashion",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
