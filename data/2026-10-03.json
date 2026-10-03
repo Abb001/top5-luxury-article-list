@@ -1,25 +1,49 @@
 {
   "date": "2026-10-03",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-02T17:07:55.710Z",
+  "generatedAt": "2026-10-03T03:06:46.672Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-10-03.",
+  "message": "Found 5 article(s) published on 2026-10-03.",
   "articles": [
     {
-      "title": "Fashion company’s cybersquatting case falls apart at the seams, panel finds RDNH - Domain Name Wire",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uNVJDRW1mNkRVbDdtTm5uRU5jU0NnLUpyU3FTaVplMm5WNTNpTEpOVjNPVkFOYjAtbC1HaHc5NmllQzcybC1QR2lXeU1uTWJLeW10NVNPRWxIUjNHSEZ6TU44WFI?oc=5",
-      "source": "Domain Name Wire",
-      "publishedAt": "Fri, 02 Oct 2026 16:00:33 GMT",
-      "description": "Fashion company’s cybersquatting case falls apart at the seams, panel finds RDNH Domain Name Wire",
+      "title": "Rivers of gold, bare skin and J.Lo: Paris Fashion Week dazzles in defiance of luxury's slump - DARPAN Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ01wVjFodkJPenZRdWVwODI4azAyTXk1aFVWdmRMOVVRNm9xdkpkakpPeDZISmZTd2twaXVicDdTR0JZUm5yX3NTbHpVaW1EZzQzZlpnVVRfVndVd3VSekozVGlDY2wtSVJXTk52QzlZRHBJMjFMTUtQZ0duVHRBY21EdTV6LU02NGhENmhXclNKd1FVbnR5QndXbDZ6YzhSV2xIWTE1WHNkZjBQWndDOWlsQmFUNlFMV1lrUVlMM1N2Y1pOYkdhU0Q4cUpkUmRoMEE?oc=5",
+      "source": "DARPAN Magazine",
+      "publishedAt": "Sat, 03 Oct 2026 00:20:45 GMT",
+      "description": "Rivers of gold, bare skin and J.Lo: Paris Fashion Week dazzles in defiance of luxury's slump DARPAN Magazine",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "All-Inclusive Is Now the No. 1 Ultraluxe Travel Experience, According to Virtuoso Advisors - Caribbean Journal",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zVm5wZ3JCSEduNXhIal9oZWxQM3pBQl85ZjRydy1YWkJyNXhHT2ppamJQQVk3cWp6S1Fxdm5iSURmZkY2X0NDOUNFUFRTMVJUMzlreVBjQWJ5ekRwLUF6Tk02dVN2a1hFVTZabEtMVTFMdjhPT2NkU3E0WQ?oc=5",
-      "source": "Caribbean Journal",
-      "publishedAt": "Fri, 02 Oct 2026 16:37:09 GMT",
-      "description": "All-Inclusive Is Now the No. 1 Ultraluxe Travel Experience, According to Virtuoso Advisors Caribbean Journal",
+      "title": "KeyCrew Media Expands Luxury Real Estate Coverage with New High-End Partners - citybuzz -",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFJZeWE0SWduM01Sc0NvcHFSWXRCVFNSSEhqVDB2TW9rWG5JRGE4dktWSnc4NFFYNFpsajFvUXFUazF2REVpaG12MzVSRUplNGhBcm5ScUE3aEV2bFZPQjdVMllPZHk3UVVhWlhmQWZITFlTdXR1eVN5T0E1UGZCelYxMkRiTmE2dGYybkNZM3N2Y0JPdHZkNXJ5SFVYczBxdGhaVFMyZGhJd0JRZ1V5WnZ5bkk?oc=5",
+      "source": "citybuzz -",
+      "publishedAt": "Fri, 02 Oct 2026 23:29:54 GMT",
+      "description": "KeyCrew Media Expands Luxury Real Estate Coverage with New High-End Partners citybuzz -",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Rack and ruin: Australian fashion is going through its own spring cleaning - SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXZ4WTc3M2lUeVhFUWV2V2gySUh0NzlVb1h0R1UzSWRKNjhRUXBWemYzYUJhSHQ4ZXBzaEVNLXhpbkFSYmlEOFowRGV2X3RVakw0b1FYNjlMeGZSenRMbWdabFEtNVRKaDUwQy1vV1MwSzJnOEwzQlF0WVVvNy12eGtBcHR4d3dudks3b0t3Q09Ca08yWThjOUNuSV85Q0s1eV9SMnE2T3cwMVZpcHVablkzWkU3VUNMWWFmeVgyY3V2LU1ZWjZjc1ktVzVZakFGUWc?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "Fri, 02 Oct 2026 23:00:00 GMT",
+      "description": "Rack and ruin: Australian fashion is going through its own spring cleaning SMH.com.au",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Corner Lot launches luxury home brand Palm & Pine - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWxZNmZobGZjVzJlV3dPbk1keWo2ZmxzeXRkSjh0NjFZbG5vTExXVGNwM2c5dnhnM1BWdEQzMHl3blJ0Z0g2bDk1V05LWTREWURza1RkRkJGRi0zQ21DemFON1AzSnJ1SEFDWVhSQmVjbEZ6Nl95QmNFdkctcWpZclhpTzhvVTBHMGtoeHRWTkY4ZW1ENU8yaFlUZjdvSHJYeHcxNWRR?oc=5",
+      "source": "The Business Journals",
+      "publishedAt": "Fri, 02 Oct 2026 18:12:00 GMT",
+      "description": "Corner Lot launches luxury home brand Palm & Pine The Business Journals",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Meet the Black Female Truck Driver Making History as the Founder of a Black-Owned Luxury Handbag Brand Inspired By Her Late Parents - BlackNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMTFrT1F5dGhCUTBQRmJ4d1k1LWsyN1c0R1NiTVpPbzhKb0x1d0xZem9GTGJXbkFsZGRva0xVQW1Xc24tODVPMGlTTGV5WEZ3dms1SmZmb0NFWEdJVVpRS2J5UV94Ujh1aGtZQmZlTkV3RU5HXzlNZ3BzYXQ1UmJjTHhvZWRGSFp3Mm9YWEtqaDh2b1l2dUcxVUV6dDRBUWFsdG0yVDU3SllZOWZ0azB4WmRoRnRENlpvNEg0Q3RvNmluYUlWMl9JRDZ30gHPAUFVX3lxTFBiVVlDWWlUU3l1dUJRVVV4VWhGMWZCWVJFbUMwdGtHVUpnQ0tacEx2WjdjOW9kSndMVEpsWEN2dHo2V1lELVlxdmU5Z01GcEZWNmF1bzBJY1lvWHFtRlVYclFjOXRyREtLOGlkNDk5SlpIVF9rcjBJNUpWOVp5NGFHeW9VU09TWDh1b1RMcHNGb1FwNlA3Q3ZodExxczB0OTBlUUt6eHNNX0ItS0wwMjhPbF81UG80SnpjTGJ5cV9aX3pUalpXTWhmSzVnODhfMA?oc=5",
+      "source": "BlackNews.com",
+      "publishedAt": "Fri, 02 Oct 2026 16:59:34 GMT",
+      "description": "Meet the Black Female Truck Driver Making History as the Founder of a Black-Owned Luxury Handbag Brand Inspired By Her Late Parents BlackNews.com",
+      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
