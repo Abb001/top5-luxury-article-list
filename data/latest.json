@@ -1,9 +1,50 @@
 {
   "date": "2026-10-05",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-04T16:13:23.713Z",
-  "status": "empty",
-  "message": "No articles published on 2026-10-05 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-10-05T03:17:01.304Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-10-05.",
+  "articles": [
+    {
+      "title": "From Gold to Couture Basics: Paris Fashion Week Rethinks Luxury Value - CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTc0cTRaaFJrRk9zWmZoVDlLOGxDbFViTmpEYVk2V3pFN1ZRNUExMGNkT05iQWhxNGFpNlpjaHFtNmU1bUxGTjZTb2hZU1JMNHZfeTh2anJ3a3dESjZObXFJb05JdzZ6TXVDN1JqMUdhcTFJdHhLOFVTZkJxVEN3R1Y4UXAxR1Y1VEJteW40VlIyM2VITkI3RDF0MzNFY1VzV05R?oc=5",
+      "source": "CEOWORLD magazine",
+      "publishedAt": "Sun, 04 Oct 2026 22:50:28 GMT",
+      "description": "From Gold to Couture Basics: Paris Fashion Week Rethinks Luxury Value CEOWORLD magazine",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXdTN21wSy1oZ0ZHQTBuQ2dwYTV0cFZfNm9BT2RzVm9wMHV0RXBQZHNNU0huNXJrT3I0VTdfYXNFV0JjUnFnNmk4dkIwMGtiYkxGN1ByV2hwbGZFSExoY3lFOWZ2WThuSUw4TDR0NzJDcjRuLWZNNDNuV0h2Z0ZJRDVKZ0ZBeEhJWTluZTF3QVBRNWQxOU50ZmxPaloxS3RXVW1Rdlp1VW5CUnp5M2JSeGNn?oc=5",
+      "source": "Los Angeles Times",
+      "publishedAt": "Sun, 04 Oct 2026 22:02:24 GMT",
+      "description": "Berkeley luxury fashion brand founders found dead outside upscale Oakland Hills home Los Angeles Times",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hermes shows airy knits, slit skirts at Paris Fashion Week - Kuwait Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2hGRGlPMkpYVW5XS3ByOFUxN1NFbHVVUlo4bmgxZlhIY3h3NzlmejN1Z3c3WXBWaWt5NXBUR01NNXotb2paeHVZaGd1WG5vQk1uMmRadE5wY0JPbDVjU1ZndUtQLUtoQzI1YTdfSGZqYnhCcTJweXRKYnhJdlg1Vk9WUXZtaWx2S092LTZnOVVZaVJucTJwR0JoMUo3UTBZSEN0WkQ1SWFsRjc1MV85OEVzRzdJeUJvUlHSAb4BQVVfeXFMUEoxVkY4UzEtNVJ1dFl5RWp0NnlCUDZGZjZzSVVURGxtY2xhQVZrN2g0S1lmZndxU24ta2ZsYXg2WDIwdHd0ZXl3REJFZ1JrRHdvS3JXeGFiLWNhYTlrSVZqZmlFTDQyZmE0MDFSMWZYMWlzYXdQVkYtUHJLUVJoUFZqbjBQT1RmZFA4aHo1ZEJBZnM1d29saUdzQTRUWnhLdzl0M3pOYjNoYWF6a2Jxb3QtVEoxdnl3cDhzeHlnQQ?oc=5",
+      "source": "Kuwait Times",
+      "publishedAt": "Sun, 04 Oct 2026 21:33:45 GMT",
+      "description": "Hermes shows airy knits, slit skirts at Paris Fashion Week Kuwait Times",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Why Gen Z Is Choosing Thrifted Fashion Over Luxury - Baller Alert",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RNkd2RnRFd2lUWDdKRzROZnpKZlZsYWwweHVScTk1Q1pDbjlJTDEteTFUeVJ3bENZZHVXZUEzN0NfdGtvMlVRV2V3akZQSFc4RS12QWtDN0c5TVZTLU9veUowZzZHSlBRaC1CM2g4UVVrdw?oc=5",
+      "source": "Baller Alert",
+      "publishedAt": "Sun, 04 Oct 2026 19:57:45 GMT",
+      "description": "Why Gen Z Is Choosing Thrifted Fashion Over Luxury Baller Alert",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury Women’s Wear Resale Value: What 2026 Data Shows - CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUc3QkJKYmc3eDdwdjJQbWlBY2pnRDJXWGhTYWRfOGNTVjJfaENUc21QTWo2WWxJUWRyNDJYRkxzaXNPSE01UkZINWlNYnl3OV91UE44VDFTenlDamdzMTU1SjFZTGY2cFRDMVc5Q3Q5dUQyaWZfYnFwMm9JeHhrMV9nTGNBc01MWEZudUhB?oc=5",
+      "source": "CEOWORLD magazine",
+      "publishedAt": "Sun, 04 Oct 2026 23:05:30 GMT",
+      "description": "Luxury Women’s Wear Resale Value: What 2026 Data Shows CEOWORLD magazine",
+      "feed": "Google News - luxury fashion"
+    }
+  ],
   "fetchWarnings": []
 }
