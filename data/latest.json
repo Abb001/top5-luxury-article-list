@@ -1,50 +1,9 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-11T11:52:31.711Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-11.",
-  "articles": [
-    {
-      "title": "Luxury Is Getting Cheaper on the Stock Market: Why LVMH and Prada Now Trade at Nearly Mass-Market Valuations - NEWS.am STYLE",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaFg5c2JtR2FmVzBobldkVkhPWk1xV05Kdld2SFYwZkF1ZU9tTjQxVVpKNFZkNnk0bG9lYjNybnlBN2FCX2tvUjcwYVJnNU9aN04zZFcyTFlCbFdLd0gzU0VZNV9rS2I3VktVZkFNcFQ5bkJYclNOejFRemxlUVdleC1sMnJmUFlacHdja3I4cjhOYmVwa1VGa1h1RXJOaVRnWmdpa3RNOHozdXltckw2dHJnZVpFZ1hRNkVyUlpSeVNvcHAzdkVqeGlrZHFuejZuZHU2QkhtRmxfZXNYUUwyVXR0RnM?oc=5",
-      "source": "NEWS.am STYLE",
-      "publishedAt": "Sun, 11 Oct 2026 09:13:03 GMT",
-      "description": "Luxury Is Getting Cheaper on the Stock Market: Why LVMH and Prada Now Trade at Nearly Mass-Market Valuations NEWS.am STYLE",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "He nearly left fashion. Now, he is redefining handcrafted luxury - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDJwdVFVWTYtQ0pXNzFRWDk2T1Z6aEE1OVU4b1l6X1daLWl0aVlHSklfdVFmcEZHV19UYm9UZ1pWcXE1ZlcwSzVSdE8tSGFzdEFqdzhRMVZwa2QtU2hRSGVxTjVzb0tIck5aQ1lrdUFHZmNqU09ZSXE5NlJYalZLVnJ4cmVtcE9aQ0xfWmtOSG43alhUMGgxbmJIa3pLVGNHR0dVb1lFcHk1NGY5NW1ReWZyYUFOQzhlQ0tyZnhLZTl4TW8zalFTQWpR0gHKAUFVX3lxTFBFbWwyZFVmbmZ3azdXaDByMFB2S3hpRFF6SWM5czZqcFdwc3BzMUJYS3AwODFlc1Ribko0Nzc1LWh1YUdFcHpUcnFmVlg3RUd5WW03ZVAxWjNnOHdtUUNrTnphUG9zMzFqd2RuVlprRFYxYktNSjQ3YS05YW9DRy1iV0QwQ19GeDJGTHowOUxDZWsyMmptWFR3Y2lmd0x1b05yOGR1Z3VEUDY0VkNmcmR1b2ViSTJYaEpqbzdkZmFqU0x1YmliaGlzSFE?oc=5",
-      "source": "South China Morning Post",
-      "publishedAt": "Sun, 11 Oct 2026 04:15:05 GMT",
-      "description": "He nearly left fashion. Now, he is redefining handcrafted luxury South China Morning Post",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "St Barts records 70-plus luxury property transactions in 2025 - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVlWQjdGbmJ4YjVHdGxDZVZxVkxGclNTb3Zqam9VYkNUQU9yOVo0d3NFOWs5RlZrcmlfSmsyaGV5VE1FZXQ2RHg1enpCb0ZVM01ORjVLdGF0NjN2SGJZMDNXY0hnMFZrdnlyQlFSS1c0MWNjYmJ2N1RodGFnZHcxTGFLek1jcU5fT2pzXzNKU0VUT05la3dtWjdDTnQ2UW9aSXBWMG1pTW5lYzgxRGNRZXRaOA?oc=5",
-      "source": "Prop News Time",
-      "publishedAt": "Sun, 11 Oct 2026 05:32:38 GMT",
-      "description": "St Barts records 70-plus luxury property transactions in 2025 Prop News Time",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Aespa's Ningning Wears Custom Gucci Look in Atlanta as Global Brand Ambassador - inkl",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWZrWW16Wm82N1BSRW5Hazl1d0N4RDI2X3Fqb0RMUlJRMHpweFpQZVY1R3l5QjRhd2hBRVp3angyMFByb091RUF3elFUNkpIYTAteW9JLXVCTk9QSVptNnF1VGpxS3JWQlFJeEJpbFNFa2lWQTVKZXZka25LZDU0bGpua0lod2hZMFY3VXdSZVdEZ05XRi1ieHM3eTR5Q3RMME9Qc1dB?oc=5",
-      "source": "inkl",
-      "publishedAt": "Sun, 11 Oct 2026 00:30:04 GMT",
-      "description": "Aespa's Ningning Wears Custom Gucci Look in Atlanta as Global Brand Ambassador inkl",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "North Bengaluru’s Luxury Housing Market Strengthens as Century Real Estate Unveils The Astoria - Sangri Today",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNFNtaE9MRUNRQkh4bU4yaXphRVhTcnY1eEEtVmZmU2lpYWJzMnRpOFJWcVk5cXlFZlN0cUZxWlNvTDhNZ3NfYWhoQ2dYc3RfYmVZV1RHTVJwcmluWWRjTHh5ZXR0QTN1d0hHaThLY2EwY3IxV1dLNHo2NkJzeWw0SWRpU2hXOHlrVmlBOU1BeUlwdHJpa2gyUlFER3RrWHV6c1NCR0xZYmdxUlZ5WHdDUDEzbzZmQkxJTEpJYVZRTTFwc3R3Tk1pMXFULWh5WEpaMTExYmY4Y9IB3AFBVV95cUxNLVpqc3FBclQ3LTd3a2RadVozMGVuVXlrYmVsaWxfRXZ4dlJTSjF0aUwwVWNPVDFubVZTVkxUSklIa2E0NjlCdGRldFkxY2R6ajJyX2VfVGswYlpEYzY4ZDU5OWo3VFNETVl4MjVma3VDcXJ1NzZ2UzVyNWhtSkxJSVpHZTgzc1hvbUl4THlZWGplUHpBbmxsX21vV0EwTXVaZXo5ckcxRGg0MTlOQjN2dGx0Y281VlJBTTE1TzZjUWtLcmRqMFBWaVhfZVM0UzVmTkIwYzNKNFEwU2ow?oc=5",
-      "source": "Sangri Today",
-      "publishedAt": "Sat, 10 Oct 2026 20:04:30 GMT",
-      "description": "North Bengaluru’s Luxury Housing Market Strengthens as Century Real Estate Unveils The Astoria Sangri Today",
-      "feed": "Google News - luxury business"
-    }
-  ],
+  "generatedAt": "2026-10-11T17:06:42.090Z",
+  "status": "empty",
+  "message": "No articles published on 2026-10-12 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
   "fetchWarnings": []
 }
