@@ -1,9 +1,26 @@
 {
   "date": "2026-10-11",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-10T16:40:43.364Z",
-  "status": "empty",
-  "message": "No articles published on 2026-10-11 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-10-11T03:08:45.504Z",
+  "status": "ok",
+  "message": "Found 2 article(s) published on 2026-10-11.",
+  "articles": [
+    {
+      "title": "North Bengaluru's Luxury Housing Market Strengthens as Century Real Estate Unveils The Astoria - India's News.Net",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUEzcEZUOWhtNDU3RGZRU0ttMENkZXFCcnJEWFh6Z2g5VEQ1VXliaDRNNlpyNVdOR2FGVzRLeEFvTV9zZDNUZ0F0OWJ1dTN2bUtkczFldTFrQXdWVkpFUTNLRkZuX2RUb19wblM4Q2hXVS1fZDEwM1ludWRmRFg0OGptN2tKXzR4Tjg4dDg5Sjg1Nk4yeTBjS0dRVHdUYU9pRmFFRlpDWUROeWMzcWRvUEdnQ1J1YzZzY1JVWGFDVlZJSUtNNkFyVEY1VUFXR1U?oc=5",
+      "source": "India's News.Net",
+      "publishedAt": "Sat, 10 Oct 2026 17:39:00 GMT",
+      "description": "North Bengaluru's Luxury Housing Market Strengthens as Century Real Estate Unveils The Astoria India's News.Net",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Crested Butte’s Luxury Home Market Is Defying a Ski-Town Slowdown - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVllLWlA2ZU1uU0pha19mRUhlYXcwSXdTNm1TXzEwY0tZWlM2Q3p0Y21lTWJJSjZka0hJME5GX2Fta0d2bVRzenVBVjRQZG81Q05uNjlXT2dkN0p1SkdySTBoTlJyZ29OLVZLcTFUdDkxSkJLeWd1YUFTTVhBd21Tdk13Vl9FbkUxa0oxYVNXTQ?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Sat, 10 Oct 2026 16:35:56 GMT",
+      "description": "Crested Butte’s Luxury Home Market Is Defying a Ski-Town Slowdown WSJ",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
