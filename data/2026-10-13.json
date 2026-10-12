@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Taipei",
+  "generatedAt": "2026-10-12T22:19:51.515Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-10-13.",
+  "articles": [
+    {
+      "title": "Watch out luxury: mid-market fashion brands are staging a comeback - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnBsdmtaMGtDTmdtTEZqX29oZGZCXzZjZUl5ZGtsZXExVjVqeXMyN25iR2hlZEQxWkVJT2Z0aVdGOGxFZ3dUV2FEZXhTR0JRaEVVZ1pnR041ckhLOFFid3p6dHBkdjJsakhNdW1rM3FaQV9rUnRiS29xMXpYQ2Z4VEMwcHE?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "Mon, 12 Oct 2026 17:30:46 GMT",
+      "description": "Watch out luxury: mid-market fashion brands are staging a comeback Financial Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH’s fashion and leather sales fall in luxury setback - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS01vc2ozUE1OaW5xY21jaEdyRDhyV1hSNmVIak8xTmRLMWtqUXQzOTlYWk1xbWJka2d1TnlzckRuaFZ5dk1ZRVg0UW55RHlwUTlDMkYzN09JbU40MGR0T1JaUEhtcGhscHY1UEtCZzRYT3NVNkYtejFvbEJBX0tlZHVzQU4?oc=5",
+      "source": "Financial Times",
+      "publishedAt": "Mon, 12 Oct 2026 16:08:30 GMT",
+      "description": "LVMH’s fashion and leather sales fall in luxury setback Financial Times",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "LVMH Reports Slower Luxury Sales Growth in Third Quarter - SuaraGarut.ID",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tc05TRDJxZUZCQ2pjVlFsZjhoT0pXVjNUT25LLXgweEd2NHNnZzdqUXJuWHhSWkF0WTQ3ZkluWUNyV3lWOHNWaFkzeERrbXplU1RLN01xM29CLTMzSjlLbHFBd1Z3cV9RdlE?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "Mon, 12 Oct 2026 21:14:00 GMT",
+      "description": "LVMH Reports Slower Luxury Sales Growth in Third Quarter SuaraGarut.ID",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Luxury letdown: LVMH misses organic sales expectations due to China weakness (LVMHF:OTCMKTS) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMW1ib3hOMEV0alJVeHYzaFNTdDItM2Z4bjI3MUliUlBEOE53ZGdDVVgzcU5wQWh0WkN1cnZDNUszbUlRSjR0N0Iwd1hTZDU2dDB4aEZBNXBRYWZfVUxBbTJncENTYzZkWkdsT1gwLXktbzkydG1COW5KZlRtZndZZXVjWWhRVzF5MGcwcXJNTldzc0dETjlVLVRaUW9UMDdOY1I4LWMySzluZU5SSkFNOTBIYw?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "Mon, 12 Oct 2026 19:04:27 GMT",
+      "description": "Luxury letdown: LVMH misses organic sales expectations due to China weakness (LVMHF:OTCMKTS) Seeking Alpha",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "China gloom hits LVMH, dims hopes of luxury revival - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDltT0dKeF9Pem53ZHdPOExBVzZ2NmF1N2tuR05lQkx5eHY5d3ptV2I0ak9yNWNKbWRNd1dWX1VTZDlHc1o0MWtRVEs3REt6enVjNXhiN1BVOGxCSnVnLUFORWFRLWV5SFdUTHloZmxjbjJ2NHNicFJGOFE3TF9wQ2EwSWQxbDZhbVVKcjQtaFdxUEtDWkhPd3lQNU1ZemZyZGxYV2l0WXhzVUc2OGZ1ZV8zcXhzanFjckNwOHkwLTJVeW1wUWhuZ3NfXzhzSU4wM0pF?oc=5",
+      "source": "Reuters",
+      "publishedAt": "Mon, 12 Oct 2026 17:43:59 GMT",
+      "description": "China gloom hits LVMH, dims hopes of luxury revival Reuters",
+      "feed": "Google News - luxury business"
+    }
+  ],
+  "fetchWarnings": []
+}
