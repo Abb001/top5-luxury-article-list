@@ -1,9 +1,26 @@
 {
   "date": "2026-10-12",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-11T17:06:42.090Z",
-  "status": "empty",
-  "message": "No articles published on 2026-10-12 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-10-12T03:31:52.278Z",
+  "status": "ok",
+  "message": "Found 2 article(s) published on 2026-10-12.",
+  "articles": [
+    {
+      "title": "Luxury homebuyers turn toward north Scottsdale for homes priced over $5M - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTlJQzh5RXRNQWhjMGZSZjktQWZzT3lRT0RfRXFLUEliend2TGRnOHBPREtmQkVpZmtDTlVqX1MzcUtkb3ZoT2xEYjNyOTdxeGlpZHFPLTNYUHZoUUFsNFRsQ3N3cHpHNFpBcVEyc2hNcXZhTmJkYnptdWF4bnlYcWJ5WHBQTjg2R3cwcWxMZWRkNWlsbllHZmhBbDN5YlE?oc=5",
+      "source": "The Business Journals",
+      "publishedAt": "Sun, 11 Oct 2026 18:34:20 GMT",
+      "description": "Luxury homebuyers turn toward north Scottsdale for homes priced over $5M The Business Journals",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Cardi B Says She’s ‘Hesitant’ to Give Closet Tour Over ‘Security Purposes' - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkRjX1I3ZlJqX1JTX2RMREx0ZlFsWjg0dFFUX2lSOE1ndHNYUkIyS0NxNi1MSzlGQmRLSVY0Z2sxVHBNLTZqYlRpS1MtNkRPWk91U1dlLUhIV0MwMkpxeEhMOGREc1hEaWV4TEQxUkNGcGxQWmNzWV9KQ0EzNlJUVnZNd1ZGZFRfMEFiRVJiN0thdFk1QkwtdG8wdw?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "Sun, 11 Oct 2026 21:54:25 GMT",
+      "description": "Cardi B Says She’s ‘Hesitant’ to Give Closet Tour Over ‘Security Purposes' Yahoo",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
   "fetchWarnings": []
 }
