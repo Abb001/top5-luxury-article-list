@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "generatedAt": "2026-10-13T20:26:43.430Z",
+  "status": "ok",
+  "message": "Found 3 article(s) published on 2026-10-14.",
+  "articles": [
+    {
+      "title": "LVMH hopes of luxury revival getting dim - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2UyN0E5dEVGSHp3ZzZ6NW0zUFdSVGRtSEJzcTg3anFEajV1RmhqTWFTNW1RUVFfMTltU1Z5UXBsQ3ZxLXR6dWFMRGIzY3IwVU50a0VmZjdEM01KLVV2ZXI5a0JBUlRURFd3TnZjem5aU3lNRTRJalBBZXQyclI0UnFjN005NWZGZDF0MDkxLUZKQ1hIM2sxX3ZfU1VHdUVvZUJzX2ZZLXFUQWJ2Y0pYOExfSdIBuAFBVV95cUxQVXdKWlh3Zk5adktYTGlXZWNuVjFBTU50T0ZnZ2VaQXVzT2xFY0dPek1vTzk2WFFxV1RZbHcxU0NMeGhmSWJoMm91ZE5WVDlaeVl4Mk92QnF2WEh5clJaU1BqLTV0VzBtUGZTeWtFVW5iUTBRMWoxN2x1ZzJ4TkJEeTF2Z1ZOcHBSa3F4anF0ZWFhczZaU0FtNnVkM2Qtd2kxa0hwS0MtV19zXzVoNmcySjBMXy0zWUxS?oc=5",
+      "source": "The Manila Times",
+      "publishedAt": "Tue, 13 Oct 2026 16:09:00 GMT",
+      "description": "LVMH hopes of luxury revival getting dim The Manila Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Celine Dion's 1999 Oscars Suit Has Been Iconic For Decades - The Zoe Report",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RmVaQ01lMGpDcEFQUWtpNE9FMGNFZkVnengxb1pBSjNTOGttcENrVWI0Sm1IeDFsSmhOWkhoYzVqYmRsVEdjaFkwZ2xmN096YzdCQzJ0Q0ZyQ1hySFhqTTNsTUZsdEF6a2IxU3BRUjI4RUxGQmF3bA?oc=5",
+      "source": "The Zoe Report",
+      "publishedAt": "Tue, 13 Oct 2026 18:44:03 GMT",
+      "description": "Celine Dion's 1999 Oscars Suit Has Been Iconic For Decades The Zoe Report",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Ayo Edebiri’s Feathery Look Pulls Off a Controversial Silhouette - Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc05PMkxIMU0yVFBnTjZJeWdKRnFTTGdtaGlaRk1waS1Sb1dyQ3JWV1k5SjVoSmFJYW1CdjFSdE15NkRqcHA5REU2LWpPRTNjMC14aFMxRlFOY0xEbUJ0UWRNT3JpOEFMQWI3ZFBXeEFzZ1FRRWsyRXNLMlh3R1ZMYVVjTHM1SVEzejYwU1lqNHpWMVJwazhmQm9mZDNpYjZFLVFqVTZmMF9ua2YtUldXd3JlRG5SbkFqR01OVHRrR0QyYjI4dHRMNUVGREp5ekVzUXNxNU5WQ2tKbXN4VFFkVzJWbFM5anc?oc=5",
+      "source": "Harper's BAZAAR",
+      "publishedAt": "Tue, 13 Oct 2026 17:21:00 GMT",
+      "description": "Ayo Edebiri’s Feathery Look Pulls Off a Controversial Silhouette Harper's BAZAAR",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
+  "fetchWarnings": []
+}

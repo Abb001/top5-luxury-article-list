@@ -1,48 +1,32 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-13T13:15:26.756Z",
+  "generatedAt": "2026-10-13T20:26:43.430Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-13.",
+  "message": "Found 3 article(s) published on 2026-10-14.",
   "articles": [
     {
-      "title": "European Luxury Shares Decline as LVMH Fashion Sales Miss Expectations - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWp2OFc4WlotRGhHSHRiV2xEd052cHJHVnpWZzFpdUliam5ZVDZGWVZyODZ3aF9aazhXQmdmSXlFU2M0cmlyMVhVdGJGUWpjZ1lOS2RGc1cwRTg0SWZ0SHVZUTN6RmRnLW5ya1ZTaWNnRHE0aF81RldHMlh3bS1FQzVKVHdZTWR5STJBZQ?oc=5",
-      "source": "Yahoo Finance UK",
-      "publishedAt": "Tue, 13 Oct 2026 10:31:13 GMT",
-      "description": "European Luxury Shares Decline as LVMH Fashion Sales Miss Expectations Yahoo Finance UK",
+      "title": "LVMH hopes of luxury revival getting dim - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2UyN0E5dEVGSHp3ZzZ6NW0zUFdSVGRtSEJzcTg3anFEajV1RmhqTWFTNW1RUVFfMTltU1Z5UXBsQ3ZxLXR6dWFMRGIzY3IwVU50a0VmZjdEM01KLVV2ZXI5a0JBUlRURFd3TnZjem5aU3lNRTRJalBBZXQyclI0UnFjN005NWZGZDF0MDkxLUZKQ1hIM2sxX3ZfU1VHdUVvZUJzX2ZZLXFUQWJ2Y0pYOExfSdIBuAFBVV95cUxQVXdKWlh3Zk5adktYTGlXZWNuVjFBTU50T0ZnZ2VaQXVzT2xFY0dPek1vTzk2WFFxV1RZbHcxU0NMeGhmSWJoMm91ZE5WVDlaeVl4Mk92QnF2WEh5clJaU1BqLTV0VzBtUGZTeWtFVW5iUTBRMWoxN2x1ZzJ4TkJEeTF2Z1ZOcHBSa3F4anF0ZWFhczZaU0FtNnVkM2Qtd2kxa0hwS0MtV19zXzVoNmcySjBMXy0zWUxS?oc=5",
+      "source": "The Manila Times",
+      "publishedAt": "Tue, 13 Oct 2026 16:09:00 GMT",
+      "description": "LVMH hopes of luxury revival getting dim The Manila Times",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Watch out luxury: mid-market fashion brands are staging a comeback - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnBsdmtaMGtDTmdtTEZqX29oZGZCXzZjZUl5ZGtsZXExVjVqeXMyN25iR2hlZEQxWkVJT2Z0aVdGOGxFZ3dUV2FEZXhTR0JRaEVVZ1pnR041ckhLOFFid3p6dHBkdjJsakhNdW1rM3FaQV9rUnRiS29xMXpYQ2Z4VEMwcHE?oc=5",
-      "source": "Financial Times",
-      "publishedAt": "Mon, 12 Oct 2026 17:30:46 GMT",
-      "description": "Watch out luxury: mid-market fashion brands are staging a comeback Financial Times",
-      "feed": "Google News - luxury business"
+      "title": "Celine Dion's 1999 Oscars Suit Has Been Iconic For Decades - The Zoe Report",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RmVaQ01lMGpDcEFQUWtpNE9FMGNFZkVnengxb1pBSjNTOGttcENrVWI0Sm1IeDFsSmhOWkhoYzVqYmRsVEdjaFkwZ2xmN096YzdCQzJ0Q0ZyQ1hySFhqTTNsTUZsdEF6a2IxU3BRUjI4RUxGQmF3bA?oc=5",
+      "source": "The Zoe Report",
+      "publishedAt": "Tue, 13 Oct 2026 18:44:03 GMT",
+      "description": "Celine Dion's 1999 Oscars Suit Has Been Iconic For Decades The Zoe Report",
+      "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "LVMH’s fashion and leather sales fall in luxury setback - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS01vc2ozUE1OaW5xY21jaEdyRDhyV1hSNmVIak8xTmRLMWtqUXQzOTlYWk1xbWJka2d1TnlzckRuaFZ5dk1ZRVg0UW55RHlwUTlDMkYzN09JbU40MGR0T1JaUEhtcGhscHY1UEtCZzRYT3NVNkYtejFvbEJBX0tlZHVzQU4?oc=5",
-      "source": "Financial Times",
-      "publishedAt": "Mon, 12 Oct 2026 16:08:30 GMT",
-      "description": "LVMH’s fashion and leather sales fall in luxury setback Financial Times",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Dongliang Wants to Be Luxury’s Gateway to China - The Business of Fashion",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFItY3JNQTFMeFI2UEltdGMwZTJBbHlVQzVIV1h0OVp5YXluMlpzME1yQ1NfMF85bkRySS1BZ3JOMGhLdlpTMTBuOG1BdG54bjR5MlJfZG5rMWNMZWJKUzJIU3dTdnpONndhUjJjWVB4T1EtX05KUFBJLVFtMVlMZHI1MmxMQ3dJaFY2ajB2cHBoS3F1TDBzbk1VVVhjUTVXcERNQkdoYm4?oc=5",
-      "source": "The Business of Fashion",
-      "publishedAt": "Tue, 13 Oct 2026 12:30:00 GMT",
-      "description": "Dongliang Wants to Be Luxury’s Gateway to China The Business of Fashion",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "What la Galerie du 19M reveals about Chanel’s long-term craft strategy - FashionNetwork France",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHdzSkxROWM5V2FKMFFadEhIR3dES0t0azlYLTFqTko0YjlPaEVMcVAzTm9uakk4blVFRlN4SmpJdkUxRjVMVVRYTnRvZ2VqRVF3VHkyQ2h1NUpDY0w2UjI5R2QwMmdHYUd3MmhNalAyMDdjZC1KZGdDakk0TmNCQm9TRF84MTZVQXY3YUJXSG5QWnlTMzNpTm5lb2llMHE4aUpQN2tXRHo0aHVrUHlPSGd6akRVamNoNFE?oc=5",
-      "source": "FashionNetwork France",
-      "publishedAt": "Tue, 13 Oct 2026 11:35:26 GMT",
-      "description": "What la Galerie du 19M reveals about Chanel’s long-term craft strategy FashionNetwork France",
+      "title": "Ayo Edebiri’s Feathery Look Pulls Off a Controversial Silhouette - Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc05PMkxIMU0yVFBnTjZJeWdKRnFTTGdtaGlaRk1waS1Sb1dyQ3JWV1k5SjVoSmFJYW1CdjFSdE15NkRqcHA5REU2LWpPRTNjMC14aFMxRlFOY0xEbUJ0UWRNT3JpOEFMQWI3ZFBXeEFzZ1FRRWsyRXNLMlh3R1ZMYVVjTHM1SVEzejYwU1lqNHpWMVJwazhmQm9mZDNpYjZFLVFqVTZmMF9ua2YtUldXd3JlRG5SbkFqR01OVHRrR0QyYjI4dHRMNUVGREp5ekVzUXNxNU5WQ2tKbXN4VFFkVzJWbFM5anc?oc=5",
+      "source": "Harper's BAZAAR",
+      "publishedAt": "Tue, 13 Oct 2026 17:21:00 GMT",
+      "description": "Ayo Edebiri’s Feathery Look Pulls Off a Controversial Silhouette Harper's BAZAAR",
       "feed": "Google News - luxury lifestyle"
     }
   ],
