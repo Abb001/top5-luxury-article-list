@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-12T22:19:51.515Z",
+  "generatedAt": "2026-10-13T04:46:05.219Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-13.",
   "articles": [
@@ -22,27 +22,27 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "LVMH Reports Slower Luxury Sales Growth in Third Quarter - SuaraGarut.ID",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tc05TRDJxZUZCQ2pjVlFsZjhoT0pXVjNUT25LLXgweEd2NHNnZzdqUXJuWHhSWkF0WTQ3ZkluWUNyV3lWOHNWaFkzeERrbXplU1RLN01xM29CLTMzSjlLbHFBd1Z3cV9RdlE?oc=5",
-      "source": "SuaraGarut.ID",
-      "publishedAt": "Mon, 12 Oct 2026 21:14:00 GMT",
-      "description": "LVMH Reports Slower Luxury Sales Growth in Third Quarter SuaraGarut.ID",
+      "title": "Chanel is not dabbling in horology—it’s crushing it with bold renditions of the J12 watch - Tatler Asia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9veUkzcG5XM0VaekhJU3VmeDJDa3U4R1ZtMDNFTi16TlRTNkIzX284SUpRbFZfQUM1azBVWUFqU3Etc2Z5Z2xEOGd5cTJVX2VCUllDS21xNU52emUwanc1QnRTc0ROSlZXTFRyRkhjWlI5WEU?oc=5",
+      "source": "Tatler Asia",
+      "publishedAt": "Tue, 13 Oct 2026 02:40:43 GMT",
+      "description": "Chanel is not dabbling in horology—it’s crushing it with bold renditions of the J12 watch Tatler Asia",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "China gloom hits LVMH, dims hopes of luxury revival - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzZGN1QyY2h0SGZGajBCYTdaTTZFTFpoeXYzM3JSVzlnTGw5dV9Sa3N1MnNhSlBJREJVSXBtMk1aV1NSb1VwNXpHWW9TYXEySUhRMWRoWVo3cDkyMHYyOEVpWk5LZklQYlBZUG1BdjY5ZWVJWk9xUXdqOVFVZEgyRnZYdXJsX25haWwzNDVaX0FQWG1jeHVSUUpheHQ5Smh3QlNNRFNyaw?oc=5",
+      "source": "The Standard (HK)",
+      "publishedAt": "Tue, 13 Oct 2026 02:05:08 GMT",
+      "description": "China gloom hits LVMH, dims hopes of luxury revival The Standard (HK)",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Luxury letdown: LVMH misses organic sales expectations due to China weakness (LVMHF:OTCMKTS) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMW1ib3hOMEV0alJVeHYzaFNTdDItM2Z4bjI3MUliUlBEOE53ZGdDVVgzcU5wQWh0WkN1cnZDNUszbUlRSjR0N0Iwd1hTZDU2dDB4aEZBNXBRYWZfVUxBbTJncENTYzZkWkdsT1gwLXktbzkydG1COW5KZlRtZndZZXVjWWhRVzF5MGcwcXJNTldzc0dETjlVLVRaUW9UMDdOY1I4LWMySzluZU5SSkFNOTBIYw?oc=5",
-      "source": "Seeking Alpha",
-      "publishedAt": "Mon, 12 Oct 2026 19:04:27 GMT",
-      "description": "Luxury letdown: LVMH misses organic sales expectations due to China weakness (LVMHF:OTCMKTS) Seeking Alpha",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "China gloom hits LVMH, dims hopes of luxury revival - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDltT0dKeF9Pem53ZHdPOExBVzZ2NmF1N2tuR05lQkx5eHY5d3ptV2I0ak9yNWNKbWRNd1dWX1VTZDlHc1o0MWtRVEs3REt6enVjNXhiN1BVOGxCSnVnLUFORWFRLWV5SFdUTHloZmxjbjJ2NHNicFJGOFE3TF9wQ2EwSWQxbDZhbVVKcjQtaFdxUEtDWkhPd3lQNU1ZemZyZGxYV2l0WXhzVUc2OGZ1ZV8zcXhzanFjckNwOHkwLTJVeW1wUWhuZ3NfXzhzSU4wM0pF?oc=5",
-      "source": "Reuters",
-      "publishedAt": "Mon, 12 Oct 2026 17:43:59 GMT",
-      "description": "China gloom hits LVMH, dims hopes of luxury revival Reuters",
+      "title": "CAC 40 Rises to 7,832.88 as Banks and Luxury Lift Paris Ahead of LVMH Results - BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUFpY1hGa2wxWWxBbW5vVC1OSkhyeVppMk84cFIzNXRuYnFsa2FiYUM1V3hxRVJCMHFaYlBITzI1blJLcERZVVNHdzdncTNlUjd5Q0t0NURtUk5QelhBU0VhUGI5Wm9kWVFIYkRTOEJEMWJLWkJhT2lHd2Y1SXdOeEVVTFdieGZNMVpZbjRQWno3V0tnYTFNOEt6clItbV9DNDd3cEpid2oxSVpUYnlCSk53?oc=5",
+      "source": "BBN Times",
+      "publishedAt": "Mon, 12 Oct 2026 22:38:00 GMT",
+      "description": "CAC 40 Rises to 7,832.88 as Banks and Luxury Lift Paris Ahead of LVMH Results BBN Times",
       "feed": "Google News - luxury business"
     }
   ],
