@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-15T07:52:09.964Z",
+  "generatedAt": "2026-10-15T13:48:49.496Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-15.",
   "articles": [
@@ -14,6 +14,22 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "China slowdown weighs on LVMH’s luxury fashion business - Retail Asia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2NRU0pyX29YOXZ3aGFZSE9OdTgtRU9OX1Vwc3JlVmdLTHpDOUEwdTRTYngxcTNKVXFFT3dyeTZ0RElVRzY4Q3pWdC00Q1hpTGVvYjZETGdpUTdaQ2pYOUVVY2dzTDlmQmJ1MEZvQ3hrOTRVZGN5V2VkNjJqNy1JY0dNOHNBc0N1ckpxRi1MMWw?oc=5",
+      "source": "Retail Asia",
+      "publishedAt": "Thu, 15 Oct 2026 02:19:30 GMT",
+      "description": "China slowdown weighs on LVMH’s luxury fashion business Retail Asia",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Rolex Lags Rivals' Price Rises On Secondary Market - WatchPro",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nSnNta3ZTQ0k4YWhheTU4UmRnNW96TEY5LVk4UURpTUdwaFhCTFhIV3BISzVRUW1vYnlzalBmXzYwdjhKOWZ3ZkxualY4U1lHOTVIR2kxVU1SVl9wSGZVVDQzMGlmYUNtNmg0dXlFX1ZjQ3RxOU03Ymh6VkhpT0E?oc=5",
+      "source": "WatchPro",
+      "publishedAt": "Thu, 15 Oct 2026 09:20:33 GMT",
+      "description": "Rolex Lags Rivals' Price Rises On Secondary Market WatchPro",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Beyond the Store Opening: How Luxury Fashion Expansion Is Creating New Opportunities for Retail Suppliers - Retail Insider",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXhLcWxfYXA0b2poNElnTlJZQ0c4Y0tQVHZFQkpFbnc5eUhvVE42T3dJQXhPYWkySm44XzJPSDB4NHpyNGhRVGplUHNCeHB6NGVGdnhvUHY3ckNuMlJLV3B0dEFzYW5rV3g0SExXOHVObVpRUk1wRV9TNWxmYkVEa1NfTzZPYmR2YUc2bVVRakVHWF8zbnlTb1pEVlRTT0JZek5ZcjZBUUtWLWdveTNtTXFiRGF0NTN3bzdJejFUSEVIUzIyd3pjWHFmeWFRZnhwVTNBYzExMFFkcm9fZllELVlfRQ?oc=5",
       "source": "Retail Insider",
@@ -22,27 +38,11 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "A new chapter for circular fashion: Kering generation award India announces its inaugural winners - Apparel Views",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHYwOXE3TVJUNGZGVmlwY3dVLWhXWnRJZEhCSFkxcmxzU0RISG1uWVRSdy03d1dqdDFxa2hyUm5keE1oUG4yZ185N21JQV9kVEhqcmRhR2VUZmtNY1ROQlBFeVlhZ2p4OHA4M3V0N283djh6Q3NmejFhUXZKYzRoa3JNTFpVbXlfM0lnQ21BOWRGd001VWV0VkxHQks1RnRqcTZ3NUJ5RWtqYkQ1dXZOYUUyOXBlendFeHF6NnZLNzJDc0k?oc=5",
-      "source": "Apparel Views",
-      "publishedAt": "Thu, 15 Oct 2026 06:56:19 GMT",
-      "description": "A new chapter for circular fashion: Kering generation award India announces its inaugural winners Apparel Views",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Kering Generation Award makes India debut at Lakmé Fashion Week x FDCI 2026 - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWlU2VXdPWlh5V0Q5TjNCRVZQU2xneEZBX2pKOFMzQ0lDdzNxM3FnbXpmalphUnNOcFl6VDVjNW1NQ21KNVFaeTJxSWlUaVRLREszZFFyc0FUN0R5cUZ2aGJ5ZHlKbzBnYlByZ0NSYzNwTHdvWnhEdFBBS0d4dkNjR1UzUk9Sa0RiV1lKSVZ1Z2tHaWlnQnhWLTR1ZGs5WUxlWXZFanBxRGNFMGxCYXlhT3g0ZlU2R1VHVTRnSFRxYUsxYWdSOFptLW8wUEtRT0VCenow0gHgAUFVX3lxTFBadW04SlFuWHlpSDFTUUxkT3M5clpsbkxuWm82czFEMzRxUGVuZGFPdUlReXJrZFY4a3dVMlZWOEhlM1NJT3E5MGZaeGdzdHVzT3h0R2lxampyRmVzM2lnaHpkaDFVYngwLTd3V05LakctWlVRVHpDR2xZbEI2T0k2cjlZbzlOTlR1NFQ5a2QxWENPRXk5M1VZam8wZW1oUXNWZGplWHhiYWo0RU43MkJHSnIxYkE4Y3d4M2RQcmgyQ0p4MEZDRDQ0QXlGcW1fSk04YTFWX3U1bWxnTTZSNElX?oc=5",
-      "source": "The New Indian Express",
-      "publishedAt": "Thu, 15 Oct 2026 02:05:00 GMT",
-      "description": "Kering Generation Award makes India debut at Lakmé Fashion Week x FDCI 2026 The New Indian Express",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "From Botanical Skincare to Couture Makeup, Five Beauty Names to Know - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVAyNEJDRnJYT3Y1dnhDaGVBSEdfRXVyMG4teFF5MURXUVFWTzU0b0pRLWI5STR4TjREMzk1dGJEN3dsMjVscmozRW1sbV9HNWsyX0JWVzhPQXhGeHVFbFlScFc3ZlkzMG0tTFdKcFRLR3B6MFBrSHdxUFJvblVPR1U1V0JhXzktWDZQR2RHUU9xak82WDZrdHlTMzRZaWw1emgxZUdYQmZWdFVwb0taOEE0c3RtRWFvWEx30gHAAUFVX3lxTE9yZjRBUXlpQnk3d2dBdjNtX21ISmVNbUVWZWV4SkM1X2hjYWNuQmV6SjF0dHpoaU1fNmE0eTM0ZmJqeEpoc0hIRlI5TXFFRGk2NllZQ0RBRmQyQ201TEpmbDRPREdEcEpEams5dnhkUmhjemhpRWJlcXFjN2t4aUhlNkNkempCUC1jendvTUJKRkdvTTRadk12blR0UnhPODlsaThfNkUtRGJoalZPQ0xPTDVqZC1RakwyQU1SZzZ4Mw?oc=5",
-      "source": "Prestige Online - Singapore",
-      "publishedAt": "Thu, 15 Oct 2026 01:35:23 GMT",
-      "description": "From Botanical Skincare to Couture Makeup, Five Beauty Names to Know Prestige Online - Singapore",
+      "title": "People, places, and knowledge behind LVMH: Les Journées Particulières - Lampoon Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1o3TWRRdHBGSlFyLVB3bG11Z19IdWNEbmV6OHl6Z0lPV2VNa1d4TlJDZjljRWp3RlBQYjhzbVE0MzNwZ2VSV1NNMzFiSHpuN2M1eGJ0Qk5yWGtqOEV4bWtRa0RCLUZ1b0pOaWRzTldfUkEtU3NST0JWSEt2UUJpTzI5UDZpQlRsSnNNUGFqOFk?oc=5",
+      "source": "Lampoon Magazine",
+      "publishedAt": "Thu, 15 Oct 2026 11:39:58 GMT",
+      "description": "People, places, and knowledge behind LVMH: Les Journées Particulières Lampoon Magazine",
       "feed": "Google News - luxury lifestyle"
     }
   ],
