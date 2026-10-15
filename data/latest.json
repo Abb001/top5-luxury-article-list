@@ -1,49 +1,17 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-15T13:48:49.496Z",
+  "generatedAt": "2026-10-15T18:47:22.188Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-15.",
+  "message": "Found 1 article(s) published on 2026-10-16.",
   "articles": [
     {
-      "title": "LVMH’s fashion sales fall again as luxury demand remains uneven - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU2lvQmhPLW9hZFlVaEQ3RlUwa1piZXBkTnRYWHhLMkhmQm85VXJkQjNiaUM2TjRVYVg4ZGhpR0lRMWItcFE2MTlhcnVEYnFiU25hbG4wNnpWX0h0ZncwLXVNOHJCeUtJS2lyX2l3S1FRYXZNRDNLNWMzQmd1Zm9YNk9hakNZdF90VWlYaVdudW9yam12dHhvYVVHSVZpeUg2Mm1Yb3FFY05oZWRpb3dNa2NQU29vN0puMFdhcTdCZ3FiMWR2dTM3TXVxemR2dTdiSDZFakFrY0V6bHBBdDRmeFJ4dTlOSjhId0hnaWFHZ9IB9AFBVV95cUxOeGY4eXZnaUI1VndTNTRHQVJtZ1BsTkpDQjJtZTQ0VmxNQlhvckhoUm0zSFk3bGVaMFpmTnlNSkQxLXNMSVRUQ19fcUNtRGcyOVBNQ09KTXgxdUlzZ0IzMEdRUlVDZFJkek5OUXBGWXVTWndUY184QlhrVU1IZ3VXSGVsdHduc0U1aGlfdEZvY1ZQVkM1czM5ZGVHOFd1dkJSRHMwVWZLTkdRRFJETzZvMS1aWXRId1o3T2FlZDhwY3NqNUFOSE1oY3ZoTkI0MHdaLTVFeGg5ZUxBYXdrd0ZzZ3o0WERXOWdaUkRFMnd1NGhvdzFX?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "Thu, 15 Oct 2026 03:45:00 GMT",
-      "description": "LVMH’s fashion sales fall again as luxury demand remains uneven The Times of India",
+      "title": "Economist reveals major shift in Gold Coast property market - Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObGJKaHdhSzRBck1JQ3g0TV9WR19zbmt4OUs3eGtGSVhuV2tKVWR3X25RTnRGeWk5MHd4emZWN3dRTUNIU1Q4bUxOa2xfWmxjZlBIeU9JbEZKZmY4Wld0X29FTFptNXAtdlhWS3p0ZDlVZWhjbkhHT085RF9SbzkyR00wclR6UjJUNXh6N2UzNFoyaFByUGI0Vkxmaw?oc=5",
+      "source": "Real Estate",
+      "publishedAt": "Thu, 15 Oct 2026 18:10:39 GMT",
+      "description": "Economist reveals major shift in Gold Coast property market Real Estate",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "China slowdown weighs on LVMH’s luxury fashion business - Retail Asia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2NRU0pyX29YOXZ3aGFZSE9OdTgtRU9OX1Vwc3JlVmdLTHpDOUEwdTRTYngxcTNKVXFFT3dyeTZ0RElVRzY4Q3pWdC00Q1hpTGVvYjZETGdpUTdaQ2pYOUVVY2dzTDlmQmJ1MEZvQ3hrOTRVZGN5V2VkNjJqNy1JY0dNOHNBc0N1ckpxRi1MMWw?oc=5",
-      "source": "Retail Asia",
-      "publishedAt": "Thu, 15 Oct 2026 02:19:30 GMT",
-      "description": "China slowdown weighs on LVMH’s luxury fashion business Retail Asia",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Rolex Lags Rivals' Price Rises On Secondary Market - WatchPro",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nSnNta3ZTQ0k4YWhheTU4UmRnNW96TEY5LVk4UURpTUdwaFhCTFhIV3BISzVRUW1vYnlzalBmXzYwdjhKOWZ3ZkxualY4U1lHOTVIR2kxVU1SVl9wSGZVVDQzMGlmYUNtNmg0dXlFX1ZjQ3RxOU03Ymh6VkhpT0E?oc=5",
-      "source": "WatchPro",
-      "publishedAt": "Thu, 15 Oct 2026 09:20:33 GMT",
-      "description": "Rolex Lags Rivals' Price Rises On Secondary Market WatchPro",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Beyond the Store Opening: How Luxury Fashion Expansion Is Creating New Opportunities for Retail Suppliers - Retail Insider",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXhLcWxfYXA0b2poNElnTlJZQ0c4Y0tQVHZFQkpFbnc5eUhvVE42T3dJQXhPYWkySm44XzJPSDB4NHpyNGhRVGplUHNCeHB6NGVGdnhvUHY3ckNuMlJLV3B0dEFzYW5rV3g0SExXOHVObVpRUk1wRV9TNWxmYkVEa1NfTzZPYmR2YUc2bVVRakVHWF8zbnlTb1pEVlRTT0JZek5ZcjZBUUtWLWdveTNtTXFiRGF0NTN3bzdJejFUSEVIUzIyd3pjWHFmeWFRZnhwVTNBYzExMFFkcm9fZllELVlfRQ?oc=5",
-      "source": "Retail Insider",
-      "publishedAt": "Wed, 14 Oct 2026 16:49:26 GMT",
-      "description": "Beyond the Store Opening: How Luxury Fashion Expansion Is Creating New Opportunities for Retail Suppliers Retail Insider",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "People, places, and knowledge behind LVMH: Les Journées Particulières - Lampoon Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1o3TWRRdHBGSlFyLVB3bG11Z19IdWNEbmV6OHl6Z0lPV2VNa1d4TlJDZjljRWp3RlBQYjhzbVE0MzNwZ2VSV1NNMzFiSHpuN2M1eGJ0Qk5yWGtqOEV4bWtRa0RCLUZ1b0pOaWRzTldfUkEtU3NST0JWSEt2UUJpTzI5UDZpQlRsSnNNUGFqOFk?oc=5",
-      "source": "Lampoon Magazine",
-      "publishedAt": "Thu, 15 Oct 2026 11:39:58 GMT",
-      "description": "People, places, and knowledge behind LVMH: Les Journées Particulières Lampoon Magazine",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
