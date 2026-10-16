@@ -1,17 +1,33 @@
 {
   "date": "2026-10-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-16T02:28:14.706Z",
+  "generatedAt": "2026-10-16T07:44:13.627Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-16.",
   "articles": [
     {
-      "title": "LVMH sales expose luxury retail’s uneven recovery - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzMxUG9xejVQaG5sc0x6d1VSVWtwdVNJRzVHQ2tycm1nSkY0VUp3MWdhUjJxUjlYS2lUZDlseXBPUUk2MzhzRW5oeUpTWjZsRlRHRjd2MHdVNDg3enV3Q3ZwZ3pTblVUeGJWY3RmVlQxSS1BMWVLTHo2cUFqUmkwVklqS2F2UDRlY2hLZVk5Q0FUS1Y3cUk0NXA1My0?oc=5",
-      "source": "Yahoo Finance",
-      "publishedAt": "Fri, 16 Oct 2026 00:23:00 GMT",
-      "description": "LVMH sales expose luxury retail’s uneven recovery Yahoo Finance",
+      "title": "LVMH sales expose luxury retail’s uneven recovery - Retail Insight Network",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVlIUkJTamJsazlUd0x4ZUhzbE1NSTVCN29RdHZoN2RKdjJrYkRDcHZnQ1JrLV9mekVObjk5ZDNNbmNvZEdkRVJSanoySnQ2QzFlV19YM0t0NmJfQWlTTEFDcmJoeVZMeG1mSUpGOEM3X3p2X2thb3l3YnRKTXVJci1tR1JLQmpKX1N2RElndWgyOVhHOWxXSVZGTFlZQQ?oc=5",
+      "source": "Retail Insight Network",
+      "publishedAt": "Fri, 16 Oct 2026 07:07:30 GMT",
+      "description": "LVMH sales expose luxury retail’s uneven recovery Retail Insight Network",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "LVMH Slows as China Tax Crackdown Hits Luxury Spending - SuaraGarut.ID",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KcHdQWS1HVkwyQUNPbnRrTTVlUXVhQ1Y0dlI4VHBSdUFkMWp5SjNiODUwWENuWHFnTnVTbUtRS2JLdkVsX1NaanAtX0NNUU5RYi0taXZ4UDhoVTdWMzFhX2Y5SHBGZw?oc=5",
+      "source": "SuaraGarut.ID",
+      "publishedAt": "Fri, 16 Oct 2026 05:55:40 GMT",
+      "description": "LVMH Slows as China Tax Crackdown Hits Luxury Spending SuaraGarut.ID",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "How Babies Became Luxury’s New Aspirational Category - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlE4UnFaWERXVjh3bmRsSmFuSExKbnc0SWpPUXVvZk0zaVUybGFHM01oaTVOdXE1eW5IeXcxNnZaaUtkR3VkV000TmxjdnBmWUc1XzV4cElmb2c5cTNETFNDVlE1THJudDNLX19tbHR5Z2FmUFhOejJON1RxUHFtbnVaVHB5T3BraXZGQTNCM3d3blQ5bGcyd2YwMm0tOEIwbWZ2ZQ?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Fri, 16 Oct 2026 04:29:00 GMT",
+      "description": "How Babies Became Luxury’s New Aspirational Category The Business of Fashion",
+      "feed": "Google News - luxury fashion"
     },
     {
       "title": "One of 1: Inside Daniella Rich’s Singular Approach to Luxury Fashion - Daily Front Row",
@@ -28,22 +44,6 @@
       "publishedAt": "Thu, 15 Oct 2026 20:43:06 GMT",
       "description": "Fall Fashion Gets A Bold Western Makeover Modern Luxury",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "News | Henderson attracts Las Vegas' top homebuyers as luxury market gains momentum - CoStar",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHB4ZFdadHVHNUJhOWFVV0ZtLXJOZmViTHFCOGJHdTRCVjNBazI5S3dtbTFLVTBYdGYwQjBwcS1EMW1MU24xTVV6dU1tWl9Gc2Q4U1J2REJ5d05kNGpaYWY4Tjc4SWppUEJ6VkxKZGgxWjFvbG5fbmVtQlpDLVdLMkVCNlVoUGZZMlJXV2N0cXVhaU0zZG94MThGLVhoa25WUFRURU5uWkU4SWpEcnJBZXhYc2pCa3M?oc=5",
-      "source": "CoStar",
-      "publishedAt": "Thu, 15 Oct 2026 23:36:20 GMT",
-      "description": "News | Henderson attracts Las Vegas' top homebuyers as luxury market gains momentum CoStar",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Ski town housing markets face slower sales amid rising mortgage rates, as luxury market outperforms trends - Aspen Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkRhV3FkMkVGb0VZVTh2VVF3WGw5a2pad0k5WHo0aVdoRWtBUGlBbDlNOGF4RE43V0pjMFc3VDVUM3RFd0pNTEdrRmZHcEVHTGd0Z3VpdEtqRTBzS1NVVy1YbzhmTUFGS0RrZzVoQTFFTDBCWVhkZlpiSjl1ZkRUT0RXTk5MREo3cnd2SVdXVldEaDhiTkFj?oc=5",
-      "source": "Aspen Times",
-      "publishedAt": "Thu, 15 Oct 2026 23:30:14 GMT",
-      "description": "Ski town housing markets face slower sales amid rising mortgage rates, as luxury market outperforms trends Aspen Times",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
