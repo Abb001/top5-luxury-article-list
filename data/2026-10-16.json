@@ -1,16 +1,48 @@
 {
   "date": "2026-10-16",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-15T18:47:22.188Z",
+  "generatedAt": "2026-10-16T02:28:14.706Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-10-16.",
+  "message": "Found 5 article(s) published on 2026-10-16.",
   "articles": [
     {
-      "title": "Economist reveals major shift in Gold Coast property market - Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObGJKaHdhSzRBck1JQ3g0TV9WR19zbmt4OUs3eGtGSVhuV2tKVWR3X25RTnRGeWk5MHd4emZWN3dRTUNIU1Q4bUxOa2xfWmxjZlBIeU9JbEZKZmY4Wld0X29FTFptNXAtdlhWS3p0ZDlVZWhjbkhHT085RF9SbzkyR00wclR6UjJUNXh6N2UzNFoyaFByUGI0Vkxmaw?oc=5",
-      "source": "Real Estate",
-      "publishedAt": "Thu, 15 Oct 2026 18:10:39 GMT",
-      "description": "Economist reveals major shift in Gold Coast property market Real Estate",
+      "title": "LVMH sales expose luxury retail’s uneven recovery - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzMxUG9xejVQaG5sc0x6d1VSVWtwdVNJRzVHQ2tycm1nSkY0VUp3MWdhUjJxUjlYS2lUZDlseXBPUUk2MzhzRW5oeUpTWjZsRlRHRjd2MHdVNDg3enV3Q3ZwZ3pTblVUeGJWY3RmVlQxSS1BMWVLTHo2cUFqUmkwVklqS2F2UDRlY2hLZVk5Q0FUS1Y3cUk0NXA1My0?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Fri, 16 Oct 2026 00:23:00 GMT",
+      "description": "LVMH sales expose luxury retail’s uneven recovery Yahoo Finance",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "One of 1: Inside Daniella Rich’s Singular Approach to Luxury Fashion - Daily Front Row",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVZKTGsyU3pHcVhYZU1DZGs0R3BQRjV4S1NRYVA0Sjc4aTdLLVFGYk4ycjZJbHJGRUV1QWpOcWFvZjMxb2o4bG41X3BiOEM1blp6bFJSanA1VlFHQk1GUlRUbTNlcW80aWtTV0pBdWRXdnREUFJLT1pGTVdQRnVocFVaYjNlUmFkSDB5Vk1WeWZPLUR2TDBDVnIwUUQ?oc=5",
+      "source": "Daily Front Row",
+      "publishedAt": "Thu, 15 Oct 2026 21:04:44 GMT",
+      "description": "One of 1: Inside Daniella Rich’s Singular Approach to Luxury Fashion Daily Front Row",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Fall Fashion Gets A Bold Western Makeover - Modern Luxury",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1YWlDUlJlUm9LcVMtaWtCYzZwUGFzWkRIQlhtRzNiRnFfUWZMZGJvcHQwbTFzdm9xSXc3MXFQY01oQUhUc3I4N0lQTzJMVC1LYUhTam1oLUVvZDE3dTdaNWc4Qk5IbS1ua095U254cGtOam1V?oc=5",
+      "source": "Modern Luxury",
+      "publishedAt": "Thu, 15 Oct 2026 20:43:06 GMT",
+      "description": "Fall Fashion Gets A Bold Western Makeover Modern Luxury",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "News | Henderson attracts Las Vegas' top homebuyers as luxury market gains momentum - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHB4ZFdadHVHNUJhOWFVV0ZtLXJOZmViTHFCOGJHdTRCVjNBazI5S3dtbTFLVTBYdGYwQjBwcS1EMW1MU24xTVV6dU1tWl9Gc2Q4U1J2REJ5d05kNGpaYWY4Tjc4SWppUEJ6VkxKZGgxWjFvbG5fbmVtQlpDLVdLMkVCNlVoUGZZMlJXV2N0cXVhaU0zZG94MThGLVhoa25WUFRURU5uWkU4SWpEcnJBZXhYc2pCa3M?oc=5",
+      "source": "CoStar",
+      "publishedAt": "Thu, 15 Oct 2026 23:36:20 GMT",
+      "description": "News | Henderson attracts Las Vegas' top homebuyers as luxury market gains momentum CoStar",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Ski town housing markets face slower sales amid rising mortgage rates, as luxury market outperforms trends - Aspen Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkRhV3FkMkVGb0VZVTh2VVF3WGw5a2pad0k5WHo0aVdoRWtBUGlBbDlNOGF4RE43V0pjMFc3VDVUM3RFd0pNTEdrRmZHcEVHTGd0Z3VpdEtqRTBzS1NVVy1YbzhmTUFGS0RrZzVoQTFFTDBCWVhkZlpiSjl1ZkRUT0RXTk5MREo3cnd2SVdXVldEaDhiTkFj?oc=5",
+      "source": "Aspen Times",
+      "publishedAt": "Thu, 15 Oct 2026 23:30:14 GMT",
+      "description": "Ski town housing markets face slower sales amid rising mortgage rates, as luxury market outperforms trends Aspen Times",
       "feed": "Google News - luxury business"
     }
   ],
