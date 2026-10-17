@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-17T02:20:52.278Z",
+  "generatedAt": "2026-10-17T07:22:00.849Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-17.",
   "articles": [
@@ -22,6 +22,14 @@
       "feed": "Google News - luxury fashion"
     },
     {
+      "title": "The Business of Luxury: How House of Marvee is shaping African fashion - Businessday NG",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQREl3SlJEU0VieGFQaWtpLUJsenBMVzVmVHdURUwxbHpud2NpYVh4YUhlcUZkcXhGUm50VVBUeXFUTktTR2QwcnhUYkEzc1VQcnVRd0syb0hZOFd3dVlNaDctc3hDd0g4c1VJYlBlaGFxLXFSdEthQi1uT09HbG9FaGlLeVRnLUk4VE05NTlfVGEyN0FNMW1FY05aek02bHpIYXZuNEc3NWJWanpjTGJreU5fV1fSAboBQVVfeXFMUHMyRTFkblctdlRKcU4xNVNVUDlXUmhaUVVMS0Y2ZVlKRDBzbHlPeFBlelhqMnNUdTBveDM0YjZGRDM4SWIwVTdUVWh6RC1zb1M2S3l4empEcGtsb09wQ09relZVYm1Dajdkd2RTRDIwSVN4aVV5ZWxyYTBMUDBvenRmS3I3UkcxWTFpazJTVXVwN2VJNW5iam9YMWFvWjlZUjdpbmotWkhaOWhkNFA5allNeXdMV21NM1hR?oc=5",
+      "source": "Businessday NG",
+      "publishedAt": "Sat, 17 Oct 2026 04:07:49 GMT",
+      "description": "The Business of Luxury: How House of Marvee is shaping African fashion Businessday NG",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "David Wej opens new chapter in men luxury fashion - The Sun Nigeria",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56SFc1M2RWci1KWFZuMXU2aWFHLVNMUUhUeld1eDBBRTlBZWdNVWJpYkZneGRvME5ENVVuN085U3ZqOXd2dENoWExmZXN2a181QkEtWGk4ZEROY0NHTk53eWdhWDh3dndXSUJtd1p4MGt3bE9mMkc4?oc=5",
       "source": "The Sun Nigeria",
@@ -36,14 +44,6 @@
       "publishedAt": "Fri, 16 Oct 2026 20:24:24 GMT",
       "description": "Luxury’s Spooky Season: Bad Numbers and Empty Chairs The Business of Fashion",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Heart Evangelista's Best Dressed Moments In Paris Haute Couture Week - Metro.Style",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXNIQmpJQk0zOHh6cE1MRTdSM255SWZIMlRpTm5HTzdMQm12X00tWDU3ZEJIaldYa0dINjBLMFU1Y25UcENtVjg5ZEItNTlILUUyamFMWDBtVG13VlZxNVluMVRJakJJa2F4QzExOW8wNXU0V3lxQ2ItZERVeUxxamNYeFNEZWtkQjdKc2FPRVpmWWxuUVUyd0UxMS1fUQ?oc=5",
-      "source": "Metro.Style",
-      "publishedAt": "Sat, 17 Oct 2026 00:51:20 GMT",
-      "description": "Heart Evangelista's Best Dressed Moments In Paris Haute Couture Week Metro.Style",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
