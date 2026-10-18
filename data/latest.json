@@ -1,48 +1,24 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-18T12:53:39.151Z",
+  "generatedAt": "2026-10-18T17:41:33.739Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-18.",
+  "message": "Found 2 article(s) published on 2026-10-19.",
   "articles": [
     {
-      "title": "Watch: French protesters loot Hermès, Apple and other luxury stores across cities - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeC1FS0pUWlFINXhvc29uRmk4VUZfR3Z0TzlIM0JucGtGbmhYWURzdHgzejFMV29KSGNLeXZsckQwODhab3JUbTB6Z18wR0tPbzM5VTBMNHZGWk96YTh4STFOUTZFX3d4SF9Nemc1UG5SNXhsSlVMMTJrS0Y1b29maHJKdC1VR0hJdnpUa21xOGhHZEVEVW5rVGxoaG5NZ1NZajhSdXBkQm5OcGFhZERNTkhibFFMRWM1QW5TMExWX0xUOHlxS1VPVXRVeU9RUThuVE9LaWRqUE03WmpCeHJnV0xWRzN1ZGdZ0gHuAUFVX3lxTE05bjhiRnFVZ0NEejloeE0wblN5bXdOMXlnUWx1T01pSGt4THpFVWJuWjZXVngtMGotcUhjV05fZFp6M2ZkU3FwbTRGdDVoSlR5cENWbGZPcm9acWxaYlBwVWN1V0RPSGg2dmgzRTI0SUhGTWJZWTRlbGhXUXFCNjNVRWxSY2Q0a3JWZ2pORlpiRGRvdVdiUVliZE9xM0ZDQUxJMFM5MmYyQmhlY1hXTG1qLWFrTEtQcUdZM01XaFRCdHhVSmFfcXBqa2NsYjBsSDNiSzAxNHFHeXloTjZOMGlDN2k1MHk4SXBlUFhPX0E?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "Sun, 18 Oct 2026 03:49:00 GMT",
-      "description": "Watch: French protesters loot Hermès, Apple and other luxury stores across cities The Times of India",
-      "feed": "Google News - luxury fashion"
+      "title": "Video: Luxury Stores Including Apple, Hermes Looted During France Protests - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczlUMjVkY3VhVHFEQUZIZWtYckg0SmhBWWhQWFdMQndHc0xhdXdiYzZsZjhTYmMxQ2FocWNxbnZTek5NTFZTUXgwZlVDVGUxYUFfYnE3WWtiZUVjN0tUem1zekdwdXFhemE5YzVEUUNXVlpNak90Z0xqNzNOVnpnaE0xcWtmUHA1YjRJQ0xvMWxQVUFRVUtFb1B3Sl9CdVJrSHhQbFdYcHZBbHdLRUx6WkdMWdIBuwFBVV95cUxNc01GUXYxMTkwUXZrSlV1S1BEUjNtVGJkT0VTWk5VUWVqWlh3OTIzX3E2dXAwYVpxUHQ5bEQ5SFZOa3VLUW55VmNER3lQZFFOYmRHU1JxNnlVeTYxeW0xcHNCdkt2MzEzVnhsd2I2UXk0ZGVUNHhxdHN5Q3FqYngzVFktNGNLekhfYU41V1dCNWpTQVpoS184VUk0ODI4azVUelE2NUZxYU0tdkFuem1VRml4TXNHVjRYalJV?oc=5",
+      "source": "NDTV",
+      "publishedAt": "Sun, 18 Oct 2026 17:01:27 GMT",
+      "description": "Video: Luxury Stores Including Apple, Hermes Looted During France Protests NDTV",
+      "feed": "Google News - luxury business"
     },
     {
-      "title": "Manish Malhotra Luxury Prêt 2026 at Lakmē Fashion Week - Urban Asian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1YtOTlqX2wzVHdqRS1NXzVPR04yMm94YXQ0SXgwcEtSbXROQWpwQV9TVnE3YTd0NmpUZC1YNVN4MkRqWWlwa2dwbzJhQWRxUjViUFF6X3RPTzlmVmFxU3ZWcEYtTGVyd0dCaFBRcl9CeXB3LXVVZzYxeE9CVXE5VVpQUDdpQmFzbHNiZ1JFZnBQSnAxNUpCcGJOdU5BM19tZktZ?oc=5",
-      "source": "Urban Asian",
-      "publishedAt": "Sat, 17 Oct 2026 19:37:00 GMT",
-      "description": "Manish Malhotra Luxury Prêt 2026 at Lakmē Fashion Week Urban Asian",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "ILLIYEEN’S CoolTech: Rethinking luxury through fabric technology - Prothom Alo English",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LbUhFWmVNWGJLbVlrVUVmOXBuTXBMdHRCWXByZHBHTGJPVU12aDVXeXhJems2Z1loZDI4eU92YWZMSnJLSGJLTENZaE5TeGVtTnc1a0xWZkNQY3ZvZm1wMzAtblbSAXJBVV95cUxOdkhkMTBrTkdkQW5YRS1FTG1lUm1TN0FnVHFlbktFLVVuSGp2MEdLMkhJeDRXZFNIOGZzZzJZR3dZX3pzLUlodVMxOGRVZi1QSzZ3YW42WGdIV3B0UEJwQ2JSODF5SWZRSXN3MkVXUFdSWlE?oc=5",
-      "source": "Prothom Alo English",
-      "publishedAt": "Sun, 18 Oct 2026 12:22:14 GMT",
-      "description": "ILLIYEEN’S CoolTech: Rethinking luxury through fabric technology Prothom Alo English",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Inside Kim Jong Un's world of luxury: mega yachts, armoured trains and designer wear | World News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYjdYN2t2U2hCRFhrZEdxa2JrT3RzT3hkanFRM19aODBPNTNIdlRKRTVBYndCQTk1d3Bhc3dYdlVraTJKeVBNVHNMWUFwR01NUTFHTWloWTVPLTBxV1c4UmhYUzFWdVg0U3NXaDQxeHJ6ZGpPRUlkUjY2RHhsaFlseWNYcWNkWGlsVzhkaVg5U1VYTzNUVExRQVh1Q1VGU0ZlLXlWSGtOQ2YwQlkydWxPcnZrN3JfRUs0dnZmVW5pVE50aG90WWlkY3V2WFpJeFIyUV9oenZWUndxeE3SAeABQVVfeXFMUDFiT0YzaEhVQzNFRHN2NHVsa085akJWeks2OUxfT1lhbkNzQ0JfYnV3RUt5N25ON1h0UFNIVm1BclZGbG8xazc4TTZQTFJBajQxSVRLNkNpWXBNckFPUk1XZE1qdVlfYVJqWDJQWkhGY1dpQVc1SFp2bzl6bWUwMmlrUGtWaUZnTFE3eWtJanZnTkItQjY4TlpxQ2NxcTVHSW02MjdjUkR1dVdmb1Q2Y1NJeEg1UE9Da1V0SDl6OE9hZVdtZ3VfWFd3dGtUTE8yU2swdzg4d2tyMUM0dmQzc0E?oc=5",
-      "source": "Hindustan Times",
-      "publishedAt": "Sun, 18 Oct 2026 12:09:38 GMT",
-      "description": "Inside Kim Jong Un's world of luxury: mega yachts, armoured trains and designer wear | World News Hindustan Times",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "A bottle of whiskey just sold for $2.8 million. Here's what luxury market pros say drives sky-high booze prices. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDE0S3pCblo0YzV1eFZVZ3ZfNXV6YVFSbWhxNTRyZm54TGNvcnprUFg3U1ZPUmRZSXB0Y1h1N1lqd0lFNlpMbURvR0FGMGpoYXdYXzBoNnFxZmp0WWFYMEtaNFJ0cXJ4Y01vODRvVHBjZTVnbUg3UFJPaG9PV2wyM0J2cXdDMm5oVmRZdWJySlV6RTB4REtIUUQ5bjQ1OXFUVjh0cFZVWlM?oc=5",
-      "source": "Business Insider",
-      "publishedAt": "Sun, 18 Oct 2026 09:50:00 GMT",
-      "description": "A bottle of whiskey just sold for $2.8 million. Here's what luxury market pros say drives sky-high booze prices. Business Insider",
+      "title": "‘Pre-owned’ luxury booms in China - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSVc5aGczNXFJRXhLT0ZUc1FWWWJGcU4yRGh0YmtWRHd2YzBQYnVGMkkxcVFzblRMNnh1OXVFNmljXzh1ZTd2RmFWclE1dGVheUpNYVVnV200MTNkYVlkNS1LcmRieEZweXZIVmVhQjhSWjRMSTRMajkxc2paU2xxNlI4YXdWV3BfZThZVWNKeHF3YjRXWXdqMUZOSmpfaTZjLVJKM0JIRdIBrAFBVV95cUxNeFdKQ01USE1pcFhFSXhQZnhiTlIzLXZwNHpkWU5zQzRENVd0c2dCR0RHMFlmdVU5Nmd0ZWJSMDJRZnZJbE5LWmlSOFdPUk9UY2NpcUZEM1BiYm9mTWlmMWJYOHhOeXR1bW9udVlwU2h6MEcwdDFoN2dsTW9ITEhNT2dYSUt1dFRjS19UVzdIXzd3cmtWRC1aVUxTSmcyTTJmU2lNd3J3bUw2dHl3?oc=5",
+      "source": "The Manila Times",
+      "publishedAt": "Sun, 18 Oct 2026 16:01:00 GMT",
+      "description": "‘Pre-owned’ luxury booms in China The Manila Times",
       "feed": "Google News - luxury business"
     }
   ],
