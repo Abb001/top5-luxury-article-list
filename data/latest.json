@@ -1,50 +1,9 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-19T08:19:02.673Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-19.",
-  "articles": [
-    {
-      "title": "Sean McGirr exits Alexander McQueen as luxury fashion faces a shake-up - The Star",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnVjZlZla1luTk5OdWVHdGtFM24yRWtVUDBSZ1JRTEpJbE1jN0JQZk5UeXNVZWUzbHJJdTZHeHp6Z1pEOS0yajVnVnpYOWVGWXlvZ3ZQaFkwbks4U2hOTGNKRl9FQjJFQ2NnZTZEbV9laDZ1dW02MW1teVhxNjlHb08tM0NnV0x2R1B6ZW5Lc2FhckxBNjZ6TEoxQVgxOXI4eHBqMDNwQy1OeXpHWnlFQmRMN2tSNTI0V3c5dXFXZ01iZw?oc=5",
-      "source": "The Star",
-      "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "description": "Sean McGirr exits Alexander McQueen as luxury fashion faces a shake-up The Star",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Video: Luxury Stores Including Apple, Hermes Looted During France Protests - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczlUMjVkY3VhVHFEQUZIZWtYckg0SmhBWWhQWFdMQndHc0xhdXdiYzZsZjhTYmMxQ2FocWNxbnZTek5NTFZTUXgwZlVDVGUxYUFfYnE3WWtiZUVjN0tUem1zekdwdXFhemE5YzVEUUNXVlpNak90Z0xqNzNOVnpnaE0xcWtmUHA1YjRJQ0xvMWxQVUFRVUtFb1B3Sl9CdVJrSHhQbFdYcHZBbHdLRUx6WkdMWdIBuwFBVV95cUxNc01GUXYxMTkwUXZrSlV1S1BEUjNtVGJkT0VTWk5VUWVqWlh3OTIzX3E2dXAwYVpxUHQ5bEQ5SFZOa3VLUW55VmNER3lQZFFOYmRHU1JxNnlVeTYxeW0xcHNCdkt2MzEzVnhsd2I2UXk0ZGVUNHhxdHN5Q3FqYngzVFktNGNLekhfYU41V1dCNWpTQVpoS184VUk0ODI4azVUelE2NUZxYU0tdkFuem1VRml4TXNHVjRYalJV?oc=5",
-      "source": "NDTV",
-      "publishedAt": "Sun, 18 Oct 2026 17:01:27 GMT",
-      "description": "Video: Luxury Stores Including Apple, Hermes Looted During France Protests NDTV",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "FIRST DRIVE | New Audi Q5 makes its mark in a shrinking luxury market - TimesLIVE",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnVpanF2dnZDVXZ5ZG9hQkcxOVhvZkJsQW52VHNnRzRKXzY2aGJnYllqYzRLSklyMk5VR2lfUXBUendVRjhPT1hhQnNfVWNqb2pfb3kzcVhKZXFhNU0wY1lyV2hJRlBtR3plY2lSMVh0SGhsLXl4dWY5clRrcmhQMEpzalJVYlBaNzNVZnFlenBSUFhYLTdXRzBMWUhsOTJxdm15aUEtMDFmcmdmYUhJR1NqSmVBeXM?oc=5",
-      "source": "TimesLIVE",
-      "publishedAt": "Mon, 19 Oct 2026 08:07:17 GMT",
-      "description": "FIRST DRIVE | New Audi Q5 makes its mark in a shrinking luxury market TimesLIVE",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "UK Luxury Brand Mulberry Posts 18% Rise in First-Half Sales, Shares Gain - ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0p2b1FoalpZVkZYS3lLX01WWXhjSVJqblYzdFREaWVRUlJUaTBpN21UTDB1MmdsNDNvR0RhVEpxUjNOOUtjOUEtVzJTa3Fxc0wzTUZlYWsxSVhiZnY2c3QxZmZSZ1p4VVZFQjBFdDlRLXBUTVFoOWFKajYzR2tsbV8ydDVrZUw5TUJvaUhjNGtLT2lYTkR4SGR6YjBYTC16RndGN3JTNTZKVTVoRDFZ?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "publishedAt": "Mon, 19 Oct 2026 08:04:00 GMT",
-      "description": "UK Luxury Brand Mulberry Posts 18% Rise in First-Half Sales, Shares Gain ASHARQ AL-AWSAT English",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Taylor Swift dazzles in dress designed by Northern Irish fashion icon JW Anderson at Hollywood red carpet event - Belfast Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQW9laS1WVG1KazN1QVZTNmhsX3JndGxVX25reXNPTW90NW4yZFpnTFg3NThSYjU4RzgtbDZOOTZhX1ZDMTNYT0FUM0JrbVRDNHFwRTZ0cUt1ZFdKQ1NQRXViSk92ellSLVBQenFSU0hsazhGNmd0RmFyVUZoUzNQeFFEb2JmZnNwWDN6czNxY09yZTRoZDAyZlI3OV92eklxWmw1b0w3RVFuZWZsZU1JZXQ4NkE5MXNnNlpzQzZEQ2t4c1ZMRGpYbUdmbVRYaDE5cWsxVlRFSHE5bDRhV2dMTWNnVVd1SmJRODR0NHpjcC1hTHJabTFPbzBiNWhjQ3VGQzNoMDJBMDB3Nm1aeEVob1dSdw?oc=5",
-      "source": "Belfast Telegraph",
-      "publishedAt": "Mon, 19 Oct 2026 07:50:01 GMT",
-      "description": "Taylor Swift dazzles in dress designed by Northern Irish fashion icon JW Anderson at Hollywood red carpet event Belfast Telegraph",
-      "feed": "Google News - luxury lifestyle"
-    }
-  ],
+  "generatedAt": "2026-10-19T16:20:12.512Z",
+  "status": "empty",
+  "message": "No articles published on 2026-10-20 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
   "fetchWarnings": []
 }
