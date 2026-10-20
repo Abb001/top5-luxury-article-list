@@ -1,9 +1,50 @@
 {
   "date": "2026-10-20",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-19T16:20:12.512Z",
-  "status": "empty",
-  "message": "No articles published on 2026-10-20 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-10-20T02:48:13.545Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-10-20.",
+  "articles": [
+    {
+      "title": "Twice members and their luxury brand collaborations: Prada, Fendi and more - Tatler Asia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWGI5UTBtWDJhcEFESkVvTVRJLXdLNHprYmlZVERoeDRyZHpCeDRxNjFSc0tfTGpNamJaMm5aUXBBMTZibW1rNWxpOEdMamYwc0lBREhySXFVY2pGaVZlLVZvemhFdHNYME8tZlFBWW5QSFJvVnFVeFVILWM4bS01aVlpaGxwVm1ENlE?oc=5",
+      "source": "Tatler Asia",
+      "publishedAt": "Tue, 20 Oct 2026 02:31:26 GMT",
+      "description": "Twice members and their luxury brand collaborations: Prada, Fendi and more Tatler Asia",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "My ultimate guide to Black Friday 2026 luxury fashion deals - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3dmNExOdTlzLTlZeWpFdHlvczVkTlh2cWxHN3VEbElRRHpIMjZCWUFmT0tmcUpNM1AyaFVURkpvbVExMm4zS1lPbEh0VXhSeHFZYS00X3RYbnk2Q3g3UXF1bjQ1aVVKOXFMRDhzV1VRUVJIdWZZeHNLemNXSzZESE9wajNpdDVwREJWQ3VDU2VNb2g4YzJkTkRxM1NydWM?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "Mon, 19 Oct 2026 19:35:05 GMT",
+      "description": "My ultimate guide to Black Friday 2026 luxury fashion deals London Evening Standard",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "7 trendy Fall/Winter 2026 luxury purses to fit your everyday outfit - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFVDRjY3RGZVcEY2bjdPelJEY1dqNjZKMW1LYXR6UkJHRWx2UEJVR2xNYjNkblljZFdEM3ltcXV6MWQwTjRZLVMxWnNzZFBMTzh5amtCenJaclZ6R250d0M5NVYwcWVuLWNZd0liV2dPRnV0MzVXQk1zaU5zUUxuUVNhWm1UWDVj0gGOAUFVX3lxTE1WM2ViSklxbmFHWTBudGhIRktlalUxX2hDeXJ6TkQ3VHl4MlF1a0dtT0ZqR0d5NmhhOFpQenV0eFA0U1dXVS15aGpOeVZaa2h4aURtQzUyNVZxblJsbEZHalNpSGF3MXQ2RHI0dVp0T3BjdTB0bUxrc2twNVdmaHUwTVEzZS1MWEpCSndsTFE?oc=5",
+      "source": "Prestige Online - Singapore",
+      "publishedAt": "Tue, 20 Oct 2026 01:24:18 GMT",
+      "description": "7 trendy Fall/Winter 2026 luxury purses to fit your everyday outfit Prestige Online - Singapore",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "US home builders have the blues — but luxury housing remains a bright spot in challenging economy - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUgyZDdBZU82UmR6TVUzcjcwcHN5R2pNSnZ2R0o0anVXdnJ4VktZOWVKbWl4XzhXZzNCa3lQVWttX2N4ZnZUMklaYjRqTk1ob2ZLOE1udXF5Rk5BMDNKVXR6eEdSR0xfSTBpSXZwSjBVdWpBREZWejBzWHhsNG81REJSZm9pSTI3MjlHSC1hTTRVYkZDR2RhNFBKOW5UQktPS0lOaTBHTEZDdl9jekdCZFpn?oc=5",
+      "source": "New York Post",
+      "publishedAt": "Mon, 19 Oct 2026 23:15:00 GMT",
+      "description": "US home builders have the blues — but luxury housing remains a bright spot in challenging economy New York Post",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "‘Pre-owned’ luxury booms in China - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTEdNQzFLSHJjdEY5ZF9kbUlLZHNrZkRicGV3OEVTV0owNlV2VFZyektKSEpkdlFVTVZwRlRweVlqanRsb2s0YVptdXF0Nzd5NjU2eUUyWFBWVkRIQVViWF9MMUVuaU1DOUxYTko4ZjdPVC1nNmdDTWJadnbSAYIBQVVfeXFMTUVXZU9ZWnJqWlNULWN4VjZTY2FhNHV5ckR4d2pvekpsVnZZaWlEd1lNVkhFNWJZWHFZN3M2LTRtUjVPQS1DNzJnQWxlVVZUcFNWU1h4dEpFM1lWOGVnN2dTWGxUc1pqeGp5aE5xcGlKTDhUT1gtMlA0SkhJNVh1VktSZw?oc=5",
+      "source": "Inquirer.net",
+      "publishedAt": "Mon, 19 Oct 2026 21:02:00 GMT",
+      "description": "‘Pre-owned’ luxury booms in China Inquirer.net",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
