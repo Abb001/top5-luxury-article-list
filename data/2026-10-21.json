@@ -1,15 +1,39 @@
 {
   "date": "2026-10-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-21T08:08:59.646Z",
+  "generatedAt": "2026-10-21T14:15:31.961Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-21.",
   "articles": [
     {
+      "title": "Who Pays for Luxury’s Supply Chain Compliance? - The Fashion Law",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndDIxREtINGd1WkMtUHplcFQtd05QcEo4R1NJdzNLVHVpQk1MdjJhcWoyOXBka1FDaEFCQ3o2SWVEM1Y3TldDeTBhU0N2MUJ4WDgyV0x2VUpNbVo1dHdSUnVhY2R2M3JhVTJ2eDJUTVB4M0ZRM0cwS3RHYmIwbU0?oc=5",
+      "source": "The Fashion Law",
+      "publishedAt": "Wed, 21 Oct 2026 13:13:23 GMT",
+      "description": "Who Pays for Luxury’s Supply Chain Compliance? The Fashion Law",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Can luxury fashion’s most glamorous department store reclaim its golden age? - The Star",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcE92UDU2aGJzSEhTRllqRTA5UlZTbFVNbUJRbWNHUmp4eWFjWGN2X0xsLVBNRVNSQnlxajlPdGk5YXV1eWhLLUtpdEtkcTIwMVM0ZkFJb3VxbzF5QVE3VlRhbHNCVzN1bGdrRG1GWTNIajdlaUh5VUJFUDYwWmQ3R0dleXdPZkhFa3liWVRoUWtZT0E4aWtMUENLMHdxeUJkMmk1THBhbnBDeVFQeTlzQjZYMWNrSU1laDdPLWtTSVVmY3duZFZN?oc=5",
+      "source": "The Star",
+      "publishedAt": "Wed, 21 Oct 2026 11:00:00 GMT",
+      "description": "Can luxury fashion’s most glamorous department store reclaim its golden age? The Star",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Nairobi's luxury market draws global watch brands - The Standard",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0hWNFBYRFhXaDBkRmZjbWZmS3RyUTRDSHQ4NHNpUjZEaFY0dm1YVDJTRVRPUGpfWUpBZjJYNHdHb3N3V3ljZF9KMXZYX3dJZk51MGtkMHRaRzFRb3dxYjRqdFZiMFFDZzlCNFZ3S0h1azJhMV9iOThyTjRGTWVoYmZrdVd5SFVpcTc5TEF1U0RGTUUwbG5QVnk0eF9lMjRPNGQzNGRMNUhkbWkyUElTMHVvOE5mbnBI?oc=5",
+      "source": "The Standard",
+      "publishedAt": "Wed, 21 Oct 2026 07:45:00 GMT",
+      "description": "Nairobi's luxury market draws global watch brands The Standard",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "Luxury Clothing: What Makes a Garment Worth its Price? - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVBhZ19HeDE0UElmaF9UWnpfTDJTdHFINTJkTVkyWDhIT0dlUEpMNy1XcTRfd2ZYOFYzZF9sdEtmU1pjNUVrZ1RBd3ZXWTRFOEoyZ1JOa0QxZmI3aEh4M1Q3MkxKZUFmcExxTTRhRzQ0WmxCdS1EWHItYk9KS0VzTUI3dE1zSUF0N2JMbG5HaGl4Zk1OcVM3TmZQa2FpLWNaaFVhN3VHX1JvVFR3LW1ybC03NnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMU1jSVdzbnM2emNqSnpKbGxHYlhHRnZQb0J5SjhHa1pWRU1GR1BEZmxkRmJZemdXc09HTExFZkd0ODJiVnRJOUVKalBTQy1mVnBDVnZIMXV1OEVER0FfLTBWNHdNUW82MGtZbEROWlZQSXRnOVpFM0RKUjctUHU5V2R0ZVVCcHhKR0sxZ1poZG1pSW1IbFAxVG9mODVWMDR2OFh2VFdDSVo?oc=5",
       "source": "Fibre2Fashion",
-      "publishedAt": "Wed, 21 Oct 2026 06:46:17 GMT",
+      "publishedAt": "Wed, 21 Oct 2026 05:51:30 GMT",
       "description": "Luxury Clothing: What Makes a Garment Worth its Price? Fibre2Fashion",
       "feed": "Google News - luxury fashion"
     },
@@ -19,30 +43,6 @@
       "source": "36Kr",
       "publishedAt": "Tue, 20 Oct 2026 23:54:42 GMT",
       "description": "The Victoria's Secret Fashion Show: Defining the Era of Accessible Luxury & Iconic Affordable Sexiness 36Kr",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Louis Vuitton and Hermes among luxury retailers looted in French riots - CNA Luxury",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUF85VjdnSzdOazQxUmZRNGVzbjFBLXlfMW9PRUh4NFYyZWJJRl9VLU4xd3N4aHNIUW1EU0hnZy0xYnRMT3dqZ2dLRHlrT1RJLTFFdEFYWldaX1lWWU9pVThJRmpaczRXS3g0dHVpNTVCbDdXQ0lvdERqd3k4d3pjVTRnOXFTNEJpcHNnVW9TSExYMncyYkFRRTlXbTNaRUtkMXV1bHZlM0haNHFwOG5v?oc=5",
-      "source": "CNA Luxury",
-      "publishedAt": "Tue, 20 Oct 2026 22:46:27 GMT",
-      "description": "Louis Vuitton and Hermes among luxury retailers looted in French riots CNA Luxury",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "What can fine wine learn from the fashion industry? - Drinks Trade",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa215aUJub1VZMzV4c05zYXBfNER6dXBZNFUwQnM5TWZEWENDdXAzV3RHbXRWLVhqcFJyZ0s2c1pMaHdDU3dNamdSRnJENG04SjZCMGNxblFadVNxWDU3QmdDaFh4LTVIaHZvSHdkUzVzZWl5QmY1dG53bUg1V1JXYUpBYWpLNEs5RlA3a0xIaDQ?oc=5",
-      "source": "Drinks Trade",
-      "publishedAt": "Wed, 21 Oct 2026 07:28:39 GMT",
-      "description": "What can fine wine learn from the fashion industry? Drinks Trade",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Karwa Chauth 2026: Luxury Handbags, Shoes and Accessories to Complete Your Look - Outlook Luxe",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTWNhYVNFSWxhZDJoanRhTEhHd283LW1PM0xmM1l0VWg1U2FRTThXZVZUelhncHU0UjlOcnF2QUpadF9nMkxDS2R6ckNKTXQxR0RnSFZvQnFUV1hSNjZKSkdjWHlNa1hHcUt2MUZoZFI0WjZCTWxsNW0xb1JrWFhwOE1SR2Uxdk40TEJ0VkdWYjlRb01RVS1nN200Y2VHQ0YxYjhYdFlQZnV0NzFLSVlVQmVkSVdwVzYtRkg1V21Yc01wbkFmeG55ekpwN0NfVjJwalJvWGtiQS1vZWp60gHcAUFVX3lxTE9NY2FhU0VJbGFkMmhqdGFMSEd3bzctbU8zTGYzWXRVaDVTYVFNOFdlVlR6WGdwdTRSOU5ycXZBSlp0X2cyTENLZHpyQ0pNdDFHRGdIVm9CcVRXWFI2NkpKR2NYeU1rWEdxS3YxRmhkUjRaNkJNbGw1bTFvUmtYWHA4TVJHZTF2TjRMQnRWR1ZiOVFvTVFVLWc3bTRjZUdDRjFiOFh0WVBmdXQ3MUtJWVVCZWRJV3BXNi1GSDVXbVhzTXBuQWZ4bnl6SnA3Q19WMnBqUm9Ya2JBLW9lano?oc=5",
-      "source": "Outlook Luxe",
-      "publishedAt": "Wed, 21 Oct 2026 05:30:00 GMT",
-      "description": "Karwa Chauth 2026: Luxury Handbags, Shoes and Accessories to Complete Your Look Outlook Luxe",
       "feed": "Google News - luxury fashion"
     }
   ],
