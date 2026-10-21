@@ -1,24 +1,48 @@
 {
   "date": "2026-10-21",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-20T18:50:34.416Z",
+  "generatedAt": "2026-10-21T02:42:00.581Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-10-21.",
+  "message": "Found 5 article(s) published on 2026-10-21.",
   "articles": [
     {
-      "title": "HELLMANN’S TEAMS UP WITH MAYA GRISHAM TO TRANSFORM ICONIC MAYONNAISE JAR INTO LUXURY CRYSTAL HANDBAG! - vergemagazine.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTFFLcFNETGQxdTFhSlZJYlBlSF9xZHVkWXVwVWNjUlFIUXcwVGtySkVzU19heVdDd2FGdF9wWGd0SWJ0QjNUM21lSVpqMGNPV1dUQW9SUnE0V1F3OEkxdW96aVM1dlN6MWRhMG12NGdWaGYyNTdQVWFSdW1Ka083Z2R4WllzQ2Z4ZHRDYkFMdE9xWWx4dVFieFY4bEdOV2x2alJfUzdzXzhXeWstc0ZwaUp1ZnNKS253TGhNOHBuWUdiTGkyWHZr?oc=5",
-      "source": "vergemagazine.co.uk",
-      "publishedAt": "Tue, 20 Oct 2026 16:24:06 GMT",
-      "description": "HELLMANN’S TEAMS UP WITH MAYA GRISHAM TO TRANSFORM ICONIC MAYONNAISE JAR INTO LUXURY CRYSTAL HANDBAG! vergemagazine.co.uk",
+      "title": "The Victoria's Secret Fashion Show: Defining the Era of Accessible Luxury & Iconic Affordable Sexiness - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HaTZQbjZwX3dEYXJWZy1uRlp0NWE2U084RkdXS1hrU0dhOU5rNE5ncTFGR0RqbFlOZWxRQU1WeUpnbXF3SE0zSllmUElzbjhXcGRR?oc=5",
+      "source": "36Kr",
+      "publishedAt": "Tue, 20 Oct 2026 23:54:42 GMT",
+      "description": "The Victoria's Secret Fashion Show: Defining the Era of Accessible Luxury & Iconic Affordable Sexiness 36Kr",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "The Australian brand making New Yorkers stop and shop - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWJFS21jSmJHSDRsdzJITjN2VjJFMjJWUzVqVU9MRnNObllRVHl3cTNvRWk4RndLdkZJaXdWRGU4aW9zc0hwMWJhMHZZLUJ5b0ZLZGx5RWRlVDlYeThMbzFvekpPM0lmRV9JRmUtY0JGdkxZd1RyVDRRWW5tMDl6QVVPUlMtRFd0cUU0VWJCd1NiYUZpRVJxYUJORmpsRlJIcVVpZ0ZMeFhRZUxsSFptNDZWZ2ptT0YxYWVOOXVYUFU?oc=5",
-      "source": "AFR",
-      "publishedAt": "Tue, 20 Oct 2026 18:00:00 GMT",
-      "description": "The Australian brand making New Yorkers stop and shop AFR",
+      "title": "Louis Vuitton and Hermes among luxury retailers looted in French riots - CNA Luxury",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUF85VjdnSzdOazQxUmZRNGVzbjFBLXlfMW9PRUh4NFYyZWJJRl9VLU4xd3N4aHNIUW1EU0hnZy0xYnRMT3dqZ2dLRHlrT1RJLTFFdEFYWldaX1lWWU9pVThJRmpaczRXS3g0dHVpNTVCbDdXQ0lvdERqd3k4d3pjVTRnOXFTNEJpcHNnVW9TSExYMncyYkFRRTlXbTNaRUtkMXV1bHZlM0haNHFwOG5v?oc=5",
+      "source": "CNA Luxury",
+      "publishedAt": "Tue, 20 Oct 2026 22:46:27 GMT",
+      "description": "Louis Vuitton and Hermes among luxury retailers looted in French riots CNA Luxury",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Handsome, a fashion company affiliated with Hyundai Department Store Group, will exclusively distrib.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Sc1J5TmdJU0NJVjQwOFlpcVM3NmNjbThKaVdjLUltZFBlYkpOUlhuaFctZ2Z0U3IwR2xpc1Zqcml1OUNTSzI1N0R2UG5lZXpSUmVn?oc=5",
+      "source": "매일경제",
+      "publishedAt": "Wed, 21 Oct 2026 01:20:50 GMT",
+      "description": "Handsome, a fashion company affiliated with Hyundai Department Store Group, will exclusively distrib.. 매일경제",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Zane Li Wins 2026 CFDA/Vogue Fashion Fund Award - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON19URExFZGE3YjgySXM5WTVWRm1rOGhvUU5aR1RVdmdURU1CUFdQS3pqeHpvTTVlVHFXZHgzNjZYMlVrZlVlaFBMTjZhWGJaNDI5a0RONXFmVVd0T0Nha3k3NTd3WTZnZ29WSVlmU1hiVnVhVlhXVE5YSUZ3Qm9pRkRjckwxQXFhV3c0bXh0VzZvb0RaMlc0T09yeEJKUFJXeXQ0NEJobzNtdw?oc=5",
+      "source": "WWD",
+      "publishedAt": "Wed, 21 Oct 2026 00:23:51 GMT",
+      "description": "Zane Li Wins 2026 CFDA/Vogue Fashion Fund Award WWD",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Dallas-Based Lifestyle Brand Mi Golondrina Introduces Luxury Knitwear Embroidered by Mexican Artisans - PaperCity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzZCWUp3NmtlQVJnV2p3a2ozTnZNcjNNWHNRSjFrWS11alduMGJEX3k1cFIxSjJseFNYZDc0Vk83bnBaQ0M3ZlNMY1p4NGJzNmNvanBIYndwVmJ1bG1tZzlLUmtsWFEtcmUyVU04WXh0SEplQnk2UUhfMXFQN25HdklhQzNSaHE2SEtyVGpMWjU0ZndKakFPUExyZTZiV2RQZ3I2VHJHQQ?oc=5",
+      "source": "PaperCity Magazine",
+      "publishedAt": "Tue, 20 Oct 2026 22:15:16 GMT",
+      "description": "Dallas-Based Lifestyle Brand Mi Golondrina Introduces Luxury Knitwear Embroidered by Mexican Artisans PaperCity Magazine",
       "feed": "Google News - luxury fashion"
     }
   ],
