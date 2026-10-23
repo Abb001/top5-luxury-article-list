@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-23T02:44:32.493Z",
+  "generatedAt": "2026-10-23T08:07:41.863Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-23.",
   "articles": [
@@ -12,6 +12,22 @@
       "publishedAt": "Thu, 22 Oct 2026 18:33:45 GMT",
       "description": "Italy's Prada's Q3 revenue rises 11% despite luxury slowdown Fibre2Fashion",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Gucci owner Kering drops 11% as luxury braces for tough winter - Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlcwcnNLNzc1RHhzWUJpV3JuSzZRY0U2LS04RTJHbzc5V2czLXROQVkzR0NwbHVoYWhocGRMZkVPczQyVkRPcjlCRF9FTjAwR0JjR0QyUzE0TmtfLVhWYWRaYkoyZWtGdGhDQUtteWNEQkRRSi1uZHlJdHpSRnhEeVBfQkkxWHpvNnJFT0pBcVRINm1vdmlObDZnd1RVaHVDa2tSZUVBUFVNSzh1aUVqZjJqT1FKQ1l6ZElsUm1NanYwUQ?oc=5",
+      "source": "Free Malaysia Today",
+      "publishedAt": "Fri, 23 Oct 2026 07:59:44 GMT",
+      "description": "Gucci owner Kering drops 11% as luxury braces for tough winter Free Malaysia Today",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Gucci Gloom - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OVk9uSUVkLXRLZ19FMGZnTFg5Y0VlWEdCZ3lad2dNLUg5NUFCWE9CcHB1aWh6c2JrS0p3WExxbll6QVRhOVFHVzQxU2ZYQkNHcV9jSnBGWm9aaFBFcU1ndTZGQ2FWeE55QWJLVlZySm8?oc=5",
+      "source": "The Business of Fashion",
+      "publishedAt": "Fri, 23 Oct 2026 04:33:01 GMT",
+      "description": "Gucci Gloom The Business of Fashion",
+      "feed": "Google News - luxury business"
     },
     {
       "title": "How can luxury fashion houses deal with stolen goods? - Daily Tribune",
@@ -28,22 +44,6 @@
       "publishedAt": "Thu, 22 Oct 2026 21:56:30 GMT",
       "description": "Janet Mandell Debuts Luxury Fashion Pop-Up in Nashville Ahead of CMA Awards Modern Luxury",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Iberostar Luxury Resorts Host Aruba Fashion Week’s 10th Anniversary - Rus Tourism News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjNNSUxKTjFLVmdZcjhMUVE0VkJYb3hVTktYMTZlRnlDZEQ2aFdJSVNJRGt0czM5Z043SzZTcUlPSlctVmtyMjRtRlRIUUY1Q2VjcHZtdVE2aEJ1T2JKdDRDQ2lmczB1WE1DRG9FWEtkTnYtMURzbnh4cjZLZ0ZuZVdvWTV3Nkh1UUJmUHVQa3hmVUZNcXZnM29VTXpoZmM4VjAzc2dSVjVteDJEd2c?oc=5",
-      "source": "Rus Tourism News",
-      "publishedAt": "Thu, 22 Oct 2026 20:37:43 GMT",
-      "description": "Iberostar Luxury Resorts Host Aruba Fashion Week’s 10th Anniversary Rus Tourism News",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Inside LVMH’s Les Journées Particulières 2026: A Rare Look Behind Luxury’s Most Iconic Maisons - Modern Luxury",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNamt2U0FWQ2h6WWhqV1NQd1BQTndacFZuNUROYnlHOGRDZ044QTdOdTFIMng3WmNzSHlvZlpENFR3TVlfUnRTbkF0QnFrb2VpZ29Oc3I3b1ZHTDd6TlFmS0tRTTJOLVFfd2tGYVhZY1BHQnFVVFM3WlNaQ3FnRDFXbENCQUNKdm9QdHNEd25wTDQzeVlyNkhLYVZxanB6blcxRGd4eXVVekgxcmZzbTlpMHJKbEVkajRwLS1kZEhn?oc=5",
-      "source": "Modern Luxury",
-      "publishedAt": "Thu, 22 Oct 2026 20:29:17 GMT",
-      "description": "Inside LVMH’s Les Journées Particulières 2026: A Rare Look Behind Luxury’s Most Iconic Maisons Modern Luxury",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
