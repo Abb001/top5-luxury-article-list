@@ -1,49 +1,33 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-23T13:58:17.819Z",
+  "generatedAt": "2026-10-23T18:48:32.740Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-23.",
+  "message": "Found 3 article(s) published on 2026-10-24.",
   "articles": [
     {
-      "title": "Italy's Prada's Q3 revenue rises 11% despite luxury slowdown - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS0hXTk9WN19jN282RGhSLVB6MkFSUWE5YWtSd0U2dFozNE5scld2Vnlka2dzd3BQdnFQU0YwTHZaZGFfZHJ5WUl5bnlFT2RvVEotVlZkbHFES2cwclMzXzl0SDhfa1ZJQ3NkMDIxZXd0UnlKVHVtOFg3LWtScFZGZnNhczkyeWJZdm1mcU40OEZLcHdFV1hfbGtCNzJmV2N2ZHBZdzhvMkpzRkdBRzFvR0xEdDNvVXhTOWVSTnpLMDlPNGIwTVhxa0pBSTJDRG15T25uMDJSTnBFaXBzSXc?oc=5",
-      "source": "Fibre2Fashion",
-      "publishedAt": "Thu, 22 Oct 2026 20:20:16 GMT",
-      "description": "Italy's Prada's Q3 revenue rises 11% despite luxury slowdown Fibre2Fashion",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Prada Holds Steady in the Third Quarter Amid a Struggling Luxury Market - Luxus Plus",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGdsRG5LbGMwSWhRT0Z5eC1NZ1FJM3FHREhENmY0UU9vLXZ0WUpTa0I5eDZRWUJHVFRCakhKUjhrWTJacWhjYjFicTUtOGxCeFBsMjZBdFdDTDdiTU00cnU5RGF6NXk1TG55Y2FfaURRTEh3OExlWjNpeElyQThVTVd6NzYwQVNLdVJJWWgxTGhlQ2RKeFB0WVhOeXMzMFU?oc=5",
-      "source": "Luxus Plus",
-      "publishedAt": "Fri, 23 Oct 2026 13:11:27 GMT",
-      "description": "Prada Holds Steady in the Third Quarter Amid a Struggling Luxury Market Luxus Plus",
+      "title": "Luxury brand stocks plunge to lowest level in years as LVMH, Kering and Hermès hit with sales declines - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS3pHNE1YbW9KZ3QwRWFFb3poMkV2RDN1dE94NFFnZlBPdmg0eHpmVi1ucGlpTVlmSzVPVk9sZkx1MlJTd2hyeUpEc3pnb1RscGNHa2kwcDFpYUttYUczOV9Sc0gwZ2tvazRmWjI4bndZeWFmMGJUMWZwUGg5bkR1RW83aHdjZHE3aDNqOXByZzVrTTYwTnJKbkQ0M2t3MmF1c3JCYlRhSnJVX3c2RFBwX081WTJZLW1mTVlRR2t6OFllTzJUblE?oc=5",
+      "source": "New York Post",
+      "publishedAt": "Fri, 23 Oct 2026 17:17:00 GMT",
+      "description": "Luxury brand stocks plunge to lowest level in years as LVMH, Kering and Hermès hit with sales declines New York Post",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Watch Volvo CEO Says China Market Gone, Luxury Weakness Remains - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnB0a3N3ZEIyUWhYZ2QyNnpMRjRtSUczSjVfZ2ZQel81RDdvY3U2eVhHRGpSempTcHlUN1daazlNanVHcEJXTWp6dW9oaXYwcWZ0WmF2Nzh2ZGd6V1h1bWsxSS03YW5kTEpZWlFYZTBUeE5nWGJsbUVBWWlvaWlESnBLN25UTmJuT1dR?oc=5",
-      "source": "Bloomberg.com",
-      "publishedAt": "Fri, 23 Oct 2026 11:33:14 GMT",
-      "description": "Watch Volvo CEO Says China Market Gone, Luxury Weakness Remains Bloomberg.com",
+      "title": "Gucci’s China Problem Drags Kering Deeper Into Luxury’s Slump - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ196dEtqaGx0ZUhEdnhsbGw4Q2JhcmxMUEVWWDBaRU9QZU5QVEljMmVDT2JjSGZZcE1fczl6RjdlVDREa3VuNXBoeUtGYjAyaDdPQW5RZlduU05tck9MYWpWM0ZFQWtMaFQ2aV9RellCZ28za1Z0eTZVNlg1S2JZbmJYLTNvNDlUZ1NDNUpfUmRJaVFFMjNHc3NQaWdNZw?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "Fri, 23 Oct 2026 17:14:29 GMT",
+      "description": "Gucci’s China Problem Drags Kering Deeper Into Luxury’s Slump Yahoo Finance",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "NEXA Partners Manish Malhotra for Luxury Prêt 2026 at Lakmē Fashion Week - Indian Retailer",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnExVlJYX2VZWG5vbFp0UmhvRnZVNDFvSDlLa3A5SVJnTlFUZm5nVGFRQUhYMFNCR0VRNnJEeWhOSWRxTlRqZkwxdDZIZTByazVnSC1IUDMzSFN2MVA0X2pPVDhqZlNBVEhaaEVHRllVb1g5dUpaMmVNUFJfcy1pX05qVU1BcTBKczliZWU5QkNjZENGOUg0b2RqQmpiQ1Fsb1FwMU13TVV1MjlwclRZd0hXNmY1WXFRSGh5LUFHY0luZ282UUh4VA?oc=5",
-      "source": "Indian Retailer",
-      "publishedAt": "Fri, 23 Oct 2026 10:18:49 GMT",
-      "description": "NEXA Partners Manish Malhotra for Luxury Prêt 2026 at Lakmē Fashion Week Indian Retailer",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Gucci owner Kering drops 12% as luxury braces for tough winter - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlBMLS1oYW85SlluZWNjbVEwVVl4YlE2RnczQXNaTXI5VWhaQXZsazluQTNlOTRWdzhDcVFPdnpyYVF4R19tdWdCc2UwYnVpVUhOdGZ0VEFjaDBwR1o4TE1YaUx6eFVOMEtHTVRrLS1MaVZpbmZqZHd0QlM3dFZzTV9QVzZXV1ljMjJndDJVanRlcTM3bGxuYjZPR1l6V09USEhqMEpyQUFqb1lLTlBqMnRKa2hfNVpfUXQya2YzcURYUdIBwgFBVV95cUxPMlBMLS1oYW85SlluZWNjbVEwVVl4YlE2RnczQXNaTXI5VWhaQXZsazluQTNlOTRWdzhDcVFPdnpyYVF4R19tdWdCc2UwYnVpVUhOdGZ0VEFjaDBwR1o4TE1YaUx6eFVOMEtHTVRrLS1MaVZpbmZqZHd0QlM3dFZzTV9QVzZXV1ljMjJndDJVanRlcTM3bGxuYjZPR1l6V09USEhqMEpyQUFqb1lLTlBqMnRKa2hfNVpfUXQya2YzcURYUQ?oc=5",
-      "source": "Devdiscourse",
-      "publishedAt": "Fri, 23 Oct 2026 09:47:51 GMT",
-      "description": "Gucci owner Kering drops 12% as luxury braces for tough winter Devdiscourse",
-      "feed": "Google News - luxury business"
+      "title": "Kim Kardashian’s 46th Birthday Looks Came Straight From Paco Rabanne’s 1995 Couture Runway - WWD",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWU3VGlTNDJxbXFHa0lJWnJIV3FpbWdWYUFIc2dzekxXdFJvSnlqQVlmN20tdUc3dkRrbHRXMjNOcEdkTGFGQ0ZibW1vSllmZXYtcVkwQUl5QVVielduZzlsOFZEdldPZTc3a0tHakk5blZacGJhNlQ5QkRsZGVXS0g1dDhId2VoVmlCVVNBS3djTGgtUmE1bUlNQ1NnWTgxUWd2QTdNeExseW1N?oc=5",
+      "source": "WWD",
+      "publishedAt": "Fri, 23 Oct 2026 17:34:13 GMT",
+      "description": "Kim Kardashian’s 46th Birthday Looks Came Straight From Paco Rabanne’s 1995 Couture Runway WWD",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
