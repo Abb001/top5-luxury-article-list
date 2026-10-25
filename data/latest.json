@@ -1,50 +1,9 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-25T13:28:01.671Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-25.",
-  "articles": [
-    {
-      "title": "Alex Begg, The Scottish Weaver Behind Luxury Fashion - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREFzQzF1TkM0MmJFLXc3eTB4b1I5VkF3TkZvWkxvUi1NcmZaY3BVSS11dFo2WVpVVUd3US1Zcjd1Nms0S1RsQ1g5U1g5aUtERHZYbkVtRVJ2VXFubllsNi1IZlFmbnl0d1lGOFRPSkpPUUNBcVNaVG1LNllUZ1dLZWs0UWFzSXVIbG9VM1FCQkxoODZJ?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "Sun, 25 Oct 2026 04:55:00 GMT",
-      "description": "Alex Begg, The Scottish Weaver Behind Luxury Fashion Yahoo",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Behind the brand: Anna Paola Papaconstantinou of Paolita - Luxury Lifestyle Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXA2TWlsRC1EOUNjaVlkQmZqM1dTNFBKTU1WempyQmlHc1VMeU85emkzYUFINmFJYzljTmQybWFsc0ROcUJhZUFsdXBWT0M5RVJLTE9wNDBWQzR4aUR5OEJ4bHhKT0VRRU05dkxvTEhsaTVfZFI4NnhmOGZodlJXTUVlRE0xeW9ITy1QcmtURmtGZGVWZXp1VEFYYWNrbEp6MGlQWEFuTVY0a1VqYUM4?oc=5",
-      "source": "Luxury Lifestyle Magazine",
-      "publishedAt": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "description": "Behind the brand: Anna Paola Papaconstantinou of Paolita Luxury Lifestyle Magazine",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury brands destroy unsold stock to preserve exclusivity. That may soon change - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS0tldHVHMTdzUXgxZ3g5czY4Y1dRODh3RlEzbXlxN0hocUg5MDNfc3hhUUgyUDBRUk5RZU56cF9NUHJSamI0TFFlRkgtSWFIZWRhM1pEQXFBUHdFTzh5Vkt6SDFMV1JxWWdSNEJEaTY1eHdKUDJxUmJxSzF0TEp3RG1uYUU1VmxKSWt1azdCeEFJVURpNmtvR3c4Tk1tSGNQZkU1WFk4WU51cVVHOUNyX1Bjb3EtZXlTWFBiSnhtLVd6bEZDZjV6dXVzYjJTQdIBzgFBVV95cUxPcllEQUZFUWNDNE9sa0tmMzMtdFh6bElHek0tOFZpYTBjM0VoSlBVWXY5cmpuQXZlSF9jV1g3QTBRNVVtel92cGNBcGVMbHF5OVBWdTA2WGYzYjRsU2NZTktDZThZYTJZaTFQdDBIMDRoTGR5RmQxcS10WF9raC1LckxnX2RiZG1JaWpYSFJXOHN5d3o3TWY0Ri1XVGlpWU4xWkdGM1FZRzhZYWVHVzhfSk1nRmtUSU42dGpoN3hPVHpGNEdEeFJoU1JGOWwzZw?oc=5",
-      "source": "South China Morning Post",
-      "publishedAt": "Sun, 25 Oct 2026 08:15:05 GMT",
-      "description": "Luxury brands destroy unsold stock to preserve exclusivity. That may soon change South China Morning Post",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury Market Set for 2027 Rebound, US to Lead Growth: Goldman Sachs - Lokmat Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnNHcEVCb2RqZnk4dGJMaS1ZTWZuNDJ1RmVrTHlTQmlPbThTU1I3UHI4VEtjTmZzWXJQX3pLUG1mQWdhX2lTYTVlR0pmLVI0ZS1ub3VTS0VxRE4wZFU3RzR6Unl3QjJJaFRMaEI1SjdFbWxwZjhWYXAyLWEtZFVoME5GZFZxOUk5c0R5M21fN0JjV0JrWUx2LTdTLTRMN1JreDVZZjNSOEgzM2JUREV0bHh0UdIBuAFBVV95cUxObDZuVTh0dk1kUVU0d0pFWmhsQkVIQnpiLWdDX3hxM2REZlhjemo2Z3BZamhUWHRRSm5CSlE0bHV4YV9tWnRZM0xiQXlKY1BHdlNMZnY2OHJwRE9vaG9GWUlZSlhrdnNkRm45WndDaG1DZ3U3VVdfa3NDaG1lcTFHZWN3Mi1tS1lwaFpUTTRPWXF2VllSVzBra04yeWY5d0IyVm4zWFN3YUJCM25JekdjTWdURGUzYWdm?oc=5",
-      "source": "Lokmat Times",
-      "publishedAt": "Sun, 25 Oct 2026 07:04:16 GMT",
-      "description": "Luxury Market Set for 2027 Rebound, US to Lead Growth: Goldman Sachs Lokmat Times",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Global luxury goods industry set for recovery in 2027, US to remain bright spot: Goldman Sachs - Punjab Kesari English",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYklGb1dqbC1BbHVjZXgtZHJNM3FXbFo2UEtrdzVoRTBjRGRGS3V3NkIycGx0eTBTcGU1MFljLXFPUDlPQmNxRUhqSTRDSEstcE5zZEt4NHYyMTh6RGRneFlTdnR1Q3daY3JpWUNXemlibjdsYjZXaGNYNjhjLTRDMldIaEwtMWNMckUxUlRldjkwNldPVXhoVUN6a2xTOUtiZFcwWDVwVkR5cFlKQi1oZFdQMHlfNXhaTjNiUzloWVhRTWJIY0xYNkdmNXRfUEFwN29SdXVB?oc=5",
-      "source": "Punjab Kesari English",
-      "publishedAt": "Sun, 25 Oct 2026 06:54:44 GMT",
-      "description": "Global luxury goods industry set for recovery in 2027, US to remain bright spot: Goldman Sachs Punjab Kesari English",
-      "feed": "Google News - luxury business"
-    }
-  ],
+  "generatedAt": "2026-10-25T18:00:23.915Z",
+  "status": "empty",
+  "message": "No articles published on 2026-10-26 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
   "fetchWarnings": []
 }
