@@ -1,9 +1,50 @@
 {
   "date": "2026-10-26",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-25T18:00:23.915Z",
-  "status": "empty",
-  "message": "No articles published on 2026-10-26 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-10-26T02:30:29.935Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-10-26.",
+  "articles": [
+    {
+      "title": "Declining purchasing power of Chinese consumers: Revenue for LVMH, Hermès, and Gucci plummets. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0xLRlM4Q0ZFWWVyYUxEbFozdkllbXNiX01FVGMzcWYwOEtONC1VNWd2OWZpTndTNWpfWjVLc3c4RnhJWVNvQ0NEWThhdEp1elpiSDM0cXp6MVZZZmZKN2RCcTgzcHZJZC0wcE9TbFFHSGNHQ3pmYVRWOVlDbm1nbzZ6TVJYRmJtY3EyUUM4Ui1PVFI5ZzVBZVh2Z1ZCUFQ2Zzh6dndma0lGQQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "Mon, 26 Oct 2026 00:24:20 GMT",
+      "description": "Declining purchasing power of Chinese consumers: Revenue for LVMH, Hermès, and Gucci plummets. Vietnam.vn",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Watchmaker Jacob & Co enters Punjab’s luxury housing market with ₹2,500-crore project; Salman Khan residen - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOSXZWZDl6QzVsU3NZNE95LTdZTEFUNTZOZjAtRC1JYkdURTBiOEltQldsOFQyaDdPdTFrYUdYSTRLRS1xUUItX3lscHdkNTVNdHlMa1FzcE5CNFF1b0hxd0NpQmU5RjNfOFNhdE1YN2dHcklyQTd1OXZJcm13d2hSazJBeHNPMUw2UGtHbEF3S2hXY0pILU51TWVpOTFSNVBHSFE1aTdLa2hjdGF2dnB2UGd3b1JKaHlTZ2Rudm1ZYmpSZThkTFpRY0RWZzkyckFUZWN5eWc0ZnhTN2RXNVB1Z1JWclhKOXNkemM5UzE0ZERmbDMxWGhLVW9uRnZIai1rTlJLOVZ3X3NnWjJiQUNGclZaRDc5aWNJT0w0bllRVkJfdFJWM0RKN2JMVWh6UdIBswJBVV95cUxQY3NHaXNBdGc5RjVZNTNDV0JzYXJwVHBSczJFUTd2NlFmbVdWVDN3ZWZ0R1ZPakhTaThETXVWVEZjRmVxa1BPQm5HaDEzTmwySmtGb2JQQUNqRmxvMUpRNVJJV2dyNU8wb18wT3JKU3lGb2k2Ny1lNl83dzZBWTlEUkxkOWRDbHdTd3pkSG95TjhHajZYSm5RdXVfZ1Vnb1dVaUdIT3QtMmkwV245S0FoWkw2N1QzTkhycWFlUnozUDVxSWRzNnlOOXJWcE1PQnlEUkFYUUhad2FQSDlIZ2NvQXBLOWVWcTdjcmlURW9fNjdEQUhXdGxUQ2lmYWJtYnVOU0h1NEhCTW0tcG0zd3dMUjFSM0luS1NyWFg5T191ZnRuRjNFUWRKOXBLSnZUbm5aeXBJ?oc=5",
+      "source": "The Economic Times",
+      "publishedAt": "Sun, 25 Oct 2026 19:17:24 GMT",
+      "description": "Watchmaker Jacob & Co enters Punjab’s luxury housing market with ₹2,500-crore project; Salman Khan residen The Economic Times",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages - WWD",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1djY0l0Uk5Bb3Y4UXdVV0o4NFY0YUdZbnJTdmpMWk9BTUhGUm9NS0ZJLWk1ajVDLXdOUkM1NHBwTVQyOWNPLWxUcWZ2YlFMYUlMSThUMjFUR21TZkNvVHhjR3NaMGpGZ25rc2tTbHdLbkV2ZHZiVWoyWUkxTkZLNDdISGNqVXpzZTRpR2hpcTEzQzlwTllxM1hsMnI2eG9sbzV6V0dFSF9rLUZfODY5Q1NKOTc5bnM?oc=5",
+      "source": "WWD",
+      "publishedAt": "Sun, 25 Oct 2026 18:45:32 GMT",
+      "description": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages WWD",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "San Francisco Luxury Homes: Record $10 Million Sales Spread Beyond Pacific Heights - CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbGN1bEh3WWV0TVUybFpKVTNWSENyRkRjNUt0WENHVVhOazFxRWg5UjRrTjNySmhPVEJ6ZjFYU1doTGFFclk5eDlaQjBwOXRRUkZXS1FUSVMydGppYnZIUmN2NV94MFdGcFlfdVNYY3hPN2l3SGk0SklObWlkbHg2cTZMY1E3V1dON1N2VWpsREc1UVpHNjFxOU9XYTN6R2MxX3lUT09ETnlXUHRranNjS3lUUQ?oc=5",
+      "source": "CEOWORLD magazine",
+      "publishedAt": "Mon, 26 Oct 2026 00:06:58 GMT",
+      "description": "San Francisco Luxury Homes: Record $10 Million Sales Spread Beyond Pacific Heights CEOWORLD magazine",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Why Burberry (LSE:BRBY) Is Back Under the Luxury Market Lens ([FTSE 250])? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1NHd1lwTWNvSDBvcjF3NDFhWlY3VTNtWGRLZWVsNXRKSk5PV3M5cDRGa0lkRFR4NzBTVm84SlZ2a2NJc0lEOFdfT1NwMEN2MnhHSDhLSVBjVm9ORnNNQ3o4NnhyWWtqandyZWYtWUk5WTRTb1VQclRMNFlHRElBZHhRaXFkal9rMWlHTHNmY3NXMVFaZVBJOFR4UkJPcWZVUzB6ZEE4VU5SRURrOUpj?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "Sun, 25 Oct 2026 18:44:00 GMT",
+      "description": "Why Burberry (LSE:BRBY) Is Back Under the Luxury Market Lens ([FTSE 250])? Kalkine Media",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
