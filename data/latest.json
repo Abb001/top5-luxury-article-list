@@ -1,10 +1,42 @@
 {
   "date": "2026-10-28",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-28T03:17:36.733Z",
+  "generatedAt": "2026-10-28T11:53:28.817Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-10-28.",
   "articles": [
+    {
+      "title": "Versace to return to Paris Couture Week - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnYxVDJVRmpRLWMyd2FCSWdBXzFJbjJGLVEzOXU1X1FFNzNta2ozUzRpa0cxZlRleURqUzNJakU3WVVWYjhzdHlFX1dmWHVlbmxtNElmYkNwd0M5V251bjI5VTBnbFpsMTEyYkNnMFNUcS1zcE9vQXF2X3ktWjc3M1F4aWg2alJFcmViMEZhWUs?oc=5",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "publishedAt": "Wed, 28 Oct 2026 09:13:26 GMT",
+      "description": "Versace to return to Paris Couture Week FashionNetwork - The World's Fashion Business News",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "'Drawing Prada': Brand Taps Ex-Disney Animator John Pomeroy for Hand-Drawn Holiday Campaign Amid AI Boom - Fashion Times UK",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVndPdWpkb0JiN1I2N3NrT3FpZnFZYU9JV1BCb1pJLWJUTnVLaTB3U09RczB1T2VaWDhIaWxkR2c1ajJMQ3ZxVGJWQXJjYkt5eEtBOExIQmJvU2RJTmtoU0pEMEJqX3ItY1VmZkU0RjZxVHpraHpKQUM3aHBRT1R1cm9UbUFfZ0FpUHl3aE5rN1E?oc=5",
+      "source": "Fashion Times UK",
+      "publishedAt": "Wed, 28 Oct 2026 08:06:25 GMT",
+      "description": "'Drawing Prada': Brand Taps Ex-Disney Animator John Pomeroy for Hand-Drawn Holiday Campaign Amid AI Boom Fashion Times UK",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "{Funding Alert} Luxury Watch Brand Rotoris Raises Rs 70 Cr in Series A Round - Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEhXczFESjU3NWwwWHpMRTNKSkF3MS00LWJObEZfUzMzVVl0VFhETWZBekdjRXA3ekpycFpybG9kdHhKZ21HUnBQUEprZ1lQdDBpeE8wNklleVdfbnZvY3Y0WHkxcmJWdnZVRlFJSkF1OVZlcGVvZUJKd0FPOXdGM2ZCRmtWSkhCV1ZXbHVQUUlubEl3SnlXRGJweG1JTHRlZjV3V3phel8?oc=5",
+      "source": "Indian Retailer",
+      "publishedAt": "Wed, 28 Oct 2026 05:23:36 GMT",
+      "description": "{Funding Alert} Luxury Watch Brand Rotoris Raises Rs 70 Cr in Series A Round Indian Retailer",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Hermes Sales Growth Slows Against Tough Luxury Backdrop - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNci04ekc3MVJ1YVk4aVY4NWhZZUdxc29oV0FwUGZPTS1JZVZQNllWTURTX0pLUVlOZ3pHYkJrTXRvTnJhQnFoVWNOVGw5QmRzeEZJeFp3ZDdqaWVrRWJlS2ppMFBuOFhSX0xyRk9ROE1NbDRiWjhUUXNJX19uQjBiZkZqZ0RHLTc1a0pSN2ZxN0RFVkd5QXRmNEZBb1BxOUhINFhIU2Z3?oc=5",
+      "source": "WSJ",
+      "publishedAt": "Tue, 27 Oct 2026 23:35:25 GMT",
+      "description": "Hermes Sales Growth Slows Against Tough Luxury Backdrop WSJ",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "KAN GLOBAL CONSULTING Brings a More Personal Approach to New York Luxury, Fashion and Travel - Daily Front Row",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVR0ZE44bHJqNzNpWi1PcDNWWVl4bm5RdWYxei1USUN4OS0tT1RuT3hncXhuMjJrSE42cGd4cEo3UDExVHhrcHJDZllpSllyU0VZWXcxa3JuSVNKN0cyQXRhSXVaWVRfU3NpeDhWbHdVUHdKb1djRGxEaTRIRlRDaVBhWk5HVFlZaHMtTURRd2gxQ3lNNXhYcmpLZG9yZ1lvWHg5OUUxdEF1ZVk5VjlSN3JoSHlPTlRqNnNhUFJR?oc=5",
@@ -12,38 +44,6 @@
       "publishedAt": "Tue, 27 Oct 2026 17:26:43 GMT",
       "description": "KAN GLOBAL CONSULTING Brings a More Personal Approach to New York Luxury, Fashion and Travel Daily Front Row",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Manhattan Luxury Market: $23.8M-Ask Penthouse Among Week's Deals - Hoodline",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVZFUjhkOHR6VFhJS0Y2LTRpNUZxMU5heVJHRzZUanR1RlJUZHRnZzBWb1ZVbE5RN1c1a0M1b0JyYlF3ZWZ3MzhHWU96UmdsSFdwME1UZUlCaGRKRndkaGdxX3NYdVRqNnFpaW1wMXhlQjFRVUNCYnV4djM5dTZrdnlSN0NkWU9DUTIwdWZuSTdrbmpYU3B5ZnBoVFBQQ0VyVFgzZUJkR3RTYm5Id09xa2NtUXhTZw?oc=5",
-      "source": "Hoodline",
-      "publishedAt": "Wed, 28 Oct 2026 01:52:30 GMT",
-      "description": "Manhattan Luxury Market: $23.8M-Ask Penthouse Among Week's Deals Hoodline",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "AI chatbots may build more consumer trust than humans in luxury sustainability messaging - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEROVV84Ukd5R3BDS2E3OXRmcEYweUN3S3NHUUc4TWZOa0dvdjhYZ3VIWjBocmdZejBQLWZvUGRWbXdHT25nT2F0UnRCZU1NRjZybnhnZlhSenJBa2k2TnlmS0pIM2lCcndzc3lhdHQtU2xYM0FnOEh4R1pQMDZzMDRPTnhhaUhqbVZoakRvSnR4TkpadW9aaVVndDdibEJXM1AyU3FGamJ1Y0l5cE1oeXY1cw?oc=5",
-      "source": "Bioengineer.org",
-      "publishedAt": "Wed, 28 Oct 2026 01:10:33 GMT",
-      "description": "AI chatbots may build more consumer trust than humans in luxury sustainability messaging Bioengineer.org",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Fashion designer Amber Keating to sell $22m Potts Point landmark - AFR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0twVW1YanNIU1p4UUlZM1ZLenh3b281ZE9TSGZfSzA5WmJFRXRRcWJZbTRHc3NTWXJYcFZlUzZQNXFxeVlhUnI3TmxpUElPUUtyYkRmMDM0dUg1N0w3TGNzNzNmZmdLbExGZEVqS0JQQWZiUUJBWXFodHM0Zkt5U2JUejJuT1BkbWRESGkxb25XZEx5UThYRTBjSEludnFqQ2szVzFIR2JCc1ZjZnpCOEQ1QTZHbHRNc2pvTQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "Wed, 28 Oct 2026 01:02:00 GMT",
-      "description": "Fashion designer Amber Keating to sell $22m Potts Point landmark AFR",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "₹152 crore per home! Naman Xana sets new benchmark in Mumbai’s luxury real estate market - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPajJWSWN4MUJVdlFjcXRvMFFtV2Rkb0VZS3lZYVAzVWNlSzd6QWo0NUxPRWYwREtjci1tc1VPbkJWSmVTTll1NTBlRG5kYzYyMGdIMzhVNHIzTDRxVVhsRm1oRG1ZVV93eEJldVpUcXFkYkc3MW5mWjBHMVk3bWRTcWZNNEdneVRDd3lBcUYwQUU1Vl91U0NaNU9WQ2lkZXZ1R3o5aXI1UG5hZ2tBZUZQM1EyNC0wbjBVXzRaeEFRbUkwajFCMkdkZl9Mdnhaa2kwdW5xTmF3YTE4cW5ka2F1SlZKODBVaGvSAewBQVVfeXFMTm1sekFGcktjR0h4cFpWOUxQS3pHT3pwNjM0dXdXR3lfaWMwR2FBa0E5a21mb0FiV3FQSW9hUTBjSGxOREVoWmxGV3Z5Z1RGRXFxTjk3ajJFLWFmeHB3RGtUZ3QySm55eEYyTnF0S0RlYlVqLVVXRFNpWjJOenM5dXItQ0ZSdEJyYjQ0c3k2dTRqYWJoV0NBWmNSbWR3NGpJMjluQzBXZXlNOVduZ3VTX3RGODRSa2dpQ01qMUV1LWpLZ296dUZUeXZPVlhxQl9TaWdSVFprUHE0OUJxYWNRdk91bnBOSzBTWVpORDQ?oc=5",
-      "source": "Business Today",
-      "publishedAt": "Tue, 27 Oct 2026 20:35:02 GMT",
-      "description": "₹152 crore per home! Naman Xana sets new benchmark in Mumbai’s luxury real estate market Business Today",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
