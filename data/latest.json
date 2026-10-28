@@ -1,9 +1,50 @@
 {
   "date": "2026-10-28",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-27T17:06:48.729Z",
-  "status": "empty",
-  "message": "No articles published on 2026-10-28 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-10-28T03:17:36.733Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-10-28.",
+  "articles": [
+    {
+      "title": "KAN GLOBAL CONSULTING Brings a More Personal Approach to New York Luxury, Fashion and Travel - Daily Front Row",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVR0ZE44bHJqNzNpWi1PcDNWWVl4bm5RdWYxei1USUN4OS0tT1RuT3hncXhuMjJrSE42cGd4cEo3UDExVHhrcHJDZllpSllyU0VZWXcxa3JuSVNKN0cyQXRhSXVaWVRfU3NpeDhWbHdVUHdKb1djRGxEaTRIRlRDaVBhWk5HVFlZaHMtTURRd2gxQ3lNNXhYcmpLZG9yZ1lvWHg5OUUxdEF1ZVk5VjlSN3JoSHlPTlRqNnNhUFJR?oc=5",
+      "source": "Daily Front Row",
+      "publishedAt": "Tue, 27 Oct 2026 17:26:43 GMT",
+      "description": "KAN GLOBAL CONSULTING Brings a More Personal Approach to New York Luxury, Fashion and Travel Daily Front Row",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Manhattan Luxury Market: $23.8M-Ask Penthouse Among Week's Deals - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVZFUjhkOHR6VFhJS0Y2LTRpNUZxMU5heVJHRzZUanR1RlJUZHRnZzBWb1ZVbE5RN1c1a0M1b0JyYlF3ZWZ3MzhHWU96UmdsSFdwME1UZUlCaGRKRndkaGdxX3NYdVRqNnFpaW1wMXhlQjFRVUNCYnV4djM5dTZrdnlSN0NkWU9DUTIwdWZuSTdrbmpYU3B5ZnBoVFBQQ0VyVFgzZUJkR3RTYm5Id09xa2NtUXhTZw?oc=5",
+      "source": "Hoodline",
+      "publishedAt": "Wed, 28 Oct 2026 01:52:30 GMT",
+      "description": "Manhattan Luxury Market: $23.8M-Ask Penthouse Among Week's Deals Hoodline",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "AI chatbots may build more consumer trust than humans in luxury sustainability messaging - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEROVV84Ukd5R3BDS2E3OXRmcEYweUN3S3NHUUc4TWZOa0dvdjhYZ3VIWjBocmdZejBQLWZvUGRWbXdHT25nT2F0UnRCZU1NRjZybnhnZlhSenJBa2k2TnlmS0pIM2lCcndzc3lhdHQtU2xYM0FnOEh4R1pQMDZzMDRPTnhhaUhqbVZoakRvSnR4TkpadW9aaVVndDdibEJXM1AyU3FGamJ1Y0l5cE1oeXY1cw?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "Wed, 28 Oct 2026 01:10:33 GMT",
+      "description": "AI chatbots may build more consumer trust than humans in luxury sustainability messaging Bioengineer.org",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Fashion designer Amber Keating to sell $22m Potts Point landmark - AFR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0twVW1YanNIU1p4UUlZM1ZLenh3b281ZE9TSGZfSzA5WmJFRXRRcWJZbTRHc3NTWXJYcFZlUzZQNXFxeVlhUnI3TmxpUElPUUtyYkRmMDM0dUg1N0w3TGNzNzNmZmdLbExGZEVqS0JQQWZiUUJBWXFodHM0Zkt5U2JUejJuT1BkbWRESGkxb25XZEx5UThYRTBjSEludnFqQ2szVzFIR2JCc1ZjZnpCOEQ1QTZHbHRNc2pvTQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "Wed, 28 Oct 2026 01:02:00 GMT",
+      "description": "Fashion designer Amber Keating to sell $22m Potts Point landmark AFR",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "₹152 crore per home! Naman Xana sets new benchmark in Mumbai’s luxury real estate market - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPajJWSWN4MUJVdlFjcXRvMFFtV2Rkb0VZS3lZYVAzVWNlSzd6QWo0NUxPRWYwREtjci1tc1VPbkJWSmVTTll1NTBlRG5kYzYyMGdIMzhVNHIzTDRxVVhsRm1oRG1ZVV93eEJldVpUcXFkYkc3MW5mWjBHMVk3bWRTcWZNNEdneVRDd3lBcUYwQUU1Vl91U0NaNU9WQ2lkZXZ1R3o5aXI1UG5hZ2tBZUZQM1EyNC0wbjBVXzRaeEFRbUkwajFCMkdkZl9Mdnhaa2kwdW5xTmF3YTE4cW5ka2F1SlZKODBVaGvSAewBQVVfeXFMTm1sekFGcktjR0h4cFpWOUxQS3pHT3pwNjM0dXdXR3lfaWMwR2FBa0E5a21mb0FiV3FQSW9hUTBjSGxOREVoWmxGV3Z5Z1RGRXFxTjk3ajJFLWFmeHB3RGtUZ3QySm55eEYyTnF0S0RlYlVqLVVXRFNpWjJOenM5dXItQ0ZSdEJyYjQ0c3k2dTRqYWJoV0NBWmNSbWR3NGpJMjluQzBXZXlNOVduZ3VTX3RGODRSa2dpQ01qMUV1LWpLZ296dUZUeXZPVlhxQl9TaWdSVFprUHE0OUJxYWNRdk91bnBOSzBTWVpORDQ?oc=5",
+      "source": "Business Today",
+      "publishedAt": "Tue, 27 Oct 2026 20:35:02 GMT",
+      "description": "₹152 crore per home! Naman Xana sets new benchmark in Mumbai’s luxury real estate market Business Today",
+      "feed": "Google News - luxury business"
+    }
+  ],
   "fetchWarnings": []
 }
