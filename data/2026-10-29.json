@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-29",
+  "timezone": "Asia/Taipei",
+  "generatedAt": "2026-10-28T17:42:41.814Z",
+  "status": "ok",
+  "message": "Found 2 article(s) published on 2026-10-29.",
+  "articles": [
+    {
+      "title": "Mine & Yours Celebrates 13 Years of Pre-Loved Luxury With Jeanne Beker - FASHION Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMG12TWV4M21iVGpvU3JxZDNRLS1RVTJiTG53YnUwSkxmOVYzWEp5XzNhdGlrSHdOTGFURWdIVC1yZ0FNclNyNHR4bnNndEtEdkRVOGJac21yREJFM3lSbFdHVkVfai1HNjd6QWZVc0EtRDg5X0V5VzZCaTVSYTVTQmlGX3c?oc=5",
+      "source": "FASHION Magazine",
+      "publishedAt": "Wed, 28 Oct 2026 16:37:55 GMT",
+      "description": "Mine & Yours Celebrates 13 Years of Pre-Loved Luxury With Jeanne Beker FASHION Magazine",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Pieter Mulier Makes His Debut at Versace at Paris Couture - nss sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9NdWFiR0xNU3FfOXpneXlieDhYbzlOME9Bb2FPV3VzLS0xX2hPaWJMRkVNYjVoYUlNdkxhX3BwVW1xZEJxZDl5WnRjWmx6M1RnM2ZHbGpObTB2NUpyVjlFT2JneUZVejc5aGdaU2ctXzNIc1dVQTByVmJfRkZwNUJaOGpvM3JyQlE3aU9sRk5LUm94T1lNcDR0aUZGN2RCQ3c?oc=5",
+      "source": "nss sports",
+      "publishedAt": "Wed, 28 Oct 2026 17:30:48 GMT",
+      "description": "Pieter Mulier Makes His Debut at Versace at Paris Couture nss sports",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
+  "fetchWarnings": []
+}

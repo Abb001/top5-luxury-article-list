@@ -1,49 +1,25 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-28T11:53:28.817Z",
+  "generatedAt": "2026-10-28T17:42:41.814Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-28.",
+  "message": "Found 2 article(s) published on 2026-10-29.",
   "articles": [
     {
-      "title": "Versace to return to Paris Couture Week - FashionNetwork - The World's Fashion Business News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnYxVDJVRmpRLWMyd2FCSWdBXzFJbjJGLVEzOXU1X1FFNzNta2ozUzRpa0cxZlRleURqUzNJakU3WVVWYjhzdHlFX1dmWHVlbmxtNElmYkNwd0M5V251bjI5VTBnbFpsMTEyYkNnMFNUcS1zcE9vQXF2X3ktWjc3M1F4aWg2alJFcmViMEZhWUs?oc=5",
-      "source": "FashionNetwork - The World's Fashion Business News",
-      "publishedAt": "Wed, 28 Oct 2026 09:13:26 GMT",
-      "description": "Versace to return to Paris Couture Week FashionNetwork - The World's Fashion Business News",
+      "title": "Mine & Yours Celebrates 13 Years of Pre-Loved Luxury With Jeanne Beker - FASHION Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMG12TWV4M21iVGpvU3JxZDNRLS1RVTJiTG53YnUwSkxmOVYzWEp5XzNhdGlrSHdOTGFURWdIVC1yZ0FNclNyNHR4bnNndEtEdkRVOGJac21yREJFM3lSbFdHVkVfai1HNjd6QWZVc0EtRDg5X0V5VzZCaTVSYTVTQmlGX3c?oc=5",
+      "source": "FASHION Magazine",
+      "publishedAt": "Wed, 28 Oct 2026 16:37:55 GMT",
+      "description": "Mine & Yours Celebrates 13 Years of Pre-Loved Luxury With Jeanne Beker FASHION Magazine",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Pieter Mulier Makes His Debut at Versace at Paris Couture - nss sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9NdWFiR0xNU3FfOXpneXlieDhYbzlOME9Bb2FPV3VzLS0xX2hPaWJMRkVNYjVoYUlNdkxhX3BwVW1xZEJxZDl5WnRjWmx6M1RnM2ZHbGpObTB2NUpyVjlFT2JneUZVejc5aGdaU2ctXzNIc1dVQTByVmJfRkZwNUJaOGpvM3JyQlE3aU9sRk5LUm94T1lNcDR0aUZGN2RCQ3c?oc=5",
+      "source": "nss sports",
+      "publishedAt": "Wed, 28 Oct 2026 17:30:48 GMT",
+      "description": "Pieter Mulier Makes His Debut at Versace at Paris Couture nss sports",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "'Drawing Prada': Brand Taps Ex-Disney Animator John Pomeroy for Hand-Drawn Holiday Campaign Amid AI Boom - Fashion Times UK",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVndPdWpkb0JiN1I2N3NrT3FpZnFZYU9JV1BCb1pJLWJUTnVLaTB3U09RczB1T2VaWDhIaWxkR2c1ajJMQ3ZxVGJWQXJjYkt5eEtBOExIQmJvU2RJTmtoU0pEMEJqX3ItY1VmZkU0RjZxVHpraHpKQUM3aHBRT1R1cm9UbUFfZ0FpUHl3aE5rN1E?oc=5",
-      "source": "Fashion Times UK",
-      "publishedAt": "Wed, 28 Oct 2026 08:06:25 GMT",
-      "description": "'Drawing Prada': Brand Taps Ex-Disney Animator John Pomeroy for Hand-Drawn Holiday Campaign Amid AI Boom Fashion Times UK",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "{Funding Alert} Luxury Watch Brand Rotoris Raises Rs 70 Cr in Series A Round - Indian Retailer",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEhXczFESjU3NWwwWHpMRTNKSkF3MS00LWJObEZfUzMzVVl0VFhETWZBekdjRXA3ekpycFpybG9kdHhKZ21HUnBQUEprZ1lQdDBpeE8wNklleVdfbnZvY3Y0WHkxcmJWdnZVRlFJSkF1OVZlcGVvZUJKd0FPOXdGM2ZCRmtWSkhCV1ZXbHVQUUlubEl3SnlXRGJweG1JTHRlZjV3V3phel8?oc=5",
-      "source": "Indian Retailer",
-      "publishedAt": "Wed, 28 Oct 2026 05:23:36 GMT",
-      "description": "{Funding Alert} Luxury Watch Brand Rotoris Raises Rs 70 Cr in Series A Round Indian Retailer",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Hermes Sales Growth Slows Against Tough Luxury Backdrop - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNci04ekc3MVJ1YVk4aVY4NWhZZUdxc29oV0FwUGZPTS1JZVZQNllWTURTX0pLUVlOZ3pHYkJrTXRvTnJhQnFoVWNOVGw5QmRzeEZJeFp3ZDdqaWVrRWJlS2ppMFBuOFhSX0xyRk9ROE1NbDRiWjhUUXNJX19uQjBiZkZqZ0RHLTc1a0pSN2ZxN0RFVkd5QXRmNEZBb1BxOUhINFhIU2Z3?oc=5",
-      "source": "WSJ",
-      "publishedAt": "Tue, 27 Oct 2026 23:35:25 GMT",
-      "description": "Hermes Sales Growth Slows Against Tough Luxury Backdrop WSJ",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "KAN GLOBAL CONSULTING Brings a More Personal Approach to New York Luxury, Fashion and Travel - Daily Front Row",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVR0ZE44bHJqNzNpWi1PcDNWWVl4bm5RdWYxei1USUN4OS0tT1RuT3hncXhuMjJrSE42cGd4cEo3UDExVHhrcHJDZllpSllyU0VZWXcxa3JuSVNKN0cyQXRhSXVaWVRfU3NpeDhWbHdVUHdKb1djRGxEaTRIRlRDaVBhWk5HVFlZaHMtTURRd2gxQ3lNNXhYcmpLZG9yZ1lvWHg5OUUxdEF1ZVk5VjlSN3JoSHlPTlRqNnNhUFJR?oc=5",
-      "source": "Daily Front Row",
-      "publishedAt": "Tue, 27 Oct 2026 17:26:43 GMT",
-      "description": "KAN GLOBAL CONSULTING Brings a More Personal Approach to New York Luxury, Fashion and Travel Daily Front Row",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
