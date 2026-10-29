@@ -1,10 +1,26 @@
 {
   "date": "2026-10-29",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-28T17:42:41.814Z",
+  "generatedAt": "2026-10-29T03:42:21.919Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-10-29.",
+  "message": "Found 5 article(s) published on 2026-10-29.",
   "articles": [
+    {
+      "title": "Autumn/Winter 2026 haute couture fashion report (part 1 of 2) - Hashtag Legend Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGxBQktHdFNyeVhEWlgwM1dBYTdycUc4dEswb2E0dXhJRVR2STl2Q0FfT0JreTRBUGNlVGRBZHZDVDhDWGl0Y0Z3SXVLOU85UGNJZElWY0NYeVBWN1hVOTkxb3pfTUgtVkc2UTVHcV9Xa2lzMHlKOXVkMHpJeENhYTFpVndaZTA?oc=5",
+      "source": "Hashtag Legend Hong Kong",
+      "publishedAt": "Thu, 29 Oct 2026 03:03:26 GMT",
+      "description": "Autumn/Winter 2026 haute couture fashion report (part 1 of 2) Hashtag Legend Hong Kong",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "What happens when luxury fashion stops impressing? - Jing Daily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTGpMOWJSeU8xMHJzNzZzRndYRllDblBJRTZrZWxnNUFlM3llZDVESEc1cTBybG9oSmI3TkJGTnkyMEFnaGN2aTFHS1ZHamhrRDRTeWRiM3hsTUF4M3pjVXh4NEd5MTJRM1RFNjJER291YW9IN3dfZmNPb0drYzBLZU9iVQ?oc=5",
+      "source": "Jing Daily",
+      "publishedAt": "Wed, 28 Oct 2026 20:16:53 GMT",
+      "description": "What happens when luxury fashion stops impressing? Jing Daily",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Mine & Yours Celebrates 13 Years of Pre-Loved Luxury With Jeanne Beker - FASHION Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMG12TWV4M21iVGpvU3JxZDNRLS1RVTJiTG53YnUwSkxmOVYzWEp5XzNhdGlrSHdOTGFURWdIVC1yZ0FNclNyNHR4bnNndEtEdkRVOGJac21yREJFM3lSbFdHVkVfai1HNjd6QWZVc0EtRDg5X0V5VzZCaTVSYTVTQmlGX3c?oc=5",
@@ -14,12 +30,20 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Pieter Mulier Makes His Debut at Versace at Paris Couture - nss sports",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9NdWFiR0xNU3FfOXpneXlieDhYbzlOME9Bb2FPV3VzLS0xX2hPaWJMRkVNYjVoYUlNdkxhX3BwVW1xZEJxZDl5WnRjWmx6M1RnM2ZHbGpObTB2NUpyVjlFT2JneUZVejc5aGdaU2ctXzNIc1dVQTByVmJfRkZwNUJaOGpvM3JyQlE3aU9sRk5LUm94T1lNcDR0aUZGN2RCQ3c?oc=5",
-      "source": "nss sports",
-      "publishedAt": "Wed, 28 Oct 2026 17:30:48 GMT",
-      "description": "Pieter Mulier Makes His Debut at Versace at Paris Couture nss sports",
-      "feed": "Google News - luxury lifestyle"
+      "title": "SIM2 Targets Australia’s Luxury Home Cinema Market With 4K Laser Projector - ChannelNews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkJUZEN2SmZhY1c2c2xvYXhFNnVabDVNek5DcV9wcVNibjJEcmJpMVFOMldBUS1pZGlic2lvODQ5emE2cTVjcWZOVU5zNmMzdWVoZmFvZjdxalV5UzhmTDAxQkx1YWNkdkFrMEZ0TnZuS2p5dk84bzZkcXBUZmdRcXpDdm1WMHA5QkphT29BRk92TnhRNE1ZYnV3NlBISGF6aWlJNFBFUFg?oc=5",
+      "source": "ChannelNews.com.au",
+      "publishedAt": "Thu, 29 Oct 2026 01:08:24 GMT",
+      "description": "SIM2 Targets Australia’s Luxury Home Cinema Market With 4K Laser Projector ChannelNews.com.au",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "SA’s record-breaking North Adelaide luxury home hits market - Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzlvNmktN2U5bEkwRG5USkJBNG9wNlpEeG1UZVprS0JpZWtDNWZmUWRJS1hibjl5REZxalcxcnBmZXc1eHBtWGVxaHVTNTlPWm9ENU1acXRNaUxVQlpsY18xUm5YWllrbVZBRXNRNlJmMWM3WTB3dnVGSWZfYjFCeVp0eUdBM2pBOE00WHZPUUluSFVkcGprYQ?oc=5",
+      "source": "Real Estate",
+      "publishedAt": "Thu, 29 Oct 2026 01:00:04 GMT",
+      "description": "SA’s record-breaking North Adelaide luxury home hits market Real Estate",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
