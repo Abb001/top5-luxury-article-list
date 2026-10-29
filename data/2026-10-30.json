@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Asia/Taipei",
+  "generatedAt": "2026-10-29T19:59:08.610Z",
+  "status": "ok",
+  "message": "Found 2 article(s) published on 2026-10-30.",
+  "articles": [
+    {
+      "title": "Five Luxury Designs for a Haute Couture Halloween - Luxus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2hNc2JpTzZjdjVsd2YtQ013dkJwQ1BhVU5MS0toOVVvZHVEQTdfOUF3N1RLRzNiMTBwRjRvZ1JqU0hVeEVvTzJiMFB3R2RsR0JhdmFaZ29iLVYzMjQ2NzR4T0VtS2lQTERDeHFmUlZRVDVpOGxpNFdlSHNfcUdVYkJocW1UNXJFdGhZMUNR?oc=5",
+      "source": "Luxus Magazine",
+      "publishedAt": "Thu, 29 Oct 2026 17:05:12 GMT",
+      "description": "Five Luxury Designs for a Haute Couture Halloween Luxus Magazine",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Bomar Builders’ proposed Fort Lauderdale megamansion hits market for $100M - The Real Deal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjRoSXVzMTVieFJoc0cyTmk5TmVFY19ra0dodEhwWHZVZDhFZXh1Mm9DQ255MHY4OF9BM0pZZ2ZSM284U01QVVVtdFRUNVdtODloc09jWlhxZGxLODMxNzRXNGZPeGJvUnNsMEkxQTNnX0twM2lYSE1zMFBOc1Y3RE5KSGlvb3phMGt3MUhxMUlYTW1TODFJUXNDRFJkcjg0SFE?oc=5",
+      "source": "The Real Deal",
+      "publishedAt": "Thu, 29 Oct 2026 17:06:00 GMT",
+      "description": "Bomar Builders’ proposed Fort Lauderdale megamansion hits market for $100M The Real Deal",
+      "feed": "Google News - luxury business"
+    }
+  ],
+  "fetchWarnings": []
+}
