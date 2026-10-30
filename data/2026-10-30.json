@@ -1,10 +1,18 @@
 {
   "date": "2026-10-30",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-29T19:59:08.610Z",
+  "generatedAt": "2026-10-30T03:44:45.286Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-10-30.",
+  "message": "Found 5 article(s) published on 2026-10-30.",
   "articles": [
+    {
+      "title": "Luxury Fashion’s LA Season Meets Kim Kardashian’s New Partnership - TheWrap",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW84Rm5qcHZENUk3UXo4bHhQYlc1bnBFalEwQzRBZUhkMzZrZUR2RE84b205Ui1UemFZS0dRcHZBQ19DSmV5Ykl6TmpOTDJkX0E4MXZUREFid3ZHTVFqTW1SRkpHT2YzLVZpQ0Q3Q2hjQXpvYlpwQVNkQy1rdTFXNHJyOGdRclIzTXBOR1dB?oc=5",
+      "source": "TheWrap",
+      "publishedAt": "Thu, 29 Oct 2026 23:49:38 GMT",
+      "description": "Luxury Fashion’s LA Season Meets Kim Kardashian’s New Partnership TheWrap",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Five Luxury Designs for a Haute Couture Halloween - Luxus Magazine",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2hNc2JpTzZjdjVsd2YtQ013dkJwQ1BhVU5MS0toOVVvZHVEQTdfOUF3N1RLRzNiMTBwRjRvZ1JqU0hVeEVvTzJiMFB3R2RsR0JhdmFaZ29iLVYzMjQ2NzR4T0VtS2lQTERDeHFmUlZRVDVpOGxpNFdlSHNfcUdVYkJocW1UNXJFdGhZMUNR?oc=5",
@@ -14,11 +22,27 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
-      "title": "Bomar Builders’ proposed Fort Lauderdale megamansion hits market for $100M - The Real Deal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjRoSXVzMTVieFJoc0cyTmk5TmVFY19ra0dodEhwWHZVZDhFZXh1Mm9DQ255MHY4OF9BM0pZZ2ZSM284U01QVVVtdFRUNVdtODloc09jWlhxZGxLODMxNzRXNGZPeGJvUnNsMEkxQTNnX0twM2lYSE1zMFBOc1Y3RE5KSGlvb3phMGt3MUhxMUlYTW1TODFJUXNDRFJkcjg0SFE?oc=5",
-      "source": "The Real Deal",
-      "publishedAt": "Thu, 29 Oct 2026 17:06:00 GMT",
-      "description": "Bomar Builders’ proposed Fort Lauderdale megamansion hits market for $100M The Real Deal",
+      "title": "SA’s record-breaking North Adelaide luxury home hits market - Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzlvNmktN2U5bEkwRG5USkJBNG9wNlpEeG1UZVprS0JpZWtDNWZmUWRJS1hibjl5REZxalcxcnBmZXc1eHBtWGVxaHVTNTlPWm9ENU1acXRNaUxVQlpsY18xUm5YWllrbVZBRXNRNlJmMWM3WTB3dnVGSWZfYjFCeVp0eUdBM2pBOE00WHZPUUluSFVkcGprYQ?oc=5",
+      "source": "Real Estate",
+      "publishedAt": "Fri, 30 Oct 2026 02:40:34 GMT",
+      "description": "SA’s record-breaking North Adelaide luxury home hits market Real Estate",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Inside Isle Of Monday's Bet On The Future Of Luxury Vintage Rental - Bundle",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS25Xend3QVRzYWVfR0k0eUl3WFZfVUVIenpTM0lGaS1KOWt5M3Z3bzQ3QmRWeGozVTlvaFpZd1p2bmczelA4Y0sxOUpGZTZBNW01MzdGcUowV0Y4c0RxZmtRWnBORVNxMnhOWTlOMEo4Q2sxWXVzRFp2T3NFSGwxVV9Eck5mX0NoWG9pY0VXNDJUN3hZQ0lybk5MZFpBVzFQWmE1ZnQ4OVV4RUtuM3Y5NkVyV0Nfa2lCVGxLOU9xd0kwb0FWU0hWUEdXWktUZDN1?oc=5",
+      "source": "Bundle",
+      "publishedAt": "Fri, 30 Oct 2026 02:23:29 GMT",
+      "description": "Inside Isle Of Monday's Bet On The Future Of Luxury Vintage Rental Bundle",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Nashville housing market nightmare as luxury condo owner suffers staggering $325K loss in just 31 months... and experts warn worse is to come - Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMU1meWZhbTFuS3pmYnB2bFNZb3BESGVWSVBLdVZOS3VhM3ZIbi1YTTl5RWdDaFNVWGc1enBUd0hoY0VFdW5KQ2NtamJnWWhrZzhGSUIzYXFFZWJGelpSeThUQW9qLXBPdFB2LTlyYjQyeDZQVWNuaWhwd2lSTXEtcXpzMVFuRGhFbXc2VGpLUHhHY3lwaWVN0gGcAUFVX3lxTE9hZFIwdkhIVlRzN1FmcW9DbHVJd2NkcFdCX1NKU1JINXJjdXdDNzZDdGJVdi1zdExjSjVwSE5UeGw0LWlaMDhvYTM5SjRDR01HbDBWSGdzemVsQWw5T3lrZW9nMWp5anYtNVkyVy1wTmhZbUhhR1RhQmtBWUNzSi1rejY5SXprVE53NW5OVVNKTFI2M3lrQTRnZTYweg?oc=5",
+      "source": "Daily Mail",
+      "publishedAt": "Thu, 29 Oct 2026 21:04:05 GMT",
+      "description": "Nashville housing market nightmare as luxury condo owner suffers staggering $325K loss in just 31 months... and experts warn worse is to come Daily Mail",
       "feed": "Google News - luxury business"
     }
   ],
