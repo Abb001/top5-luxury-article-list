@@ -1,49 +1,17 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-30T11:54:52.789Z",
+  "generatedAt": "2026-10-30T17:31:21.018Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-30.",
+  "message": "Found 1 article(s) published on 2026-10-31.",
   "articles": [
     {
-      "title": "Versace Makes Shock Couture Comeback After 10-Year Hiatus as New Creative Chief Pieter Mulier Prepares Debut Collection - Fashion Times UK",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0xMeVFUeGNNMGJWU212LWIyUk5qY2c5UjVKOHVhYWVBUnlTbnFCMXVRYXJTXzQtSDMweXhYN01XYVNSTUs5aThVUmpQQlZ2T2FaSjh2NFd0bFAzQjBjLWtKZnFmenVBZG94R0E4TnVyLV9COEFURFFWWmIxRUEwaWdkMTBGT0pjUUtfWjg4LXppUnMzT0xSVGJ3?oc=5",
-      "source": "Fashion Times UK",
-      "publishedAt": "Fri, 30 Oct 2026 10:10:52 GMT",
-      "description": "Versace Makes Shock Couture Comeback After 10-Year Hiatus as New Creative Chief Pieter Mulier Prepares Debut Collection Fashion Times UK",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "Hermes Sales Growth Slows Against Tough Luxury Backdrop - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNci04ekc3MVJ1YVk4aVY4NWhZZUdxc29oV0FwUGZPTS1JZVZQNllWTURTX0pLUVlOZ3pHYkJrTXRvTnJhQnFoVWNOVGw5QmRzeEZJeFp3ZDdqaWVrRWJlS2ppMFBuOFhSX0xyRk9ROE1NbDRiWjhUUXNJX19uQjBiZkZqZ0RHLTc1a0pSN2ZxN0RFVkd5QXRmNEZBb1BxOUhINFhIU2Z3?oc=5",
-      "source": "WSJ",
-      "publishedAt": "Fri, 30 Oct 2026 08:07:53 GMT",
-      "description": "Hermes Sales Growth Slows Against Tough Luxury Backdrop WSJ",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Wicknell Chivayo’s lavish lifestyle: Luxury cars, private jets and designer fashion - IOL",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDBaSUo1NVB2NXNzZWNfRjk3Q2FLMTFFVEZrZ1JNM2dOSEFvbmtDeFJGUExJMGgyZ0VZOWRsOWNrcFJ1UU5MRGV5dVVOV0RacFhlZEdXeW9qWWxsVzJDWGIxcjFuUjZqNndrMjBtd1NCXzczWHlELWhianZWaGN5aU8xOHJmaEdMTGYwS2lBV0dnWHJIeVNrV2VINkhIVnZFVWJiZmdwOU5vcmY2MmFVYlNtR09PTGpRS0RLOVBYZ1ZyQ2x1Y1NlQ0p5bzJYc0ZvNlhiR2N5M2U?oc=5",
-      "source": "IOL",
-      "publishedAt": "Fri, 30 Oct 2026 03:10:22 GMT",
-      "description": "Wicknell Chivayo’s lavish lifestyle: Luxury cars, private jets and designer fashion IOL",
+      "title": "MadaLuxe Acquires North American Rights to Sweden’s Dux Luxury Bed Brand - WWD",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRkhvX2JYZXVRX0JXYjJZVE9NajlwckNGUzZsTjRBYTh2Y1NnOVNnSFR4YVFZUE9uSlVGZjdidFJ3TmxFSHNzRnMzWGRRd1l6Tkt3LTl0LVJobnREaE5Mekt2dnlicE44TkRLTk1WMWhQeldxbEU0cjVHd0p1ZGtOODhNUEtXWDZzSnVpeEQtLW9zY1FBUGc?oc=5",
+      "source": "WWD",
+      "publishedAt": "Fri, 30 Oct 2026 17:19:50 GMT",
+      "description": "MadaLuxe Acquires North American Rights to Sweden’s Dux Luxury Bed Brand WWD",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury Fashion’s LA Season Meets Kim Kardashian’s New Partnership - TheWrap",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW84Rm5qcHZENUk3UXo4bHhQYlc1bnBFalEwQzRBZUhkMzZrZUR2RE84b205Ui1UemFZS0dRcHZBQ19DSmV5Ykl6TmpOTDJkX0E4MXZUREFid3ZHTVFqTW1SRkpHT2YzLVZpQ0Q3Q2hjQXpvYlpwQVNkQy1rdTFXNHJyOGdRclIzTXBOR1dB?oc=5",
-      "source": "TheWrap",
-      "publishedAt": "Thu, 29 Oct 2026 23:49:38 GMT",
-      "description": "Luxury Fashion’s LA Season Meets Kim Kardashian’s New Partnership TheWrap",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Five Luxury Designs for a Haute Couture Halloween - Luxus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2hNc2JpTzZjdjVsd2YtQ013dkJwQ1BhVU5MS0toOVVvZHVEQTdfOUF3N1RLRzNiMTBwRjRvZ1JqU0hVeEVvTzJiMFB3R2RsR0JhdmFaZ29iLVYzMjQ2NzR4T0VtS2lQTERDeHFmUlZRVDVpOGxpNFdlSHNfcUdVYkJocW1UNXJFdGhZMUNR?oc=5",
-      "source": "Luxus Magazine",
-      "publishedAt": "Thu, 29 Oct 2026 17:05:12 GMT",
-      "description": "Five Luxury Designs for a Haute Couture Halloween Luxus Magazine",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
