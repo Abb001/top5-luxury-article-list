@@ -1,16 +1,48 @@
 {
   "date": "2026-10-31",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-30T17:31:21.018Z",
+  "generatedAt": "2026-10-31T03:28:47.112Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-10-31.",
+  "message": "Found 5 article(s) published on 2026-10-31.",
   "articles": [
     {
-      "title": "MadaLuxe Acquires North American Rights to Sweden’s Dux Luxury Bed Brand - WWD",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRkhvX2JYZXVRX0JXYjJZVE9NajlwckNGUzZsTjRBYTh2Y1NnOVNnSFR4YVFZUE9uSlVGZjdidFJ3TmxFSHNzRnMzWGRRd1l6Tkt3LTl0LVJobnREaE5Mekt2dnlicE44TkRLTk1WMWhQeldxbEU0cjVHd0p1ZGtOODhNUEtXWDZzSnVpeEQtLW9zY1FBUGc?oc=5",
-      "source": "WWD",
-      "publishedAt": "Fri, 30 Oct 2026 17:19:50 GMT",
-      "description": "MadaLuxe Acquires North American Rights to Sweden’s Dux Luxury Bed Brand WWD",
+      "title": "Luxury Fashion Founder Brunello Cucinelli Under Fire Over Alleged Touching of Actresses - Fashion Times UK",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSV9MUlRoVXNMRDY0TEVEdE1IdzNtNGF6OTRfOFlMUlQ4eXRsYnVibTcxTDhhRzBUMDQyZUtSVkhSVERNX1JKVGxlMUwxdnFoTkNFcFZtWFpBYVZWVmhvdTNPdmxFT0N4SDcwd0hRS2g3ZTFSTzlfMEVUMDdGaHVPOWdaVHRZLTFHSXdMQlRxaVI?oc=5",
+      "source": "Fashion Times UK",
+      "publishedAt": "Sat, 31 Oct 2026 02:12:47 GMT",
+      "description": "Luxury Fashion Founder Brunello Cucinelli Under Fire Over Alleged Touching of Actresses Fashion Times UK",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "San Diego’s luxury real estate market was on fire this summer. Not anymore - San Diego Union-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVRXSjR4dkdFRWtsbzNNcmx3bmZEMGZCM1ZDbmdaX2xUdUZHN3VwYi1hVVpBWFJ2b2VtVm1RSEpHZ3lUMlNLb21ZRDBmZkQxS1NtbjNJWWZwa3piQXE3TnZBUWFCdEdQYWhad21tRmp6RHZoamo5WERUUGVLeVUtb1lINm9TRVRvN2IzX2tFdkNQU1RvVGViQ2VnY1FrOXdBLW1fZkJ3YVFQZHU3ZDRkVEgwMjd0bzZPak9iSGZB?oc=5",
+      "source": "San Diego Union-Tribune",
+      "publishedAt": "Fri, 30 Oct 2026 20:21:47 GMT",
+      "description": "San Diego’s luxury real estate market was on fire this summer. Not anymore San Diego Union-Tribune",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Miami office market evolves as companies seek luxury, amenities and location - NBC 6 South Florida",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUJpUmNaeVNXOWlIXzdMWDlEUmZLSUozOTk1U0JiSWxhRmNtLUEwMVNQR3hYMUpKX1pzMkxuU05vTk1CdlE3SXlPbE1jQ1czckl5dk5weEJXNmJwdzZBaXc3MnM4TW9kcHRqUzFtaHVDcDNNSUxRVkJteHQ2SGRuLUpzQVhSVzFJY2MtYkdjNWluZVFiNTJvdzFJNVVJeTRkbm1KdnVSUm1VcDE3UEItYWlYcGhpOGx3QzhUVNIBxAFBVV95cUxNc1NqRFhaWWw5TENqalRORnpZcXozampXTjNPekZvVDRZLUJ3dVY5bXY3Zno0VFI4X0NzeTM0UFptdTE2SHBmeW1pYnUyY0puWjVlOWhxdm5TTEUxOFVQdTVGdF9GdFV0RU1HV1ROb0NoR3QzWnpxYm43WDlRb3prNlVjNDhSNlJBaGhrbE50WUNDZDFEYVN2aUk5ZndRdUZiNS1YaVFfbTZqcHRXQnk4MG1XalYtY0R5cHlxN3NZbmdKM0dm?oc=5",
+      "source": "NBC 6 South Florida",
+      "publishedAt": "Fri, 30 Oct 2026 19:34:32 GMT",
+      "description": "Miami office market evolves as companies seek luxury, amenities and location NBC 6 South Florida",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "A secret venue, celebs and big spenders: Chanel’s first show Down Under - AFR",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWNSN2J2SHFxLUxEV1R1YUpuWldNU3dsZEltN1U1emJseUNWSm05T1lVZnNJa1VrWWVmMnZFckpadkpKbzAyNng0MXhqaEtxVVNZa1NEQXRhVWFWV0JIUVlIY0U4RGlfMTF5d3UtWHlWLW91NGlkVFZRa0ZxMHdkSXg2MDRJeWZ4d2MtYXVnLTNUTkxaSHl1MFVrNVZpbmNzZHZMMmF3akNaUWUyQWluS0lRWjlic2FqR1hoSUxNRjdYN3lzV1J3QXEzQVdVTUR2U2owQzZR?oc=5",
+      "source": "AFR",
+      "publishedAt": "Fri, 30 Oct 2026 18:00:00 GMT",
+      "description": "A secret venue, celebs and big spenders: Chanel’s first show Down Under AFR",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "The value of chrome hearts and luxury value. - celebrityfigures.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlF3NGlZYWZsNkFXU2s2aVVfYXhnQ0dlSUREMlE1SFJfUm9IelFNMkJPR1Mza0I0TDRBRkdnMWtKSjVMMHVvUk1BMm5HRFJkMF9ZTS00NDc3NEFYUmwyYTQ0RHpNOTRfZVhleUZTS1ZkdFJDZVgzQlFDdDdvbWN3dg?oc=5",
+      "source": "celebrityfigures.co.uk",
+      "publishedAt": "Fri, 30 Oct 2026 17:33:36 GMT",
+      "description": "The value of chrome hearts and luxury value. celebrityfigures.co.uk",
       "feed": "Google News - luxury fashion"
     }
   ],
