@@ -1,50 +1,9 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-10-31T11:28:15.415Z",
-  "status": "ok",
-  "message": "Found 5 article(s) published on 2026-10-31.",
-  "articles": [
-    {
-      "title": "“The Myth of Luxury’s Invincibility Is Faltering”: Hermès, LVMH and Kering Shares Plunge as Geopolitical Uncertainty and Weakening US and Chinese Spending Take a Toll - https://economy.ac/",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZY0VCa3pTVjFLZVU2cE85NDJwVXhPWmRPMEJwbnQyZVRJSFRnR3FPSDR5NmVCM185ekFnLVdPSDdDOHdvYXRqcmJKOHJjMEhpdEh5TUl6WQ?oc=5",
-      "source": "https://economy.ac/",
-      "publishedAt": "Fri, 30 Oct 2026 23:12:19 GMT",
-      "description": "“The Myth of Luxury’s Invincibility Is Faltering”: Hermès, LVMH and Kering Shares Plunge as Geopolitical Uncertainty and Weakening US and Chinese Spending Take a Toll https://economy.ac/",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Luxury Fashion Founder Brunello Cucinelli Under Fire Over Alleged Touching of Actresses - Fashion Times UK",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSV9MUlRoVXNMRDY0TEVEdE1IdzNtNGF6OTRfOFlMUlQ4eXRsYnVibTcxTDhhRzBUMDQyZUtSVkhSVERNX1JKVGxlMUwxdnFoTkNFcFZtWFpBYVZWVmhvdTNPdmxFT0N4SDcwd0hRS2g3ZTFSTzlfMEVUMDdGaHVPOWdaVHRZLTFHSXdMQlRxaVI?oc=5",
-      "source": "Fashion Times UK",
-      "publishedAt": "Sat, 31 Oct 2026 02:12:47 GMT",
-      "description": "Luxury Fashion Founder Brunello Cucinelli Under Fire Over Alleged Touching of Actresses Fashion Times UK",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Anguilla sets its sights on Latin America’s luxury travelers - Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmtVUzhmNGN1c3RodXZPMnRTSm8tOWZWbWpuNmw4a1NFRjJBd2VJRllYRmJkeXVFdGw2MGZ6R0lpcG5lNFhMZkxCTzI5d21FaTVoakJSQ25aamgxanFFanVPWGZOQmhYeEZRbEpjdWlhaENyUXZrRnB3RlUxeUZPS1ZNUE90QmZVckd2MllTcTQ3d1Zrdzl0NWhyRThPUm9QRmg2OHpTek80YlVf?oc=5",
-      "source": "Breaking Travel News",
-      "publishedAt": "Sat, 31 Oct 2026 10:00:41 GMT",
-      "description": "Anguilla sets its sights on Latin America’s luxury travelers Breaking Travel News",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "San Francisco experiencing luxury real estate market boom - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekRrQnJYRVRpdDc0dVF4Smo2c2EweVJybFBMUnBxeGc2dEZrbnU5RjlOVGJkUENwc3pWX0RidTV2eUh4UW03X2NPR1dIU2w1M1ZwUDR6dkV0SGZiSkJyVUVQSkQ5Qk5DNVFOS3lvN05zMzZqZDVaT2dQdjBodHBaYzVZMkd3Y0pyYzByVkQycDd1OUc5TF8tZkh0aVp2dFY4UXpj?oc=5",
-      "source": "CBS News",
-      "publishedAt": "Sat, 31 Oct 2026 04:17:00 GMT",
-      "description": "San Francisco experiencing luxury real estate market boom CBS News",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "San Diego’s luxury real estate market was on fire this summer. Not anymore - San Diego Union-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVRXSjR4dkdFRWtsbzNNcmx3bmZEMGZCM1ZDbmdaX2xUdUZHN3VwYi1hVVpBWFJ2b2VtVm1RSEpHZ3lUMlNLb21ZRDBmZkQxS1NtbjNJWWZwa3piQXE3TnZBUWFCdEdQYWhad21tRmp6RHZoamo5WERUUGVLeVUtb1lINm9TRVRvN2IzX2tFdkNQU1RvVGViQ2VnY1FrOXdBLW1fZkJ3YVFQZHU3ZDRkVEgwMjd0bzZPak9iSGZB?oc=5",
-      "source": "San Diego Union-Tribune",
-      "publishedAt": "Fri, 30 Oct 2026 20:21:47 GMT",
-      "description": "San Diego’s luxury real estate market was on fire this summer. Not anymore San Diego Union-Tribune",
-      "feed": "Google News - luxury business"
-    }
-  ],
+  "generatedAt": "2026-10-31T16:35:41.325Z",
+  "status": "empty",
+  "message": "No articles published on 2026-11-01 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
   "fetchWarnings": []
 }
