@@ -1,10 +1,18 @@
 {
   "date": "2026-11-02",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-01T19:17:15.432Z",
+  "generatedAt": "2026-11-02T03:40:09.758Z",
   "status": "ok",
-  "message": "Found 2 article(s) published on 2026-11-02.",
+  "message": "Found 5 article(s) published on 2026-11-02.",
   "articles": [
+    {
+      "title": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages - WWD",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1djY0l0Uk5Bb3Y4UXdVV0o4NFY0YUdZbnJTdmpMWk9BTUhGUm9NS0ZJLWk1ajVDLXdOUkM1NHBwTVQyOWNPLWxUcWZ2YlFMYUlMSThUMjFUR21TZkNvVHhjR3NaMGpGZ25rc2tTbHdLbkV2ZHZiVWoyWUkxTkZLNDdISGNqVXpzZTRpR2hpcTEzQzlwTllxM1hsMnI2eG9sbzV6V0dFSF9rLUZfODY5Q1NKOTc5bnM?oc=5",
+      "source": "WWD",
+      "publishedAt": "Sun, 01 Nov 2026 21:45:35 GMT",
+      "description": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages WWD",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Chinese Luxury Brands Gain Ground Against European Fashion Houses - logos-pres.md",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2R3ZmozSTBtc0g1UVpzUFZFaVJQQ2JONEI0eUlpWTd4MTlPZ3VzanFocWNuLWEtc3A1b0tKUXRJaUIzX1VVaFM5bHFBYnlLRWdsTlRLOElhVjJQME9VMjktVGxLWTZ6U01kWkNSMUx2UEh5R3VzeVN4c1plNlFhN1VQVHhhSVBxb1IwMlp3QQ?oc=5",
@@ -14,12 +22,28 @@
       "feed": "Google News - luxury business"
     },
     {
+      "title": "Pinecrest Luxury Home Sales Reached $203.7 Million in Q3 2026 - Haute Living",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0xXd2xyM0ItcFRWS1hIanFMWTZiUktQcTR2N3dHZ1F3Q3V4dnpUbXk3NVZkRzRLX1RDdFlkZ05Hc1V4QUNFMkZJSXVGM3NPbDUxOXN4cVI5QmtFT2JyTTAtQUtWSDNsYk44QVlZbTNRT3RKSmFFMTRGelFTMkxlRmRGR093Z1hBQmVEUWdIVQ?oc=5",
+      "source": "Haute Living",
+      "publishedAt": "Sun, 01 Nov 2026 22:06:47 GMT",
+      "description": "Pinecrest Luxury Home Sales Reached $203.7 Million in Q3 2026 Haute Living",
+      "feed": "Google News - luxury business"
+    },
+    {
       "title": "India’s luxury car buyers are paying a premium for exclusivity, says JLR India MD - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ2xFNFFHMGpXN2VsZUxCcDhZUDlhUFZjTDNaMFRaV3VTN2JNNmJfUFhvUTZOdjAtRXZvRkpTRW1CUEZ2UGw2TGF6MG5JalRPY1dZY3NZSkh5YnFQSXNZMTU3UFI4SFcwZThRQ1RGMy04ZVoyNlNfY0M1MUpQbWtfS0FtS2pXRjFaYUtEQnpQanFpVUxnZUNrTzQxOTN4RWtLbktybzNzaHJjYlVtRi1fRno4bnFhNWg1STJxSUpZVnRTazdTLTBpN2h3bXVrTlFqNmNnSE9PTHNiVElwdjAxMkxsZEE5WlZUdXNTb9IB8gFBVV95cUxPdUdkNDNTUWUtUFQyVXh3SFNrLXZVRjNRVHRUVkx6eGEteC12cmE2SW1UWVMtUGVNb0s3Y05yR0dhQXBGZGRJQTl1dFl2ZlNwWHdERE5Pd2VvOHZid1VCWDJaTzBzZ0M4Zl95OFNBa0Z3S21lck51cDVKc0pCbW16MTkxNjY4Y1I4b1NyeUE5bzZ2WVljdHZvT0VJc1c3YmVoOTJaX0ZMM05udHA1WHVXb0V3TEpMdjRWRVdqV19rbHp4bnBBXzVUYWh0ZjRoR1RWVGs1TVBhN0FKaXNYYTJ6eGFBSHNzazVDZE0ybU1YSDIydw?oc=5",
       "source": "The Economic Times",
       "publishedAt": "Sun, 01 Nov 2026 16:10:42 GMT",
       "description": "India’s luxury car buyers are paying a premium for exclusivity, says JLR India MD The Economic Times",
       "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Liu Yifei looked like a bride at the W Gala. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkUkxiQngzSWswLUtVaWw4R0d4U2pSUVVfM1dPbzlTVVdtQktNTGMwQXUyY1NDSEN4YlUyYjB1RHc0ZUVwX0U2MFByRGFiQThuNGJLUUpYSEJhLV8wX2s2V21zMUNJeUE2WDdNM3VRMUQ1QmtCcTNRWTJhRXg?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "Mon, 02 Nov 2026 00:22:10 GMT",
+      "description": "Liu Yifei looked like a bride at the W Gala. Vietnam.vn",
+      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
