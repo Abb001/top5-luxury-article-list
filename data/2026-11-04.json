@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-04",
+  "timezone": "Asia/Taipei",
+  "generatedAt": "2026-11-03T20:42:48.213Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-11-04.",
+  "articles": [
+    {
+      "title": "Belvedere Takes Luxury Back to Its Roots - The Impression",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBud1lsejg1dkhqVmNoT2RuRXNMUV82aV9YVEZKTnA3VjlLaWJkR0dxdWVGM2x3UE01b3otNmVzX1UzMzNwckdTbHk0WjdtS0E5dGNDcDVmT3R4ZTFySl9pd1pzblNVSFhqSFZ4VFpqZkpLRXVS?oc=5",
+      "source": "The Impression",
+      "publishedAt": "Tue, 03 Nov 2026 17:18:11 GMT",
+      "description": "Belvedere Takes Luxury Back to Its Roots The Impression",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Pimlico Homes unveils luxury Darras Hall scheme - Bdaily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2JUbkpMRUdSUVBuSmh0MlBieDkteWpCX09JSlViU0Q0VW02bXFld0Y2UFUwVWt2Ml82MDJkal9DUDgtUlFmZzEwX0RXMFc5U3UzT2JySkZENnR0eWlzNmsxREcyWE9uUHpocHg0YklPRkZMOXhySV9GT2N4cnRyLTVqVkNka2tuRnNtT3JMdWFTUE5GdzlJR2FoWXFMdlVlbVE?oc=5",
+      "source": "Bdaily",
+      "publishedAt": "Tue, 03 Nov 2026 16:49:49 GMT",
+      "description": "Pimlico Homes unveils luxury Darras Hall scheme Bdaily",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Amy Green: Environmental Philanthropist and Luxury Designer - TechFinancials",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3pKOFZmV3BXNWNycVI0eWJFMlJQT1BfMDZYUXAzWDlvQWQ0QzBiaHd5T3pvY1Y4bDFEN29VTXJfT3BabmNBSWF1WjJLMW9INjlpMG5qNU0xRnBhS1dLUUVic0I0ZmY2VTVFLTZVdkZhRHpHSlVNNmkyXzQ5LXZrZ3FMQ2NqZlBkNEZ0VU9WbFFjMFVKUWZNN01SaEhQcnpr0gGoAUFVX3lxTE1wWENWRFhybEZRZEF5eDV6ZWRnbGgxU3NyRjN3Z1VINDVxN21PWnNpZmI2R1kxdWM1Y2J4UXNBbXFFSkh3NFloLVV6ZFVhTndwQXFvaExsLWNoZkFpd0tnTEtmR2RpTTZfeE1oQmstV25rblJVYjhfMS14MkdWbWdydW5XczlnaU42UHhfSWhwZEhvTmxMYm14TlJKZ2RCRFJUenZzQUZBdg?oc=5",
+      "source": "TechFinancials",
+      "publishedAt": "Tue, 03 Nov 2026 16:45:47 GMT",
+      "description": "Amy Green: Environmental Philanthropist and Luxury Designer TechFinancials",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Markus Persson lists Beverly Hills mansion for $70 million amid softer luxury market - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQW0wTWxhSURQMUczMGRWUUVTX3hCMDlzX3pNSGlBOVlmN0ViRm8xNmdDMFBoYmsySXZmbW9QWXVFQ2w4ZERXaC1yLVFoVUJNYm9sWk9ockh2QlJrSG9LSHlBYnBMQjJNdkNQcnNFRldJTjFzRDA1eXJzaUlTcndKTGVESXVtMUNBYWFYYkNCMTdUTzUxZzl2aFpJYndwdjQ?oc=5",
+      "source": "Traders Union",
+      "publishedAt": "Tue, 03 Nov 2026 16:32:43 GMT",
+      "description": "Markus Persson lists Beverly Hills mansion for $70 million amid softer luxury market Traders Union",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "The H&M and Elie Saab Collab is Finally Here - Mix 93.3",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kcFdIR213YWFKNFlITDVvRk51Wmd2NnVhcjRQaFB3UGI1R0NoNzdUYmpheHdZYkg4VlcyOS1GSzNYUjVmNDltanR5SllHWUJUMnhRRWVmUXF0N2U2bzJQaWZrQzhRc0hlR3E0eFVObw?oc=5",
+      "source": "Mix 93.3",
+      "publishedAt": "Tue, 03 Nov 2026 19:40:23 GMT",
+      "description": "The H&M and Elie Saab Collab is Finally Here Mix 93.3",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
+  "fetchWarnings": []
+}
