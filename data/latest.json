@@ -1,49 +1,17 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-07T12:10:24.135Z",
+  "generatedAt": "2026-11-07T19:12:55.872Z",
   "status": "ok",
-  "message": "Found 5 article(s) published on 2026-11-07.",
+  "message": "Found 1 article(s) published on 2026-11-08.",
   "articles": [
     {
-      "title": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages - WWD",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1djY0l0Uk5Bb3Y4UXdVV0o4NFY0YUdZbnJTdmpMWk9BTUhGUm9NS0ZJLWk1ajVDLXdOUkM1NHBwTVQyOWNPLWxUcWZ2YlFMYUlMSThUMjFUR21TZkNvVHhjR3NaMGpGZ25rc2tTbHdLbkV2ZHZiVWoyWUkxTkZLNDdISGNqVXpzZTRpR2hpcTEzQzlwTllxM1hsMnI2eG9sbzV6V0dFSF9rLUZfODY5Q1NKOTc5bnM?oc=5",
-      "source": "WWD",
-      "publishedAt": "Sat, 07 Nov 2026 04:05:27 GMT",
-      "description": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages WWD",
+      "title": "Kultura Atelier and accessible luxury fashion - Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JY2drSERWMGlxcUw3SWNBSDA5MkdsVl9sa0c5VW9jd0hsQUZ5bVVyM1pqYlBqX2ZZNTZ4dzJTZDRKOURSVlVyUWdMU0VYcDA0T21SS1RfU0Mza0ZzcmxkSTVSaWFaSzZtaFFJT3BfQXhSaGJPcWZRajRIdll0Sjg?oc=5",
+      "source": "Manila Bulletin",
+      "publishedAt": "Sat, 07 Nov 2026 16:13:03 GMT",
+      "description": "Kultura Atelier and accessible luxury fashion Manila Bulletin",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "'Stop colonising cultural clothes': Internet calls out luxury fashion industry for copying South Asian kurta - The Current",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVo0ZHhwTDJjdE4zZlRNdm5GVDg1cG9reEVydzJjMjdkcVFlNGswQk1iZDlrSV9pQ3Fwcjd4VV9JT3Q2WUtCZVhhV19sVFNwa0VQQUJic3Z4aXZqMkZvM1A5ZVlITVNtN2tQUk5aS0tGVnk3NEhUeE5vMThnTS1VUWZFZ3labFlIVHE0MGI0RDUwWXgtcFhjWno0eE5GNEZpU3dwS29oVXBuTEJ5c3QyaDNFNG81RVAwZG5TbWNvaDhvSXgtTlpV?oc=5",
-      "source": "The Current",
-      "publishedAt": "Fri, 06 Nov 2026 20:09:35 GMT",
-      "description": "'Stop colonising cultural clothes': Internet calls out luxury fashion industry for copying South Asian kurta The Current",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "From Croydon to couture: British women take fashion’s top jobs - The Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmRpZnJmV0dsYWd1dG1RZE1JYXF1MlZ5Q3FhSzhFX3ctSWlUcml4TlU5cFRqQzdIXzRFd0ctb2Q2SVNfMlpTNGhaWWJGM3M1X3J6aXRuNk1BWFNLT25rUU9wZTd3ck9JSEZNUVNxeExPS19WN0t4STJkVnlGMGwxRFlwX0Q3RUt4ZEZGRk5hZDktSm1qRU1Z?oc=5",
-      "source": "The Times",
-      "publishedAt": "Fri, 06 Nov 2026 17:29:13 GMT",
-      "description": "From Croydon to couture: British women take fashion’s top jobs The Times",
-      "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "The Macallan Blends Fashion, Culture And Luxury At Lagos Fashion Week - Brand Icon Image",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkJ2Smc3T0V4UG5mTnJ2SWU0TE5RaXBwTUxaX0pQSEE0LUJvVHk4MjhTV2sxQVpaOGE1blZLQzNaVGR5X1k2c09oMDBZY0JUOWdaMmhIeTFQcXJEQ2d4Tno5QXBGNjQ3RXU2S2s5bWpDejNFcXF1VXctb000ZmlRbGxXWW5nMzNsOGFF?oc=5",
-      "source": "Brand Icon Image",
-      "publishedAt": "Fri, 06 Nov 2026 16:19:00 GMT",
-      "description": "The Macallan Blends Fashion, Culture And Luxury At Lagos Fashion Week Brand Icon Image",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "‘Read The Room’: Tiffany Trump’s Luxury Magazine Cover Draws Ire - HuffPost UK",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTJKSG1fUXU0eUdxX1pPbmtwN0dnVDBSSUlRZ1RTaGNFa254QWJZQjItbG9IaS1QQnR4N2U0SUNncEF1ZGJZaHJET2tKc0dlYW9VcEtzS0NHOE1FSFNaMVBmWnJuenVoTXdMVnVyNDFjVk9wWHJhbnRIQzMwXzNtZ0ptZVhVNk0tRUluLTVreW1kREFxMFczOGdKM0RfTVc4YXVjaDlUSW12RzdUTXNaNEVORWl2SnZnbkFZTDhwV2QtSnBVOS13dHFR?oc=5",
-      "source": "HuffPost UK",
-      "publishedAt": "Sat, 07 Nov 2026 12:00:17 GMT",
-      "description": "‘Read The Room’: Tiffany Trump’s Luxury Magazine Cover Draws Ire HuffPost UK",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
