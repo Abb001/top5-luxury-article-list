@@ -1,10 +1,42 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-08T03:38:55.281Z",
+  "generatedAt": "2026-11-08T12:30:49.142Z",
   "status": "ok",
-  "message": "Found 4 article(s) published on 2026-11-08.",
+  "message": "Found 5 article(s) published on 2026-11-08.",
   "articles": [
+    {
+      "title": "\"My daughter used to ask only for Gucci and Chanel bags, but she's changed\"... The bag she's fallen for instead of luxury bags costing millions of won - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3NDRlVUVFM3lpLTVNUlBxRjdxX1piSlhhS1VzTXlxVUFzX1J3bUpiTmo5aEdUQkd4WHNiSHFFdmJvLUZTUEJzNlk2UFpyLWN6LU00b3BFQzl5ZEh5SWJmX0E5S1U?oc=5",
+      "source": "아시아경제",
+      "publishedAt": "Sun, 08 Nov 2026 04:50:57 GMT",
+      "description": "\"My daughter used to ask only for Gucci and Chanel bags, but she's changed\"... The bag she's fallen for instead of luxury bags costing millions of won 아시아경제",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages - WWD",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1djY0l0Uk5Bb3Y4UXdVV0o4NFY0YUdZbnJTdmpMWk9BTUhGUm9NS0ZJLWk1ajVDLXdOUkM1NHBwTVQyOWNPLWxUcWZ2YlFMYUlMSThUMjFUR21TZkNvVHhjR3NaMGpGZ25rc2tTbHdLbkV2ZHZiVWoyWUkxTkZLNDdISGNqVXpzZTRpR2hpcTEzQzlwTllxM1hsMnI2eG9sbzV6V0dFSF9rLUZfODY5Q1NKOTc5bnM?oc=5",
+      "source": "WWD",
+      "publishedAt": "Sun, 08 Nov 2026 06:45:35 GMT",
+      "description": "CEO Talks: How Gucci Westman and David Neville Are Building a Luxury Beauty Brand for the Ages WWD",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Feasting with fashion: How luxury brands are finding ways to bring style and craftsmanship to the celebrations - Mid-Day",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdkR5bHhCZUMzcS1CWU1EZElTLVBIMVRXYnpFd2UxWHM2cEIyU0FXWExFc3JuTmEzYk55aW9nQUl4TUwzSmlJeHB3UnRzNkFTcXNZdFA3VU5KZnRBQ0trZWlMUkQ1QzJlT09RMFRvZmZ3TTFHQ0cxR0hKUzQxYTFydlhpR0lZSU5va2lRc1BmT3JIQndteWx5M05ycm1PYmpIbHQ5VzFTNHpwNDlkWnJlSU9hTW82dUFHVkNwa3drZ3diU01QZU1YOUx5YjdnM2VoYnpCV3FNNkFhR2czQTVPWEJsel9HZ1JPb2hWMnZhVjV4MTc0ckZMUQ?oc=5",
+      "source": "Mid-Day",
+      "publishedAt": "Sun, 08 Nov 2026 04:34:00 GMT",
+      "description": "Feasting with fashion: How luxury brands are finding ways to bring style and craftsmanship to the celebrations Mid-Day",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "I Love Luxury Fashion, But My Favorite T-Shirt Comes From A Teen Mall Store - BuzzFeed",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnIzaEpKWUJfYjVLU0ZsbW0wRmw3V1BvcFBUejVRQ0YtLWVqaGlwMExPSWNmOXdmcUt6LUs0d0lnUFo1NjI5RVA4bEFYSFlTY29fc2V4aEZTaG4yUFhmQ0RBNV9tZGpoWTFhYjA5Ml9ldTZpX0VPR19QNi1xUUVrWVE2NE1DTWZKQU1reVZ2elp5V1JnRTZEay04N2NyQU44SFE?oc=5",
+      "source": "BuzzFeed",
+      "publishedAt": "Sun, 08 Nov 2026 03:34:48 GMT",
+      "description": "I Love Luxury Fashion, But My Favorite T-Shirt Comes From A Teen Mall Store BuzzFeed",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Burberry Canada Black Friday Sale - Burberry PESTLE Analysis 6 Factors Impacting the Luxury Fashion Brand - auroradesio.it",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HeDVEWVJ2S0NZU3JRa3Z4Tm5oajhxYWloY3hjN25rSzhoa0duNkVQNW5ybnBDZDQ5T3pDTkxvVmNRcTFKSUdSaW9rLU1VdFZVZzdr?oc=5",
@@ -12,30 +44,6 @@
       "publishedAt": "Sun, 08 Nov 2026 02:44:54 GMT",
       "description": "Burberry Canada Black Friday Sale - Burberry PESTLE Analysis 6 Factors Impacting the Luxury Fashion Brand auroradesio.it",
       "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Kultura Atelier and accessible luxury fashion - Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JY2drSERWMGlxcUw3SWNBSDA5MkdsVl9sa0c5VW9jd0hsQUZ5bVVyM1pqYlBqX2ZZNTZ4dzJTZDRKOURSVlVyUWdMU0VYcDA0T21SS1RfU0Mza0ZzcmxkSTVSaWFaSzZtaFFJT3BfQXhSaGJPcWZRajRIdll0Sjg?oc=5",
-      "source": "Manila Bulletin",
-      "publishedAt": "Sat, 07 Nov 2026 16:13:03 GMT",
-      "description": "Kultura Atelier and accessible luxury fashion Manila Bulletin",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "R650 000 for a 4-year-old handbag: SA’s luxury resale market is going strong - News24",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjQ3VTJBQTZiQlJwb1p3eVk4MUt0emh5WHYwZVJtQ250eXhyR3M3dDRocWhkVEhhc2ptMUFEakZURVd5Q2hIOFNMZ1NCRXk2RU9pTE1SZ0RxOEl5a1A3dGdFT2FDLUplTDdId081VmZGODlkTWxyV0VSNFdKVW9qSWNLNkgtQ1hYdjM4aloxeWVYb213bUcydGtHSUpOanA3NWRpS0lYczRBRzNsemk1UXoySnc0ZW1fY2hqNmlGcDN4dw?oc=5",
-      "source": "News24",
-      "publishedAt": "Sun, 08 Nov 2026 02:37:53 GMT",
-      "description": "R650 000 for a 4-year-old handbag: SA’s luxury resale market is going strong News24",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Anguilla targets Brazil’s luxury travel market - South Florida Caribbean News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HZTM4TkNEYkFTQzhmRnpnZXBaWnM4aDkxTHRsc0lKOVEwakFVS2NIYm44Z0c0TjZvZkdMNUdfNkhvTHFlQzFvWkJDUDJWOHJadXBTQUxmdnJtckdYMVd5dVhzcE90M1VhY0tLQmExRDAtSjdhY0000gF3QVVfeXFMT0dlMzhOQ0RiQVNDOGZGemdlcFpaczhoOTFMdGxzSUo5UTBqQVVLY0hibjhnRzRONm9mR0w1R182SG9McWVDMW9aQkNQMlY4clp1cFNBTGZ2cm1yR1gxV3l1WHNwT3QzVWFjS0tCYTFEMC1KN2FjTTQ?oc=5",
-      "source": "South Florida Caribbean News",
-      "publishedAt": "Sat, 07 Nov 2026 22:11:25 GMT",
-      "description": "Anguilla targets Brazil’s luxury travel market South Florida Caribbean News",
-      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
