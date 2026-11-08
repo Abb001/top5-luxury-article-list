@@ -1,10 +1,18 @@
 {
   "date": "2026-11-08",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-07T19:12:55.872Z",
+  "generatedAt": "2026-11-08T03:38:55.281Z",
   "status": "ok",
-  "message": "Found 1 article(s) published on 2026-11-08.",
+  "message": "Found 4 article(s) published on 2026-11-08.",
   "articles": [
+    {
+      "title": "Burberry Canada Black Friday Sale - Burberry PESTLE Analysis 6 Factors Impacting the Luxury Fashion Brand - auroradesio.it",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HeDVEWVJ2S0NZU3JRa3Z4Tm5oajhxYWloY3hjN25rSzhoa0duNkVQNW5ybnBDZDQ5T3pDTkxvVmNRcTFKSUdSaW9rLU1VdFZVZzdr?oc=5",
+      "source": "auroradesio.it",
+      "publishedAt": "Sun, 08 Nov 2026 02:44:54 GMT",
+      "description": "Burberry Canada Black Friday Sale - Burberry PESTLE Analysis 6 Factors Impacting the Luxury Fashion Brand auroradesio.it",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "Kultura Atelier and accessible luxury fashion - Manila Bulletin",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JY2drSERWMGlxcUw3SWNBSDA5MkdsVl9sa0c5VW9jd0hsQUZ5bVVyM1pqYlBqX2ZZNTZ4dzJTZDRKOURSVlVyUWdMU0VYcDA0T21SS1RfU0Mza0ZzcmxkSTVSaWFaSzZtaFFJT3BfQXhSaGJPcWZRajRIdll0Sjg?oc=5",
@@ -12,6 +20,22 @@
       "publishedAt": "Sat, 07 Nov 2026 16:13:03 GMT",
       "description": "Kultura Atelier and accessible luxury fashion Manila Bulletin",
       "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "R650 000 for a 4-year-old handbag: SA’s luxury resale market is going strong - News24",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjQ3VTJBQTZiQlJwb1p3eVk4MUt0emh5WHYwZVJtQ250eXhyR3M3dDRocWhkVEhhc2ptMUFEakZURVd5Q2hIOFNMZ1NCRXk2RU9pTE1SZ0RxOEl5a1A3dGdFT2FDLUplTDdId081VmZGODlkTWxyV0VSNFdKVW9qSWNLNkgtQ1hYdjM4aloxeWVYb213bUcydGtHSUpOanA3NWRpS0lYczRBRzNsemk1UXoySnc0ZW1fY2hqNmlGcDN4dw?oc=5",
+      "source": "News24",
+      "publishedAt": "Sun, 08 Nov 2026 02:37:53 GMT",
+      "description": "R650 000 for a 4-year-old handbag: SA’s luxury resale market is going strong News24",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Anguilla targets Brazil’s luxury travel market - South Florida Caribbean News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HZTM4TkNEYkFTQzhmRnpnZXBaWnM4aDkxTHRsc0lKOVEwakFVS2NIYm44Z0c0TjZvZkdMNUdfNkhvTHFlQzFvWkJDUDJWOHJadXBTQUxmdnJtckdYMVd5dVhzcE90M1VhY0tLQmExRDAtSjdhY0000gF3QVVfeXFMT0dlMzhOQ0RiQVNDOGZGemdlcFpaczhoOTFMdGxzSUo5UTBqQVVLY0hibjhnRzRONm9mR0w1R182SG9McWVDMW9aQkNQMlY4clp1cFNBTGZ2cm1yR1gxV3l1WHNwT3QzVWFjS0tCYTFEMC1KN2FjTTQ?oc=5",
+      "source": "South Florida Caribbean News",
+      "publishedAt": "Sat, 07 Nov 2026 22:11:25 GMT",
+      "description": "Anguilla targets Brazil’s luxury travel market South Florida Caribbean News",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
