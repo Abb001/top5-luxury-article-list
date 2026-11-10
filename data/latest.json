@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-09T23:39:07.017Z",
+  "generatedAt": "2026-11-10T05:26:07.965Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-11-10.",
   "articles": [
@@ -14,6 +14,14 @@
       "feed": "Google News - luxury lifestyle"
     },
     {
+      "title": "Leng Yun's View: China's 1,000-Yuan Fashion Brands Rise as a Group, Tmall's Affordable-Luxury Price Band Grows Six Times the Apparel Market - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZkFpNUNYRml0LVZVWVBtbFF1SVdKeFRsS0tGeWxJVDd5WHFQbHBjcmhBLTZsVGN3Z2xMWDctYmdHLWtFRTNkRFNJQjhsckE0a1RkclhPdzhrMVE?oc=5",
+      "source": "BigGo Finance",
+      "publishedAt": "Mon, 09 Nov 2026 21:08:00 GMT",
+      "description": "Leng Yun's View: China's 1,000-Yuan Fashion Brands Rise as a Group, Tmall's Affordable-Luxury Price Band Grows Six Times the Apparel Market BigGo Finance",
+      "feed": "Google News - luxury fashion"
+    },
+    {
       "title": "Burberry Air Max - Burberry PESTLE Analysis 6 Factors Impacting the Luxury Fashion Brand - auroradesio.it",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53SXhhUzV4LVFraDBVWjV2YllIbkJqTDV2S2tnbGkyQ1RvUjZyM19sOGxreF9tcnhYMDJFWmNNVnoza05lWVlXZE9vemhfOE1LRDFR?oc=5",
       "source": "auroradesio.it",
@@ -22,27 +30,19 @@
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "Kylie Jenner-adored fashion brand shuts down after 13-year run - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDBFX0VJZm9jTTUyUnZCbzBWOTJUaWp5aHlVNUhhVTNaRnJWMUtUbERwX0RrMmNPVTdxcldqYzF5OHVzUE1sS3I1eks3YzdaZlV1amtOSXhwOUpUQXpOejd5Z2dZeEQ1NVVmaDJzaHNXNGNhSlBvc1NLb0xKbGlUSU5pdlVHakE4TUlPMGZuMDNUSG1wWEYxdE50ZXROa0lwaUNvOXhWcEtpbnRiZkE?oc=5",
-      "source": "New York Post",
-      "publishedAt": "Mon, 09 Nov 2026 22:18:00 GMT",
-      "description": "Kylie Jenner-adored fashion brand shuts down after 13-year run New York Post",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury Weighted Blanket Market To 2035: Sleep-Health Demand Drives Growth - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUxzeEtwZ2cyT1BtOFpXdWlfQnUwdXhDSkM4LTlpWWFoQXpITXZNbHM2WVFNcjNxR25HQm5BeW5ESE1xaDZ6WXQyYUlGZzY4bGZ6RjNZWkxESmd4SVhEMUEyZVJhaDBmVFZSN1FkanczdE52N2hXS0Q1UngtajRyWnhFdEhfTEJmdXNGdWtxMWZRb3laamhrSnBuZG4yWVdBT2lPU1VuSXY0dkp4b3h2MzhjV3RZV184QTZmbkdnS3g2ZDZ2aUltelJKY29adHM?oc=5",
-      "source": "IndexBox",
-      "publishedAt": "Mon, 09 Nov 2026 21:21:04 GMT",
-      "description": "Luxury Weighted Blanket Market To 2035: Sleep-Health Demand Drives Growth - News and Statistics IndexBox",
+      "title": "CEO Talks: Beymen’s Elif Çapçı on Why Turkey’s Luxury Consumer Is Defying the Global Slowdown - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3VpekpRQndWNXpKMzFVSVd3aWFPVjlPZGtuV2FmaGZTeFdFdVpXaHhSclNranNaUnJfVlU0RnhaS18zTEZFeTZreTZiWU0yWGRGdzZ2SEVfWlBjWkZxSG1iRXQwNjVRQ0dYQTJzRGFoa053RXJWaGxiLUxXNk9qZW9DZ0VJOUVMLWlqZ1BFRzlxVTJwTGxZSTUtNnU0RWR3LWhB?oc=5",
+      "source": "WWD",
+      "publishedAt": "Tue, 10 Nov 2026 05:05:30 GMT",
+      "description": "CEO Talks: Beymen’s Elif Çapçı on Why Turkey’s Luxury Consumer Is Defying the Global Slowdown WWD",
       "feed": "Google News - luxury business"
     },
     {
-      "title": "Casino Mogul Steve Wynn Sells His $70 Million Central Park Condo as Manhattan Luxury Market Heats Up - Realtor.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1JPQ2hDU2hZcndVaDR2MC02Nm9zMFBWaFR3VVFxVkQ0MlowNUxNWHF4SVBMSkV1SjZrMkFRc3AwU2ZZQUVuWmZZQVJSbHljQUh3M1B2LWZtR1J4aXJrajdXX2FPNkZzWDBCQjR5TGI3VG1weTBaV2hmOS1TekFORW9LRkxjd1hEWHhOSzVn?oc=5",
-      "source": "Realtor.com",
-      "publishedAt": "Mon, 09 Nov 2026 20:53:02 GMT",
-      "description": "Casino Mogul Steve Wynn Sells His $70 Million Central Park Condo as Manhattan Luxury Market Heats Up Realtor.com",
+      "title": "Moncler’s Mountains in NYC Mark Luxury’s American Decade - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzk5UC12LVlvaHo1dHp2RGNFazNiTktCV2g4XzdrdGs1LXRyaGQ5SlBqZENZMGZyYUEtVkNDUEhzNG42QWRCVHdaNExpajdwN0Fpc3pvS014bmhMd0dnVnR1eVRFSng2aWpLdHFKOE9YeE9KdmZDX1BYdmY0VzFZU3BaUmljNVY3N3o3ZDlmc0kwNFZvNDZ5ZnJSNFl0WGZGMllQUktoWkc2Wkx4cXROVGwwRF83WGFtblE?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "Tue, 10 Nov 2026 05:00:00 GMT",
+      "description": "Moncler’s Mountains in NYC Mark Luxury’s American Decade Bloomberg.com",
       "feed": "Google News - luxury business"
     }
   ],
