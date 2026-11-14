@@ -1,10 +1,26 @@
 {
   "date": "2026-11-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-13T21:06:30.398Z",
+  "generatedAt": "2026-11-14T04:17:35.465Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-11-14.",
   "articles": [
+    {
+      "title": "Dior weaves couture heritage into bold vision - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rQXFxNHZULUpQbG9YZnVTUG9pSHk2VWt5M2Z0UGdoRjRNdW5RcjlYak5lOVlLNWc0UW53TlpqUjd2TG52UzVhbjRFek9kTWFfdWFWYm4wdkF4b3ZRbnluWk9vYWd5TWc3QnpLeGNKNl9pemNwcXN1ZWlUd2JKQQ?oc=5",
+      "source": "China Daily",
+      "publishedAt": "Sat, 14 Nov 2026 03:42:22 GMT",
+      "description": "Dior weaves couture heritage into bold vision China Daily",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "Luxury for Rent: Navigating Authentication, Counterfeiting and Trademark Risk in the Fashion Rental Industry - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RWWktNS1sM0gtVE92YzBhQU9uWHc5UFhfcGtkcnp0NG96RUFMTUVUVWxpNmVSV3l4MGJ0cE85TXRPSDlHaTVLMUZMREVXRTlfQTlaOEYtcG56STBBY0prcFV0d1ZjX0tlcVU4OFM1MEU1a3hpWlk1Sg?oc=5",
+      "source": "JD Supra",
+      "publishedAt": "Sat, 14 Nov 2026 02:41:56 GMT",
+      "description": "Luxury for Rent: Navigating Authentication, Counterfeiting and Trademark Risk in the Fashion Rental Industry JD Supra",
+      "feed": "Google News - luxury fashion"
+    },
     {
       "title": "LVMH stock: AI rollout meets luxury-market caution - ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMk92T2lRdkRjWlZiLWRyek5rYndmZ08tZmhvUFdCbjZlSnl4M0wzVS1tenlNU0FNLXgtM24zRjk0cUtueUZTZ0FMN1l4NFBNVjlqNUZPbVVDOUFWR0g4dDdGUWJnOU9TWllFQVBIMFVLM3R4NVM3NXhRYWNJMDlQTXlabU9JVmZRdlRHOERnV0JOeHBmZC15TmFnSE5MMVVsbWdRUG91YVFlWWcyYzdZZnd3?oc=5",
@@ -22,28 +38,12 @@
       "feed": "Google News - luxury business"
     },
     {
-      "title": "ARIID Group Expands Service Coverage to Highland Park, University Park and the Dallas Luxury Market - Akron Beacon Journal",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQldXb0RFYnBZV0ZNSmszMTA5MUE2TVBtNGpmdDVjMmJySTlybmdCMk9kTVpKZVEtdUVEU3BpZEt4WXF3RUpLT0xRcWhFZjhTb0JHUjV3clZsZmd6S0ZlMDZKWEJ2QXcxdkZDMDFzYnNNa09hVDE0WWZ0VVRvNHhCZThoRndNaVhKUDNQTXJxSGs4MW9uWmtQNUtrR25jRkRLMnVva25pRzctQml4UDhCQ3UxaVpHVng3dlNzRGVucEY4bDlGVzNuVnhoYVEwcV9ZOUdzWU0tZlhLbVJuSWQxd2lnZWhOVDJoUDZBXw?oc=5",
-      "source": "Akron Beacon Journal",
-      "publishedAt": "Fri, 13 Nov 2026 20:25:46 GMT",
-      "description": "ARIID Group Expands Service Coverage to Highland Park, University Park and the Dallas Luxury Market Akron Beacon Journal",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "Chanel: CHANEL Cruise 2026/27 Campaign: The Salon Meets The Sea - Luxferity",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYk9qWU0xZDBRbHFqR1QwaVQ3WmVlVkw2T0lpX2hsR1ZuZzNsS2lIR2lzVEhQVGdEQ3lUbVdlOXVvaF9UVVZ4VkVET01ZRXMwQ0EtcmNvR3J5blZIdUZWWkRnb1hvWV9tUUxEcmZXM3dJRGlNUmYtNUs4NVMzUURZUWg2ajExVTZrWm1HbDdfMDl5NjA?oc=5",
-      "source": "Luxferity",
-      "publishedAt": "Fri, 13 Nov 2026 17:55:07 GMT",
-      "description": "Chanel: CHANEL Cruise 2026/27 Campaign: The Salon Meets The Sea Luxferity",
+      "title": "ELIE SAAB: The Haute Couture of Aviation - Sharp Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUElvNTdwVFhlMDBydEtKZHA3Zmx4X29jQzRwSnBrdnlnUHNhNzVNTWM4eG0zakxlZ3dKR1N2bi1wY0FRUnFKZ0xTNDRoYVNoVzMxTk9YcWZpTkVqTmktUWc0R2Q4cUxja2owUkZGUFhnVVRLYUVwaXQzeEdYZ08wcExLOXVwcFFMOFd4X09B?oc=5",
+      "source": "Sharp Magazine",
+      "publishedAt": "Sat, 14 Nov 2026 01:36:55 GMT",
+      "description": "ELIE SAAB: The Haute Couture of Aviation Sharp Magazine",
       "feed": "Google News - luxury lifestyle"
-    },
-    {
-      "title": "In 1971, Roger Saul and his mother, Joan, founded Mulberry. 55 years later, the luxury brand still makes about half its bags in Somerset - britishheritage.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMVp2REkzcVBZaTBBSDBwQlo0c3Z4WHJjV0h4dzFnS2t5R1Y2TzctWDBIb1pLeDRkOUdvaERnMTg1eEliZ01qRGRYNmdyUGltcE44SWFpbi15Tlo5Yi0zX2w2b3ZyMWQzT0NqckdiY29wR3FIeFU3Nk5zbEYxNGRMR0otVzJocjhRaDVNZl95X3VfU3Y0OEl0UHhPNWR6TmwxczVNd3loVnpaQkd6M3pnZWVTNWJsQ0I5WWpNTmxOLVVxU1RmcGhSWGhwb2RnYUtwdzhNTmpIRVlMS1ZCcUQ1V0JyejVCX0NsczZFYmxUeW93T0d2c052VlRjMkk?oc=5",
-      "source": "britishheritage.com",
-      "publishedAt": "Fri, 13 Nov 2026 17:19:00 GMT",
-      "description": "In 1971, Roger Saul and his mother, Joan, founded Mulberry. 55 years later, the luxury brand still makes about half its bags in Somerset britishheritage.com",
-      "feed": "Google News - luxury fashion"
     }
   ],
   "fetchWarnings": []
