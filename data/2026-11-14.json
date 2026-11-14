@@ -1,10 +1,18 @@
 {
   "date": "2026-11-14",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-14T04:17:35.465Z",
+  "generatedAt": "2026-11-14T12:45:56.480Z",
   "status": "ok",
   "message": "Found 5 article(s) published on 2026-11-14.",
   "articles": [
+    {
+      "title": "Shop Chanel, Hermès, and Loro Piana in San Diego at Westfield UTC’s New Luxury Wing - There San Diego",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4b0lNMFFBTWlXSzhUS2NYdHo0X3kzYmx1dGUwNFlCOFRvUE5Gc0VyeTRycHhEclpaVGdYeDZMNDVGTThHdWxFUVZuNEt6eW45UUtFQnhKOWMyS09RVVE3WWVxQWRvWGtM?oc=5",
+      "source": "There San Diego",
+      "publishedAt": "Sat, 14 Nov 2026 10:43:08 GMT",
+      "description": "Shop Chanel, Hermès, and Loro Piana in San Diego at Westfield UTC’s New Luxury Wing There San Diego",
+      "feed": "Google News - luxury business"
+    },
     {
       "title": "Dior weaves couture heritage into bold vision - China Daily",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rQXFxNHZULUpQbG9YZnVTUG9pSHk2VWt5M2Z0UGdoRjRNdW5RcjlYak5lOVlLNWc0UW53TlpqUjd2TG52UzVhbjRFek9kTWFfdWFWYm4wdkF4b3ZRbnluWk9vYWd5TWc3QnpLeGNKNl9pemNwcXN1ZWlUd2JKQQ?oc=5",
@@ -36,14 +44,6 @@
       "publishedAt": "Fri, 13 Nov 2026 17:09:05 GMT",
       "description": "Luxury Jewellery Defies Market Slowdown as Cartier and Van Cleef & Arpels Sales Rise 14% BGNES",
       "feed": "Google News - luxury business"
-    },
-    {
-      "title": "ELIE SAAB: The Haute Couture of Aviation - Sharp Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUElvNTdwVFhlMDBydEtKZHA3Zmx4X29jQzRwSnBrdnlnUHNhNzVNTWM4eG0zakxlZ3dKR1N2bi1wY0FRUnFKZ0xTNDRoYVNoVzMxTk9YcWZpTkVqTmktUWc0R2Q4cUxja2owUkZGUFhnVVRLYUVwaXQzeEdYZ08wcExLOXVwcFFMOFd4X09B?oc=5",
-      "source": "Sharp Magazine",
-      "publishedAt": "Sat, 14 Nov 2026 01:36:55 GMT",
-      "description": "ELIE SAAB: The Haute Couture of Aviation Sharp Magazine",
-      "feed": "Google News - luxury lifestyle"
     }
   ],
   "fetchWarnings": []
