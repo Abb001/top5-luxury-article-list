@@ -1,33 +1,49 @@
 {
   "date": "2026-11-22",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-21T20:42:57.227Z",
+  "generatedAt": "2026-11-22T04:19:04.177Z",
   "status": "ok",
-  "message": "Found 3 article(s) published on 2026-11-22.",
+  "message": "Found 5 article(s) published on 2026-11-22.",
   "articles": [
     {
-      "title": "Paolo Bulgari, Italian Luxury Designer, Dies at 89 - شبكة تواصل الإخبارية",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVVWpQOGMzNE44djBRRUZKcWl0VnRkaGhGT0VtN3BEZ0J5SE1uWVk1ZFdMdEpHZFVtejN4VFBINTYtSEhHSl8tVHhTZVkzaE5JSUQ4?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "publishedAt": "Sat, 21 Nov 2026 20:37:55 GMT",
-      "description": "Paolo Bulgari, Italian Luxury Designer, Dies at 89 شبكة تواصل الإخبارية",
+      "title": "Dior Holders to Vote on Agache Merger as LVMH Shares Sag on US Wealth Jitters - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTkZoVU1VVUdNdHcwQXJVQUpzcXlRLUFMdDFSRGNTbVRDTmptb1ZIbV9saFFVbXFsS1QxZjJxdXJLc1padmVyR1YxdkotNG1HcjBDZXBnaTJHX0JTUTRIajd6YTdyQlRMQ0lRN0pvUFppcDRRaUVsdDhmZFNWM2tJRUdheFFwa0JVeDh6aElSVVJhR0Vsem1IdUV6SEJPeUdKeVJUV1dncFVGLUFwWklidzM4YWx4WE9ZdXhmczBYemY4N3B6M2o3VlBwNEhqOGNqRVRHT2hET29nQ0xTck5MMDd4RQ?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "Sun, 22 Nov 2026 02:31:10 GMT",
+      "description": "Dior Holders to Vote on Agache Merger as LVMH Shares Sag on US Wealth Jitters ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "[Luxury World] Are Even High-and-Mighty Luxury Brands Bowing Down? Gucci Cuts Prices vs. Louis Vuitton Holds Firm - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hMXJ6anpuT0o5U0ppOXJTN09NLXJTVGxnNVM3ZUVfbS02Skw1bjdNWllZZmJFMFgtZDBDdTh0ejNpNy1TbHJzdTBTZWx2dDdsZzFXQVhWR2tlcDVqWUxGUG5TTnFpUmhoS0dPZTZZWlNmc2xwVHN6OA?oc=5",
+      "source": "아시아경제",
+      "publishedAt": "Sun, 22 Nov 2026 00:45:00 GMT",
+      "description": "[Luxury World] Are Even High-and-Mighty Luxury Brands Bowing Down? Gucci Cuts Prices vs. Louis Vuitton Holds Firm 아시아경제",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "OpenAI Partnership Cuts Both Ways for LVMH as Dior Reshapes the Group's Ownership - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMlRnazFwNkpSdU5LbF9JUHR2bUN4Y09CV1Y4NlJTdE5ENHVPeW15VEN4eWgwOFRoOGVPUWNzZ1NneG1ZTUlOVHhrTVc1dFJ6S1I1aDkyWHEyTmR4am1OSFV3bDhxNEtYOGljNUVwd1dMSGd3d2g2UF9tUDNpQk9SNHl1MFpOdzNhZ2J2cThtak1UYlZTWjdLeS1GNkJjSmIwNlpNejRZeWRkTkU3LVZzTEg1S29VSUk5cE1XVEdaQnd5d21XZnNXRU9HNnc3R1pLQkx1bUpmMU5mQjdtSGRmOGg5QzA4VDBO?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "Sun, 22 Nov 2026 00:20:40 GMT",
+      "description": "OpenAI Partnership Cuts Both Ways for LVMH as Dior Reshapes the Group's Ownership ad-hoc-news.de",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "From designer handbags and luxury clothing to potentially dangerous GLP-1’s, U.S. Customs and Border Protection officials are warning consumers to think twice before purchasing deals that seem too good to be true this holiday shopping season. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFFkR2ZkTlFKUHlmUUVEc2RLSE5fVFdDU2R0aWhWZUgydFllaHhBcUt3YTE1OXI0Y1JVZWp4dHdTb0pZQVBNRzhpb2hGd3h1WTM5SjFMY29mLWVIQmg3UXBmcG5OeFRDMnltbzRYQ2pNVTNzN0ZXQi1JQ0VOVE5naEM3X2dKSlpkMWdmYjIySzZla2tHNkdYZ29QZ2xHZFQ4U2dUU2xWdEtocXlQdFAyUjd6dXE4ZzZycUFYT3ZuRzVNbDNJRVlYa2dQMUFnNWgxYnlGQzRNeTd5eEk?oc=5",
+      "source": "Facebook",
+      "publishedAt": "Sun, 22 Nov 2026 03:38:41 GMT",
+      "description": "From designer handbags and luxury clothing to potentially dangerous GLP-1’s, U.S. Customs and Border Protection officials are warning consumers to think twice before purchasing deals that seem too good to be true this holiday shopping season. Facebook",
       "feed": "Google News - luxury fashion"
     },
     {
-      "title": "6 in 10 Gang Wayz Customers Buy for Fashion Alone, Survey Reveals - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRU5WR0RYSEliZDZ3bnluSjg4OExYMl96Mm5VNF84WHdTS1RRQVpZYk1BUHVPRVZ3QnAyV2hZaXc5cTBJNjhENVdMU3Nydkx3RjRCTUVvZW94QUZaZGRxNzBHM0sxS0UycVkzekxTcWpqdVdrX2ZVUDU2M1hDSUxpWDB0T3E2a3pDNUtNOWxEb1ZtaDgtYnlvdEFaeUhlbEhISV9xN1FnTkJXaHBhRkdZMHBkMkhreGR4S1JxY2Nnc0p3Y2NrWlFIRDVvVndJQnBLVGlPU2l6Q01kSTFkNDVmNlMxV1dOeWZ1ckE?oc=5",
-      "source": "The Globe and Mail",
-      "publishedAt": "Sat, 21 Nov 2026 17:50:41 GMT",
-      "description": "6 in 10 Gang Wayz Customers Buy for Fashion Alone, Survey Reveals The Globe and Mail",
-      "feed": "Google News - luxury fashion"
-    },
-    {
-      "title": "Luxury brand Kate Middleton wears 'time and time again' slashes handbags by 50% - Manchester Evening News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSVdud1JfV2lZOVVWNHVjZFJCNFhiX20zN3JTYXpub0EzTkJHTzJYcExGWWxMTk5JYjExVmZrMmlZYldEaWhkYWQ2NkFuc1dwaHViTGQtWVZBcjZiSnJZOGs1TlJzYVpRaDgyYmEwbXY5bF9MT3hNTTdoNndTT28xZnpvckhWZ1NITDlhdVVaWi1WejYyOExxc2hwdERIRDBaU1HSAacBQVVfeXFMTzNBbEhqdWNCbU90QWNsM2NBbm9ScDBOenAwN1p3ZmRHenIwY1ExSjlyOWV5TU5NcHVPVjNHaUVCc3pVWldRalNnZlhISkEtWWxOakRyRkliQjVvQnZXbjZIZmhjZjVCbmVzOVhRREk3ZmwyVy1PbTJNU09mOTh4UV9iWmozclRid1U3bFBZRUNFNmtJNEd4UXBPZmtjTVpvSEJjWVE1UmM?oc=5",
-      "source": "Manchester Evening News",
-      "publishedAt": "Sat, 21 Nov 2026 17:27:00 GMT",
-      "description": "Luxury brand Kate Middleton wears 'time and time again' slashes handbags by 50% Manchester Evening News",
-      "feed": "Google News - luxury fashion"
+      "title": "Paolo Bulgari, the Italian Jeweler Who Turned a Family Business into Global Luxury Brand, Dies at 89 - Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHBFU1doZ1RKUXNyaFdITGRNMXY0a2wxa1BRWFNnd2J3OXJGRGRTMWxyU2RSenFHTmJWTmh5Z2RYM2lnYkdvME9FYldJX1pyby1STE0xWlM0YTVhWjJLOXJ0LVhzbXVHWG1ZZGY5aUxMRUdhYmJZTmloY1kzVE9hak1KM2NfdTlFa1p2V0RiVWhGNzJyQTdFQUNXRVkxOWYzVzFwVE9iRHhBOXFDaGVF?oc=5",
+      "source": "Newsmax",
+      "publishedAt": "Sun, 22 Nov 2026 00:00:22 GMT",
+      "description": "Paolo Bulgari, the Italian Jeweler Who Turned a Family Business into Global Luxury Brand, Dies at 89 Newsmax",
+      "feed": "Google News - luxury business"
     }
   ],
   "fetchWarnings": []
