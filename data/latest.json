@@ -1,26 +1,13 @@
 {
   "date": "2026-11-24",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-23T16:56:57.780Z",
-  "status": "ok",
-  "message": "Found 2 article(s) published on 2026-11-24.",
-  "articles": [
-    {
-      "title": "LVMH stock: Oddo BHF trims target as luxury outlook stays tough - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHN5ejVhTWdyYjFsVGRZbnNDLU14c29PN1BieXdaLTlLYjJTMVZ3ODNGMThyYU5CMWpsa0dwdzJsZ05JVVRtXzcwLWdFNXJZLWRaaDZGd3BNY2JVWGp1N2F1T2gzUlBHWVIySUVNbm1BWk9PQ1Q0elg1OFNYTlh3OVNmNEg4dk9KbmZuOXBCUC02dzVEMkcyUEZzSVpOWXdqWjJQa3ZjbDBDNU5hc1VrY2s2U0QzenpuVTBLNzJpbHRkc1E?oc=5",
-      "source": "ad-hoc-news.de",
-      "publishedAt": "Mon, 23 Nov 2026 16:47:19 GMT",
-      "description": "LVMH stock: Oddo BHF trims target as luxury outlook stays tough ad-hoc-news.de",
-      "feed": "Google News - luxury business"
-    },
-    {
-      "title": "PEA Group seeks partnerships to expand skills empowerment programme - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFhmVHV0S0xxRFBMYmYzU3RlbmhxZEtWZ0Jjb0VHeVdfMkNhNFduOVU0VXhOWU5mLW9jU0hmVVFhcGlFQ2NuWDN1eUlwdWlDOVI3Z2tZMjhMVTd3eXM4UG82RDdYV3N1akxuMk4yaGxqSHVDdkkwWXE3RWhPY1J0cU9BRWVGWjNtZVZJaG5QRVIxRExhc3VYbDZQSU1TWkotcTFoYWhNX2Npam5LV0FYTkxPeE9vX3BSREE?oc=5",
-      "source": "Business News Nigeria",
-      "publishedAt": "Mon, 23 Nov 2026 16:42:25 GMT",
-      "description": "PEA Group seeks partnerships to expand skills empowerment programme Business News Nigeria",
-      "feed": "Google News - luxury lifestyle"
-    }
-  ],
-  "fetchWarnings": []
+  "generatedAt": "2026-11-24T07:45:55.795Z",
+  "status": "empty",
+  "message": "No articles published on 2026-11-24 were found yet. The scheduled workflow will check again later.",
+  "articles": [],
+  "fetchWarnings": [
+    "Error: Google News - luxury fashion failed: 503 Service Unavailable",
+    "Error: Google News - luxury business failed: 503 Service Unavailable",
+    "Error: Google News - luxury lifestyle failed: 503 Service Unavailable"
+  ]
 }
