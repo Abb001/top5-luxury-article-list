@@ -1,9 +1,50 @@
 {
   "date": "2026-11-28",
   "timezone": "Asia/Taipei",
-  "generatedAt": "2026-11-27T16:21:25.056Z",
-  "status": "empty",
-  "message": "No articles published on 2026-11-28 were found yet. The scheduled workflow will check again later.",
-  "articles": [],
+  "generatedAt": "2026-11-28T05:41:22.544Z",
+  "status": "ok",
+  "message": "Found 5 article(s) published on 2026-11-28.",
+  "articles": [
+    {
+      "title": "The South African shopping mall with an ultra-luxury arcade that includes Louis Vuitton, Gucci, Prada, Cartier, Bvlgari, Versace, and Burberry - Daily Investor",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUURJbUYyUk8zNTROMUV3TXYxLWFhZkNiRmlGNWRXQzZQZExrZnQ5X0kyU3h6UjR4T1JueGwydzI5THFDaGhRVzFPNHA5akFfLXZLOU5MQXR6MTE0bFhhdkowUDh5Ui01RmFWcjFUelJ2YWwtQ0Z1TkZPNnFvY1dvVV9kdGZVNV9FbU5XRXBYbF9nZkljRU1Wd0JiLTA3czBBTHpuYm1qSDhWeVBtV1JKbExiLWxwOHU5WE5YZDVmaVhIYTB3c0Q4ZEZOVURhTklFd3ZnYS1FR05nZi00ZGs3MGRBZGF3OEtUQU9tY1ZoQ2FfYnh5NmlER1A1ZDVQZHFLTFhKRXpUSzg?oc=5",
+      "source": "Daily Investor",
+      "publishedAt": "Sat, 28 Nov 2026 05:00:00 GMT",
+      "description": "The South African shopping mall with an ultra-luxury arcade that includes Louis Vuitton, Gucci, Prada, Cartier, Bvlgari, Versace, and Burberry Daily Investor",
+      "feed": "Google News - luxury business"
+    },
+    {
+      "title": "Dior and Prada Trade Blows Over Hand-Drawn Animation - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmNiYnotYTl3VHk0TGlKQTVPVWZPNzRfeGVDZW9vMDN3NXg3ZGkzNWxpbVlzcnFvem5peTJjeFhQcVFKVWVYUDAzb2lKOTdPZjQyQVZqUDNvNlR1Ym9yaE1xSFp5NmdPQzNvNnVlTjFIeEJNWUF0N1VNbzN2WW4ySm5BLU1qeGJWcnc?oc=5",
+      "source": "Wisevoter",
+      "publishedAt": "Sat, 28 Nov 2026 04:43:14 GMT",
+      "description": "Dior and Prada Trade Blows Over Hand-Drawn Animation Wisevoter",
+      "feed": "Google News - luxury lifestyle"
+    },
+    {
+      "title": "A 'live' exhibition of luxury fashion brands worn by top stars. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRFgzQnI4WXZLWEFxcXVjdnVIaTh1bFhHcVpockZWYzZ6Um45UDZnWU5EV2NmM2xPZXBaVWZLQnJ3MERpSVQxellhRDlFYV96Zy1iZXZuSlludzZBdC1YZzJFRWh1WkFYLVk4aU9fLTZ0enp6UnlZOGg0WnZBbmg1aEZwVWdWN1FtT2xQMGtickp2ZjdwTEdaX1pLN1NmUmxj?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "Sat, 28 Nov 2026 02:34:36 GMT",
+      "description": "A 'live' exhibition of luxury fashion brands worn by top stars. Vietnam.vn",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Black Friday 2026: The 53 Best Sales From Streaming to Designer Fashion - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNTA2dnlRUlBxZGhKbmxSbjRabFBhWDhGS1NUckIwWHlFNWhiWUVXYkk0QUxyQ1BfNjFaUFZiOEZJSnRFeWZzMTRDMG5ieEc3cXZmdThCazl4clUtMzVDbDVTUkk3aHMwSjQ0bUJrdGpNeDNFRGNwbEJ1SUJZRlg4SmRuX20zS2JBZXhUemZRMFVkTFIyZ2tjcVZkNmRLTkVpR2t1ekJ1T1QwQU5Ja1A0T2tGUDd6dG1sZGxkMklLcw?oc=5",
+      "source": "The Hollywood Reporter",
+      "publishedAt": "Sat, 28 Nov 2026 01:48:56 GMT",
+      "description": "Black Friday 2026: The 53 Best Sales From Streaming to Designer Fashion The Hollywood Reporter",
+      "feed": "Google News - luxury fashion"
+    },
+    {
+      "title": "Luxury brands bond with next-gen - The Star",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlNNR1E4QzNYbE4xZEFNRVYxUGUtSjBuOVdra0pITzVac29rRUQ0MFhjblJQcTh1MU5HbURTVDRHUktxSmtrUk9SSzJVN0lVMjREN1dKemc3R2QwZWdoeGU0NXgzNzdXMTNlbk1mLXNYa3p5M3V4OWFjN21zTmpxMXRXZHdmeXhReTYwNDd2TzFUUXhCV3dwbg?oc=5",
+      "source": "The Star",
+      "publishedAt": "Fri, 27 Nov 2026 23:03:56 GMT",
+      "description": "Luxury brands bond with next-gen The Star",
+      "feed": "Google News - luxury lifestyle"
+    }
+  ],
   "fetchWarnings": []
 }
